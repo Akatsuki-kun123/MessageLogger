@@ -3,7 +3,8 @@ const request = require('request');
 const cheerio = require('cheerio');
 
 var headers = {
-  "User-Agent": "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0"
 };
 
 var data = [];
@@ -37,12 +38,16 @@ function searchImages(file) {
   config.tags.map(function(elem, index) {
     setTimeout(() => {
       request(`https://danbooru.donmai.us/posts?page=${config.page}&tags=${elem}`, {headers: headers}, (error, response, body) => {
-        if(!error && response.statusCode == 200){
+        if(!error && response.statusCode == 200) {
           const $ = cheerio.load(body);
           $('.post-preview-link').map(function(index, elem) {
             var link = $(elem).attr("href");
-            getImages(link, file);
+            //console.log(link);
+            //getImages(link, file);
           });
+        }
+        else {
+          //console.log(response.statusCode);
         }
       });
     }, wait.toString());
@@ -76,9 +81,12 @@ function getImages(link, file) {
 
       let illustrator = new Illustrator(image, artist, artistURL);
       data.push(illustrator);
-      fs.writeFileSync(file, JSON.stringify(data, null, '\t'));
+      //console.log(data);
+      //fs.writeFileSync(file, JSON.stringify(data, null, '\t'));
     }
   });
 }
 
-module.exports = {searchImages: searchImages}
+//module.exports = {searchImages: searchImages}
+
+searchImages("data.json");

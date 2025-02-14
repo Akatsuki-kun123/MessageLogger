@@ -111,6 +111,7 @@ client.on('messageCreate', (message) => {
   }
 
   //gacha
+  /*
   try {
     const GiftChannel = client.channels.cache.get('1064520522072866826');
     
@@ -138,6 +139,7 @@ client.on('messageCreate', (message) => {
     Log.send("Xin lỗi nhưng bé vừa hết ảnh mất rồi (⋟﹏⋞)");
     tweets.searchImages("data.json")
   }
+  */
 
   //set status
   if (message.author.id == 596283000023416852) {
