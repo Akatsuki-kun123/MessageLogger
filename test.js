@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const tag = "danboo";
+const tag = "firefly_(honkai:_star_rail)";
 const url = `https://danbooru.donmai.us/posts.json?tags=${tag}+order:random&limit=1`;
 
 axios

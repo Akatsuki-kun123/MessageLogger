@@ -132,14 +132,15 @@ client.on("messageCreate", (message) => {
     let url = `https://danbooru.donmai.us/posts/${random_id}.json`;
     if (message.content.toLowerCase().includes("tag")) {
       has_tag = true;
-      let parts = message.content
+      let [comment, ...tag] = message.content
         .toLowerCase()
         .split(":")
         .map((s) => s.trim());
 
-      if (parts.length > 1 && parts[1]) {
-        let tag = encodeURIComponent(parts[1]);
+      if (tag.length >= 1 && tag[0]) {
+        tag = tag.join(":_").replace(/\s+/g, "_").toLowerCase();
         url = `https://danbooru.donmai.us/posts.json?tags=${tag}+order:random&limit=1`;
+        console.log(url);
       } else {
         message.channel.send(
           "Bà mẹ chú gõ sai lệnh rồi (˵¯͒ ▂¯͒˵)! Nó phải như này này (¬▂¬) : `tag: danboo`"
@@ -171,11 +172,11 @@ client.on("messageCreate", (message) => {
         DanbooruLog.setURL(`https://danbooru.donmai.us/posts/${data.id}`);
         DanbooruLog.addFields({
           name: "Artist",
-          value: data.tag_string_artist,
+          value: data.tag_string_artist.replace(/_/g, "\\_"),
         });
         DanbooruLog.addFields({
           name: "Character",
-          value: data.tag_string_character,
+          value: data.tag_string_character.replace(/_/g, "\\_"),
         });
         DanbooruLog.addFields({
           name: "Source",
