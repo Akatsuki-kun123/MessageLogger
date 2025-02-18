@@ -5,7 +5,7 @@ const axios = require("axios");
 
 const Discord = require("discord.js");
 const { EmbedBuilder } = require("discord.js");
-const { Client, GatewayIntentBits } = require("discord.js");
+const { Client, Events, GatewayIntentBits } = require("discord.js");
 
 const pity = require("./pityHandler.js");
 const tweets = require("./twitterScraping.js");
@@ -119,6 +119,54 @@ client.on("messageDelete", (message) => {
     }
   } catch (error) {
     console.log(error);
+  }
+});
+
+//interaction handler
+async function searchDanbooru(characterName) {
+  const url = `https://danbooru.donmai.us/posts.json?tags=${encodeURIComponent(
+    characterName
+  )}+order:random&limit=1`;
+  try {
+    console.log("Fetching Danbooru API:", url);
+    const response = await fetch(url);
+    const posts = await response.json();
+    if (posts.length === 0) return null;
+
+    return {
+      id: posts[0].id,
+      imageUrl: posts[0].file_url,
+      postUrl: `https://danbooru.donmai.us/posts/${posts[0].id}`,
+    };
+  } catch (error) {
+    console.error("Danbooru API error:", error);
+    return null;
+  }
+}
+
+client.on(Events.InteractionCreate, async (interaction) => {
+  if (!interaction.isCommand()) return;
+
+  if (interaction.commandName == "ping") {
+    await interaction.reply("Pong!");
+  } else if (interaction.commandName == "danbooru") {
+    const character = interaction.options
+      .getString("character")
+      .replace(/\s+/g, "_")
+      .toLowerCase();
+    const result = await searchDanbooru(character);
+
+    if (!result) {
+      await interaction.reply(`No results found for **${character}**.`);
+    } else {
+      await interaction.reply(
+        `🔗 [View Post](${result.postUrl})\n🖼 ${result.imageUrl}`
+      );
+    }
+  } else if (interaction.commandName == "help_danbooru") {
+    await interaction.reply(
+      "To search for a character on Danbooru, use the `/danbooru` command with the character name as the argument."
+    );
   }
 });
 
