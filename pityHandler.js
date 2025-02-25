@@ -1,54 +1,60 @@
-const fs = require('fs');
+const fs = require("fs");
 const Database = require("@replit/database");
 const tweets = require("./twitterScraping.js");
 
 const pity = new Database();
 
 async function pityCount(player) {
-  let guarantee = await pity.list().then(players => new Promise((resolve, reject) => {
-    if (players.indexOf(player) != -1) {
-      pity.get(player).then(value => {
-        if (value == 10) {
-          pity.set(player, 0).then(() => {
-            resolve(true);
+  let guarantee = await pity.list().then(
+    (players) =>
+      new Promise((resolve, reject) => {
+        if (players.indexOf(player) != -1) {
+          pity.get(player).then((value) => {
+            if (value == 10) {
+              pity.set(player, 0).then(() => {
+                resolve(true);
+              });
+            } else {
+              pity.set(player, value + 1);
+              resolve(false);
+            }
           });
         } else {
-          pity.set(player, value + 1);
+          pity.set(player, 0);
           resolve(false);
         }
-      });
-    } else {
-      pity.set(player, 0);
-      resolve(false);
-    }
-  }));
+      })
+  );
   return guarantee;
 }
 
 async function checkGuarantee(player) {
-  let data = await pity.list().then(players => new Promise((resolve, reject) => {
-    if (players.indexOf(player) != -1) {
-      try {
-        fs.readdirSync(player);
-      } catch (error) {
-        console.log(error);
-        resolve("false");
-      }
-      
-      pity.get(player).then(value => {
-        resolve(value);
+  let data = await pity.list().then(
+    (players) =>
+      new Promise((resolve, reject) => {
+        if (players.indexOf(player) != -1) {
+          try {
+            fs.readdirSync(player);
+          } catch (error) {
+            console.log(error);
+            resolve("false");
+          }
+
+          pity.get(player).then((value) => {
+            resolve(value);
+          });
+        } else {
+          resolve("false");
+        }
       })
-    } else {
-      resolve("false");
-    }
-  }));
+  );
 
   return data;
 }
 
 function addTag(name, tag) {
   try {
-    fs.readdirSync(name).map(fileName => {
+    fs.readdirSync(name).map((fileName) => {
       if (fileName.includes("tags")) {
         fs.appendFileSync(`./${name}/${fileName}`, `\n${tag}`);
       }
@@ -69,4 +75,8 @@ pity.list().then(keys => {
   })
 });
 */
-module.exports = {pityCount: pityCount, addTag: addTag, checkGuarantee: checkGuarantee}
+module.exports = {
+  pityCount: pityCount,
+  addTag: addTag,
+  checkGuarantee: checkGuarantee,
+};

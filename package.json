@@ -19,6 +19,7 @@
     "discord.js": "^14.18.0",
     "dotenv": "^16.4.5",
     "express": "^4.18.1",
+    "fuse.js": "^7.1.0",
     "node-fetch": "^3.2.6",
     "twitter": "^1.7.1",
     "twitter-api-v2": "^1.12.10"

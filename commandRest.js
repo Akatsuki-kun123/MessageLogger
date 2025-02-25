@@ -12,6 +12,9 @@ const commands = [
         .setRequired(true)
     ),
   new SlashCommandBuilder()
+    .setName("help")
+    .setDescription("Get help with the bot commands"),
+  new SlashCommandBuilder()
     .setName("help_danbooru")
     .setDescription("Get help with the Danbooru command"),
   new SlashCommandBuilder()

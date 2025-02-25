@@ -122,21 +122,43 @@ client.on("messageDelete", (message) => {
   }
 });
 
-//interaction handler
+//search danbooru
 async function searchDanbooru(characterName) {
-  const url = `https://danbooru.donmai.us/posts.json?tags=${encodeURIComponent(
-    characterName
-  )}+order:random&limit=1`;
+  let url = "";
+  let post;
+  if (!characterName) {
+    let random_id = Math.floor(Math.random() * 10000) + 1;
+    url = `https://danbooru.donmai.us/posts/${random_id}.json`;
+  } else {
+    url = `https://danbooru.donmai.us/posts.json?tags=${encodeURIComponent(
+      characterName
+    )}+order:random&limit=1`;
+  }
+
   try {
-    console.log("Fetching Danbooru API:", url);
     const response = await fetch(url);
     const posts = await response.json();
-    if (posts.length === 0) return null;
+
+    if (characterName) {
+      if (posts.length == 0) {
+        return null;
+      }
+
+      post = posts[0];
+    } else {
+      if (!posts) {
+        return null;
+      }
+
+      post = posts;
+    }
 
     return {
-      id: posts[0].id,
-      imageUrl: posts[0].file_url,
-      postUrl: `https://danbooru.donmai.us/posts/${posts[0].id}`,
+      id: post.id,
+      imageUrl: post.file_url,
+      postUrl: `https://danbooru.donmai.us/posts/${post.id}`,
+      artist: post.tag_string_artist.replace(/[_*~`]/g, "\\$&"),
+      character: post.tag_string_character.replace(/[_*~`]/g, "\\$&"),
     };
   } catch (error) {
     console.error("Danbooru API error:", error);
@@ -144,6 +166,78 @@ async function searchDanbooru(characterName) {
   }
 }
 
+//build danbooru embed
+function buildDanbooruEmbed(post) {
+  return new EmbedBuilder()
+    .setTitle("Danbooru Image")
+    .setColor("#FFD700")
+    .setImage(post.imageUrl)
+    .setURL(post.postUrl)
+    .addFields(
+      { name: "Artist", value: post.artist },
+      { name: "Character", value: post.character }
+    );
+}
+
+//find danbooru tag
+async function findDanbooruTag(tagName, category) {
+  let url = "";
+  if (category) {
+    url = `https://danbooru.donmai.us/tags.json?search[name_matches]=*${encodeURIComponent(
+      tagName
+    )}*&search[order]=count&search[category]=${category}&search[post_count_gt]=0&limit=20`;
+  } else {
+    url = `https://danbooru.donmai.us/tags.json?search[name_matches]=*${encodeURIComponent(
+      tagName
+    )}*&search[order]=count&search[post_count_gt]=0&limit=20`;
+  }
+
+  try {
+    const response = await fetch(url);
+    const tags = await response.json();
+
+    if (!tags || tags.length == 0) {
+      return null;
+    }
+
+    return tags.map((tag) => ({
+      name: tag.name.replace(/[_*~`]/g, "\\$&"),
+      category: tag.category,
+      postCount: tag.post_count,
+    }));
+  } catch (error) {
+    console.error("Error fetching Danbooru tags:", error);
+    return null;
+  }
+}
+
+//build danbooru tag embed
+function buildDanbooruTagEmbed(tags, searchQuery) {
+  let embed = new EmbedBuilder()
+    .setTitle(`🔍 Danbooru Tag Search for **${searchQuery}**`)
+    .setColor("#FF8C00");
+
+  tags.map((tag) => {
+    const categoryNames = {
+      0: "General",
+      1: "Artist",
+      3: "Copyright",
+      4: "Character",
+      5: "Meta",
+    };
+    embed.addFields({
+      name: `**${tag.name}**`,
+      value: `Category: **${
+        categoryNames[tag.category] || "Unknown"
+      }**\nPosts: **${tag.postCount}**`,
+      inline: false,
+    });
+  });
+
+  return embed;
+}
+
+//interaction handler
 client.on(Events.InteractionCreate, async (interaction) => {
   if (!interaction.isCommand()) return;
 
@@ -157,132 +251,118 @@ client.on(Events.InteractionCreate, async (interaction) => {
     const result = await searchDanbooru(character);
 
     if (!result) {
-      await interaction.reply(`No results found for **${character}**.`);
-    } else {
       await interaction.reply(
-        `🔗 [View Post](${result.postUrl})\n🖼 ${result.imageUrl}`
+        `Có vẻ không tìm được post có gắn tag **${character}** ┐(￣ ヘ￣)┌.`
       );
+    } else {
+      let reply = buildDanbooruEmbed(result);
+      await interaction.reply({ embeds: [reply] });
     }
   } else if (interaction.commandName == "help_danbooru") {
     await interaction.reply(
-      "To search for a character on Danbooru, use the `/danbooru` command with the character name as the argument."
+      "Để kiếm ảnh từ Danbooru, gõ `/danbooru character:<tên_character>` là được ( ˘▽˘)っ."
     );
+  } else if (interaction.commandName == "help") {
+    const embed = new EmbedBuilder()
+      .setTitle("🤖 Bot Command List")
+      .setColor(0x0099ff)
+      .setDescription("Đây là cách xài bot nè mấy đứa ( ๑‾̀◡‾́)σ.")
+      .setFooter({ text: "Nếu muốn gọi lệnh '/' thì check `/help_danbooru`" })
+      .setTimestamp();
+    embed.addFields(
+      {
+        name: "🔍 Danbooru Commands",
+        value:
+          "`!danbooru` - Lấy ảnh random\n" +
+          "`!danbooru!tag <tag_name>` - Lấy ảnh có kèm theo tag\n" +
+          "`!find <tag_name>` - Tìm kiếm tag dựa trên tên nhân vật\n",
+        inline: false,
+      },
+      {
+        name: "🎮 General Bot Commands",
+        value:
+          "`/ping` - Check bot latency\n" +
+          "`/about` - Get bot info\n" +
+          "`/help` - Show this help menu",
+        inline: false,
+      }
+    );
+
+    await interaction.reply({ embeds: [embed] });
   }
 });
 
 //get danbooru image
-client.on("messageCreate", (message) => {
+client.on("messageCreate", async (message) => {
+  const tags = ["rem_(re:zero)", "hatsune_miku", "maid", "blue_hair"];
+
   if (message.author.bot) return;
 
-  if (message.content.toLowerCase().includes("danbooru")) {
-    let has_tag = false;
-    let random_id = Math.floor(Math.random() * 10000) + 1;
-    let url = `https://danbooru.donmai.us/posts/${random_id}.json`;
-    if (message.content.toLowerCase().includes("tag")) {
+  const PREFIX = "!danbooru";
+  const PREFIX_FIND_TAG = "!find";
+  const PREFIX_WITH_TAG = "!danbooru!tag";
+
+  const PREFIX_REFRESH_TAGS = "!refresh";
+
+  if (message.content.startsWith(PREFIX)) {
+    if (message.content.startsWith(PREFIX_WITH_TAG)) {
       has_tag = true;
-      let [comment, ...tag] = message.content
+      let [command, ...tag] = message.content
         .toLowerCase()
-        .split(":")
+        .split(" ")
         .map((s) => s.trim());
 
       if (tag.length >= 1 && tag[0]) {
-        tag = tag.join(":_").replace(/\s+/g, "_").toLowerCase();
-        url = `https://danbooru.donmai.us/posts.json?tags=${tag}+order:random&limit=1`;
-        console.log(url);
+        tag = tag.join("_").replace(/\s+/g, "_").toLowerCase();
+
+        let result = await searchDanbooru(tag);
+        if (!result) {
+          message.channel.send(
+            `Có vẻ không tìm được post có gắn tag **${tag}** ┐(￣ ヘ￣)┌.`
+          );
+        } else {
+          let reply = buildDanbooruEmbed(result);
+          message.channel.send({ embeds: [reply] });
+        }
       } else {
         message.channel.send(
-          "Bà mẹ chú gõ sai lệnh rồi (˵¯͒ ▂¯͒˵)! Nó phải như này này (¬▂¬) : `tag: danboo`"
+          "Bà mẹ chú gõ sai lệnh rồi (˵¯͒ ▂¯͒˵)! Nó phải như này này (¬▂¬) : `!danbooru!tag danboo`"
         );
-        return 0;
+      }
+    } else {
+      let result = await searchDanbooru();
+      if (!result) {
+        message.channel.send("Có vẻ không tìm được post nào cả (˵¯͒ ▂¯͒˵).");
+      } else {
+        let reply = buildDanbooruEmbed(result);
+        message.channel.send({ embeds: [reply] });
       }
     }
+  } else if (message.content.toLowerCase().startsWith(PREFIX_FIND_TAG)) {
+    let [command, ...searchQuery] = message.content
+      .toLowerCase()
+      .split(" ")
+      .map((s) => s.trim());
+    let category = searchQuery.length > 1 ? searchQuery.pop() : null;
 
-    const DanbooruLog = new EmbedBuilder()
-      .setTitle("Danbooru Image")
-      .setColor("#FFD700");
+    if (searchQuery.length >= 1 && searchQuery[0]) {
+      searchQuery = searchQuery.join("_").replace(/\s+/g, "_").toLowerCase();
 
-    axios
-      .get(url, {})
-      .then((response) => {
-        let data = response.data;
-        if (has_tag) {
-          if (data.length == 0) {
-            message.channel.send(
-              "Có vẻ không tìm được post rồi chú thử tag khác xem ┐(￣ ヘ￣)┌."
-            );
-            return 0;
-          } else {
-            data = data[0];
-          }
-        }
-
-        DanbooruLog.setImage(data.file_url);
-        DanbooruLog.setURL(`https://danbooru.donmai.us/posts/${data.id}`);
-        DanbooruLog.addFields({
-          name: "Artist",
-          value: data.tag_string_artist.replace(/_/g, "\\_"),
-        });
-        DanbooruLog.addFields({
-          name: "Character",
-          value: data.tag_string_character.replace(/_/g, "\\_"),
-        });
-        DanbooruLog.addFields({
-          name: "Source",
-          value: data.source,
-        });
-
-        message.channel.send({ embeds: [DanbooruLog] });
-      })
-      .catch((error) => {
-        console.log(error);
-      });
-  } else if (message.content.toLowerCase().includes("find tag:")) {
-    let searchQuery = message.content.substring(9).trim();
-
-    if (!searchQuery) {
+      let result = await findDanbooruTag(searchQuery, category);
+      if (!result) {
+        message.channel.send(
+          `Có vẻ không tìm được tag nào giống cái này rồi ᇂ_ᇂ.`
+        );
+      } else {
+        let reply = buildDanbooruTagEmbed(result, searchQuery);
+        message.channel.send({ embeds: [reply] });
+      }
+    } else {
       return message.channel.send(
-        "Bà mẹ chú gõ sai lệnh rồi (˵¯͒ ▂¯͒˵)! Nó phải như này này (¬▂¬) : `find tag: cute`"
+        "Bà mẹ chú gõ sai lệnh rồi (˵¯͒ ▂¯͒˵)! Nó phải như này này (¬▂¬) : `!find cute`"
       );
     }
-
-    let encodedQuery = encodeURIComponent(`*${searchQuery}*`);
-    let url = `https://danbooru.donmai.us/tags.json?search[name_matches]=${encodedQuery}`;
-
-    axios
-      .get(url)
-      .then((response) => {
-        const data = response.data;
-
-        if (!Array.isArray(data) || data.length === 0) {
-          return message.channel.send(
-            "Có vẻ không có tag nào giống cái này rồi ᇂ_ᇂ."
-          );
-        }
-
-        let tagList = data
-          .slice(0, 20)
-          .map(
-            (tag) =>
-              `🔹 **${tag.name.replace(/_/g, "\\_")}** (Posts: ${
-                tag.post_count
-              })`
-          )
-          .join("\n");
-
-        const TagList = new EmbedBuilder()
-          .setTitle(`🔍 Tag Search Results for "${searchQuery}"`)
-          .setDescription(tagList)
-          .setColor("#FF8C00")
-          .setFooter({
-            text: "Danbooru Tag Search",
-            iconURL: "https://testbooru.donmai.us/favicon.ico",
-          });
-
-        message.channel.send({ embeds: [TagList] });
-      })
-      .catch((err) => {
-        console.error("Error fetching:", err);
-      });
+  } else if (message.content.toLowerCase().startsWith(PREFIX_REFRESH_TAGS)) {
   }
 });
 
