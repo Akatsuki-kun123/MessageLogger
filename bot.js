@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 const fs = require("fs");
-const axios = require("axios");
+//const axios = require("axios");
 
 const Discord = require("discord.js");
 const { EmbedBuilder } = require("discord.js");
