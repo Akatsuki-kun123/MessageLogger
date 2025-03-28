@@ -1,31 +1,11 @@
 /*
-let data = require("./danbooru/tags/danbooru_tags.json");
-
 const Fuse = require("fuse.js");
-
-function findTagFuzzy(tagsList, searchTag) {
-  const fuse = new Fuse(tagsList, {
-    key: ["name"],
-    includeScore: true,
-    threshold: 0.4,
-  });
-  const result = fuse.search(searchTag);
-  return result.length ? result[0].item : null;
-}
-
-// Example usage
-console.log(data);
-console.log(findTagFuzzy(data, "rem")); // Output: "maid"
-console.log(findTagFuzzy(data, "bluehair")); // Output: "blue_hair"
-console.log(findTagFuzzy(data, "blu")); // Output: null
-*/
-
-const Fuse = require("fuse.js");
+let data = require("./danbooru/tags/Character.json");
 
 function findTagFuzzy(tagsList, searchTag) {
   const fuse = new Fuse(tagsList, { keys: ["name"], threshold: 0.4 });
-  const result = fuse.search(searchTag);
-  return result.length ? result[0].item : null;
+  const results = fuse.search(searchTag);
+  return results.length ? results.map(result => result.item) : null;
 }
 
 const tags = [
@@ -34,5 +14,99 @@ const tags = [
   { name: "maid", category: "general", post_count: 3000 },
   { name: "blue_hair", category: "general", post_count: 4000 },
 ];
-console.log(findTagFuzzy(tags, "blu_hair"));
-// Output: { name: "blue_hair", category: "general", post_count: 4000 }
+
+console.log(findTagFuzzy(data, "remrezero"));
+*/
+
+const fs = require("fs");
+
+const tags = JSON.parse(fs.readFileSync("./danbooru/tags/Character.json"));
+const words = JSON.parse(fs.readFileSync("./danbooru/tags/tag_words.json"));
+
+function levenshteinDistance(a, b) {
+  const dp = Array(a.length + 1)
+    .fill(null)
+    .map(() => Array(b.length + 1).fill(null));
+
+  for (let i = 0; i <= a.length; i++) dp[i][0] = i;
+  for (let j = 0; j <= b.length; j++) dp[0][j] = j;
+
+  for (let i = 1; i <= a.length; i++) {
+    for (let j = 1; j <= b.length; j++) {
+      const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+      dp[i][j] = Math.min(
+        dp[i - 1][j] + 1, // Deletion
+        dp[i][j - 1] + 1, // Insertion
+        dp[i - 1][j - 1] + cost // Substitution
+      );
+    }
+  }
+  return dp[a.length][b.length];
+}
+
+function fuzzySearchWords(
+  wordList,
+  searchWord,
+  maxDistance = 3,
+  maxResults = 5
+) {
+  const firstTwoChars = searchWord.slice(0, 2);
+  const filteredWords = wordList.filter((word) =>
+    word.startsWith(firstTwoChars)
+  );
+
+  return filteredWords
+    .map((word) => ({
+      word,
+      distance: levenshteinDistance(word, searchWord),
+    }))
+    .filter((result) => result.distance <= maxDistance)
+    .sort((a, b) => a.distance - b.distance)
+    .slice(0, maxResults)
+    .map((result) => result.word);
+}
+
+function searchMultipleWords(wordList, query) {
+  const queryWords = query.toLowerCase().split(" ");
+  let matchedWords = new Set();
+
+  queryWords.forEach((word) => {
+    const fuzzyMatches = fuzzySearchWords(wordList, word);
+    matchedWords.add(fuzzyMatches);
+  });
+
+  return Array.from(matchedWords);
+}
+
+function findTagsByWords(tagList, wordGroups) {
+  let filteredTags = tagList;
+
+  for (const words of wordGroups) {
+    filteredTags = filteredTags.filter((tag) => {
+      const tagWordsSet = tag.name.split("_");
+      return words.some((word) =>
+        tagWordsSet.some((tagWord) => tagWord.includes(word))
+      );
+    });
+
+    if (filteredTags.length === 0) break;
+  }
+
+  return filteredTags;
+}
+
+function searchTags(query) {
+  const findWordResult = searchMultipleWords(words, query);
+  console.log("Fuzzy search results:", findWordResult);
+  const findTagResult = findTagsByWords(tags, findWordResult);
+
+  return findTagResult.length
+    ? findTagResult.slice(0, 10)
+    : ["No matching tags found"];
+}
+
+const query = "rem re:zero";
+console.log(searchTags(query));
+
+//fuzzySearchWords("remilia");
+//console.log(levenshteinDistance("remrezero", "rem_(re: zero)"));

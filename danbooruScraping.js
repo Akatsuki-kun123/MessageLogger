@@ -65,7 +65,41 @@ async function fetchAllTags() {
     "utf-8"
   );
 
+  // Save each category to a separate file
+  for (const [categoryName, tag] of Object.entries(categorizedTags)) {
+    const filename = `./danbooru/tags/${categoryName}.json`;
+    fs.writeFileSync(filename, JSON.stringify(tag, null, 2));
+    console.log(`✅ Saved ${tag.length} tags to ${filename}`);
+  }
+
   console.log("📁 Successfully saved all tags to `danbooru_tags.json`!");
+}
+
+function splitTagsToWords() {
+  const categorizedTags = JSON.parse(
+    fs.readFileSync("./danbooru/tags/danbooru_tags.json", "utf-8")
+  );
+  const words = new Set();
+
+  for (const [category, tags] of Object.entries(categorizedTags)) {
+    tags.forEach((tag) => {
+      const tagWords = tag.name.split("_");
+      tagWords.forEach((word) => {
+        //word = word.replace(/[^\w]/g, " ").trim();
+        if (word != "") {
+          words.add(word.toLowerCase());
+        }
+      });
+    });
+  }
+
+  const result = Array.from(words).sort();
+  fs.writeFileSync(
+    "./danbooru/tags/tag_words.json",
+    JSON.stringify(result, null, 2)
+  );
+
+  console.log("✅ Done! Total words:", result.length);
 }
 
 async function getPostsFromTags(tags, minPosts = 10) {
@@ -109,5 +143,6 @@ async function getPostsFromTags(tags, minPosts = 10) {
 
 // Test function
 //fetchAllTags();
-const tags = ["rem_(re:zero)", "hatsune_miku", "maid", "blue_hair"];
-getPostsFromTags(tags, 10);
+//const tags = ["rem_(re:zero)", "hatsune_miku", "maid", "blue_hair"];
+//getPostsFromTags(tags, 10);
+splitTagsToWords();

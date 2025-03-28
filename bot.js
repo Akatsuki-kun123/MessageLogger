@@ -3,6 +3,16 @@ require("dotenv").config();
 const fs = require("fs");
 //const axios = require("axios");
 
+const Fuse = require("fuse.js");
+let characterData = require("./danbooru/tags/Character.json");
+function findTagFuzzy(tagsList, searchTag) {
+  const fuse = new Fuse(tagsList, { keys: ["name"], threshold: 0.2 });
+  const results = fuse.search(searchTag);
+  return results.length
+    ? results.slice(0, 10).map((result) => result.item)
+    : null;
+}
+
 const Discord = require("discord.js");
 const { EmbedBuilder } = require("discord.js");
 const { Client, Events, GatewayIntentBits } = require("discord.js");
@@ -13,9 +23,9 @@ const tweets = require("./twitterScraping.js");
 const client = new Client({
   intents: [
     GatewayIntentBits.Guilds,
+    GatewayIntentBits.GuildMembers,
     GatewayIntentBits.GuildMessages,
     GatewayIntentBits.MessageContent,
-    GatewayIntentBits.GuildMembers,
   ],
 });
 
@@ -51,6 +61,7 @@ function change_status(stat, file) {
 }
 
 //Log deleted message
+/*
 client.on("messageDelete", (message) => {
   snipes.set(message.channel.id, message);
   const LogChannel = client.channels.cache.get("1340390483855282216");
@@ -121,6 +132,7 @@ client.on("messageDelete", (message) => {
     console.log(error);
   }
 });
+*/
 
 //search danbooru
 async function searchDanbooru(characterName) {
@@ -211,6 +223,92 @@ async function findDanbooruTag(tagName, category) {
   }
 }
 
+//levenshtein distance
+function levenshteinDistance(a, b) {
+  const dp = Array(a.length + 1)
+    .fill(null)
+    .map(() => Array(b.length + 1).fill(null));
+
+  for (let i = 0; i <= a.length; i++) {
+    dp[i][0] = i;
+  }
+  for (let j = 0; j <= b.length; j++) {
+    dp[0][j] = j;
+  }
+
+  for (let i = 1; i <= a.length; i++) {
+    for (let j = 1; j <= b.length; j++) {
+      if (a[i - 1] === b[j - 1]) {
+        dp[i][j] = dp[i - 1][j - 1];
+      } else {
+        dp[i][j] = 1 + Math.min(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1]);
+      }
+    }
+  }
+
+  return dp[a.length][b.length];
+}
+
+//fuzzy search words using levenshtein distance
+function fuzzySearchWords(searchWord, maxDistance = 3, maxResults = 5) {
+  const wordList = JSON.parse(
+    fs.readFileSync("./danbooru/tags/tag_words.json")
+  );
+  const firstTwoChars = searchWord.slice(0, 2);
+  const filteredWords = wordList.filter((word) =>
+    word.startsWith(firstTwoChars)
+  );
+
+  let results = [];
+  results = filteredWords
+    .map((word) => ({
+      word,
+      distance: levenshteinDistance(searchWord, word),
+    }))
+    .filter((result) => result.distance <= maxDistance)
+    .sort((a, b) => a.distance - b.distance)
+    .slice(0, maxResults)
+    .map((result) => result.word);
+
+  return results;
+}
+
+//Split search query into words and search each word
+function searchMultipleWords(query) {
+  const queryWords = query.toLowerCase().split("_");
+  let matchedWords = new Set();
+
+  queryWords.forEach((word) => {
+    const fuzzyMatches = fuzzySearchWords(word);
+    matchedWords.add(fuzzyMatches);
+  });
+
+  return Array.from(matchedWords);
+}
+
+//find tag by words found using fuzzy search
+function findTagByWords(wordGroups, maxResults = 5) {
+  const tagsList = JSON.parse(
+    fs.readFileSync("./danbooru/tags/Character.json")
+  );
+  let results = tagsList;
+
+  for (const words of wordGroups) {
+    results = results.filter((tag) => {
+      const tagWords = tag.name.split("_");
+      return words.some((word) =>
+        tagWords.some((tagWord) => tagWord.includes(word))
+      );
+    });
+
+    if (results.length === 0) {
+      break;
+    }
+  }
+
+  return results.length ? results.slice(0, maxResults) : null;
+}
+
 //build danbooru tag embed
 function buildDanbooruTagEmbed(tags, searchQuery) {
   let embed = new EmbedBuilder()
@@ -226,7 +324,7 @@ function buildDanbooruTagEmbed(tags, searchQuery) {
       5: "Meta",
     };
     embed.addFields({
-      name: `**${tag.name}**`,
+      name: `**${tag.name.replace(/_/g, "\\_")}**`,
       value: `Category: **${
         categoryNames[tag.category] || "Unknown"
       }**\nPosts: **${tag.postCount}**`,
@@ -343,12 +441,22 @@ client.on("messageCreate", async (message) => {
       .toLowerCase()
       .split(" ")
       .map((s) => s.trim());
-    let category = searchQuery.length > 1 ? searchQuery.pop() : null;
+
+    let category = null;
+    if (searchQuery.length > 1) {
+      let lastElem = searchQuery[searchQuery.length - 1];
+      if (!isNaN(lastElem)) {
+        category = searchQuery.pop();
+      }
+    }
 
     if (searchQuery.length >= 1 && searchQuery[0]) {
       searchQuery = searchQuery.join("_").replace(/\s+/g, "_").toLowerCase();
 
-      let result = await findDanbooruTag(searchQuery, category);
+      //let result = await findDanbooruTag(searchQuery, category);
+      //let result = findTagFuzzy(characterData, searchQuery);
+      let searchWords = searchMultipleWords(searchQuery);
+      let result = findTagByWords(searchWords, 5);
       if (!result) {
         message.channel.send(
           `Có vẻ không tìm được tag nào giống cái này rồi ᇂ_ᇂ.`
