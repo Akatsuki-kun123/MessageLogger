@@ -1,0 +1,133 @@
+{
+  "word": "(d2",
+  "children": {
+    "1": {
+      "word": "d2",
+      "children": {}
+    },
+    "2": {
+      "word": "(d23)",
+      "children": {
+        "3": {
+          "word": "d20",
+          "children": {}
+        },
+        "4": {
+          "word": "d-2",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(d2d4)",
+      "children": {
+        "2": {
+          "word": "d2d4",
+          "children": {}
+        },
+        "3": {
+          "word": "d244",
+          "children": {
+            "2": {
+              "word": "d26)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "d2s1",
+          "children": {}
+        },
+        "5": {
+          "word": "d-21",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(d2454)",
+      "children": {
+        "5": {
+          "word": "d2011",
+          "children": {
+            "1": {
+              "word": "d2071",
+              "children": {}
+            },
+            "3": {
+              "word": "d22ku",
+              "children": {
+                "3": {
+                  "word": "d2nto",
+                  "children": {
+                    "3": {
+                      "word": "d2oop",
+                      "children": {
+                        "3": {
+                          "word": "d2web",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(d23865)",
+      "children": {
+        "6": {
+          "word": "d2kmax",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(d2gwa71)",
+      "children": {
+        "7": {
+          "word": "d23d98b",
+          "children": {
+            "5": {
+              "word": "d2power",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "d2-rider",
+      "children": {}
+    },
+    "8": {
+      "word": "d2a103175",
+      "children": {}
+    },
+    "9": {
+      "word": "(d24f4z8j3t)",
+      "children": {}
+    },
+    "10": {
+      "word": "(d2277146456)",
+      "children": {
+        "11": {
+          "word": "d20withrain",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "d2xezcbr70ckyx",
+      "children": {}
+    },
+    "14": {
+      "word": "d2kmfsyqe69gby4",
+      "children": {}
+    }
+  }
+}

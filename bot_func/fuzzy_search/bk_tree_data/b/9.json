@@ -1,0 +1,53 @@
+{
+  "word": "(b90)",
+  "children": {
+    "2": {
+      "word": "b90",
+      "children": {}
+    },
+    "3": {
+      "word": "(b9yhn)",
+      "children": {
+        "5": {
+          "word": "b9",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(b9jrij",
+      "children": {
+        "5": {
+          "word": "b9-n3",
+          "children": {
+            "3": {
+              "word": "b9218",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(b9035796)",
+      "children": {
+        "7": {
+          "word": "b97531",
+          "children": {}
+        },
+        "8": {
+          "word": "b9pqpy",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(b9zstlqa1)",
+      "children": {}
+    },
+    "13": {
+      "word": "b9sjwtejfq72019",
+      "children": {}
+    }
+  }
+}

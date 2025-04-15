@@ -1,0 +1,111 @@
+{
+  "word": "(z30631)",
+  "children": {
+    "3": {
+      "word": "(z31)",
+      "children": {}
+    },
+    "4": {
+      "word": "(z32)",
+      "children": {}
+    },
+    "5": {
+      "word": "z31",
+      "children": {
+        "1": {
+          "word": "z36",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(z33-000308)",
+      "children": {
+        "9": {
+          "word": "z3nn28",
+          "children": {}
+        },
+        "10": {
+          "word": "z3",
+          "children": {
+            "1": {
+              "word": "z35",
+              "children": {
+                "1": {
+                  "word": "z39",
+                  "children": {
+                    "1": {
+                      "word": "z3n",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "z3dd",
+              "children": {
+                "2": {
+                  "word": "z3s2",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "z3fzu",
+              "children": {
+                "2": {
+                  "word": "z3zz4",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "z3alot",
+              "children": {
+                "4": {
+                  "word": "z3hssv",
+                  "children": {
+                    "4": {
+                      "word": "z3nika",
+                      "children": {
+                        "3": {
+                          "word": "z3nt5u",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "z3husky",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "z30114047",
+      "children": {}
+    },
+    "8": {
+      "word": "z3ro-hour",
+      "children": {}
+    },
+    "9": {
+      "word": "z3phyr0sart",
+      "children": {}
+    },
+    "10": {
+      "word": "z3r0-z3r0-z3r0",
+      "children": {}
+    },
+    "13": {
+      "word": "z3d5bzzle827213",
+      "children": {}
+    }
+  }
+}

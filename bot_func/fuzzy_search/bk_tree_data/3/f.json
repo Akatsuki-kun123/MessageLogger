@@ -1,0 +1,43 @@
+{
+  "word": "(3f",
+  "children": {
+    "1": {
+      "word": "3f",
+      "children": {}
+    },
+    "3": {
+      "word": "(3fuu)",
+      "children": {}
+    },
+    "4": {
+      "word": "(3fits)",
+      "children": {
+        "5": {
+          "word": "3four",
+          "children": {
+            "3": {
+              "word": "3fvje",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "3fish7",
+      "children": {}
+    },
+    "6": {
+      "word": "(3funny3)",
+      "children": {}
+    },
+    "7": {
+      "word": "3f1n92k0",
+      "children": {}
+    },
+    "9": {
+      "word": "(3factorial)",
+      "children": {}
+    }
+  }
+}

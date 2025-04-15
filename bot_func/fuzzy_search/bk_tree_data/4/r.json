@@ -1,0 +1,136 @@
+{
+  "word": "(4-rt)",
+  "children": {
+    "3": {
+      "word": "(4ra",
+      "children": {
+        "2": {
+          "word": "4rt",
+          "children": {}
+        },
+        "3": {
+          "word": "(4ru1)",
+          "children": {
+            "2": {
+              "word": "4ru)",
+              "children": {}
+            },
+            "3": {
+              "word": "4rk)",
+              "children": {}
+            },
+            "4": {
+              "word": "4rtk",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(4rfw7)",
+      "children": {
+        "4": {
+          "word": "(4rurui)",
+          "children": {}
+        },
+        "5": {
+          "word": "4r",
+          "children": {
+            "1": {
+              "word": "4ri",
+              "children": {
+                "1": {
+                  "word": "4rk",
+                  "children": {
+                    "1": {
+                      "word": "4ro",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "4r46",
+              "children": {
+                "2": {
+                  "word": "4ra8",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "4r13l",
+      "children": {
+        "3": {
+          "word": "4rane",
+          "children": {
+            "3": {
+              "word": "4reza",
+              "children": {
+                "3": {
+                  "word": "4rion",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "4rthur",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "4rcher",
+      "children": {
+        "4": {
+          "word": "4reiji",
+          "children": {
+            "4": {
+              "word": "4rfv56",
+              "children": {
+                "4": {
+                  "word": "4rnoux",
+                  "children": {}
+                },
+                "5": {
+                  "word": "4rtie28",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "4rdilla",
+      "children": {
+        "5": {
+          "word": "4rukuro",
+          "children": {
+            "4": {
+              "word": "4runner",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "4ramhelp",
+      "children": {}
+    },
+    "10": {
+      "word": "4remforever",
+      "children": {}
+    }
+  }
+}

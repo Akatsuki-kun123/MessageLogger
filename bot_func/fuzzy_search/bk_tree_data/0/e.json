@@ -1,0 +1,71 @@
+{
+  "word": "(0enmaitake)",
+  "children": {
+    "7": {
+      "word": "0ekaki)",
+      "children": {}
+    },
+    "8": {
+      "word": "(0epo0)",
+      "children": {
+        "3": {
+          "word": "(0euf)",
+          "children": {}
+        },
+        "5": {
+          "word": "0ekaki",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "0ecm",
+      "children": {
+        "2": {
+          "word": "0en",
+          "children": {}
+        },
+        "4": {
+          "word": "0effe0",
+          "children": {
+            "3": {
+              "word": "0elber",
+              "children": {}
+            },
+            "4": {
+              "word": "0eight",
+              "children": {
+                "4": {
+                  "word": "0ekqk1",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "0emb27r6",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "0e0",
+      "children": {
+        "1": {
+          "word": "0ex",
+          "children": {}
+        },
+        "10": {
+          "word": "0ekakikuzira",
+          "children": {
+            "6": {
+              "word": "0ekakisimasu",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

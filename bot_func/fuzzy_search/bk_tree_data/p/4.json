@@ -1,0 +1,110 @@
+{
+  "word": "(p4",
+  "children": {
+    "1": {
+      "word": "p4",
+      "children": {}
+    },
+    "2": {
+      "word": "p40",
+      "children": {
+        "1": {
+          "word": "p43",
+          "children": {
+            "1": {
+              "word": "p4e",
+              "children": {
+                "1": {
+                  "word": "p4p",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "p-40",
+      "children": {
+        "1": {
+          "word": "p-47",
+          "children": {}
+        },
+        "3": {
+          "word": "p4/5",
+          "children": {
+            "2": {
+              "word": "p416",
+              "children": {
+                "1": {
+                  "word": "p496",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(p4-co)",
+      "children": {
+        "3": {
+          "word": "(p42xy)",
+          "children": {}
+        },
+        "5": {
+          "word": "p-47b",
+          "children": {
+            "4": {
+              "word": "p4t0n",
+              "children": {
+                "3": {
+                  "word": "p4z56",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(p4ymbk)",
+      "children": {
+        "6": {
+          "word": "p45fmj",
+          "children": {
+            "4": {
+              "word": "p4cnoo",
+              "children": {
+                "3": {
+                  "word": "p4p1on",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(p41neko)",
+      "children": {}
+    },
+    "8": {
+      "word": "(p4amg1208)",
+      "children": {
+        "8": {
+          "word": "p40270806",
+          "children": {}
+        },
+        "9": {
+          "word": "p4ndeeeee",
+          "children": {}
+        }
+      }
+    }
+  }
+}

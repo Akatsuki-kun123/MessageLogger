@@ -1,0 +1,34 @@
+{
+  "word": "(v2)",
+  "children": {
+    "1": {
+      "word": "v2)",
+      "children": {}
+    },
+    "2": {
+      "word": "v2",
+      "children": {}
+    },
+    "3": {
+      "word": "v-2",
+      "children": {
+        "1": {
+          "word": "v-22",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(v2ictory)",
+      "children": {}
+    },
+    "7": {
+      "word": "v2gundam",
+      "children": {}
+    },
+    "11": {
+      "word": "v2tokyoghost",
+      "children": {}
+    }
+  }
+}

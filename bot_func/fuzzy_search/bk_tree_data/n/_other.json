@@ -1,0 +1,56 @@
+{
+  "word": "'n",
+  "children": {
+    "1": {
+      "word": "'n'",
+      "children": {
+        "2": {
+          "word": "(n",
+          "children": {
+            "1": {
+              "word": "n",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(n!",
+      "children": {
+        "1": {
+          "word": "(n)",
+          "children": {
+            "2": {
+              "word": "n!",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "-n)",
+          "children": {
+            "1": {
+              "word": "n)",
+              "children": {}
+            },
+            "2": {
+              "word": "\\n/",
+              "children": {
+                "2": {
+                  "word": "n'",
+                  "children": {
+                    "1": {
+                      "word": "n.",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

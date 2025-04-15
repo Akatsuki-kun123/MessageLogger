@@ -1,0 +1,54 @@
+{
+  "word": "(b-q)",
+  "children": {
+    "3": {
+      "word": "(bqqfp)",
+      "children": {}
+    },
+    "4": {
+      "word": "bqch",
+      "children": {}
+    },
+    "5": {
+      "word": "(bqad28)",
+      "children": {
+        "6": {
+          "word": "bqbae",
+          "children": {
+            "3": {
+              "word": "bqtfo",
+              "children": {
+                "3": {
+                  "word": "bquez",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "bqasta",
+      "children": {
+        "4": {
+          "word": "bqcrop",
+          "children": {
+            "4": {
+              "word": "bqhong",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "bquagsire",
+      "children": {}
+    },
+    "14": {
+      "word": "(bqae8dpzdc2jjbk)",
+      "children": {}
+    }
+  }
+}

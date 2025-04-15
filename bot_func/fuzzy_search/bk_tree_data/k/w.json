@@ -1,0 +1,699 @@
+{
+  "word": "(k+w)",
+  "children": {
+    "2": {
+      "word": "(kw",
+      "children": {
+        "1": {
+          "word": "(kwr",
+          "children": {}
+        },
+        "2": {
+          "word": "(kwt)",
+          "children": {
+            "2": {
+              "word": "kw)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(kwbr)",
+      "children": {
+        "3": {
+          "word": "(kwsk",
+          "children": {
+            "2": {
+              "word": "kws)",
+              "children": {}
+            },
+            "3": {
+              "word": "kw8)",
+              "children": {
+                "2": {
+                  "word": "kwr",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "kw",
+          "children": {
+            "1": {
+              "word": "kwa",
+              "children": {
+                "1": {
+                  "word": "kwc",
+                  "children": {
+                    "1": {
+                      "word": "kwg",
+                      "children": {
+                        "1": {
+                          "word": "kwi",
+                          "children": {
+                            "1": {
+                              "word": "kwk",
+                              "children": {
+                                "1": {
+                                  "word": "kwm",
+                                  "children": {
+                                    "1": {
+                                      "word": "kwo",
+                                      "children": {
+                                        "1": {
+                                          "word": "kwp",
+                                          "children": {
+                                            "1": {
+                                              "word": "kws",
+                                              "children": {
+                                                "1": {
+                                                  "word": "kwx",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "kwz",
+                                                      "children": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "k'wa",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(kware)",
+      "children": {
+        "3": {
+          "word": "kwyr)",
+          "children": {}
+        },
+        "4": {
+          "word": "kwak",
+          "children": {
+            "1": {
+              "word": "kwan",
+              "children": {
+                "1": {
+                  "word": "kwap",
+                  "children": {}
+                },
+                "2": {
+                  "word": "kwek",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "kwhr",
+              "children": {
+                "1": {
+                  "word": "kwsr",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "kwkm)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "kwgt",
+          "children": {
+            "1": {
+              "word": "kwmt",
+              "children": {}
+            },
+            "2": {
+              "word": "kwii",
+              "children": {
+                "1": {
+                  "word": "kwin",
+                  "children": {}
+                },
+                "2": {
+                  "word": "kwkm",
+                  "children": {
+                    "2": {
+                      "word": "kwms",
+                      "children": {
+                        "1": {
+                          "word": "kwus",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "kwok",
+                          "children": {
+                            "1": {
+                              "word": "kwon",
+                              "children": {
+                                "1": {
+                                  "word": "kwoo",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "kwsk",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "kwsg",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(k-works)",
+      "children": {
+        "4": {
+          "word": "kwork",
+          "children": {}
+        },
+        "5": {
+          "word": "kwhra)",
+          "children": {}
+        },
+        "6": {
+          "word": "kweri",
+          "children": {
+            "1": {
+              "word": "kwnri",
+              "children": {}
+            },
+            "3": {
+              "word": "kwisg",
+              "children": {
+                "2": {
+                  "word": "kwong",
+                  "children": {}
+                },
+                "3": {
+                  "word": "kwoin",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "kwaii",
+          "children": {
+            "1": {
+              "word": "kwami",
+              "children": {}
+            },
+            "2": {
+              "word": "kwame",
+              "children": {
+                "2": {
+                  "word": "kwang",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "kween",
+              "children": {
+                "3": {
+                  "word": "kwibl",
+                  "children": {
+                    "2": {
+                      "word": "kwinr",
+                      "children": {
+                        "2": {
+                          "word": "kwite",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "kwsby",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "kwnce",
+                      "children": {
+                        "3": {
+                          "word": "kwszh",
+                          "children": {
+                            "3": {
+                              "word": "kwxlu",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(kw00789)",
+      "children": {
+        "5": {
+          "word": "(kwester)",
+          "children": {
+            "5": {
+              "word": "(kwzuuun)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "kwings)",
+          "children": {}
+        },
+        "7": {
+          "word": "kwaiwai",
+          "children": {
+            "3": {
+              "word": "kwakah",
+              "children": {
+                "3": {
+                  "word": "kwanda",
+                  "children": {
+                    "3": {
+                      "word": "kwazii",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "kwkunai",
+                  "children": {
+                    "3": {
+                      "word": "kwuina",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "kwaker",
+              "children": {
+                "3": {
+                  "word": "kwando",
+                  "children": {
+                    "4": {
+                      "word": "kwiyem",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "kwiaty",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "kwikkwik",
+              "children": {
+                "6": {
+                  "word": "kwondo",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "k-waves",
+          "children": {
+            "4": {
+              "word": "k-world",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(kwazukin)",
+      "children": {
+        "5": {
+          "word": "(kwijnsgn)",
+          "children": {}
+        },
+        "6": {
+          "word": "(kwfr4544)",
+          "children": {
+            "4": {
+              "word": "(kwfs5433)",
+              "children": {}
+            },
+            "5": {
+              "word": "(kwsk9849)",
+              "children": {
+                "5": {
+                  "word": "(kwsu4777)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(kwkf2782)",
+              "children": {
+                "3": {
+                  "word": "(kwsu2482)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(kwonsj88)",
+                  "children": {
+                    "5": {
+                      "word": "(kwskkx85)",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "(kwpp3252)",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "(kwong159)",
+                  "children": {
+                    "6": {
+                      "word": "(kwts3227)",
+                      "children": {
+                        "6": {
+                          "word": "(kwylygz1)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "kwajia3",
+              "children": {
+                "4": {
+                  "word": "kwakiutl",
+                  "children": {
+                    "5": {
+                      "word": "kwasobi",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "kwaemul",
+          "children": {
+            "4": {
+              "word": "kwastea",
+              "children": {}
+            },
+            "5": {
+              "word": "kwak0729",
+              "children": {
+                "6": {
+                  "word": "kwiiant",
+                  "children": {
+                    "5": {
+                      "word": "kwnmiyu",
+                      "children": {
+                        "4": {
+                          "word": "kwonnie",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "kwoojii",
+                          "children": {
+                            "5": {
+                              "word": "kwysten",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "kweeble",
+          "children": {
+            "4": {
+              "word": "kwilove",
+              "children": {}
+            },
+            "5": {
+              "word": "kwh6762",
+              "children": {
+                "5": {
+                  "word": "kwisshy",
+                  "children": {
+                    "5": {
+                      "word": "kws1135",
+                      "children": {
+                        "4": {
+                          "word": "kwsmrta",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "kwnk4583",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(kw9onou58)",
+      "children": {
+        "6": {
+          "word": "kwes3558)",
+          "children": {}
+        },
+        "8": {
+          "word": "kwanishi",
+          "children": {
+            "6": {
+              "word": "kweh3448",
+              "children": {
+                "3": {
+                  "word": "kwxh2438",
+                  "children": {}
+                },
+                "5": {
+                  "word": "kwestone",
+                  "children": {
+                    "6": {
+                      "word": "kwpx7528",
+                      "children": {
+                        "4": {
+                          "word": "kwpy8288",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "kwsg8278",
+                          "children": {
+                            "4": {
+                              "word": "kwuj5878",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "kwmraaua",
+                  "children": {
+                    "5": {
+                      "word": "kwnblack",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "kwzp2522",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "kwcj2833)",
+              "children": {
+                "5": {
+                  "word": "kwvs3343)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "kwfp8524)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "kwadarth",
+          "children": {
+            "5": {
+              "word": "kwaejina",
+              "children": {
+                "5": {
+                  "word": "kwaf8323",
+                  "children": {}
+                },
+                "6": {
+                  "word": "kwrrrrrr",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "kwrssbsp",
+              "children": {
+                "7": {
+                  "word": "kwwmadoka",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(kwakobayao)",
+      "children": {
+        "7": {
+          "word": "(kwonchanji)",
+          "children": {
+            "8": {
+              "word": "kwanzabot",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "kwahsyrup",
+          "children": {
+            "7": {
+              "word": "kwistinya",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "kwanchung",
+          "children": {
+            "6": {
+              "word": "kwokzisong",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "kwonwook03",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "(kwonchanji))",
+      "children": {
+        "9": {
+          "word": "kwanmaengg",
+          "children": {
+            "6": {
+              "word": "kwonstrong",
+              "children": {}
+            },
+            "7": {
+              "word": "kwonrugger",
+              "children": {}
+            },
+            "8": {
+              "word": "kwiianyo90",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "kwhundredk",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "kwarurariru",
+      "children": {
+        "8": {
+          "word": "kwuro210938",
+          "children": {}
+        },
+        "9": {
+          "word": "kws-112mt25",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "(kw0hahgk9nenhgs)",
+      "children": {}
+    }
+  }
+}

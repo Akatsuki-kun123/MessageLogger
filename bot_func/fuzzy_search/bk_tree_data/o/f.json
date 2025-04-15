@@ -1,0 +1,804 @@
+{
+  "word": "(of",
+  "children": {
+    "1": {
+      "word": "(off",
+      "children": {
+        "2": {
+          "word": "of",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "(off)",
+      "children": {
+        "2": {
+          "word": "(oftn",
+          "children": {
+            "3": {
+              "word": "of)",
+              "children": {
+                "1": {
+                  "word": "off",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "ofc",
+          "children": {
+            "1": {
+              "word": "ofs",
+              "children": {
+                "1": {
+                  "word": "ofu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(ofin)",
+      "children": {
+        "2": {
+          "word": "(ofsb)",
+          "children": {}
+        },
+        "3": {
+          "word": "(ofuro",
+          "children": {
+            "4": {
+              "word": "off)",
+              "children": {
+                "2": {
+                  "word": "oftn",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "of-1",
+          "children": {
+            "1": {
+              "word": "of-3",
+              "children": {
+                "1": {
+                  "word": "of-5",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "ofeb",
+              "children": {
+                "2": {
+                  "word": "off!",
+                  "children": {
+                    "1": {
+                      "word": "offi",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "ofly",
+                      "children": {
+                        "2": {
+                          "word": "ofuu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(office",
+      "children": {
+        "3": {
+          "word": "offee",
+          "children": {}
+        },
+        "4": {
+          "word": "(ofumi)",
+          "children": {
+            "3": {
+              "word": "(ofuton",
+              "children": {}
+            },
+            "4": {
+              "word": "off!)",
+              "children": {
+                "1": {
+                  "word": "off?)",
+                  "children": {}
+                },
+                "2": {
+                  "word": "offbi",
+                  "children": {}
+                },
+                "3": {
+                  "word": "ofnir",
+                  "children": {
+                    "3": {
+                      "word": "ofune",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "off#5",
+              "children": {
+                "2": {
+                  "word": "offen",
+                  "children": {
+                    "1": {
+                      "word": "offer",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "o.f.t",
+          "children": {
+            "4": {
+              "word": "ofgwr",
+              "children": {
+                "3": {
+                  "word": "oftaj",
+                  "children": {
+                    "3": {
+                      "word": "ofuda",
+                      "children": {
+                        "1": {
+                          "word": "ofusa",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "ofuji",
+                          "children": {
+                            "1": {
+                              "word": "ofumi",
+                              "children": {
+                                "1": {
+                                  "word": "ofuri",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "ofuku",
+                              "children": {
+                                "2": {
+                                  "word": "ofuro",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(offline",
+      "children": {
+        "2": {
+          "word": "(offtime",
+          "children": {}
+        },
+        "3": {
+          "word": "ofelie",
+          "children": {
+            "3": {
+              "word": "office",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(ofuton)",
+          "children": {
+            "3": {
+              "word": "offton",
+              "children": {}
+            },
+            "4": {
+              "word": "offmon",
+              "children": {}
+            },
+            "6": {
+              "word": "ofelia",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "ofallx",
+          "children": {
+            "4": {
+              "word": "offcar",
+              "children": {
+                "2": {
+                  "word": "offter",
+                  "children": {}
+                },
+                "3": {
+                  "word": "offer)",
+                  "children": {
+                    "3": {
+                      "word": "offrey",
+                      "children": {
+                        "2": {
+                          "word": "offset",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "ofstan",
+                      "children": {
+                        "2": {
+                          "word": "ofuman",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ofhope",
+                  "children": {
+                    "3": {
+                      "word": "ofton)",
+                      "children": {
+                        "3": {
+                          "word": "ofuoic",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "oflazy",
+                      "children": {
+                        "4": {
+                          "word": "ofuton",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "o'fera",
+          "children": {
+            "4": {
+              "word": "ofneko",
+              "children": {
+                "4": {
+                  "word": "ofuna3",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "of...)",
+              "children": {
+                "4": {
+                  "word": "ofudou",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(off-duty",
+      "children": {
+        "5": {
+          "word": "(official",
+          "children": {
+            "5": {
+              "word": "offbeat",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(ofly252)",
+          "children": {
+            "6": {
+              "word": "offend)",
+              "children": {
+                "3": {
+                  "word": "office)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "offense",
+              "children": {
+                "3": {
+                  "word": "offline",
+                  "children": {
+                    "2": {
+                      "word": "offside",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "officer",
+                  "children": {
+                    "1": {
+                      "word": "office~",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "officio",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "offkair",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ofusuma",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "ofallon",
+          "children": {
+            "3": {
+              "word": "oftooon",
+              "children": {}
+            },
+            "4": {
+              "word": "ofmomen",
+              "children": {}
+            },
+            "5": {
+              "word": "oficial",
+              "children": {
+                "5": {
+                  "word": "ofmind)",
+                  "children": {
+                    "3": {
+                      "word": "ofrenda",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "ofurode",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "ofurans",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(off-work)",
+      "children": {
+        "5": {
+          "word": "(off36106)",
+          "children": {
+            "5": {
+              "word": "(off8mile)",
+              "children": {
+                "5": {
+                  "word": "(office-t)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "officer)",
+              "children": {}
+            },
+            "7": {
+              "word": "off-pako",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(offerings",
+          "children": {
+            "5": {
+              "word": "offered)",
+              "children": {}
+            },
+            "6": {
+              "word": "(oftintys)",
+              "children": {
+                "7": {
+                  "word": "offtoner",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "off-seer",
+              "children": {
+                "5": {
+                  "word": "offonart",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "offender",
+          "children": {
+            "3": {
+              "word": "offside:",
+              "children": {}
+            },
+            "4": {
+              "word": "offering",
+              "children": {}
+            },
+            "5": {
+              "word": "offgyawa",
+              "children": {
+                "5": {
+                  "word": "official",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ofukousu",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "ofalllll",
+          "children": {
+            "5": {
+              "word": "ofanimon",
+              "children": {
+                "5": {
+                  "word": "ofinnalp",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ofcheese",
+              "children": {
+                "6": {
+                  "word": "ofteyvat",
+                  "children": {
+                    "6": {
+                      "word": "ofukiimo",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(offlinetv)",
+      "children": {
+        "2": {
+          "word": "offlinetv",
+          "children": {}
+        },
+        "6": {
+          "word": "(offrecord)",
+          "children": {
+            "6": {
+              "word": "offering)",
+              "children": {
+                "4": {
+                  "word": "official)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "officer's",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "offensive",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "ofelia237",
+          "children": {
+            "5": {
+              "word": "ofliatata",
+              "children": {}
+            },
+            "6": {
+              "word": "officiall",
+              "children": {
+                "2": {
+                  "word": "officiant",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "off-white",
+              "children": {
+                "6": {
+                  "word": "offnanoda",
+                  "children": {
+                    "6": {
+                      "word": "offset45n",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "o'farrell",
+          "children": {
+            "6": {
+              "word": "offertory",
+              "children": {
+                "6": {
+                  "word": "offspring",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "off-color",
+              "children": {
+                "4": {
+                  "word": "off-topic",
+                  "children": {}
+                },
+                "5": {
+                  "word": "offtoon12",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "ofu-white",
+              "children": {
+                "6": {
+                  "word": "ofutonno1",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(offthem00n)",
+      "children": {
+        "6": {
+          "word": "offtheroad",
+          "children": {}
+        },
+        "7": {
+          "word": "ofthelimbo",
+          "children": {}
+        },
+        "8": {
+          "word": "offensive)",
+          "children": {
+            "5": {
+              "word": "offspring)",
+              "children": {}
+            },
+            "7": {
+              "word": "officalbun",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "offensive?",
+          "children": {
+            "7": {
+              "word": "officinale",
+              "children": {
+                "8": {
+                  "word": "ofigetjija",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "ofusan3030",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "o-furisode",
+          "children": {
+            "8": {
+              "word": "ofudonburi",
+              "children": {
+                "7": {
+                  "word": "ofukafukao",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "ofdarkness)",
+      "children": {
+        "8": {
+          "word": "offensive!)",
+          "children": {
+            "1": {
+              "word": "offensive?)",
+              "children": {}
+            },
+            "8": {
+              "word": "officinalis",
+              "children": {
+                "8": {
+                  "word": "ofuransujin",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "ofuchobetto",
+              "children": {
+                "8": {
+                  "word": "ofuroya-san",
+                  "children": {
+                    "6": {
+                      "word": "ofutonmushi",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "officialart",
+          "children": {
+            "9": {
+              "word": "oftondisuki",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "word": "off-shoulder",
+      "children": {
+        "8": {
+          "word": "offbrandomar",
+          "children": {}
+        },
+        "9": {
+          "word": "off0511tsuna",
+          "children": {
+            "8": {
+              "word": "ofukuro-sama",
+              "children": {}
+            },
+            "9": {
+              "word": "offensive?!)",
+              "children": {
+                "9": {
+                  "word": "officialgrsn",
+                  "children": {
+                    "9": {
+                      "word": "offtonton666",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "ofurofuro1234",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "offbeatreboot",
+      "children": {
+        "9": {
+          "word": "officeanomaly",
+          "children": {}
+        },
+        "10": {
+          "word": "ofutunforever",
+          "children": {}
+        },
+        "11": {
+          "word": "ofutonnnineko",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "offoifayzcwx0eg",
+      "children": {}
+    },
+    "14": {
+      "word": "officialseraphi",
+      "children": {}
+    },
+    "16": {
+      "word": "offencearmor-0131",
+      "children": {}
+    },
+    "17": {
+      "word": "oflor-de-lisbonita",
+      "children": {}
+    }
+  }
+}

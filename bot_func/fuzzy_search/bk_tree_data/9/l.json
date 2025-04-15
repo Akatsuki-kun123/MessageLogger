@@ -1,0 +1,40 @@
+{
+  "word": "(9lilin)",
+  "children": {
+    "4": {
+      "word": "(9lxck)",
+      "children": {}
+    },
+    "5": {
+      "word": "9lana",
+      "children": {}
+    },
+    "6": {
+      "word": "9l200",
+      "children": {
+        "3": {
+          "word": "9lara",
+          "children": {
+            "2": {
+              "word": "9law",
+              "children": {
+                "3": {
+                  "word": "9lore",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "9lov",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "9lfylqjnuann3vr",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "word": "(8f2k3)",
+  "children": {
+    "5": {
+      "word": "8fight",
+      "children": {
+        "4": {
+          "word": "8flag",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "8-foot",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "word": "(3t)",
+  "children": {
+    "1": {
+      "word": "(3t))",
+      "children": {}
+    },
+    "2": {
+      "word": "(3tya)",
+      "children": {
+        "3": {
+          "word": "3ta",
+          "children": {
+            "2": {
+              "word": "3tl)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "3t1",
+          "children": {
+            "1": {
+              "word": "3tb",
+              "children": {
+                "1": {
+                  "word": "3tn",
+                  "children": {
+                    "1": {
+                      "word": "3ts",
+                      "children": {
+                        "1": {
+                          "word": "3tt",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(3tq0x)",
+      "children": {
+        "5": {
+          "word": "3t-m",
+          "children": {
+            "2": {
+              "word": "3ta2",
+              "children": {
+                "1": {
+                  "word": "3to2",
+                  "children": {}
+                },
+                "2": {
+                  "word": "3top",
+                  "children": {
+                    "2": {
+                      "word": "3tsu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(3tohei)",
+      "children": {
+        "5": {
+          "word": "3team",
+          "children": {
+            "2": {
+              "word": "3teki",
+              "children": {}
+            },
+            "3": {
+              "word": "3toka",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "3-ton",
+          "children": {
+            "3": {
+              "word": "3tang",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(3takeee)",
+      "children": {
+        "7": {
+          "word": "3tnmy2",
+          "children": {
+            "3": {
+              "word": "3tsuya",
+              "children": {}
+            },
+            "4": {
+              "word": "3tsuki",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(3ten1415)",
+      "children": {
+        "8": {
+          "word": "3tomato",
+          "children": {
+            "4": {
+              "word": "3tsukao",
+              "children": {
+                "4": {
+                  "word": "3twotwo",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "3triple",
+              "children": {
+                "5": {
+                  "word": "3tsusan",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "3thfloor1",
+      "children": {}
+    },
+    "9": {
+      "word": "(3toshinhmkz)",
+      "children": {}
+    },
+    "10": {
+      "word": "(3t14kine1592)",
+      "children": {
+        "10": {
+          "word": "3tokitamago",
+          "children": {}
+        }
+      }
+    }
+  }
+}

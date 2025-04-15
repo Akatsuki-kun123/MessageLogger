@@ -1,0 +1,613 @@
+{
+  "word": "(sv)",
+  "children": {
+    "1": {
+      "word": "(sv7)",
+      "children": {
+        "2": {
+          "word": "sv)",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "(svet",
+      "children": {
+        "2": {
+          "word": "sve",
+          "children": {
+            "1": {
+              "word": "svt",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(svhs)",
+          "children": {
+            "4": {
+              "word": "sv",
+              "children": {
+                "1": {
+                  "word": "sv2",
+                  "children": {
+                    "1": {
+                      "word": "sva",
+                      "children": {
+                        "1": {
+                          "word": "svc",
+                          "children": {
+                            "1": {
+                              "word": "svd",
+                              "children": {
+                                "1": {
+                                  "word": "svj",
+                                  "children": {
+                                    "1": {
+                                      "word": "svu",
+                                      "children": {
+                                        "1": {
+                                          "word": "svv",
+                                          "children": {
+                                            "1": {
+                                              "word": "svx",
+                                              "children": {
+                                                "1": {
+                                                  "word": "svz",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(sv23d)",
+      "children": {
+        "5": {
+          "word": "svch",
+          "children": {
+            "2": {
+              "word": "svea",
+              "children": {
+                "1": {
+                  "word": "sven",
+                  "children": {
+                    "1": {
+                      "word": "svet",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "svia",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "svin",
+                  "children": {
+                    "2": {
+                      "word": "svlt",
+                      "children": {
+                        "2": {
+                          "word": "svnx",
+                          "children": {
+                            "2": {
+                              "word": "svol",
+                              "children": {
+                                "2": {
+                                  "word": "svs0",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(svdaaa)",
+      "children": {
+        "4": {
+          "word": "(svnxyg)",
+          "children": {
+            "4": {
+              "word": "(svtfoe)",
+              "children": {}
+            },
+            "6": {
+              "word": "svana",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "svard",
+          "children": {
+            "3": {
+              "word": "sveta",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "sv-51",
+          "children": {
+            "2": {
+              "word": "sv-98",
+              "children": {
+                "3": {
+                  "word": "sv001",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "sv800",
+              "children": {
+                "3": {
+                  "word": "sveid",
+                  "children": {
+                    "2": {
+                      "word": "svmin",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "svrsr",
+                      "children": {
+                        "2": {
+                          "word": "svrwe",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "svxxx",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(sve4313)",
+      "children": {
+        "5": {
+          "word": "(svitato)",
+          "children": {
+            "7": {
+              "word": "sv-303",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "svaerd)",
+          "children": {
+            "4": {
+              "word": "svelgr",
+              "children": {
+                "3": {
+                  "word": "svenat",
+                  "children": {
+                    "2": {
+                      "word": "svensk",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "svetla",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "svt-38",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "sv-262",
+          "children": {
+            "4": {
+              "word": "svacob",
+              "children": {
+                "2": {
+                  "word": "svarog",
+                  "children": {}
+                },
+                "3": {
+                  "word": "svaerd",
+                  "children": {
+                    "3": {
+                      "word": "svanas",
+                      "children": {
+                        "2": {
+                          "word": "svanna",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "svplay",
+                  "children": {
+                    "4": {
+                      "word": "svt-40",
+                      "children": {
+                        "4": {
+                          "word": "svvshi",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(svengali)",
+      "children": {
+        "4": {
+          "word": "(svenners)",
+          "children": {}
+        },
+        "6": {
+          "word": "(svsc8544)",
+          "children": {
+            "4": {
+              "word": "(svzu4524)",
+              "children": {}
+            },
+            "5": {
+              "word": "(svtv2525)",
+              "children": {
+                "6": {
+                  "word": "(svvj8832)",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "svalinn",
+              "children": {
+                "2": {
+                  "word": "svelien",
+                  "children": {}
+                },
+                "3": {
+                  "word": "svaniel",
+                  "children": {}
+                },
+                "4": {
+                  "word": "svenson",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "svelten",
+          "children": {
+            "5": {
+              "word": "sviggum",
+              "children": {
+                "5": {
+                  "word": "svnthzc",
+                  "children": {
+                    "5": {
+                      "word": "svtcool",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "svaerd:",
+          "children": {
+            "4": {
+              "word": "svarner",
+              "children": {
+                "3": {
+                  "word": "svarzye",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "svctory",
+              "children": {
+                "3": {
+                  "word": "svdpony",
+                  "children": {}
+                },
+                "4": {
+                  "word": "svirepy",
+                  "children": {}
+                },
+                "5": {
+                  "word": "sviuivs",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "sv-camel",
+      "children": {
+        "5": {
+          "word": "svanasch",
+          "children": {
+            "6": {
+              "word": "svickova",
+              "children": {
+                "5": {
+                  "word": "svxc7744",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "svalbaru",
+          "children": {
+            "5": {
+              "word": "svanhild",
+              "children": {
+                "4": {
+                  "word": "svaquish",
+                  "children": {}
+                },
+                "6": {
+                  "word": "svetiana",
+                  "children": {
+                    "1": {
+                      "word": "svetlana",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "svcu5338",
+              "children": {
+                "4": {
+                  "word": "svgg5325",
+                  "children": {
+                    "6": {
+                      "word": "svvy8438",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "svyn4837",
+                  "children": {}
+                },
+                "6": {
+                  "word": "svensson",
+                  "children": {
+                    "5": {
+                      "word": "svinnoyg",
+                      "children": {
+                        "6": {
+                          "word": "svvvesha",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "sviellya",
+                      "children": {
+                        "5": {
+                          "word": "svioress",
+                          "children": {
+                            "5": {
+                              "word": "svorcina",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "svlk-14s",
+                          "children": {
+                            "6": {
+                              "word": "svoidist",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "svag4353)",
+          "children": {
+            "5": {
+              "word": "svmg2278)",
+              "children": {
+                "5": {
+                  "word": "svwn4475)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "svhm2478)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "sv02chiyo",
+      "children": {
+        "6": {
+          "word": "svarbhanu",
+          "children": {
+            "6": {
+              "word": "svetskaya",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "svafrlami",
+          "children": {
+            "5": {
+              "word": "svatoslav",
+              "children": {}
+            },
+            "6": {
+              "word": "svanbaeck",
+              "children": {}
+            },
+            "7": {
+              "word": "sveasouls",
+              "children": {
+                "5": {
+                  "word": "svyatogor",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(sverige1013)",
+      "children": {
+        "10": {
+          "word": "svartlilja",
+          "children": {
+            "3": {
+              "word": "svartpilen",
+              "children": {}
+            },
+            "7": {
+              "word": "svenskpojk",
+              "children": {
+                "5": {
+                  "word": "svestapool",
+                  "children": {}
+                },
+                "7": {
+                  "word": "svetlyypie",
+                  "children": {
+                    "5": {
+                      "word": "svetty-art",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "svinorezka",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "svkhaiminh",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "svveetberry",
+      "children": {}
+    },
+    "11": {
+      "word": "sveltefleuve",
+      "children": {
+        "9": {
+          "word": "svrnl-rnlsnd",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "svenojilasity",
+      "children": {
+        "8": {
+          "word": "sverhnovapony",
+          "children": {}
+        },
+        "10": {
+          "word": "sviatoslavovna",
+          "children": {}
+        },
+        "11": {
+          "word": "svrt-degraded",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "(svfmor0pnavizvr)",
+      "children": {
+        "14": {
+          "word": "sverigedrakten",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "sv5fasc8fc0moux",
+      "children": {}
+    }
+  }
+}

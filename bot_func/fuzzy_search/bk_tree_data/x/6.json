@@ -1,0 +1,60 @@
+{
+  "word": "(x618760402)",
+  "children": {
+    "6": {
+      "word": "(x6328442)",
+      "children": {}
+    },
+    "7": {
+      "word": "x68000",
+      "children": {}
+    },
+    "8": {
+      "word": "(x67937183)",
+      "children": {
+        "8": {
+          "word": "x666)",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "x6)",
+      "children": {
+        "1": {
+          "word": "x64",
+          "children": {}
+        },
+        "2": {
+          "word": "x622",
+          "children": {}
+        },
+        "8": {
+          "word": "x626103833",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "x-6",
+      "children": {
+        "1": {
+          "word": "x6",
+          "children": {}
+        },
+        "2": {
+          "word": "x6f",
+          "children": {}
+        },
+        "5": {
+          "word": "x6suke",
+          "children": {}
+        },
+        "11": {
+          "word": "x654123731526",
+          "children": {}
+        }
+      }
+    }
+  }
+}

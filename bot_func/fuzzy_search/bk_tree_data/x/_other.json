@@ -1,0 +1,56 @@
+{
+  "word": "(@x",
+  "children": {
+    "1": {
+      "word": "(x",
+      "children": {}
+    },
+    "2": {
+      "word": "(x)",
+      "children": {
+        "2": {
+          "word": "x",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "x'",
+      "children": {
+        "1": {
+          "word": "x)",
+          "children": {
+            "1": {
+              "word": "x.",
+              "children": {
+                "1": {
+                  "word": "x:",
+                  "children": {
+                    "1": {
+                      "word": "x<",
+                      "children": {
+                        "1": {
+                          "word": "x?",
+                          "children": {
+                            "1": {
+                              "word": "x~",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "x))",
+          "children": {}
+        }
+      }
+    }
+  }
+}

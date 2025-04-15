@@ -1,0 +1,119 @@
+{
+  "word": "(1ch",
+  "children": {
+    "1": {
+      "word": "1ch",
+      "children": {}
+    },
+    "2": {
+      "word": "1ca",
+      "children": {
+        "1": {
+          "word": "1ce",
+          "children": {
+            "1": {
+              "word": "1cm",
+              "children": {
+                "1": {
+                  "word": "1cr",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "1chi",
+          "children": {
+            "2": {
+              "word": "1cph",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(1con)",
+      "children": {
+        "4": {
+          "word": "1chan",
+          "children": {
+            "2": {
+              "word": "1chip",
+              "children": {}
+            },
+            "3": {
+              "word": "1clq",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(1chi63)",
+      "children": {
+        "2": {
+          "word": "(1chiro)",
+          "children": {}
+        },
+        "3": {
+          "word": "(1coin)",
+          "children": {}
+        },
+        "4": {
+          "word": "1chiya",
+          "children": {}
+        },
+        "5": {
+          "word": "1chabl",
+          "children": {
+            "4": {
+              "word": "1cll)",
+              "children": {
+                "3": {
+                  "word": "1coin",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "1cem1nt",
+      "children": {
+        "4": {
+          "word": "1cezhun1",
+          "children": {}
+        },
+        "5": {
+          "word": "1cyaya1",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "1/casual)",
+      "children": {}
+    },
+    "9": {
+      "word": "1channyanko",
+      "children": {}
+    },
+    "10": {
+      "word": "1c3ink3tk4n",
+      "children": {}
+    },
+    "13": {
+      "word": "1cjh1lwnghlhtkj",
+      "children": {}
+    },
+    "14": {
+      "word": "1cjwqtbkrs23559",
+      "children": {}
+    }
+  }
+}

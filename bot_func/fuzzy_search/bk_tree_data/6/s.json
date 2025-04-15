@@ -1,0 +1,63 @@
+{
+  "word": "(6sk)",
+  "children": {
+    "2": {
+      "word": "(6suke",
+      "children": {}
+    },
+    "3": {
+      "word": "6s",
+      "children": {
+        "1": {
+          "word": "6sb",
+          "children": {
+            "1": {
+              "word": "6sh",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "6san",
+          "children": {
+            "2": {
+              "word": "6sec",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "6sakuu",
+      "children": {
+        "3": {
+          "word": "6shui",
+          "children": {
+            "4": {
+              "word": "6sukeb",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "6star",
+          "children": {
+            "2": {
+              "word": "6suan",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "6-saiko",
+      "children": {}
+    },
+    "7": {
+      "word": "6-string",
+      "children": {}
+    }
+  }
+}

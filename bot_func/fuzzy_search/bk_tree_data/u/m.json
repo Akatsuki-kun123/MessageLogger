@@ -1,0 +1,4827 @@
+{
+  "word": "(u-ma)",
+  "children": {
+    "2": {
+      "word": "(u-me",
+      "children": {
+        "2": {
+          "word": "(um)",
+          "children": {
+            "1": {
+              "word": "(uma",
+              "children": {
+                "2": {
+                  "word": "(ume)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(umas",
+          "children": {
+            "2": {
+              "word": "(umu)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "uma)",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(um",
+      "children": {
+        "1": {
+          "word": "(umc",
+          "children": {
+            "1": {
+              "word": "(ume",
+              "children": {
+                "1": {
+                  "word": "(umi",
+                  "children": {
+                    "1": {
+                      "word": "(umn",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "u-m",
+          "children": {
+            "2": {
+              "word": "um)",
+              "children": {
+                "1": {
+                  "word": "uma",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(umaku",
+          "children": {
+            "1": {
+              "word": "(umaru",
+              "children": {}
+            },
+            "2": {
+              "word": "umau",
+              "children": {}
+            },
+            "3": {
+              "word": "(umbs)",
+              "children": {
+                "2": {
+                  "word": "(umri)",
+                  "children": {
+                    "1": {
+                      "word": "(umui)",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "umk)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "uma1",
+                  "children": {
+                    "1": {
+                      "word": "uma2",
+                      "children": {
+                        "1": {
+                          "word": "uma5",
+                          "children": {
+                            "1": {
+                              "word": "uma9",
+                              "children": {
+                                "1": {
+                                  "word": "umaa",
+                                  "children": {
+                                    "1": {
+                                      "word": "umai",
+                                      "children": {
+                                        "1": {
+                                          "word": "umao",
+                                          "children": {
+                                            "1": {
+                                              "word": "umar",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "u-mu",
+              "children": {
+                "2": {
+                  "word": "umm)",
+                  "children": {}
+                },
+                "3": {
+                  "word": "umb)",
+                  "children": {
+                    "1": {
+                      "word": "ume)",
+                      "children": {
+                        "1": {
+                          "word": "umh)",
+                          "children": {
+                            "1": {
+                              "word": "umi)",
+                              "children": {
+                                "1": {
+                                  "word": "ums)",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "u-mg",
+              "children": {
+                "1": {
+                  "word": "u-mi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(umabi)",
+          "children": {
+            "2": {
+              "word": "umai)",
+              "children": {}
+            },
+            "5": {
+              "word": "u-mil",
+              "children": {
+                "1": {
+                  "word": "u-min",
+                  "children": {}
+                },
+                "3": {
+                  "word": "ummay",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "u-mos",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(um7mr1)",
+      "children": {
+        "3": {
+          "word": "(umemaru)",
+          "children": {
+            "4": {
+              "word": "(umum78)",
+              "children": {
+                "4": {
+                  "word": "(umzkr)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(umadam)",
+          "children": {
+            "3": {
+              "word": "(umihan)",
+              "children": {}
+            },
+            "4": {
+              "word": "(umbral",
+              "children": {
+                "2": {
+                  "word": "umbra)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "(ume15)",
+                  "children": {
+                    "3": {
+                      "word": "(umi02)",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "umare)",
+                      "children": {
+                        "1": {
+                          "word": "umaru)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "(umeaji)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "umm15",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(umaiyo",
+          "children": {
+            "2": {
+              "word": "(umiko",
+              "children": {
+                "1": {
+                  "word": "(umino",
+                  "children": {}
+                },
+                "2": {
+                  "word": "(umiya",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "(umauma",
+              "children": {
+                "3": {
+                  "word": "(umita",
+                  "children": {}
+                },
+                "4": {
+                  "word": "(umibe",
+                  "children": {
+                    "4": {
+                      "word": "umaro",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "uma13",
+              "children": {
+                "2": {
+                  "word": "umame",
+                  "children": {
+                    "1": {
+                      "word": "umami",
+                      "children": {
+                        "2": {
+                          "word": "umare",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "umara",
+                      "children": {
+                        "1": {
+                          "word": "umari",
+                          "children": {
+                            "1": {
+                              "word": "umaru",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "umaai)",
+                  "children": {
+                    "3": {
+                      "word": "umio)",
+                      "children": {
+                        "3": {
+                          "word": "ummi",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "um1",
+              "children": {
+                "1": {
+                  "word": "umm",
+                  "children": {
+                    "1": {
+                      "word": "umr",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "umm6",
+                  "children": {
+                    "1": {
+                      "word": "ummm",
+                      "children": {
+                        "1": {
+                          "word": "ummu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "umtr",
+                      "children": {
+                        "2": {
+                          "word": "umum",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "umee)",
+                  "children": {
+                    "3": {
+                      "word": "ummsm",
+                      "children": {
+                        "2": {
+                          "word": "ummwa",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "u-more",
+          "children": {
+            "3": {
+              "word": "uma-e",
+              "children": {
+                "1": {
+                  "word": "umabe",
+                  "children": {}
+                },
+                "2": {
+                  "word": "ume",
+                  "children": {
+                    "1": {
+                      "word": "umee",
+                      "children": {
+                        "1": {
+                          "word": "umie",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "umo",
+                  "children": {
+                    "1": {
+                      "word": "umon",
+                      "children": {
+                        "1": {
+                          "word": "umoo",
+                          "children": {
+                            "1": {
+                              "word": "umop",
+                              "children": {
+                                "1": {
+                                  "word": "umou",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "um",
+              "children": {
+                "1": {
+                  "word": "um-",
+                  "children": {
+                    "1": {
+                      "word": "um2",
+                      "children": {
+                        "1": {
+                          "word": "umb",
+                          "children": {
+                            "1": {
+                              "word": "umd",
+                              "children": {
+                                "1": {
+                                  "word": "umi",
+                                  "children": {
+                                    "1": {
+                                      "word": "umk",
+                                      "children": {
+                                        "1": {
+                                          "word": "umn",
+                                          "children": {
+                                            "1": {
+                                              "word": "ump",
+                                              "children": {
+                                                "1": {
+                                                  "word": "umu",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "umy",
+                                                      "children": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "um99",
+                  "children": {
+                    "1": {
+                      "word": "ump9",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "umba",
+                      "children": {
+                        "1": {
+                          "word": "umbs",
+                          "children": {
+                            "2": {
+                              "word": "umia",
+                              "children": {
+                                "1": {
+                                  "word": "umka",
+                                  "children": {
+                                    "1": {
+                                      "word": "umya",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "umei",
+                          "children": {
+                            "1": {
+                              "word": "umek",
+                              "children": {
+                                "1": {
+                                  "word": "umeo",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "umgi",
+                                  "children": {
+                                    "1": {
+                                      "word": "umii",
+                                      "children": {
+                                        "1": {
+                                          "word": "umji",
+                                          "children": {
+                                            "1": {
+                                              "word": "umui",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "umgj",
+                              "children": {
+                                "2": {
+                                  "word": "umi!",
+                                  "children": {
+                                    "1": {
+                                      "word": "umi2",
+                                      "children": {
+                                        "1": {
+                                          "word": "umin",
+                                          "children": {
+                                            "1": {
+                                              "word": "umio",
+                                              "children": {
+                                                "1": {
+                                                  "word": "umiu",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "umix",
+                                                      "children": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "umtk",
+                                      "children": {
+                                        "2": {
+                                          "word": "umul",
+                                          "children": {
+                                            "1": {
+                                              "word": "umuz",
+                                              "children": {}
+                                            },
+                                            "2": {
+                                              "word": "umvs",
+                                              "children": {
+                                                "1": {
+                                                  "word": "umys",
+                                                  "children": {}
+                                                },
+                                                "2": {
+                                                  "word": "umwg",
+                                                  "children": {
+                                                    "2": {
+                                                      "word": "umxx",
+                                                      "children": {
+                                                        "2": {
+                                                          "word": "umyo",
+                                                          "children": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "uma56",
+                  "children": {
+                    "1": {
+                      "word": "uma58",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "uma89",
+                      "children": {
+                        "2": {
+                          "word": "umaaa",
+                          "children": {
+                            "1": {
+                              "word": "umaai",
+                              "children": {
+                                "2": {
+                                  "word": "umaha",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "umabi",
+                              "children": {
+                                "1": {
+                                  "word": "umani",
+                                  "children": {
+                                    "1": {
+                                      "word": "umapi",
+                                      "children": {
+                                        "1": {
+                                          "word": "umasi",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "umaco",
+                                  "children": {
+                                    "1": {
+                                      "word": "umako",
+                                      "children": {
+                                        "1": {
+                                          "word": "umano",
+                                          "children": {
+                                            "1": {
+                                              "word": "umaso",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "umai!",
+                                      "children": {
+                                        "1": {
+                                          "word": "umai4",
+                                          "children": {}
+                                        },
+                                        "2": {
+                                          "word": "umaku",
+                                          "children": {
+                                            "1": {
+                                              "word": "umayu",
+                                              "children": {}
+                                            },
+                                            "2": {
+                                              "word": "umall",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "umean",
+                      "children": {
+                        "2": {
+                          "word": "umiao",
+                          "children": {
+                            "1": {
+                              "word": "umyao",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(u-mesoft)",
+      "children": {
+        "4": {
+          "word": "(umebo4)",
+          "children": {
+            "3": {
+              "word": "(umemoto)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(umagoya)",
+          "children": {
+            "3": {
+              "word": "(umegayu)",
+              "children": {}
+            },
+            "4": {
+              "word": "(umashio)",
+              "children": {
+                "4": {
+                  "word": "(umomoko)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(umko77)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(umbsum)",
+              "children": {
+                "4": {
+                  "word": "(ume645)",
+                  "children": {
+                    "4": {
+                      "word": "(umeumee)",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "(umisaki)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "(umeshu",
+              "children": {
+                "2": {
+                  "word": "(umesuk",
+                  "children": {}
+                },
+                "3": {
+                  "word": "umeso",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(uma1111)",
+          "children": {
+            "4": {
+              "word": "(uma2258)",
+              "children": {
+                "4": {
+                  "word": "(umabaji)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(umichan)",
+              "children": {
+                "3": {
+                  "word": "(umiharu)",
+                  "children": {
+                    "4": {
+                      "word": "(uminmin)",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "(umikwi)",
+                  "children": {
+                    "3": {
+                      "word": "(uminari)",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "(umitake)",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "(umkbtya)",
+                  "children": {
+                    "4": {
+                      "word": "(umouawa)",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "(umumumu)",
+                      "children": {
+                        "4": {
+                          "word": "(umuyari)",
+                          "children": {
+                            "3": {
+                              "word": "(umyuji)",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "(umeeda",
+              "children": {
+                "3": {
+                  "word": "(umezawa",
+                  "children": {
+                    "5": {
+                      "word": "umeee)",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "(umezaki",
+                  "children": {
+                    "3": {
+                      "word": "(umizoi",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "umasou",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "umedo",
+              "children": {
+                "1": {
+                  "word": "umeko",
+                  "children": {
+                    "1": {
+                      "word": "umeno",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "umeta",
+                  "children": {
+                    "2": {
+                      "word": "umoto",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(umi-chan",
+          "children": {
+            "4": {
+              "word": "(umihara",
+              "children": {
+                "6": {
+                  "word": "ume-san",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "umasan",
+              "children": {
+                "2": {
+                  "word": "umeran",
+                  "children": {}
+                },
+                "3": {
+                  "word": "umeha",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "umagon",
+              "children": {
+                "1": {
+                  "word": "umayon",
+                  "children": {}
+                },
+                "3": {
+                  "word": "umashi",
+                  "children": {
+                    "4": {
+                      "word": "umegae",
+                      "children": {
+                        "4": {
+                          "word": "umiato",
+                          "children": {
+                            "1": {
+                              "word": "umito",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "umiko",
+                              "children": {
+                                "1": {
+                                  "word": "umino",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "umeda",
+                  "children": {
+                    "1": {
+                      "word": "umeka",
+                      "children": {
+                        "1": {
+                          "word": "umeya",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "umemani",
+                      "children": {
+                        "4": {
+                          "word": "umojar",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "umise",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "umemaia",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "u-maimai",
+              "children": {
+                "4": {
+                  "word": "umapoi",
+                  "children": {
+                    "3": {
+                      "word": "umemi",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "uma274)",
+                  "children": {
+                    "5": {
+                      "word": "umegi",
+                      "children": {
+                        "1": {
+                          "word": "umeji",
+                          "children": {
+                            "1": {
+                              "word": "umeki",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "umori",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "umfvm",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "umemaro",
+                          "children": {
+                            "1": {
+                              "word": "umemaru",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "umbro",
+                  "children": {
+                    "2": {
+                      "word": "umbsy",
+                      "children": {
+                        "3": {
+                          "word": "umeru",
+                          "children": {
+                            "3": {
+                              "word": "umxzo",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "ume03",
+                      "children": {
+                        "1": {
+                          "word": "ume73",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "ume21",
+                          "children": {
+                            "2": {
+                              "word": "umede",
+                              "children": {
+                                "1": {
+                                  "word": "umedu",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "umeyu",
+                                  "children": {
+                                    "1": {
+                                      "word": "umezu",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "um130",
+          "children": {
+            "1": {
+              "word": "um630",
+              "children": {}
+            },
+            "2": {
+              "word": "umin0",
+              "children": {
+                "2": {
+                  "word": "ump40",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "um5pd",
+              "children": {
+                "2": {
+                  "word": "umipi",
+                  "children": {}
+                },
+                "3": {
+                  "word": "umber",
+                  "children": {
+                    "2": {
+                      "word": "umbil",
+                      "children": {
+                        "2": {
+                          "word": "umbra",
+                          "children": {
+                            "1": {
+                              "word": "umbre",
+                              "children": {
+                                "1": {
+                                  "word": "umbrz",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "umibe",
+                          "children": {
+                            "1": {
+                              "word": "umube",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "umi's",
+                      "children": {
+                        "2": {
+                          "word": "umika",
+                          "children": {
+                            "1": {
+                              "word": "umina",
+                              "children": {
+                                "1": {
+                                  "word": "umira",
+                                  "children": {
+                                    "1": {
+                                      "word": "umiya",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "umimi",
+                              "children": {
+                                "1": {
+                                  "word": "umini",
+                                  "children": {
+                                    "1": {
+                                      "word": "umiri",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "umine",
+                                  "children": {
+                                    "1": {
+                                      "word": "umiue",
+                                      "children": {}
+                                    },
+                                    "2": {
+                                      "word": "umiru",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "ump45",
+                          "children": {
+                            "3": {
+                              "word": "umumu",
+                              "children": {
+                                "2": {
+                                  "word": "umune",
+                                  "children": {
+                                    "1": {
+                                      "word": "umuni",
+                                      "children": {}
+                                    },
+                                    "2": {
+                                      "word": "umuya",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "uma'bo",
+              "children": {
+                "2": {
+                  "word": "umaijo",
+                  "children": {}
+                },
+                "3": {
+                  "word": "uma564",
+                  "children": {
+                    "3": {
+                      "word": "umaaai",
+                      "children": {
+                        "1": {
+                          "word": "umakai",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "umadam",
+                          "children": {
+                            "1": {
+                              "word": "umajam",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "umapan",
+                              "children": {
+                                "2": {
+                                  "word": "umaway",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "umamii",
+                              "children": {
+                                "1": {
+                                  "word": "umanii",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "umaina",
+                          "children": {
+                            "1": {
+                              "word": "umaine",
+                              "children": {
+                                "1": {
+                                  "word": "umainu",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "umajin",
+                              "children": {
+                                "1": {
+                                  "word": "umatin",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "umauma",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umi-ao",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "umbasa",
+                  "children": {
+                    "3": {
+                      "word": "umbral",
+                      "children": {
+                        "4": {
+                          "word": "umiari",
+                          "children": {
+                            "3": {
+                              "word": "umiuma",
+                              "children": {
+                                "3": {
+                                  "word": "umuamu",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umihal",
+                      "children": {
+                        "2": {
+                          "word": "uminar",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "umumum",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "uma-tan",
+              "children": {
+                "4": {
+                  "word": "umamake",
+                  "children": {}
+                },
+                "5": {
+                  "word": "umimami",
+                  "children": {
+                    "2": {
+                      "word": "umimaro",
+                      "children": {
+                        "1": {
+                          "word": "umimaru",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(u-ma991028)",
+      "children": {
+        "5": {
+          "word": "(ume1128)",
+          "children": {}
+        },
+        "6": {
+          "word": "(umauma016)",
+          "children": {
+            "6": {
+              "word": "(umesan08)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(umakoo3o)",
+          "children": {
+            "5": {
+              "word": "(umasimei)",
+              "children": {
+                "6": {
+                  "word": "(umino00)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(umi0707)",
+              "children": {}
+            },
+            "7": {
+              "word": "uma1212",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "(umbrella)",
+          "children": {
+            "4": {
+              "word": "(umireki)",
+              "children": {}
+            },
+            "5": {
+              "word": "(umeneko)",
+              "children": {
+                "1": {
+                  "word": "(umineko)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "(umweeei)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(umruruu)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(umfamily)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(ume22ke)",
+              "children": {
+                "3": {
+                  "word": "(umei234)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(ummw2384)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(umtiming)",
+                  "children": {
+                    "6": {
+                      "word": "(umyaooon)",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "(umiumicat)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "umai555)",
+              "children": {}
+            },
+            "8": {
+              "word": "um1227",
+              "children": {
+                "5": {
+                  "word": "uma0630",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "um0ume",
+          "children": {
+            "3": {
+              "word": "umaiumi",
+              "children": {}
+            },
+            "4": {
+              "word": "um41rn",
+              "children": {
+                "3": {
+                  "word": "umi111",
+                  "children": {}
+                },
+                "4": {
+                  "word": "umabred",
+                  "children": {
+                    "4": {
+                      "word": "umadura",
+                      "children": {
+                        "1": {
+                          "word": "umakura",
+                          "children": {
+                            "1": {
+                              "word": "umazura",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "umayuru",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "umaemon",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "ume219",
+                      "children": {
+                        "2": {
+                          "word": "ume25x",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "ume323",
+                          "children": {
+                            "1": {
+                              "word": "umee23",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "umi817",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "umaguti",
+                  "children": {
+                    "2": {
+                      "word": "umasugi",
+                      "children": {
+                        "1": {
+                          "word": "umasuki",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "umazuta",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "umamimi",
+                      "children": {
+                        "2": {
+                          "word": "umanami",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "umamusm",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "umaruzo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umanium",
+                      "children": {
+                        "4": {
+                          "word": "umaunya",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "umabeko",
+              "children": {
+                "3": {
+                  "word": "umareru",
+                  "children": {
+                    "2": {
+                      "word": "umareta",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "umarkov",
+                      "children": {
+                        "4": {
+                          "word": "umataro",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umashio",
+                      "children": {
+                        "3": {
+                          "word": "umayado",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "umachan",
+                  "children": {
+                    "1": {
+                      "word": "umachin",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "umahang",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "umaira5",
+                      "children": {
+                        "3": {
+                          "word": "umaksak",
+                          "children": {
+                            "3": {
+                              "word": "umayyad",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umanchu",
+                          "children": {
+                            "4": {
+                              "word": "umasann",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umaibou",
+                      "children": {
+                        "3": {
+                          "word": "umakizu",
+                          "children": {
+                            "2": {
+                              "word": "umannzu",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "umayasu",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "umapyoi",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umajiri",
+                          "children": {
+                            "2": {
+                              "word": "umanari",
+                              "children": {
+                                "1": {
+                                  "word": "umanori",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "umanisi",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "umapoii",
+                              "children": {
+                                "3": {
+                                  "word": "umayagi",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "umasara",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "uma-chan",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "umbaran",
+          "children": {
+            "2": {
+              "word": "umbrain",
+              "children": {
+                "2": {
+                  "word": "umbrant",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "umbric",
+              "children": {
+                "4": {
+                  "word": "umerean",
+                  "children": {}
+                },
+                "5": {
+                  "word": "umehara",
+                  "children": {
+                    "1": {
+                      "word": "umetara",
+                      "children": {
+                        "2": {
+                          "word": "umihara",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umichan",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "umousan",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "ume-chan",
+              "children": {
+                "1": {
+                  "word": "umi-chan",
+                  "children": {}
+                },
+                "2": {
+                  "word": "umecha",
+                  "children": {}
+                },
+                "3": {
+                  "word": "umicha",
+                  "children": {
+                    "2": {
+                      "word": "umschau",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "umedama",
+                  "children": {
+                    "1": {
+                      "word": "umetama",
+                      "children": {
+                        "1": {
+                          "word": "umeyama",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "umehaba",
+                      "children": {
+                        "2": {
+                          "word": "umekata",
+                          "children": {
+                            "1": {
+                              "word": "umekawa",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "umesawa",
+                              "children": {
+                                "1": {
+                                  "word": "umezawa",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "umewaka",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "umeharu",
+                      "children": {
+                        "3": {
+                          "word": "umejani",
+                          "children": {
+                            "1": {
+                              "word": "umetani",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "umemura",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umenin",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "umi-kun",
+                      "children": {
+                        "5": {
+                          "word": "umnshaw",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "umeaisu",
+                  "children": {
+                    "3": {
+                      "word": "umeiro",
+                      "children": {
+                        "2": {
+                          "word": "umerou",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "umerus",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umetaro",
+                      "children": {
+                        "5": {
+                          "word": "uminin",
+                          "children": {
+                            "2": {
+                              "word": "umpkin",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "umisea",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "umikawa",
+                      "children": {
+                        "1": {
+                          "word": "uminawa",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "umisaka",
+                          "children": {
+                            "1": {
+                              "word": "umitaka",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "umitama",
+                              "children": {
+                                "1": {
+                                  "word": "umiyama",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "umiwata",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "umimura",
+                          "children": {
+                            "2": {
+                              "word": "umiuta",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "uminoa",
+                              "children": {
+                                "1": {
+                                  "word": "uminya",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "umoten",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "umibato",
+                  "children": {
+                    "3": {
+                      "word": "umiiro",
+                      "children": {
+                        "1": {
+                          "word": "umipro",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "umijari",
+                          "children": {
+                            "1": {
+                              "word": "uminari",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umorazu",
+                      "children": {
+                        "4": {
+                          "word": "umuroo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "umpire",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "umecom",
+              "children": {
+                "2": {
+                  "word": "umelim",
+                  "children": {
+                    "3": {
+                      "word": "umezou",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "umegao7",
+                  "children": {
+                    "3": {
+                      "word": "umekko",
+                      "children": {
+                        "2": {
+                          "word": "umetyo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umeige",
+                      "children": {
+                        "1": {
+                          "word": "umesge",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "umeivy",
+                          "children": {
+                            "3": {
+                              "word": "umeume",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "umejima",
+                          "children": {
+                            "4": {
+                              "word": "umekei",
+                              "children": {
+                                "2": {
+                                  "word": "umeshi",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "umeshu",
+                                  "children": {
+                                    "1": {
+                                      "word": "umesyu",
+                                      "children": {}
+                                    },
+                                    "2": {
+                                      "word": "umetsu",
+                                      "children": {}
+                                    },
+                                    "4": {
+                                      "word": "umeumem",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "5": {
+                              "word": "uminoe",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umemori",
+                          "children": {
+                            "2": {
+                              "word": "umemoto",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "umixox",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "umichi",
+                      "children": {
+                        "2": {
+                          "word": "umickw",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "umeemeu",
+                  "children": {
+                    "3": {
+                      "word": "umekazu",
+                      "children": {
+                        "2": {
+                          "word": "umenasu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umegaki",
+                      "children": {
+                        "1": {
+                          "word": "umesaki",
+                          "children": {
+                            "1": {
+                              "word": "umezaki",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "umesake",
+                          "children": {
+                            "1": {
+                              "word": "umetake",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "umekage",
+                          "children": {
+                            "3": {
+                              "word": "umesato",
+                              "children": {
+                                "4": {
+                                  "word": "umigame",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umemiya",
+                          "children": {
+                            "4": {
+                              "word": "umiumi",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "umikame",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "umiimo",
+                          "children": {
+                            "2": {
+                              "word": "umiinu",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "uminet",
+                              "children": {
+                                "3": {
+                                  "word": "umitsu",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "umi333",
+                      "children": {
+                        "3": {
+                          "word": "umihio",
+                          "children": {
+                            "2": {
+                              "word": "umioto",
+                              "children": {
+                                "3": {
+                                  "word": "umishi",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "umiusi",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umikuma",
+                          "children": {
+                            "4": {
+                              "word": "umimoti",
+                              "children": {
+                                "1": {
+                                  "word": "umimoto",
+                                  "children": {}
+                                },
+                                "5": {
+                                  "word": "umunur",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "5": {
+                              "word": "umsisi",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "umigase",
+                  "children": {
+                    "2": {
+                      "word": "umijake",
+                      "children": {
+                        "2": {
+                          "word": "umikaze",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "umikaji",
+                      "children": {
+                        "2": {
+                          "word": "uminagi",
+                          "children": {
+                            "2": {
+                              "word": "umisaki",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "uminato",
+                          "children": {
+                            "1": {
+                              "word": "umisato",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "uminayu",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umiusea",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umimachi",
+                      "children": {
+                        "4": {
+                          "word": "umimiya",
+                          "children": {
+                            "5": {
+                              "word": "umusagi",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "umezu-san",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(uma012017)",
+      "children": {
+        "5": {
+          "word": "uma12916",
+          "children": {}
+        },
+        "6": {
+          "word": "(umacyann1)",
+          "children": {
+            "6": {
+              "word": "(umakatare)",
+              "children": {
+                "4": {
+                  "word": "(umapotato)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(umamusume)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(umanihiki)",
+                  "children": {
+                    "7": {
+                      "word": "(umauma0602)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "(umeko002)",
+              "children": {
+                "2": {
+                  "word": "(umiko003)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(umsf2734)",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "umn1010",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(umbraclaw)",
+          "children": {
+            "4": {
+              "word": "(umbrasoul)",
+              "children": {}
+            },
+            "6": {
+              "word": "(umedayooo)",
+              "children": {
+                "5": {
+                  "word": "(umisasori)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(umekichi)",
+                  "children": {
+                    "5": {
+                      "word": "(umjulioai)",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "(umieqlbs)",
+                  "children": {
+                    "6": {
+                      "word": "(umrs8555)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "(umetsubo)",
+              "children": {
+                "4": {
+                  "word": "(umeumebox)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(umiboshi)",
+                  "children": {
+                    "6": {
+                      "word": "(umtz4723)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "uma<3dol)",
+              "children": {
+                "6": {
+                  "word": "umappy0i",
+                  "children": {}
+                },
+                "7": {
+                  "word": "umeda210",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "um0gzu1",
+              "children": {
+                "5": {
+                  "word": "ume0000",
+                  "children": {
+                    "5": {
+                      "word": "umi1126",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(umbrella",
+          "children": {
+            "2": {
+              "word": "umbrella)",
+              "children": {}
+            },
+            "5": {
+              "word": "(umidigda",
+              "children": {
+                "7": {
+                  "word": "umber00",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(umeboshi",
+              "children": {
+                "5": {
+                  "word": "(umenomiya",
+                  "children": {}
+                },
+                "6": {
+                  "word": "umaajiha",
+                  "children": {
+                    "3": {
+                      "word": "umashika",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "umadonna",
+                      "children": {
+                        "4": {
+                          "word": "umasiosa",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "umel234",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "umaisaka",
+                  "children": {
+                    "5": {
+                      "word": "umazetto",
+                      "children": {
+                        "5": {
+                          "word": "umineko)",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "umoriu1",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "uma54coe",
+              "children": {
+                "4": {
+                  "word": "umagorou",
+                  "children": {
+                    "2": {
+                      "word": "umatarou",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "umahorse",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "umamochi",
+                      "children": {
+                        "4": {
+                          "word": "umayoude",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "umaikaze",
+                      "children": {
+                        "3": {
+                          "word": "umaiyone",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "umakuchi",
+                          "children": {
+                            "2": {
+                              "word": "umatachi",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "umachoko",
+                  "children": {
+                    "2": {
+                      "word": "umashiko",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "umaohagi",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "umaharu.",
+                      "children": {
+                        "3": {
+                          "word": "umairrum",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "umakrrrr",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "umaigumi",
+                          "children": {
+                            "4": {
+                              "word": "umakoshi",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "umapomeh",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "umamanura",
+                  "children": {
+                    "6": {
+                      "word": "umaru-chan",
+                      "children": {
+                        "8": {
+                          "word": "umm2228p",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "ume2888",
+                      "children": {
+                        "4": {
+                          "word": "ume9915",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "umi8315",
+                          "children": {
+                            "4": {
+                              "word": "umiii73",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "(umesyuumai)",
+              "children": {
+                "8": {
+                  "word": "umaru-chan)",
+                  "children": {
+                    "7": {
+                      "word": "umauma321",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "umup5874)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "um66syt",
+          "children": {
+            "4": {
+              "word": "umekiyo",
+              "children": {
+                "1": {
+                  "word": "umeyiyo",
+                  "children": {}
+                },
+                "3": {
+                  "word": "umeshyu",
+                  "children": {
+                    "4": {
+                      "word": "umikoya",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "umiisle",
+                  "children": {
+                    "3": {
+                      "word": "umiushi",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "umklttt",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "umbrebat",
+              "children": {
+                "3": {
+                  "word": "umbreon",
+                  "children": {}
+                },
+                "4": {
+                  "word": "umihebi",
+                  "children": {
+                    "2": {
+                      "word": "umireki",
+                      "children": {
+                        "3": {
+                          "word": "umonebi",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "umoregi",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "umebird",
+                  "children": {
+                    "3": {
+                      "word": "umebosi",
+                      "children": {
+                        "3": {
+                          "word": "umehisa",
+                          "children": {
+                            "3": {
+                              "word": "umetora",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umibito",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umeneko",
+                      "children": {
+                        "2": {
+                          "word": "umenoka",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "umeroku",
+                          "children": {
+                            "4": {
+                              "word": "umetubo",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umeocha",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "umikura",
+                          "children": {
+                            "2": {
+                              "word": "umisora",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "umisida",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "umiri's",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "umidemi",
+                      "children": {
+                        "2": {
+                          "word": "umiheki",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "umineco",
+                          "children": {
+                            "1": {
+                              "word": "umineko",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umiroku",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "umiinsao",
+                      "children": {
+                        "4": {
+                          "word": "umiitati",
+                          "children": {
+                            "4": {
+                              "word": "umimeshi",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "umecchi",
+                  "children": {
+                    "2": {
+                      "word": "umiichi",
+                      "children": {
+                        "1": {
+                          "word": "umiuchi",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "umegiri",
+                      "children": {
+                        "2": {
+                          "word": "umenori",
+                          "children": {
+                            "1": {
+                              "word": "umetori",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "umenoki",
+                          "children": {
+                            "2": {
+                              "word": "umesuki",
+                              "children": {
+                                "1": {
+                                  "word": "umeyuki",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umekohu",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "uminchu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "umedrop",
+                      "children": {
+                        "4": {
+                          "word": "umehime",
+                          "children": {
+                            "3": {
+                              "word": "umejiru",
+                              "children": {
+                                "2": {
+                                  "word": "umejiso",
+                                  "children": {
+                                    "2": {
+                                      "word": "umepisu",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "3": {
+                                  "word": "umekick",
+                                  "children": {
+                                    "3": {
+                                      "word": "umeziso",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "4": {
+                                  "word": "umesuke",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "umekoex",
+                              "children": {
+                                "3": {
+                                  "word": "umenodo",
+                                  "children": {
+                                    "2": {
+                                      "word": "umezono",
+                                      "children": {}
+                                    },
+                                    "3": {
+                                      "word": "umetofu",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "4": {
+                                  "word": "umeppi3",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "5": {
+                              "word": "umidori",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "umigiri",
+                          "children": {
+                            "2": {
+                              "word": "umikuri",
+                              "children": {
+                                "1": {
+                                  "word": "umiyuri",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "umituki",
+                              "children": {
+                                "1": {
+                                  "word": "umiyuki",
+                                  "children": {
+                                    "1": {
+                                      "word": "umizuki",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "umizumi",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "umishio",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "uminashi",
+                          "children": {
+                            "1": {
+                              "word": "umiwashi",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "umibird",
+                      "children": {
+                        "2": {
+                          "word": "umigirl",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "umibozu",
+                          "children": {
+                            "4": {
+                              "word": "umihiko",
+                              "children": {
+                                "1": {
+                                  "word": "umihito",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "umiyury",
+                                  "children": {
+                                    "5": {
+                                      "word": "umobile",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umifug3",
+                          "children": {
+                            "3": {
+                              "word": "umigumo",
+                              "children": {
+                                "2": {
+                                  "word": "uminuko",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "umisuke",
+                                  "children": {
+                                    "2": {
+                                      "word": "umisuzu",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "umikoto",
+                              "children": {
+                                "2": {
+                                  "word": "umipote",
+                                  "children": {
+                                    "3": {
+                                      "word": "umitomo",
+                                      "children": {
+                                        "2": {
+                                          "word": "umizono",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "3": {
+                                  "word": "uminome",
+                                  "children": {
+                                    "2": {
+                                      "word": "uminosu",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "4": {
+                                  "word": "umippuu",
+                                  "children": {
+                                    "3": {
+                                      "word": "umishou",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "umiusagi",
+                          "children": {
+                            "5": {
+                              "word": "umiyasha",
+                              "children": {
+                                "5": {
+                                  "word": "umyonge",
+                                  "children": {}
+                                },
+                                "6": {
+                                  "word": "umkaqryi",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "6": {
+                              "word": "umovomu",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "umbraria",
+              "children": {
+                "4": {
+                  "word": "umehara:",
+                  "children": {
+                    "3": {
+                      "word": "umetarou",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "umiaaaaa",
+                      "children": {
+                        "4": {
+                          "word": "umitarou",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "umeorima",
+                      "children": {
+                        "6": {
+                          "word": "umiracle",
+                          "children": {
+                            "3": {
+                              "word": "umiraneh",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "umenampo",
+                  "children": {
+                    "5": {
+                      "word": "umieruma",
+                      "children": {
+                        "5": {
+                          "word": "umikachi",
+                          "children": {
+                            "1": {
+                              "word": "umisachi",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "umizatou",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "umishima",
+                      "children": {
+                        "5": {
+                          "word": "ummurice",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "umugasari",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "umda5383",
+                  "children": {
+                    "3": {
+                      "word": "umum5353",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "umeankou",
+                      "children": {
+                        "4": {
+                          "word": "umeazuki",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "umkm3842",
+                          "children": {
+                            "5": {
+                              "word": "ummmm693",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "umebitan",
+                      "children": {
+                        "4": {
+                          "word": "umicchan",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "umeshake",
+                          "children": {
+                            "6": {
+                              "word": "umumichi",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "umichabo",
+                          "children": {
+                            "5": {
+                              "word": "umiukoke",
+                              "children": {
+                                "5": {
+                                  "word": "umuyoizo",
+                                  "children": {}
+                                },
+                                "6": {
+                                  "word": "umminchu",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "6": {
+                              "word": "umminesu",
+                              "children": {
+                                "6": {
+                                  "word": "umoumohl",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "umino-san",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ume-bachi",
+              "children": {
+                "5": {
+                  "word": "umetemari",
+                  "children": {}
+                },
+                "6": {
+                  "word": "umjulioai",
+                  "children": {}
+                },
+                "7": {
+                  "word": "umitamago",
+                  "children": {
+                    "7": {
+                      "word": "ummagumma",
+                      "children": {
+                        "4": {
+                          "word": "ummumum25",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "umino-mari",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(umaaji1019)",
+      "children": {
+        "6": {
+          "word": "(umashikaaa)",
+          "children": {}
+        },
+        "7": {
+          "word": "(umatankita)",
+          "children": {
+            "7": {
+              "word": "(umenigiri)",
+              "children": {
+                "8": {
+                  "word": "(umikaze821)",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "(umino0120)",
+              "children": {
+                "6": {
+                  "word": "(umyu13137)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(ume72suke)",
+          "children": {
+            "6": {
+              "word": "(umetororo)",
+              "children": {
+                "7": {
+                  "word": "(umibebebe)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "(umi093xxx)",
+              "children": {}
+            },
+            "8": {
+              "word": "(uminomichi)",
+              "children": {
+                "6": {
+                  "word": "(umins-club)",
+                  "children": {}
+                },
+                "8": {
+                  "word": "umiusi008",
+                  "children": {}
+                },
+                "9": {
+                  "word": "umejintan",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "umagazou1",
+              "children": {
+                "5": {
+                  "word": "umasanjin",
+                  "children": {}
+                },
+                "6": {
+                  "word": "umijiroo",
+                  "children": {
+                    "5": {
+                      "word": "umiyuri01",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "umami-chan",
+                  "children": {
+                    "7": {
+                      "word": "umix0207",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "umk30510",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "um0000mu",
+          "children": {
+            "5": {
+              "word": "um179006",
+              "children": {
+                "5": {
+                  "word": "umnnn022",
+                  "children": {}
+                },
+                "6": {
+                  "word": "umiboozu",
+                  "children": {
+                    "1": {
+                      "word": "umibouzu",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "umibudou",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "umiikuru",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "uma4kauma",
+              "children": {
+                "4": {
+                  "word": "umamusume",
+                  "children": {}
+                },
+                "6": {
+                  "word": "umatteiru",
+                  "children": {
+                    "6": {
+                      "word": "umechiui",
+                      "children": {
+                        "3": {
+                          "word": "umeshiba",
+                          "children": {
+                            "1": {
+                              "word": "umeshita",
+                              "children": {
+                                "1": {
+                                  "word": "umeshiva",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "umishita",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "umitsuki",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "umekichi",
+                      "children": {
+                        "5": {
+                          "word": "umiko236",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "umbridge",
+                  "children": {
+                    "4": {
+                      "word": "umirunie",
+                      "children": {
+                        "4": {
+                          "word": "umishige",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "umiii722",
+                      "children": {
+                        "3": {
+                          "word": "umiiiooo",
+                          "children": {
+                            "4": {
+                              "word": "umilini2",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "umechiyo",
+                      "children": {
+                        "2": {
+                          "word": "umeshiso",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "umicosss",
+                          "children": {
+                            "5": {
+                              "word": "umine-co",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "umidariku",
+                          "children": {
+                            "4": {
+                              "word": "umitorin",
+                              "children": {}
+                            },
+                            "6": {
+                              "word": "umihoshi",
+                              "children": {
+                                "3": {
+                                  "word": "uminoso5",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "uminonew",
+                                  "children": {
+                                    "5": {
+                                      "word": "umiotoji",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "umin0sati",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "umagenzin",
+              "children": {
+                "5": {
+                  "word": "umasandaa",
+                  "children": {
+                    "5": {
+                      "word": "umasugiii",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "umakakeba",
+                  "children": {
+                    "4": {
+                      "word": "umanakaki",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "umasouoda",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "umamusuko",
+                      "children": {
+                        "3": {
+                          "word": "umanosuke",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "umatori48",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "umechiyan",
+                      "children": {
+                        "6": {
+                          "word": "umimiminn",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "umitsuki)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "umamusume:",
+                  "children": {
+                    "6": {
+                      "word": "umemizuki",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "umeashida",
+                      "children": {
+                        "6": {
+                          "word": "umikisana",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "umikame00",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "umbilical",
+                      "children": {
+                        "7": {
+                          "word": "umecha621",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "8": {
+                  "word": "umemiyachu",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "umare-tate",
+              "children": {
+                "7": {
+                  "word": "umaumakiki",
+                  "children": {}
+                },
+                "8": {
+                  "word": "umemura414",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "umberbach",
+          "children": {
+            "4": {
+              "word": "umberoff",
+              "children": {}
+            },
+            "5": {
+              "word": "umbra-chan",
+              "children": {
+                "3": {
+                  "word": "umbraclaw",
+                  "children": {}
+                },
+                "5": {
+                  "word": "umbrella",
+                  "children": {
+                    "1": {
+                      "word": "umbrellas",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "umbrunny",
+                  "children": {}
+                },
+                "7": {
+                  "word": "umeboshi",
+                  "children": {}
+                },
+                "8": {
+                  "word": "umieekaki",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "umbrapone",
+              "children": {
+                "5": {
+                  "word": "umiwakame",
+                  "children": {}
+                },
+                "6": {
+                  "word": "umekonbu",
+                  "children": {
+                    "4": {
+                      "word": "umenoume",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "umezawaun",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "umesasami",
+                      "children": {
+                        "5": {
+                          "word": "umigarasu",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "umitokage",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "umibatari",
+                      "children": {
+                        "1": {
+                          "word": "umiwatari",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "umitagari",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "umizarasi",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "uminegame",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "umebohzu",
+                  "children": {
+                    "3": {
+                      "word": "umedoufu",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "umehoshi",
+                      "children": {
+                        "3": {
+                          "word": "umekouji",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "umenchu7",
+                          "children": {
+                            "5": {
+                              "word": "umeowuwu",
+                              "children": {
+                                "3": {
+                                  "word": "umetsuru",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "umeefumi",
+                      "children": {
+                        "4": {
+                          "word": "umetsubo",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "umew5555",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "umihotaru",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "uminoyama",
+                      "children": {
+                        "3": {
+                          "word": "umitosaka",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "umke8373",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "umemorika",
+              "children": {
+                "4": {
+                  "word": "umenomori",
+                  "children": {}
+                },
+                "5": {
+                  "word": "umetasuku",
+                  "children": {
+                    "4": {
+                      "word": "umezakura",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "uminomura",
+                      "children": {
+                        "4": {
+                          "word": "umitomito",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "umiushiko",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "uminomori",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "umeume332",
+                  "children": {
+                    "5": {
+                      "word": "umezuremon",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "umisakura",
+                      "children": {
+                        "1": {
+                          "word": "umizakura",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "umyo-hibo",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "umigamezo",
+                  "children": {
+                    "4": {
+                      "word": "umikamome",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "uminaoshi",
+                      "children": {
+                        "6": {
+                          "word": "umiseazzz",
+                          "children": {
+                            "7": {
+                              "word": "umuzaguro",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "umipuzzle",
+                      "children": {
+                        "4": {
+                          "word": "umirukode",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "umrp3777",
+                      "children": {
+                        "7": {
+                          "word": "umsotasty",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "umitukisan",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(uma-festival)",
+      "children": {
+        "8": {
+          "word": "(uminashiken)",
+          "children": {
+            "6": {
+              "word": "umashikaco",
+              "children": {}
+            },
+            "8": {
+              "word": "umaresaiko",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(umai-kuyuri)",
+          "children": {
+            "7": {
+              "word": "(umamigasugoi)",
+              "children": {
+                "8": {
+                  "word": "(uminekotei)",
+                  "children": {
+                    "5": {
+                      "word": "(uminoyoukai)",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "umainigari",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "(umimintsune)",
+              "children": {
+                "7": {
+                  "word": "(umisylveon)",
+                  "children": {}
+                },
+                "8": {
+                  "word": "umatsunagi",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "(umbrella009)",
+              "children": {
+                "9": {
+                  "word": "(umigraphics)",
+                  "children": {}
+                },
+                "10": {
+                  "word": "ume-sensei",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "(umecha24909)",
+          "children": {
+            "7": {
+              "word": "(umichicken)",
+              "children": {}
+            },
+            "8": {
+              "word": "(umekonboon)",
+              "children": {
+                "8": {
+                  "word": "(umso114514)",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "umedairuka",
+              "children": {
+                "6": {
+                  "word": "umekagesae",
+                  "children": {
+                    "6": {
+                      "word": "umekiti01",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "(umi-colored",
+              "children": {
+                "8": {
+                  "word": "ume-sohuto",
+                  "children": {
+                    "6": {
+                      "word": "umidashite",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "umihotasan",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "umenituru",
+                  "children": {
+                    "8": {
+                      "word": "umibehamabe",
+                      "children": {
+                        "7": {
+                          "word": "uminosachi)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "10": {
+                  "word": "umadaisuki",
+                  "children": {
+                    "5": {
+                      "word": "umatakashi",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "umeumeduka",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "11": {
+              "word": "um3boshi.",
+              "children": {
+                "4": {
+                  "word": "umiotoshi",
+                  "children": {}
+                },
+                "5": {
+                  "word": "umanosushi",
+                  "children": {}
+                },
+                "6": {
+                  "word": "umidesuyo",
+                  "children": {
+                    "5": {
+                      "word": "uminekoin",
+                      "children": {
+                        "5": {
+                          "word": "umisensha",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "8": {
+                  "word": "umajyeness",
+                  "children": {
+                    "6": {
+                      "word": "umariellum",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "umberblack",
+                      "children": {
+                        "7": {
+                          "word": "umitsubame",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "9": {
+                      "word": "umitsukikan",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "umidukidayo",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "umamimochi",
+          "children": {
+            "4": {
+              "word": "umibocchi",
+              "children": {
+                "3": {
+                  "word": "uminomichi",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "uminosachi",
+              "children": {}
+            },
+            "6": {
+              "word": "umebayashi",
+              "children": {
+                "5": {
+                  "word": "umegoyomi",
+                  "children": {}
+                },
+                "6": {
+                  "word": "umekobucha",
+                  "children": {
+                    "6": {
+                      "word": "umenokoji",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "uminosumi",
+                  "children": {}
+                },
+                "8": {
+                  "word": "umikinoko",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "umaumao1919",
+              "children": {
+                "8": {
+                  "word": "ume-bayashi",
+                  "children": {}
+                },
+                "9": {
+                  "word": "umbridled",
+                  "children": {
+                    "8": {
+                      "word": "uminotacos",
+                      "children": {
+                        "5": {
+                          "word": "umitonakai",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "ume010203",
+              "children": {
+                "4": {
+                  "word": "umee01221",
+                  "children": {
+                    "6": {
+                      "word": "umeko0809",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "umekottsu",
+                  "children": {
+                    "5": {
+                      "word": "umeponpon",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "umide2278",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "umetoumeto",
+                  "children": {
+                    "5": {
+                      "word": "umetsuki87",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "umeyanenne",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "umighntby",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "umekomareta",
+                  "children": {
+                    "6": {
+                      "word": "umikotatsu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "umitsubamen",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "um1988416",
+          "children": {
+            "7": {
+              "word": "umigogogo",
+              "children": {
+                "3": {
+                  "word": "umirororo",
+                  "children": {}
+                },
+                "5": {
+                  "word": "umino1201",
+                  "children": {}
+                },
+                "6": {
+                  "word": "umiudon178",
+                  "children": {
+                    "5": {
+                      "word": "umizora478",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "umitan1013",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "uminocakky",
+              "children": {
+                "7": {
+                  "word": "umizaburou",
+                  "children": {
+                    "8": {
+                      "word": "umotomochi",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "umemaneneco",
+              "children": {}
+            },
+            "10": {
+              "word": "umino-maguro",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(umagaobanana)",
+      "children": {
+        "5": {
+          "word": "(umagoyakakka)",
+          "children": {}
+        },
+        "7": {
+          "word": "umanonakama",
+          "children": {}
+        },
+        "8": {
+          "word": "(umaumauma1042)",
+          "children": {
+            "13": {
+              "word": "umenobonsai",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(umibozu3290)",
+          "children": {
+            "9": {
+              "word": "umiharuayato",
+              "children": {
+                "8": {
+                  "word": "uminoakikan",
+                  "children": {
+                    "4": {
+                      "word": "uminonagisa",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "umagonredst",
+              "children": {
+                "7": {
+                  "word": "umanohoneho",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "umenaaaaa42",
+              "children": {
+                "8": {
+                  "word": "umugayasushi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "(umi04787030)",
+          "children": {
+            "9": {
+              "word": "umin0buta10",
+              "children": {
+                "5": {
+                  "word": "uminouni610",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "umidoriuni",
+              "children": {
+                "5": {
+                  "word": "umigitsune",
+                  "children": {}
+                },
+                "6": {
+                  "word": "uminokaisen",
+                  "children": {}
+                },
+                "7": {
+                  "word": "umigraphics",
+                  "children": {}
+                },
+                "8": {
+                  "word": "umizakuraame",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "umainaotofu",
+              "children": {
+                "6": {
+                  "word": "umayorokobi",
+                  "children": {}
+                },
+                "7": {
+                  "word": "umeboitarou",
+                  "children": {}
+                },
+                "8": {
+                  "word": "umanoshippo",
+                  "children": {
+                    "8": {
+                      "word": "umaretekita",
+                      "children": {
+                        "9": {
+                          "word": "umegaemochi",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "9": {
+                      "word": "umeeeyoukan",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "umbravivens",
+                  "children": {
+                    "8": {
+                      "word": "umeboshiart",
+                      "children": {}
+                    },
+                    "9": {
+                      "word": "umekobushi",
+                      "children": {
+                        "5": {
+                          "word": "umekooekaki",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "umeshiba121",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "umamusumeshi",
+          "children": {
+            "7": {
+              "word": "umenosuke48",
+              "children": {
+                "5": {
+                  "word": "uminoyurei",
+                  "children": {}
+                },
+                "8": {
+                  "word": "umeumeumestar",
+                  "children": {
+                    "8": {
+                      "word": "umumunun321",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "umetoshiso",
+              "children": {
+                "7": {
+                  "word": "umimomomomo",
+                  "children": {}
+                },
+                "8": {
+                  "word": "umipokemori",
+                  "children": {
+                    "8": {
+                      "word": "umiusiinu45",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "umimintsune",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "umenokouji",
+              "children": {
+                "8": {
+                  "word": "umiuminzoku",
+                  "children": {}
+                },
+                "9": {
+                  "word": "umihisa1204",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "umbrella369",
+              "children": {
+                "9": {
+                  "word": "umenatto710",
+                  "children": {
+                    "7": {
+                      "word": "umikaze0000",
+                      "children": {
+                        "9": {
+                          "word": "umuloctober",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "uminomozuku",
+                      "children": {
+                        "6": {
+                          "word": "umnokorito",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "9": {
+                      "word": "umipro1982",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "umesisotsu",
+          "children": {
+            "6": {
+              "word": "umihitsuzi",
+              "children": {}
+            },
+            "7": {
+              "word": "umeumemuseum",
+              "children": {
+                "9": {
+                  "word": "umineko212",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "umeumeviiiv",
+              "children": {
+                "8": {
+                  "word": "umiushiushi",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "umm15874038",
+              "children": {}
+            },
+            "10": {
+              "word": "umulumul1020",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "word": "(umakunaritai2)",
+      "children": {
+        "8": {
+          "word": "(umanaminoatama)",
+          "children": {
+            "9": {
+              "word": "(umekawatowa11)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(umiyurikurage)",
+          "children": {}
+        },
+        "10": {
+          "word": "umaioisiiamai",
+          "children": {
+            "7": {
+              "word": "umatoriinnnu",
+              "children": {}
+            },
+            "8": {
+              "word": "umamigachigau",
+              "children": {
+                "10": {
+                  "word": "umarutsufuri",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "umarekawatta",
+              "children": {
+                "9": {
+                  "word": "umikoseto02",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "umikaze-like",
+              "children": {}
+            },
+            "11": {
+              "word": "umbumahatir98",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "(umbilicalcord)",
+          "children": {
+            "11": {
+              "word": "umamimiotoko",
+              "children": {
+                "9": {
+                  "word": "umiakira0606",
+                  "children": {}
+                }
+              }
+            },
+            "12": {
+              "word": "umbrakinesis",
+              "children": {
+                "9": {
+                  "word": "umikaze-0506",
+                  "children": {
+                    "9": {
+                      "word": "uminekosanta",
+                      "children": {}
+                    }
+                  }
+                },
+                "10": {
+                  "word": "umenotsumire",
+                  "children": {}
+                },
+                "11": {
+                  "word": "umjammercammy",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "umebosi2639",
+          "children": {
+            "7": {
+              "word": "uminosoko44",
+              "children": {}
+            },
+            "8": {
+              "word": "umehatsuzuki",
+              "children": {}
+            },
+            "9": {
+              "word": "umetsukimochi",
+              "children": {
+                "8": {
+                  "word": "umezawanosho",
+                  "children": {}
+                },
+                "11": {
+                  "word": "umiyohaseusu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "13": {
+          "word": "umbrella3650",
+          "children": {
+            "7": {
+              "word": "umbreon2017",
+              "children": {}
+            },
+            "9": {
+              "word": "umi78992161",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "(umiillust2234)",
+      "children": {
+        "9": {
+          "word": "(uminiiru1000s)",
+          "children": {}
+        },
+        "11": {
+          "word": "(umisag85rabb99)",
+          "children": {
+            "12": {
+              "word": "umiwumi332193",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "umaieokakitai",
+          "children": {
+            "7": {
+              "word": "umeokakatamago",
+              "children": {}
+            },
+            "9": {
+              "word": "umasukesankana",
+              "children": {
+                "9": {
+                  "word": "umikochannart",
+                  "children": {}
+                },
+                "10": {
+                  "word": "umeboshitora",
+                  "children": {
+                    "9": {
+                      "word": "uminagikarasu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "umisachi-hiko",
+              "children": {}
+            },
+            "11": {
+              "word": "umulinthehell",
+              "children": {
+                "11": {
+                  "word": "umxtts951861",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "13": {
+          "word": "umanootoshigo",
+          "children": {
+            "6": {
+              "word": "umeumeboshino",
+              "children": {}
+            },
+            "9": {
+              "word": "umapyoignachi",
+              "children": {
+                "10": {
+                  "word": "umekonkonkon",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "umemiyatadashi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "13": {
+      "word": "(umrhaishixiaomai)",
+      "children": {
+        "11": {
+          "word": "umaiitiyabosi1",
+          "children": {
+            "8": {
+              "word": "umehitonekomi",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "umebonsaikirei",
+          "children": {
+            "7": {
+              "word": "umebosibakari2",
+              "children": {}
+            },
+            "8": {
+              "word": "umeboshiyatura",
+              "children": {}
+            },
+            "10": {
+              "word": "umiakirastrait",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "umarekawattara",
+          "children": {
+            "10": {
+              "word": "umbracallistis",
+              "children": {
+                "12": {
+                  "word": "umitosoratomoe",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "umekichi52525",
+              "children": {
+                "11": {
+                  "word": "umikarahukukaze",
+                  "children": {}
+                },
+                "12": {
+                  "word": "uminosobadashi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "14": {
+          "word": "umaiagechicken",
+          "children": {}
+        },
+        "15": {
+          "word": "umezomeponpoko",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "umaiyomogimochi",
+      "children": {
+        "10": {
+          "word": "uminomozukunosu",
+          "children": {}
+        },
+        "11": {
+          "word": "uminasimisosiru",
+          "children": {
+            "10": {
+              "word": "uminekomeowmeow",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "umikawatagayasu",
+          "children": {}
+        }
+      }
+    },
+    "15": {
+      "word": "umv17fbxbybhwcf",
+      "children": {}
+    },
+    "20": {
+      "word": "uminekoritorubasuta-zu",
+      "children": {}
+    },
+    "25": {
+      "word": "uminekohigurasinonakukoroni",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "word": "(9-nine-)",
+  "children": {
+    "2": {
+      "word": "9-nine-",
+      "children": {}
+    },
+    "4": {
+      "word": "(9nimi2)",
+      "children": {
+        "5": {
+          "word": "9nine",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(9ne8n)",
+      "children": {}
+    },
+    "6": {
+      "word": "9neko",
+      "children": {
+        "2": {
+          "word": "9niku",
+          "children": {}
+        },
+        "3": {
+          "word": "9nnya",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(9nhtmrni)",
+      "children": {
+        "7": {
+          "word": "9negro",
+          "children": {
+            "4": {
+              "word": "9nodm",
+              "children": {
+                "4": {
+                  "word": "9nyang",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "9n9",
+          "children": {
+            "1": {
+              "word": "9no",
+              "children": {
+                "1": {
+                  "word": "9nu",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "9nojo",
+              "children": {
+                "2": {
+                  "word": "9nosq",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "9no1girl",
+      "children": {}
+    },
+    "9": {
+      "word": "(9nomarunngo)",
+      "children": {}
+    }
+  }
+}

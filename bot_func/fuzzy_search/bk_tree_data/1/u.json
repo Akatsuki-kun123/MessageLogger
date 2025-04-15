@@ -1,0 +1,56 @@
+{
+  "word": "(1udonoodle)",
+  "children": {
+    "7": {
+      "word": "(1umin4)",
+      "children": {
+        "4": {
+          "word": "(1unavy)",
+          "children": {}
+        },
+        "7": {
+          "word": "(1upedangel)",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "(1uffy)",
+      "children": {}
+    },
+    "9": {
+      "word": "(1up",
+      "children": {
+        "3": {
+          "word": "1u2d",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "1u",
+      "children": {
+        "1": {
+          "word": "1up",
+          "children": {}
+        },
+        "5": {
+          "word": "1uriu10",
+          "children": {}
+        },
+        "6": {
+          "word": "1up-chan",
+          "children": {}
+        },
+        "9": {
+          "word": "1utum0nemu1",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "1-up",
+      "children": {}
+    }
+  }
+}

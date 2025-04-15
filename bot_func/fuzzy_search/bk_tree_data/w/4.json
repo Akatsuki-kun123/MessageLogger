@@ -1,0 +1,48 @@
+{
+  "word": "(w44k16)",
+  "children": {
+    "3": {
+      "word": "(w4kih)",
+      "children": {}
+    },
+    "6": {
+      "word": "w4",
+      "children": {
+        "1": {
+          "word": "w48",
+          "children": {}
+        },
+        "2": {
+          "word": "w4pz",
+          "children": {}
+        },
+        "3": {
+          "word": "w42hu",
+          "children": {
+            "3": {
+              "word": "w4rd0",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "w4ylin",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "w48992127",
+      "children": {
+        "7": {
+          "word": "w4rigari",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "(w4rabimochi)",
+      "children": {}
+    }
+  }
+}

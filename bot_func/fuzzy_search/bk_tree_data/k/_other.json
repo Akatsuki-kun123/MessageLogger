@@ -1,0 +1,41 @@
+{
+  "word": "(k",
+  "children": {
+    "1": {
+      "word": "(k)",
+      "children": {
+        "2": {
+          "word": "k",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "(k.)",
+      "children": {
+        "2": {
+          "word": "k)",
+          "children": {
+            "1": {
+              "word": "k.",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "k'",
+          "children": {
+            "1": {
+              "word": "k+",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "k@!",
+      "children": {}
+    }
+  }
+}

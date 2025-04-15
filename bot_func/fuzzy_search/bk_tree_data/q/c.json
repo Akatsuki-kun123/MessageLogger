@@ -1,0 +1,86 @@
+{
+  "word": "(qca012005)",
+  "children": {
+    "6": {
+      "word": "(qcmrq906)",
+      "children": {}
+    },
+    "7": {
+      "word": "(qchan)",
+      "children": {
+        "5": {
+          "word": "qcw-05",
+          "children": {}
+        },
+        "6": {
+          "word": "(qcnpg872)",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "qchan0939",
+      "children": {}
+    },
+    "9": {
+      "word": "qc",
+      "children": {
+        "1": {
+          "word": "qcu",
+          "children": {}
+        },
+        "3": {
+          "word": "qcclp",
+          "children": {
+            "3": {
+              "word": "qchng",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "qchbtb",
+          "children": {
+            "3": {
+              "word": "qchsin",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "qcumber",
+          "children": {}
+        },
+        "6": {
+          "word": "qclaoren",
+          "children": {}
+        },
+        "7": {
+          "word": "qckvolley",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "q-c-p",
+      "children": {
+        "3": {
+          "word": "q-chan",
+          "children": {}
+        },
+        "5": {
+          "word": "q-chiang",
+          "children": {}
+        },
+        "10": {
+          "word": "qcezssxx123",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "q-cohawotakudao",
+      "children": {}
+    }
+  }
+}

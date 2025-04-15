@@ -1,0 +1,37 @@
+{
+  "word": "(6hachiji5)",
+  "children": {
+    "5": {
+      "word": "(6hituji)",
+      "children": {}
+    },
+    "8": {
+      "word": "6h8)",
+      "children": {
+        "3": {
+          "word": "6hana",
+          "children": {
+            "3": {
+              "word": "6hi23",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "6-headed",
+      "children": {
+        "6": {
+          "word": "6hon",
+          "children": {
+            "3": {
+              "word": "6hours",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

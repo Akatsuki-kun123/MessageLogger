@@ -1,0 +1,40 @@
+{
+  "word": "(5kayaj)",
+  "children": {
+    "4": {
+      "word": "(5keys",
+      "children": {}
+    },
+    "5": {
+      "word": "5-kakan",
+      "children": {
+        "4": {
+          "word": "5kai",
+          "children": {
+            "3": {
+              "word": "5koma",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "5kawa8gi",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "5k",
+      "children": {
+        "4": {
+          "word": "5kpgte",
+          "children": {}
+        },
+        "6": {
+          "word": "5kakuten",
+          "children": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "word": "(q00p)",
+  "children": {
+    "2": {
+      "word": "(q0u7)",
+      "children": {}
+    },
+    "4": {
+      "word": "(q0qiux)",
+      "children": {
+        "6": {
+          "word": "q00727",
+          "children": {
+            "4": {
+              "word": "q050",
+              "children": {
+                "3": {
+                  "word": "q0s1s",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(q07011au)",
+      "children": {}
+    },
+    "14": {
+      "word": "q0vcwcxgg9ejcvm",
+      "children": {}
+    }
+  }
+}

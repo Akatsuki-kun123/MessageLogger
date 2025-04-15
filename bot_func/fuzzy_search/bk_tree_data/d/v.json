@@ -1,0 +1,282 @@
+{
+  "word": "(d+vine",
+  "children": {
+    "1": {
+      "word": "(d+vine)",
+      "children": {
+        "2": {
+          "word": "d+vine",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(dvd",
+      "children": {
+        "1": {
+          "word": "(dvh",
+          "children": {}
+        },
+        "2": {
+          "word": "dvn",
+          "children": {}
+        },
+        "4": {
+          "word": "d.vii",
+          "children": {
+            "2": {
+              "word": "dviii",
+              "children": {}
+            },
+            "4": {
+              "word": "dvdice",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "d'vana",
+          "children": {
+            "5": {
+              "word": "dvixie",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(dvcat)",
+      "children": {
+        "4": {
+          "word": "(dvergr",
+          "children": {
+            "5": {
+              "word": "dva",
+              "children": {
+                "1": {
+                  "word": "dvc",
+                  "children": {}
+                },
+                "2": {
+                  "word": "dvd)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "d.va",
+          "children": {
+            "2": {
+              "word": "dv",
+              "children": {
+                "1": {
+                  "word": "dvb",
+                  "children": {
+                    "1": {
+                      "word": "dvd",
+                      "children": {
+                        "1": {
+                          "word": "dvg",
+                          "children": {
+                            "1": {
+                              "word": "dvl",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "dv9l",
+              "children": {}
+            },
+            "4": {
+              "word": "dvalin",
+              "children": {
+                "3": {
+                  "word": "dvleo",
+                  "children": {}
+                },
+                "4": {
+                  "word": "dvqjo",
+                  "children": {
+                    "3": {
+                      "word": "dvwwy",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "dvljoe",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "d'vol",
+          "children": {
+            "3": {
+              "word": "d.v",
+              "children": {}
+            },
+            "5": {
+              "word": "dvalinn",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "d'vorah",
+      "children": {
+        "2": {
+          "word": "dvorak",
+          "children": {}
+        },
+        "3": {
+          "word": "dvdraw",
+          "children": {}
+        },
+        "4": {
+          "word": "dvergr",
+          "children": {
+            "4": {
+              "word": "dvomil",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "dvdchan",
+          "children": {
+            "4": {
+              "word": "dvddvd",
+              "children": {
+                "4": {
+                  "word": "dvrvla",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "dvl-10",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "dvdpoke",
+          "children": {
+            "5": {
+              "word": "dviasta",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(dvvtfxbnn)",
+      "children": {
+        "9": {
+          "word": "dvdarts",
+          "children": {
+            "6": {
+              "word": "dvun8383",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(dvjs2222)",
+      "children": {
+        "6": {
+          "word": "dvcg3225",
+          "children": {}
+        },
+        "7": {
+          "word": "dvkp2374",
+          "children": {
+            "5": {
+              "word": "dvyd4375)",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "dvenadsat",
+          "children": {
+            "6": {
+              "word": "dvermayo",
+              "children": {}
+            },
+            "7": {
+              "word": "dvxm4475",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(dvtoro229)",
+      "children": {
+        "7": {
+          "word": "dvah3828)",
+          "children": {
+            "4": {
+              "word": "dvft3725)",
+              "children": {}
+            },
+            "5": {
+              "word": "dvzr3584)",
+              "children": {}
+            },
+            "6": {
+              "word": "dvwz5234)",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "dvrtrblhr",
+          "children": {
+            "7": {
+              "word": "dvwbz1109",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "dvach-tan",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "dvmogorgon",
+      "children": {}
+    },
+    "11": {
+      "word": "dvampiresmile",
+      "children": {
+        "10": {
+          "word": "dvirfederacia",
+          "children": {}
+        }
+      }
+    }
+  }
+}

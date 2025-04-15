@@ -1,0 +1,23 @@
+{
+  "word": "(f",
+  "children": {
+    "1": {
+      "word": ".f",
+      "children": {
+        "1": {
+          "word": "f",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "f)",
+      "children": {
+        "1": {
+          "word": "f.",
+          "children": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "word": "(4w3euio)",
+  "children": {
+    "6": {
+      "word": "4wd)",
+      "children": {
+        "2": {
+          "word": "4wiw",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "4-wheeled",
+      "children": {
+        "6": {
+          "word": "4wake",
+          "children": {
+            "3": {
+              "word": "4wd",
+              "children": {
+                "1": {
+                  "word": "4wh",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "4w4",
+          "children": {
+            "1": {
+              "word": "4wn",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

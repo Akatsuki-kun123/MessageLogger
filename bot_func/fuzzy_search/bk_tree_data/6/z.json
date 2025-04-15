@@ -1,0 +1,18 @@
+{
+  "word": "(6zzyag)",
+  "children": {
+    "5": {
+      "word": "6za",
+      "children": {}
+    },
+    "6": {
+      "word": "6zi",
+      "children": {
+        "1": {
+          "word": "6zo",
+          "children": {}
+        }
+      }
+    }
+  }
+}

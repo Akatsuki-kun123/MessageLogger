@@ -1,0 +1,71 @@
+{
+  "word": "(t8",
+  "children": {
+    "1": {
+      "word": "t8",
+      "children": {}
+    },
+    "2": {
+      "word": "t8y",
+      "children": {}
+    },
+    "3": {
+      "word": "(t8kk)",
+      "children": {
+        "4": {
+          "word": "t800",
+          "children": {
+            "2": {
+              "word": "t8oo",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "t-80",
+          "children": {
+            "1": {
+              "word": "t-84",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(t8txo)",
+      "children": {
+        "5": {
+          "word": "t8o8b",
+          "children": {}
+        },
+        "6": {
+          "word": "t-800",
+          "children": {
+            "1": {
+              "word": "t-850",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "t-8000",
+      "children": {}
+    },
+    "7": {
+      "word": "(t8352345)",
+      "children": {}
+    },
+    "8": {
+      "word": "(t82520016)",
+      "children": {
+        "7": {
+          "word": "(t83192933)",
+          "children": {}
+        }
+      }
+    }
+  }
+}

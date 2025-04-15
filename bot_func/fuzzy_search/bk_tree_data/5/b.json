@@ -1,0 +1,40 @@
+{
+  "word": "(5ba",
+  "children": {
+    "2": {
+      "word": "5b",
+      "children": {
+        "1": {
+          "word": "5be",
+          "children": {
+            "1": {
+              "word": "5bw",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "5ban",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "5bou",
+      "children": {}
+    },
+    "4": {
+      "word": "5boys",
+      "children": {}
+    },
+    "5": {
+      "word": "5-byou",
+      "children": {
+        "5": {
+          "word": "5booosa",
+          "children": {}
+        }
+      }
+    }
+  }
+}

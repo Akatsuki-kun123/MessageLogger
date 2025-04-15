@@ -1,0 +1,796 @@
+{
+  "word": "(u-p)",
+  "children": {
+    "1": {
+      "word": "(up)",
+      "children": {}
+    },
+    "2": {
+      "word": "(up",
+      "children": {
+        "2": {
+          "word": "(up.)",
+          "children": {
+            "2": {
+              "word": "up)",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "u-pa",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(upao)",
+      "children": {
+        "2": {
+          "word": "(upon",
+          "children": {
+            "3": {
+              "word": "(upopo)",
+              "children": {
+                "4": {
+                  "word": "upa)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(upper",
+          "children": {
+            "4": {
+              "word": "up!)",
+              "children": {
+                "2": {
+                  "word": "upa",
+                  "children": {
+                    "3": {
+                      "word": "upip)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "up",
+          "children": {
+            "1": {
+              "word": "up!",
+              "children": {
+                "1": {
+                  "word": "up\"",
+                  "children": {
+                    "1": {
+                      "word": "up-",
+                      "children": {
+                        "1": {
+                          "word": "up?",
+                          "children": {
+                            "1": {
+                              "word": "upd",
+                              "children": {
+                                "1": {
+                                  "word": "upg",
+                                  "children": {
+                                    "1": {
+                                      "word": "upi",
+                                      "children": {
+                                        "1": {
+                                          "word": "upl",
+                                          "children": {
+                                            "1": {
+                                              "word": "ups",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "uppi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(upau8",
+      "children": {
+        "3": {
+          "word": "up2u",
+          "children": {
+            "1": {
+              "word": "upou",
+              "children": {}
+            },
+            "2": {
+              "word": "upa3",
+              "children": {
+                "1": {
+                  "word": "upaa",
+                  "children": {
+                    "1": {
+                      "word": "upao",
+                      "children": {
+                        "1": {
+                          "word": "upas",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "upd8",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "upapa",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "u-pack",
+          "children": {
+            "4": {
+              "word": "up!!",
+              "children": {
+                "2": {
+                  "word": "updo",
+                  "children": {
+                    "2": {
+                      "word": "upha",
+                      "children": {
+                        "1": {
+                          "word": "upia",
+                          "children": {
+                            "1": {
+                              "word": "upya",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "upin",
+                          "children": {
+                            "1": {
+                              "word": "upon",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "uple",
+                              "children": {
+                                "2": {
+                                  "word": "upst",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "up24)",
+                  "children": {
+                    "3": {
+                      "word": "upipi",
+                      "children": {
+                        "2": {
+                          "word": "uppii",
+                          "children": {
+                            "3": {
+                              "word": "uprpa",
+                              "children": {
+                                "2": {
+                                  "word": "upspp",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "upper",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(uptkop)",
+          "children": {
+            "5": {
+              "word": "upper)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(u-poison)",
+      "children": {
+        "5": {
+          "word": "(uporyz)",
+          "children": {
+            "3": {
+              "word": "(upsuyo)",
+              "children": {}
+            },
+            "4": {
+              "word": "upooo)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(upipipi",
+          "children": {
+            "5": {
+              "word": "(uptempo)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "up2u2)",
+          "children": {
+            "4": {
+              "word": "upamo",
+              "children": {
+                "2": {
+                  "word": "upeco",
+                  "children": {
+                    "2": {
+                      "word": "uptwo",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "updog",
+                  "children": {
+                    "3": {
+                      "word": "uphir",
+                      "children": {
+                        "2": {
+                          "word": "upier",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "upied",
+                          "children": {
+                            "2": {
+                              "word": "upiyu",
+                              "children": {
+                                "3": {
+                                  "word": "upset",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "up-uat",
+          "children": {
+            "3": {
+              "word": "upa-upa",
+              "children": {
+                "3": {
+                  "word": "upaaa",
+                  "children": {
+                    "1": {
+                      "word": "upala",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "up0ch",
+              "children": {
+                "3": {
+                  "word": "uparu",
+                  "children": {
+                    "3": {
+                      "word": "upk97",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(up-draft)",
+      "children": {
+        "5": {
+          "word": "(upgrade",
+          "children": {
+            "4": {
+              "word": "update",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(upright",
+          "children": {}
+        },
+        "7": {
+          "word": "upacco",
+          "children": {
+            "3": {
+              "word": "upamon",
+              "children": {
+                "3": {
+                  "word": "upashi",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "uparupa",
+              "children": {
+                "4": {
+                  "word": "uproar",
+                  "children": {
+                    "3": {
+                      "word": "upward",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "updown",
+                  "children": {
+                    "3": {
+                      "word": "upetwt",
+                      "children": {
+                        "3": {
+                          "word": "upmont",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "upload",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "upswept",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "up2u2:",
+          "children": {
+            "3": {
+              "word": "uplush",
+              "children": {
+                "4": {
+                  "word": "upye29",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "upguess",
+              "children": {
+                "5": {
+                  "word": "upk001",
+                  "children": {
+                    "4": {
+                      "word": "upside",
+                      "children": {
+                        "4": {
+                          "word": "uptown",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "upapika",
+              "children": {
+                "5": {
+                  "word": "uptempo",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(upja7358)",
+      "children": {
+        "5": {
+          "word": "(upmz2428)",
+          "children": {
+            "6": {
+              "word": "(uprf8754)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(upotte!!)",
+          "children": {
+            "8": {
+              "word": "upuw7457",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "upaneru",
+          "children": {
+            "3": {
+              "word": "upanyan",
+              "children": {}
+            },
+            "5": {
+              "word": "upapalon",
+              "children": {
+                "5": {
+                  "word": "uparupya",
+                  "children": {
+                    "5": {
+                      "word": "upwards",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "upnu2573",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "upchuck",
+          "children": {
+            "4": {
+              "word": "upmocks",
+              "children": {
+                "5": {
+                  "word": "upshirt",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "upgrade",
+              "children": {
+                "4": {
+                  "word": "upstart",
+                  "children": {}
+                },
+                "5": {
+                  "word": "upiyo01",
+                  "children": {
+                    "4": {
+                      "word": "upr2006",
+                      "children": {
+                        "5": {
+                          "word": "upsilon",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "uponwww",
+                      "children": {
+                        "5": {
+                          "word": "upright",
+                          "children": {
+                            "4": {
+                              "word": "upskirt",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "upworth",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "uppercut",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "upturned",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(uppark4425)",
+      "children": {
+        "6": {
+          "word": "(upper-soul)",
+          "children": {}
+        },
+        "8": {
+          "word": "upperdash",
+          "children": {
+            "7": {
+              "word": "uprising)",
+              "children": {
+                "6": {
+                  "word": "upyh7534)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "upanishi",
+          "children": {
+            "5": {
+              "word": "uprising",
+              "children": {}
+            },
+            "6": {
+              "word": "upgraded",
+              "children": {
+                "4": {
+                  "word": "uprooted",
+                  "children": {}
+                },
+                "6": {
+                  "word": "upstairs)",
+                  "children": {
+                    "6": {
+                      "word": "upvt4583",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "upitiria",
+          "children": {
+            "4": {
+              "word": "upstairs",
+              "children": {}
+            },
+            "5": {
+              "word": "upotte!!",
+              "children": {
+                "5": {
+                  "word": "upstang1",
+                  "children": {}
+                },
+                "6": {
+                  "word": "upshorts",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "upjx7578",
+              "children": {
+                "6": {
+                  "word": "upscaled",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(upperheaven)",
+      "children": {
+        "8": {
+          "word": "(uptrendsmt)",
+          "children": {
+            "8": {
+              "word": "upandaren",
+              "children": {
+                "7": {
+                  "word": "uppercrust",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "uppertorso",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "upadhyaha",
+          "children": {
+            "6": {
+              "word": "updateaou",
+              "children": {
+                "7": {
+                  "word": "upenskona",
+                  "children": {
+                    "6": {
+                      "word": "upierzyca",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "upaaa1114",
+          "children": {}
+        },
+        "11": {
+          "word": "uplus1f34c",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "(upa95885512)",
+      "children": {
+        "9": {
+          "word": "(uprightblue)",
+          "children": {}
+        },
+        "10": {
+          "word": "up10ad0n1y",
+          "children": {
+            "8": {
+              "word": "upall16663",
+              "children": {}
+            },
+            "9": {
+              "word": "upaupanopapa",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "uppuruiapple",
+          "children": {
+            "10": {
+              "word": "upside-down",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "word": "(up-and-coming",
+      "children": {
+        "10": {
+          "word": "upshdragoon",
+          "children": {}
+        },
+        "12": {
+          "word": "uprightblue",
+          "children": {
+            "8": {
+              "word": "upsilon3219",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "upsilon-class",
+      "children": {}
+    },
+    "13": {
+      "word": "(ups1gbt3f7op3dr)",
+      "children": {
+        "13": {
+          "word": "(upwp8eedup4302c)",
+          "children": {
+            "13": {
+              "word": "upsidedown510",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "word": "(upright-infinity)",
+      "children": {}
+    },
+    "15": {
+      "word": "up7wonfsalmdwnm",
+      "children": {
+        "13": {
+          "word": "upky3cdxrsztr1v",
+          "children": {}
+        }
+      }
+    },
+    "17": {
+      "word": "upsetti-0-spaghetti",
+      "children": {}
+    },
+    "22": {
+      "word": "upsettispaghettivulture",
+      "children": {}
+    },
+    "23": {
+      "word": "uprightleftdownchuchuchu",
+      "children": {}
+    }
+  }
+}

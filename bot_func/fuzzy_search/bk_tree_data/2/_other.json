@@ -1,0 +1,56 @@
+{
+  "word": "#2",
+  "children": {
+    "1": {
+      "word": "(2",
+      "children": {
+        "1": {
+          "word": "+2",
+          "children": {
+            "1": {
+              "word": "2",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(2)",
+      "children": {
+        "1": {
+          "word": "2)",
+          "children": {}
+        },
+        "2": {
+          "word": "2!",
+          "children": {
+            "1": {
+              "word": "2%",
+              "children": {
+                "1": {
+                  "word": "2.",
+                  "children": {
+                    "1": {
+                      "word": "2:",
+                      "children": {
+                        "1": {
+                          "word": "2~",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "2!)",
+      "children": {}
+    }
+  }
+}

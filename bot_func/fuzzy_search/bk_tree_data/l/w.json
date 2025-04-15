@@ -1,0 +1,181 @@
+{
+  "word": "(lwa",
+  "children": {
+    "1": {
+      "word": "lwa",
+      "children": {}
+    },
+    "2": {
+      "word": "lw",
+      "children": {
+        "1": {
+          "word": "lwh",
+          "children": {
+            "1": {
+              "word": "lwj",
+              "children": {
+                "1": {
+                  "word": "lwy",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(lwlw)",
+      "children": {
+        "1": {
+          "word": "lwlw)",
+          "children": {}
+        },
+        "2": {
+          "word": "lwl)",
+          "children": {}
+        },
+        "3": {
+          "word": "(lwp01",
+          "children": {
+            "4": {
+              "word": "lwt)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "l.w.",
+          "children": {
+            "3": {
+              "word": "lwen",
+              "children": {
+                "1": {
+                  "word": "lwyn",
+                  "children": {}
+                },
+                "2": {
+                  "word": "lwrc",
+                  "children": {
+                    "2": {
+                      "word": "lwyd",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "lwana",
+              "children": {
+                "2": {
+                  "word": "lwxza",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(lwwwu)",
+      "children": {
+        "5": {
+          "word": "lwhana",
+          "children": {
+            "4": {
+              "word": "lwisr",
+              "children": {
+                "3": {
+                  "word": "lwmmg",
+                  "children": {
+                    "3": {
+                      "word": "lwnhl",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(lwa7948)",
+      "children": {
+        "5": {
+          "word": "(lwlczs)",
+          "children": {
+            "4": {
+              "word": "(lwrite)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "lwamizu",
+          "children": {}
+        },
+        "7": {
+          "word": "lwdkmt",
+          "children": {
+            "3": {
+              "word": "lwlume",
+              "children": {}
+            },
+            "4": {
+              "word": "lwouyr",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "l-wing",
+          "children": {
+            "4": {
+              "word": "l.wolf",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(lwh1101)",
+      "children": {
+        "5": {
+          "word": "(lwvegoh)",
+          "children": {
+            "5": {
+              "word": "(lww3257)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(lwahrleff)",
+      "children": {}
+    },
+    "8": {
+      "word": "(lww147369)",
+      "children": {
+        "6": {
+          "word": "lwl153656",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "lwmina70119",
+      "children": {}
+    },
+    "12": {
+      "word": "(lweaw7msgx1900)",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "word": "e4",
+  "children": {
+    "1": {
+      "word": "e4)",
+      "children": {
+        "1": {
+          "word": "e46",
+          "children": {
+            "1": {
+              "word": "e4n",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "e43)",
+      "children": {}
+    },
+    "3": {
+      "word": "e45y)",
+      "children": {
+        "3": {
+          "word": "e4rth",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "e4hargus",
+      "children": {}
+    },
+    "8": {
+      "word": "e446724662",
+      "children": {
+        "7": {
+          "word": "e451614498",
+          "children": {}
+        }
+      }
+    }
+  }
+}

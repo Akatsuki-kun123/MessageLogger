@@ -1,0 +1,28 @@
+{
+  "word": "(u",
+  "children": {
+    "1": {
+      "word": "u",
+      "children": {}
+    },
+    "2": {
+      "word": "u'",
+      "children": {
+        "1": {
+          "word": "u)",
+          "children": {
+            "1": {
+              "word": "u+",
+              "children": {
+                "1": {
+                  "word": "u.",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

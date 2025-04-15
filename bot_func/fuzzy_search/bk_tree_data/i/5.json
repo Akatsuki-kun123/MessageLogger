@@ -1,0 +1,34 @@
+{
+  "word": "i-503",
+  "children": {
+    "1": {
+      "word": "i-504",
+      "children": {}
+    },
+    "2": {
+      "word": "i-56",
+      "children": {
+        "1": {
+          "word": "i-58",
+          "children": {}
+        },
+        "2": {
+          "word": "i50",
+          "children": {}
+        },
+        "3": {
+          "word": "i500",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "i5",
+      "children": {}
+    },
+    "9": {
+      "word": "i50paintlab",
+      "children": {}
+    }
+  }
+}

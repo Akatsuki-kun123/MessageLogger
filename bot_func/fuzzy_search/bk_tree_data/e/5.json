@@ -1,0 +1,35 @@
+{
+  "word": "(e5e5)",
+  "children": {
+    "3": {
+      "word": "e5)",
+      "children": {}
+    },
+    "4": {
+      "word": "e-55",
+      "children": {
+        "2": {
+          "word": "e5",
+          "children": {}
+        },
+        "3": {
+          "word": "e524",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "e50gun",
+      "children": {
+        "4": {
+          "word": "e5nf8v",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "e503com",
+      "children": {}
+    }
+  }
+}

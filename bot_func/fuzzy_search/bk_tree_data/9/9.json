@@ -1,0 +1,808 @@
+{
+  "word": "'99",
+  "children": {
+    "1": {
+      "word": "(99",
+      "children": {
+        "1": {
+          "word": "+99",
+          "children": {
+            "1": {
+              "word": "99",
+              "children": {
+                "1": {
+                  "word": "999",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(+99",
+      "children": {
+        "1": {
+          "word": "(999",
+          "children": {}
+        },
+        "2": {
+          "word": "(99)",
+          "children": {
+            "1": {
+              "word": "(996",
+              "children": {
+                "1": {
+                  "word": "(99b",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "9999",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "99%",
+          "children": {
+            "1": {
+              "word": "99)",
+              "children": {
+                "1": {
+                  "word": "990",
+                  "children": {
+                    "1": {
+                      "word": "991",
+                      "children": {
+                        "1": {
+                          "word": "992",
+                          "children": {
+                            "1": {
+                              "word": "993",
+                              "children": {
+                                "1": {
+                                  "word": "994",
+                                  "children": {
+                                    "1": {
+                                      "word": "995",
+                                      "children": {
+                                        "1": {
+                                          "word": "996",
+                                          "children": {
+                                            "1": {
+                                              "word": "997",
+                                              "children": {
+                                                "1": {
+                                                  "word": "998",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "99:",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "99a",
+                                                          "children": {
+                                                            "1": {
+                                                              "word": "99g",
+                                                              "children": {
+                                                                "1": {
+                                                                  "word": "99t",
+                                                                  "children": {
+                                                                    "1": {
+                                                                      "word": "99u",
+                                                                      "children": {}
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "9979",
+              "children": {
+                "2": {
+                  "word": "999\"",
+                  "children": {
+                    "1": {
+                      "word": "999)",
+                      "children": {
+                        "1": {
+                          "word": "9995",
+                          "children": {
+                            "1": {
+                              "word": "999c",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(993)",
+      "children": {
+        "1": {
+          "word": "(998)",
+          "children": {
+            "1": {
+              "word": "(999)",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "(9999",
+          "children": {
+            "2": {
+              "word": "9999)",
+              "children": {}
+            },
+            "3": {
+              "word": "990)",
+              "children": {
+                "1": {
+                  "word": "997)",
+                  "children": {
+                    "1": {
+                      "word": "99m)",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "9991)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "9900",
+          "children": {
+            "1": {
+              "word": "9902",
+              "children": {
+                "2": {
+                  "word": "9980",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "9912",
+              "children": {
+                "1": {
+                  "word": "9982",
+                  "children": {}
+                },
+                "2": {
+                  "word": "9925",
+                  "children": {
+                    "2": {
+                      "word": "9981",
+                      "children": {
+                        "2": {
+                          "word": "99aj",
+                          "children": {
+                            "2": {
+                              "word": "99pm",
+                              "children": {
+                                "2": {
+                                  "word": "99xx",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "99927",
+              "children": {
+                "2": {
+                  "word": "99999",
+                  "children": {
+                    "2": {
+                      "word": "999ms",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "99-99",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(9999)",
+      "children": {
+        "2": {
+          "word": "(99cm)",
+          "children": {
+            "2": {
+              "word": "(99mg)",
+              "children": {}
+            },
+            "4": {
+              "word": "999999",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(99yen",
+          "children": {
+            "4": {
+              "word": "9937)",
+              "children": {
+                "2": {
+                  "word": "9965)",
+                  "children": {
+                    "2": {
+                      "word": "99ml)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "99-do",
+          "children": {
+            "3": {
+              "word": "99123",
+              "children": {
+                "3": {
+                  "word": "99530",
+                  "children": {
+                    "3": {
+                      "word": "99ban",
+                      "children": {
+                        "2": {
+                          "word": "99ren",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "99fpp",
+                          "children": {
+                            "3": {
+                              "word": "99noe",
+                              "children": {
+                                "1": {
+                                  "word": "99noi",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "99tea",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "999ool",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "991099",
+              "children": {
+                "4": {
+                  "word": "99933g",
+                  "children": {
+                    "3": {
+                      "word": "999cyn",
+                      "children": {
+                        "2": {
+                          "word": "999kun",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "999ute",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(99535)",
+      "children": {
+        "3": {
+          "word": "(99nya)",
+          "children": {
+            "3": {
+              "word": "(99zai)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "990331",
+          "children": {}
+        },
+        "5": {
+          "word": "990066",
+          "children": {
+            "3": {
+              "word": "991010",
+              "children": {
+                "3": {
+                  "word": "9990615",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "991542",
+              "children": {
+                "4": {
+                  "word": "99cens",
+                  "children": {
+                    "3": {
+                      "word": "99nams",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "99hime",
+                      "children": {
+                        "3": {
+                          "word": "99tkmo",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "99plum",
+                          "children": {
+                            "4": {
+                              "word": "99t10r",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "9999bet",
+              "children": {
+                "3": {
+                  "word": "9999mme",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "9910991",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(991819)",
+      "children": {
+        "3": {
+          "word": "(996129)",
+          "children": {
+            "4": {
+              "word": "(998877)",
+              "children": {
+                "4": {
+                  "word": "(999311)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(992058)",
+          "children": {
+            "3": {
+              "word": "(997554)",
+              "children": {
+                "2": {
+                  "word": "(997578)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "(999qji)",
+              "children": {
+                "4": {
+                  "word": "(99hime)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "9910629)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "99384295",
+          "children": {
+            "5": {
+              "word": "995474)",
+              "children": {
+                "3": {
+                  "word": "9997494)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "996207)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "99597714",
+          "children": {
+            "6": {
+              "word": "99638932",
+              "children": {
+                "4": {
+                  "word": "99962952",
+                  "children": {}
+                },
+                "5": {
+                  "word": "997133z",
+                  "children": {
+                    "6": {
+                      "word": "99ar99lf",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "999looms",
+                  "children": {
+                    "5": {
+                      "word": "999ochan",
+                      "children": {
+                        "4": {
+                          "word": "999shark",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "99round",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "99dulgi",
+                      "children": {
+                        "4": {
+                          "word": "99migiy",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "99ghxst",
+                          "children": {
+                            "4": {
+                              "word": "99night",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "99479538",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(9965053)",
+      "children": {
+        "5": {
+          "word": "(9993811)",
+          "children": {
+            "4": {
+              "word": "(9994104)",
+              "children": {}
+            },
+            "5": {
+              "word": "(99honey)",
+              "children": {
+                "4": {
+                  "word": "(99kofjj)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(99klesa)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "99969697)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "9918114)",
+          "children": {}
+        },
+        "7": {
+          "word": "991eevee",
+          "children": {
+            "5": {
+              "word": "99kermit",
+              "children": {
+                "4": {
+                  "word": "99kurage",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "9941only",
+              "children": {
+                "5": {
+                  "word": "99814070",
+                  "children": {}
+                },
+                "6": {
+                  "word": "99illust",
+                  "children": {
+                    "6": {
+                      "word": "99kkccqq",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "994369064",
+              "children": {
+                "5": {
+                  "word": "99838945)",
+                  "children": {}
+                },
+                "7": {
+                  "word": "999knight",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(99199861)",
+      "children": {
+        "4": {
+          "word": "(99829877)",
+          "children": {}
+        },
+        "6": {
+          "word": "(996beshi)",
+          "children": {
+            "5": {
+              "word": "(999ykseo)",
+              "children": {}
+            },
+            "6": {
+              "word": "(99jellys)",
+              "children": {}
+            },
+            "7": {
+              "word": "99415611)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "99101tuki",
+          "children": {
+            "7": {
+              "word": "999112oiya",
+              "children": {}
+            },
+            "8": {
+              "word": "999no9chan",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "993651527",
+          "children": {
+            "6": {
+              "word": "99akt1031",
+              "children": {}
+            },
+            "7": {
+              "word": "995080356",
+              "children": {
+                "7": {
+                  "word": "9981nashi",
+                  "children": {
+                    "5": {
+                      "word": "99sanaday",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "99hunters",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "99percent",
+                      "children": {
+                        "7": {
+                          "word": "99tsukumo",
+                          "children": {
+                            "6": {
+                              "word": "99yoonjoo",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "999aethers",
+              "children": {
+                "6": {
+                  "word": "999captain",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "99hi14u9uj",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "(997841291)",
+      "children": {
+        "6": {
+          "word": "(99wanzi99)",
+          "children": {}
+        },
+        "7": {
+          "word": "(999gayuku)",
+          "children": {
+            "6": {
+              "word": "(999mellow)",
+              "children": {
+                "6": {
+                  "word": "(999sleepy)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "(99hunters)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "99999999527",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "(9988emanon)",
+      "children": {
+        "7": {
+          "word": "(999pano999)",
+          "children": {}
+        },
+        "8": {
+          "word": "(999gravity)",
+          "children": {}
+        },
+        "9": {
+          "word": "99happyhour",
+          "children": {}
+        },
+        "10": {
+          "word": "99999chicken",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "99tyokolove99",
+      "children": {}
+    },
+    "13": {
+      "word": "(99chocolove99)",
+      "children": {
+        "13": {
+          "word": "999admwp-nayasa",
+          "children": {}
+        }
+      }
+    }
+  }
+}

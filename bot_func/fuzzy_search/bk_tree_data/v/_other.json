@@ -1,0 +1,52 @@
+{
+  "word": "(v",
+  "children": {
+    "1": {
+      "word": "(v)",
+      "children": {
+        "2": {
+          "word": ":v",
+          "children": {
+            "1": {
+              "word": "=v",
+              "children": {
+                "1": {
+                  "word": "v",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "-v-",
+      "children": {
+        "1": {
+          "word": "v-",
+          "children": {}
+        },
+        "2": {
+          "word": "^v^",
+          "children": {
+            "2": {
+              "word": "v)",
+              "children": {
+                "1": {
+                  "word": "v.",
+                  "children": {
+                    "1": {
+                      "word": "v:",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

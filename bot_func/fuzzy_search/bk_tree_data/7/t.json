@@ -1,0 +1,151 @@
+{
+  "word": "(7t5)",
+  "children": {
+    "1": {
+      "word": "(7th)",
+      "children": {}
+    },
+    "2": {
+      "word": "(7ten)",
+      "children": {
+        "3": {
+          "word": "(7th",
+          "children": {
+            "2": {
+              "word": "7th)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "7t",
+      "children": {
+        "1": {
+          "word": "7ta",
+          "children": {
+            "1": {
+              "word": "7th",
+              "children": {
+                "1": {
+                  "word": "7tp",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "7tar",
+          "children": {
+            "2": {
+              "word": "7ten",
+              "children": {
+                "2": {
+                  "word": "7tsu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "7-tan",
+      "children": {
+        "3": {
+          "word": "7tade",
+          "children": {
+            "2": {
+              "word": "7taro",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "7tget",
+          "children": {
+            "2": {
+              "word": "7tkei",
+              "children": {
+                "2": {
+                  "word": "7tree",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "7t7t7t7",
+      "children": {
+        "5": {
+          "word": "7tsuki",
+          "children": {
+            "2": {
+              "word": "7tsume",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "7takada",
+      "children": {
+        "5": {
+          "word": "7thgear",
+          "children": {
+            "4": {
+              "word": "7thwind",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(7tonfarbe)",
+      "children": {
+        "8": {
+          "word": "7thbirth",
+          "children": {
+            "5": {
+              "word": "7thdream",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(7th-heaven)",
+      "children": {
+        "6": {
+          "word": "(7thphoneme)",
+          "children": {}
+        },
+        "8": {
+          "word": "7tungsten",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "7th-heaven",
+      "children": {}
+    },
+    "12": {
+      "word": "(7taizai7bitoku)",
+      "children": {}
+    },
+    "13": {
+      "word": "7th-phlegethon",
+      "children": {}
+    }
+  }
+}

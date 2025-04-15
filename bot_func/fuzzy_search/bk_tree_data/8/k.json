@@ -1,0 +1,121 @@
+{
+  "word": "(8kan)",
+  "children": {
+    "2": {
+      "word": "(8kb)",
+      "children": {
+        "4": {
+          "word": "8kani",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "8k)",
+      "children": {
+        "1": {
+          "word": "8k6)",
+          "children": {
+            "1": {
+              "word": "8ku)",
+              "children": {}
+            },
+            "2": {
+              "word": "8ka",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "8kai",
+          "children": {}
+        },
+        "3": {
+          "word": "8ka43",
+          "children": {
+            "2": {
+              "word": "8kaku",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(8krmj7)",
+      "children": {
+        "5": {
+          "word": "8kr",
+          "children": {}
+        },
+        "6": {
+          "word": "8(kari)",
+          "children": {
+            "5": {
+              "word": "8k",
+              "children": {
+                "1": {
+                  "word": "8ko",
+                  "children": {
+                    "1": {
+                      "word": "8kx",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "8key",
+                  "children": {}
+                },
+                "3": {
+                  "word": "8k3ht",
+                  "children": {
+                    "3": {
+                      "word": "8kcud",
+                      "children": {
+                        "3": {
+                          "word": "8knff",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "8-kai",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(8komori)",
+      "children": {
+        "5": {
+          "word": "8koenji",
+          "children": {}
+        },
+        "6": {
+          "word": "8kerot",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "8kanzaki8",
+      "children": {}
+    },
+    "7": {
+      "word": "(8kiragami8)",
+      "children": {
+        "7": {
+          "word": "8kumagawa",
+          "children": {}
+        }
+      }
+    }
+  }
+}

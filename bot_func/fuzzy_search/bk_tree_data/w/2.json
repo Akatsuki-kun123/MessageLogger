@@ -1,0 +1,74 @@
+{
+  "word": "(w2-zero2",
+  "children": {
+    "6": {
+      "word": "(w2ky)",
+      "children": {
+        "4": {
+          "word": "w2222",
+          "children": {
+            "3": {
+              "word": "w2lo",
+              "children": {
+                "3": {
+                  "word": "w2red",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "w2",
+      "children": {
+        "1": {
+          "word": "w25",
+          "children": {
+            "1": {
+              "word": "w2w",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "w204",
+          "children": {
+            "2": {
+              "word": "w21.",
+              "children": {
+                "1": {
+                  "word": "w217",
+                  "children": {}
+                },
+                "2": {
+                  "word": "w22)",
+                  "children": {
+                    "1": {
+                      "word": "w221",
+                      "children": {
+                        "1": {
+                          "word": "w223",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "w296150211",
+      "children": {}
+    },
+    "10": {
+      "word": "w2398510474",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "word": "(e",
+  "children": {
+    "1": {
+      "word": "(e)",
+      "children": {
+        "2": {
+          "word": "e",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "e!",
+      "children": {
+        "1": {
+          "word": "e)",
+          "children": {
+            "1": {
+              "word": "e-",
+              "children": {
+                "1": {
+                  "word": "e.",
+                  "children": {
+                    "1": {
+                      "word": "e?",
+                      "children": {
+                        "1": {
+                          "word": "e~",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "e...",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "word": "6x",
+  "children": {
+    "1": {
+      "word": "6x6",
+      "children": {
+        "1": {
+          "word": "6x7",
+          "children": {
+            "1": {
+              "word": "6xi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "6xon",
+      "children": {}
+    },
+    "3": {
+      "word": "6x318",
+      "children": {
+        "3": {
+          "word": "6xtu2",
+          "children": {
+            "3": {
+              "word": "6xxsk",
+              "children": {
+                "2": {
+                  "word": "6xxx)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "6x6-0x0",
+      "children": {}
+    },
+    "6": {
+      "word": "6xjuicer",
+      "children": {}
+    },
+    "10": {
+      "word": "6xiachunqiu7",
+      "children": {}
+    }
+  }
+}

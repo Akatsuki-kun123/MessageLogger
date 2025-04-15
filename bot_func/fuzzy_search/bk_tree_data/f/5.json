@@ -1,0 +1,31 @@
+{
+  "word": "f-5",
+  "children": {
+    "1": {
+      "word": "f-5e",
+      "children": {
+        "2": {
+          "word": "f5",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "f50",
+      "children": {}
+    },
+    "4": {
+      "word": "f5ej3",
+      "children": {
+        "3": {
+          "word": "f5wb2",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "f-5e/g/i",
+      "children": {}
+    }
+  }
+}

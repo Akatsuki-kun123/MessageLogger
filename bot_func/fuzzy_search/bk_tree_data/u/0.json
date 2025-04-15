@@ -1,0 +1,107 @@
+{
+  "word": "(u0",
+  "children": {
+    "1": {
+      "word": "u0",
+      "children": {}
+    },
+    "2": {
+      "word": "u-0",
+      "children": {
+        "2": {
+          "word": "u0)",
+          "children": {
+            "1": {
+              "word": "u03",
+              "children": {
+                "1": {
+                  "word": "u04",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "u-01",
+      "children": {
+        "3": {
+          "word": "u0s)",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "u0h0u",
+      "children": {
+        "1": {
+          "word": "u0x0u",
+          "children": {}
+        },
+        "2": {
+          "word": "u0w0v",
+          "children": {}
+        },
+        "3": {
+          "word": "u0jwa",
+          "children": {
+            "3": {
+              "word": "u0rei",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(u08585)",
+      "children": {
+        "4": {
+          "word": "(u0s799)",
+          "children": {}
+        },
+        "6": {
+          "word": "u0oouo",
+          "children": {
+            "4": {
+              "word": "u0x999",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "u-0197x",
+      "children": {}
+    },
+    "7": {
+      "word": "u0002525",
+      "children": {
+        "6": {
+          "word": "u0nought",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "u06390073",
+      "children": {}
+    },
+    "9": {
+      "word": "u0401earth",
+      "children": {}
+    },
+    "14": {
+      "word": "(u0o5bxgg46hm6vj)",
+      "children": {
+        "14": {
+          "word": "u0vtzagq8r41403",
+          "children": {}
+        }
+      }
+    }
+  }
+}

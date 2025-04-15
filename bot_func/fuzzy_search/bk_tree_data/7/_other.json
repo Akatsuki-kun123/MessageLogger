@@ -1,0 +1,37 @@
+{
+  "word": "#7",
+  "children": {
+    "1": {
+      "word": "(7",
+      "children": {
+        "1": {
+          "word": "+7",
+          "children": {
+            "1": {
+              "word": "7",
+              "children": {
+                "1": {
+                  "word": "~7",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(7)",
+      "children": {
+        "1": {
+          "word": "7)",
+          "children": {}
+        },
+        "2": {
+          "word": "7:",
+          "children": {}
+        }
+      }
+    }
+  }
+}

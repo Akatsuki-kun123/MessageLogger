@@ -1,0 +1,225 @@
+{
+  "word": "(pb",
+  "children": {
+    "1": {
+      "word": "pb",
+      "children": {}
+    },
+    "2": {
+      "word": "(pbr)",
+      "children": {
+        "1": {
+          "word": "(pbw)",
+          "children": {}
+        },
+        "2": {
+          "word": "pb)",
+          "children": {}
+        },
+        "3": {
+          "word": "pba",
+          "children": {
+            "1": {
+              "word": "pbj",
+              "children": {
+                "1": {
+                  "word": "pbm",
+                  "children": {
+                    "1": {
+                      "word": "pbn",
+                      "children": {
+                        "1": {
+                          "word": "pbo",
+                          "children": {
+                            "1": {
+                              "word": "pbs",
+                              "children": {
+                                "1": {
+                                  "word": "pbt",
+                                  "children": {
+                                    "1": {
+                                      "word": "pbw",
+                                      "children": {
+                                        "1": {
+                                          "word": "pby",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "p.b.",
+      "children": {
+        "3": {
+          "word": "pb't",
+          "children": {
+            "2": {
+              "word": "pbei",
+              "children": {
+                "2": {
+                  "word": "pbls",
+                  "children": {
+                    "2": {
+                      "word": "pbum",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "p-b-c",
+      "children": {
+        "2": {
+          "word": "p-bee",
+          "children": {
+            "2": {
+              "word": "p-bot",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "pbbs)",
+          "children": {}
+        },
+        "4": {
+          "word": "pb250",
+          "children": {
+            "3": {
+              "word": "pbart",
+              "children": {
+                "2": {
+                  "word": "pbird",
+                  "children": {
+                    "2": {
+                      "word": "pboro",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "pbfss",
+                  "children": {
+                    "3": {
+                      "word": "pblop",
+                      "children": {
+                        "3": {
+                          "word": "pbwfa",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "p-body",
+      "children": {
+        "4": {
+          "word": "pbmoon",
+          "children": {}
+        },
+        "5": {
+          "word": "pbkaon",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(pb2sera)",
+      "children": {
+        "7": {
+          "word": "pbj6541",
+          "children": {
+            "5": {
+              "word": "pbv8628",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "pbaeck22",
+      "children": {
+        "5": {
+          "word": "pbremmus",
+          "children": {}
+        },
+        "6": {
+          "word": "pbinbago",
+          "children": {
+            "6": {
+              "word": "pbwdouka",
+              "children": {
+                "6": {
+                  "word": "pbyrg831",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(pblue0730)",
+      "children": {
+        "9": {
+          "word": "pbysteria",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "pbearanims",
+      "children": {
+        "8": {
+          "word": "pbjituiren",
+          "children": {}
+        },
+        "9": {
+          "word": "pboh22pbco3",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "pbpanicbutton",
+      "children": {}
+    },
+    "13": {
+      "word": "pb-cmp-test830",
+      "children": {}
+    },
+    "14": {
+      "word": "pbj8ggkpkchnlxr",
+      "children": {}
+    }
+  }
+}

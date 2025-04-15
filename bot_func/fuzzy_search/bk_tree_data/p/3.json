@@ -1,0 +1,188 @@
+{
+  "word": "(p-3-q)",
+  "children": {
+    "2": {
+      "word": "(p-38)",
+      "children": {
+        "3": {
+          "word": "p-3-q",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(p391)",
+      "children": {}
+    },
+    "4": {
+      "word": "p-3",
+      "children": {
+        "1": {
+          "word": "p-36",
+          "children": {
+            "1": {
+              "word": "p-38",
+              "children": {
+                "1": {
+                  "word": "p-39",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "p3)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(p3p3ron)",
+      "children": {
+        "5": {
+          "word": "p3p3",
+          "children": {}
+        },
+        "6": {
+          "word": "p3131",
+          "children": {
+            "2": {
+              "word": "p3233",
+              "children": {
+                "3": {
+                  "word": "p3r1",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "p3n",
+              "children": {
+                "2": {
+                  "word": "p3rt",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "p3",
+          "children": {
+            "1": {
+              "word": "p30",
+              "children": {
+                "1": {
+                  "word": "p32",
+                  "children": {
+                    "1": {
+                      "word": "p34",
+                      "children": {
+                        "1": {
+                          "word": "p38",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "p30l",
+              "children": {
+                "2": {
+                  "word": "p320",
+                  "children": {
+                    "2": {
+                      "word": "p345",
+                      "children": {
+                        "1": {
+                          "word": "p365",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "p3st",
+                          "children": {
+                            "2": {
+                              "word": "p3ta",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "p3104",
+              "children": {
+                "3": {
+                  "word": "p3n-d",
+                  "children": {
+                    "2": {
+                      "word": "p3ngu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(p3drohb)",
+      "children": {
+        "7": {
+          "word": "p396vx",
+          "children": {
+            "4": {
+              "word": "p3nc1l",
+              "children": {
+                "4": {
+                  "word": "p3pp3r",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "p3p-diva",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(p3riperi)",
+      "children": {}
+    },
+    "8": {
+      "word": "(p35474586)",
+      "children": {
+        "7": {
+          "word": "(p3rsona17)",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "p3ach0520",
+      "children": {
+        "4": {
+          "word": "p3achsalt",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "p3rfectvelvts",
+      "children": {}
+    }
+  }
+}

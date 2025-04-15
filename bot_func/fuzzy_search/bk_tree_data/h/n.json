@@ -1,0 +1,807 @@
+{
+  "word": "(h-n)",
+  "children": {
+    "1": {
+      "word": "(hn)",
+      "children": {}
+    },
+    "2": {
+      "word": "(h-net)",
+      "children": {
+        "3": {
+          "word": "(hnt",
+          "children": {
+            "2": {
+              "word": "(hnw)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(hn",
+          "children": {
+            "1": {
+              "word": "(hnb",
+              "children": {
+                "1": {
+                  "word": "(hnm",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "hn)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(hnah)",
+      "children": {
+        "2": {
+          "word": "(hnrq)",
+          "children": {
+            "2": {
+              "word": "(hnsd)",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(hngs",
+          "children": {
+            "2": {
+              "word": "(hnkn",
+              "children": {}
+            },
+            "3": {
+              "word": "hnd)",
+              "children": {
+                "1": {
+                  "word": "hno)",
+                  "children": {
+                    "1": {
+                      "word": "hnw)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "hnkn)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "hn",
+          "children": {
+            "1": {
+              "word": "hnd",
+              "children": {
+                "1": {
+                  "word": "hnk",
+                  "children": {
+                    "1": {
+                      "word": "hnm",
+                      "children": {
+                        "1": {
+                          "word": "hnn",
+                          "children": {
+                            "1": {
+                              "word": "hno",
+                              "children": {
+                                "1": {
+                                  "word": "hnp",
+                                  "children": {
+                                    "1": {
+                                      "word": "hns",
+                                      "children": {
+                                        "1": {
+                                          "word": "hnt",
+                                          "children": {
+                                            "1": {
+                                              "word": "hny",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "hnn8",
+              "children": {
+                "1": {
+                  "word": "hnnk",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "h-new",
+          "children": {
+            "2": {
+              "word": "h-noi",
+              "children": {
+                "3": {
+                  "word": "h@ne",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "h@nk",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(hn-khk)",
+      "children": {
+        "3": {
+          "word": "(hnaho)",
+          "children": {}
+        },
+        "4": {
+          "word": "(hn495)",
+          "children": {
+            "4": {
+              "word": "(hnahon)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "hn01)",
+          "children": {
+            "2": {
+              "word": "hnst)",
+              "children": {
+                "2": {
+                  "word": "hnti)",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "hnah",
+              "children": {
+                "2": {
+                  "word": "hnhg",
+                  "children": {
+                    "1": {
+                      "word": "hnhr",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "hnkn",
+                      "children": {
+                        "2": {
+                          "word": "hnsk",
+                          "children": {
+                            "1": {
+                              "word": "hntk",
+                              "children": {
+                                "1": {
+                                  "word": "hnvk",
+                                  "children": {
+                                    "1": {
+                                      "word": "hnzk",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "hncrn)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "h-neun",
+          "children": {
+            "3": {
+              "word": "hnel",
+              "children": {
+                "2": {
+                  "word": "hniu",
+                  "children": {
+                    "2": {
+                      "word": "hntn",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "hn02",
+              "children": {
+                "2": {
+                  "word": "hnai",
+                  "children": {
+                    "2": {
+                      "word": "hnbs",
+                      "children": {
+                        "1": {
+                          "word": "hngs",
+                          "children": {
+                            "1": {
+                              "word": "hnts",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "hnmr",
+                          "children": {
+                            "2": {
+                              "word": "hno3",
+                              "children": {
+                                "2": {
+                                  "word": "hnro",
+                                  "children": {
+                                    "2": {
+                                      "word": "hnyd",
+                                      "children": {
+                                        "2": {
+                                          "word": "hnzw",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "hnnoo",
+                  "children": {}
+                },
+                "4": {
+                  "word": "hnhena",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(hn0816)",
+      "children": {
+        "3": {
+          "word": "(hnmy46)",
+          "children": {}
+        },
+        "4": {
+          "word": "(hn2eix)",
+          "children": {
+            "4": {
+              "word": "(hnb6rr)",
+              "children": {
+                "4": {
+                  "word": "(hncdyo)",
+                  "children": {
+                    "3": {
+                      "word": "(hndboo)",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "(hnt1aa)",
+                      "children": {
+                        "4": {
+                          "word": "(hnumkt)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(hnnmemi)",
+          "children": {}
+        },
+        "6": {
+          "word": "hnaya",
+          "children": {
+            "2": {
+              "word": "hntaa",
+              "children": {}
+            },
+            "3": {
+              "word": "hnjud",
+              "children": {
+                "2": {
+                  "word": "hnyuu",
+                  "children": {}
+                },
+                "3": {
+                  "word": "hnlms",
+                  "children": {
+                    "3": {
+                      "word": "hnmrk",
+                      "children": {
+                        "2": {
+                          "word": "hntbk",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "hntp2",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "hnncho",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(h@nimaru)",
+      "children": {
+        "4": {
+          "word": "(hnkmayo)",
+          "children": {}
+        },
+        "5": {
+          "word": "(hnkdayo)",
+          "children": {
+            "4": {
+              "word": "(hnzwa11)",
+              "children": {}
+            },
+            "6": {
+              "word": "hnikar",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(hnk1018)",
+          "children": {
+            "5": {
+              "word": "(hno3syo)",
+              "children": {}
+            },
+            "7": {
+              "word": "hnimina",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(hnagisa",
+          "children": {
+            "5": {
+              "word": "hnav21",
+              "children": {
+                "4": {
+                  "word": "hndssr",
+                  "children": {
+                    "4": {
+                      "word": "hngyrn",
+                      "children": {
+                        "4": {
+                          "word": "hniicz",
+                          "children": {
+                            "4": {
+                              "word": "hnkrgs",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "hnksub",
+              "children": {
+                "4": {
+                  "word": "hntpan",
+                  "children": {}
+                },
+                "5": {
+                  "word": "hnmhneu",
+                  "children": {
+                    "4": {
+                      "word": "hnyhrkn",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "hnrnrnh",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "hnak-xr",
+          "children": {
+            "3": {
+              "word": "hnakn17",
+              "children": {}
+            },
+            "4": {
+              "word": "hnnkckn",
+              "children": {
+                "3": {
+                  "word": "hntkko",
+                  "children": {}
+                },
+                "5": {
+                  "word": "hnrfxm",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "hnbsgy",
+              "children": {
+                "3": {
+                  "word": "hnyjiy",
+                  "children": {}
+                },
+                "4": {
+                  "word": "hnpp21",
+                  "children": {}
+                },
+                "5": {
+                  "word": "hnywoni",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "hnhnhnhn",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(hn000000)",
+      "children": {
+        "6": {
+          "word": "(hnax2223)",
+          "children": {
+            "3": {
+              "word": "(hnga2233)",
+              "children": {}
+            },
+            "5": {
+              "word": "(hncx3355)",
+              "children": {
+                "4": {
+                  "word": "(hnma5353)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(hndj4527)",
+                  "children": {
+                    "3": {
+                      "word": "(hnuj4272)",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "(hndu2588)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "(hnma3785)",
+              "children": {
+                "5": {
+                  "word": "(hntg7838)",
+                  "children": {
+                    "5": {
+                      "word": "(hnzp7452)",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "(hnxp8555)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(hnkocchan)",
+          "children": {
+            "5": {
+              "word": "(hnosnthrn)",
+              "children": {}
+            },
+            "9": {
+              "word": "hnz0926",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "hnjk777",
+          "children": {
+            "2": {
+              "word": "hntk778",
+              "children": {}
+            },
+            "5": {
+              "word": "hnkfish",
+              "children": {
+                "5": {
+                  "word": "hnmavcd",
+                  "children": {
+                    "5": {
+                      "word": "hnxxgwx",
+                      "children": {
+                        "5": {
+                          "word": "hnysart",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "hnnj2442",
+                  "children": {
+                    "5": {
+                      "word": "hnns7533",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "h'naanza",
+          "children": {
+            "6": {
+              "word": "h.n.elly",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(hnkchn1006)",
+      "children": {
+        "8": {
+          "word": "hnku5834)",
+          "children": {
+            "6": {
+              "word": "hnmc7448)",
+              "children": {}
+            },
+            "7": {
+              "word": "hnw00011",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "hncr4292",
+          "children": {
+            "6": {
+              "word": "hnrc5375",
+              "children": {
+                "4": {
+                  "word": "hnxc5738",
+                  "children": {}
+                },
+                "6": {
+                  "word": "hnzg2542)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "hn575755",
+          "children": {
+            "4": {
+              "word": "hnsx5778",
+              "children": {}
+            },
+            "5": {
+              "word": "hnmk5874",
+              "children": {
+                "6": {
+                  "word": "hnrt4257",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "hndearme",
+              "children": {
+                "4": {
+                  "word": "hnseeeee",
+                  "children": {}
+                },
+                "6": {
+                  "word": "hnrd7232",
+                  "children": {
+                    "6": {
+                      "word": "hnyk3487",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "hngr4fngr",
+              "children": {
+                "7": {
+                  "word": "hnti-yuax",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(hn34981630)",
+      "children": {
+        "9": {
+          "word": "hnnstkn001",
+          "children": {}
+        },
+        "10": {
+          "word": "hnahoekaki",
+          "children": {
+            "7": {
+              "word": "hnayatume",
+              "children": {
+                "6": {
+                  "word": "hnzwakira",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "hnbillust",
+              "children": {
+                "7": {
+                  "word": "hneckdeep",
+                  "children": {}
+                },
+                "8": {
+                  "word": "hnt-yuhk-7",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(hnt16303310)",
+      "children": {
+        "7": {
+          "word": "hn93393810",
+          "children": {}
+        },
+        "9": {
+          "word": "hntrgurl13",
+          "children": {}
+        },
+        "10": {
+          "word": "hn73449228",
+          "children": {}
+        },
+        "11": {
+          "word": "hnzkkkkkkk",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "(hnbozi429891)",
+      "children": {
+        "10": {
+          "word": "hnd15098770",
+          "children": {
+            "9": {
+              "word": "hnm34347659",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "hntricolore",
+          "children": {}
+        },
+        "12": {
+          "word": "hnaponpeisan",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "hngakimaranai",
+      "children": {}
+    },
+    "13": {
+      "word": "hnnmloversclub",
+      "children": {}
+    },
+    "14": {
+      "word": "hnfau4rhhqilftg",
+      "children": {
+        "13": {
+          "word": "hngnguy55349795",
+          "children": {}
+        }
+      }
+    }
+  }
+}

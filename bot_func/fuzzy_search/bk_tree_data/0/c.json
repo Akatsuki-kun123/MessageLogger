@@ -1,0 +1,90 @@
+{
+  "word": "0-cececar",
+  "children": {
+    "5": {
+      "word": "0-chan",
+      "children": {}
+    },
+    "6": {
+      "word": "0ca",
+      "children": {
+        "1": {
+          "word": "0cat",
+          "children": {
+            "2": {
+              "word": "0cha",
+              "children": {
+                "2": {
+                  "word": "0cr",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "0chan",
+          "children": {}
+        },
+        "3": {
+          "word": "0come",
+          "children": {}
+        },
+        "4": {
+          "word": "0clock",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "0c",
+      "children": {
+        "2": {
+          "word": "0chi",
+          "children": {
+            "2": {
+              "word": "0cok",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "0c0ff",
+          "children": {
+            "3": {
+              "word": "0chin",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "0chai)",
+          "children": {
+            "3": {
+              "word": "0chili",
+              "children": {
+                "2": {
+                  "word": "0chiyu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "0chaton0",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "0chidori0",
+      "children": {
+        "5": {
+          "word": "0choisang0",
+          "children": {}
+        }
+      }
+    }
+  }
+}

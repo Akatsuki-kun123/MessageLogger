@@ -1,0 +1,97 @@
+{
+  "word": "(y2",
+  "children": {
+    "1": {
+      "word": "y2",
+      "children": {}
+    },
+    "2": {
+      "word": "(y23)",
+      "children": {
+        "1": {
+          "word": "(y2k)",
+          "children": {}
+        },
+        "2": {
+          "word": "y23",
+          "children": {}
+        },
+        "3": {
+          "word": "y21",
+          "children": {
+            "1": {
+              "word": "y2k",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(y287)",
+      "children": {
+        "4": {
+          "word": "y2jd",
+          "children": {}
+        },
+        "5": {
+          "word": "y-20",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(y28he)",
+      "children": {
+        "4": {
+          "word": "y25fe",
+          "children": {
+            "3": {
+              "word": "y2802",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "y2yes2",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(y2toj2)",
+      "children": {
+        "6": {
+          "word": "y2swan",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(y2toj2))",
+      "children": {
+        "6": {
+          "word": "y21otsu",
+          "children": {
+            "4": {
+              "word": "y2k-2sk",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "y22pi11",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "y2232296007",
+      "children": {}
+    },
+    "12": {
+      "word": "y2umboomspicy",
+      "children": {}
+    }
+  }
+}

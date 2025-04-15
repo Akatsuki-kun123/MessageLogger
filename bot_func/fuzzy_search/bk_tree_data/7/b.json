@@ -1,0 +1,54 @@
+{
+  "word": "(7bana",
+  "children": {
+    "2": {
+      "word": "7ban",
+      "children": {
+        "1": {
+          "word": "7ban7",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(7beni)",
+      "children": {
+        "4": {
+          "word": "7bun",
+          "children": {}
+        },
+        "5": {
+          "word": "7ball",
+          "children": {
+            "4": {
+              "word": "7bantea",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "7b",
+      "children": {
+        "2": {
+          "word": "7bit",
+          "children": {}
+        },
+        "4": {
+          "word": "7ben9i",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "7bnoenpitsu",
+      "children": {
+        "8": {
+          "word": "7bpictures",
+          "children": {}
+        }
+      }
+    }
+  }
+}

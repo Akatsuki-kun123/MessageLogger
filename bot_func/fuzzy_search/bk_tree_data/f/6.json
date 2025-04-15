@@ -1,0 +1,36 @@
+{
+  "word": "f6",
+  "children": {
+    "1": {
+      "word": "f60",
+      "children": {
+        "1": {
+          "word": "f68",
+          "children": {
+            "1": {
+              "word": "f6f",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "f66x",
+      "children": {
+        "2": {
+          "word": "f69g",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "f69428",
+      "children": {}
+    },
+    "6": {
+      "word": "f6765196",
+      "children": {}
+    }
+  }
+}

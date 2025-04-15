@@ -1,0 +1,86 @@
+{
+  "word": "(t-6hexa)",
+  "children": {
+    "5": {
+      "word": "(t69)",
+      "children": {
+        "3": {
+          "word": "(t6slw)",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "t-6",
+      "children": {
+        "1": {
+          "word": "t-60",
+          "children": {
+            "1": {
+              "word": "t-62",
+              "children": {
+                "1": {
+                  "word": "t-64",
+                  "children": {
+                    "1": {
+                      "word": "t-65",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "t6)",
+          "children": {}
+        },
+        "4": {
+          "word": "t-6407j",
+          "children": {
+            "5": {
+              "word": "t69e3",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "t6",
+      "children": {
+        "1": {
+          "word": "t65",
+          "children": {}
+        },
+        "2": {
+          "word": "t613",
+          "children": {}
+        },
+        "3": {
+          "word": "t65k2",
+          "children": {
+            "3": {
+              "word": "t6788",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "t611620941",
+      "children": {
+        "9": {
+          "word": "t66sobakasu",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "t6cehwxridha0os",
+      "children": {}
+    }
+  }
+}

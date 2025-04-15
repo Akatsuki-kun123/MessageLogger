@@ -1,0 +1,67 @@
+{
+  "word": "(8go8)",
+  "children": {
+    "1": {
+      "word": "(8gou)",
+      "children": {}
+    },
+    "3": {
+      "word": "8g)",
+      "children": {
+        "1": {
+          "word": "8g8",
+          "children": {}
+        },
+        "2": {
+          "word": "8gok",
+          "children": {
+            "1": {
+              "word": "8gou",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "8-gou",
+      "children": {
+        "3": {
+          "word": "8g",
+          "children": {
+            "1": {
+              "word": "8ga",
+              "children": {}
+            },
+            "2": {
+              "word": "8ght",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "8ghost",
+          "children": {
+            "4": {
+              "word": "8gura",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "8graphica",
+      "children": {
+        "7": {
+          "word": "8guacamole",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "8gy2pesjef33878",
+      "children": {}
+    }
+  }
+}

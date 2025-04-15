@@ -1,0 +1,48 @@
+{
+  "word": "(d",
+  "children": {
+    "1": {
+      "word": "(d)",
+      "children": {
+        "2": {
+          "word": ":d",
+          "children": {
+            "1": {
+              "word": ";d",
+              "children": {
+                "1": {
+                  "word": "d",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "d!",
+      "children": {
+        "1": {
+          "word": "d)",
+          "children": {
+            "1": {
+              "word": "d.",
+              "children": {
+                "1": {
+                  "word": "d:",
+                  "children": {
+                    "1": {
+                      "word": "d;",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

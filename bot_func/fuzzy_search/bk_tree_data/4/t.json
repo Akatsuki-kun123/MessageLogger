@@ -1,0 +1,103 @@
+{
+  "word": "(4t44merry3)",
+  "children": {
+    "7": {
+      "word": "(4tera",
+      "children": {}
+    },
+    "8": {
+      "word": "(4th)",
+      "children": {
+        "3": {
+          "word": "4tya)",
+          "children": {}
+        },
+        "4": {
+          "word": "4tr33",
+          "children": {}
+        },
+        "5": {
+          "word": "4tsumi)",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "(4th",
+      "children": {
+        "3": {
+          "word": "4tew",
+          "children": {}
+        },
+        "4": {
+          "word": "4to1)",
+          "children": {}
+        },
+        "5": {
+          "word": "4tenno",
+          "children": {}
+        },
+        "6": {
+          "word": "4threset",
+          "children": {}
+        },
+        "7": {
+          "word": "4the2ofus",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "4t",
+      "children": {
+        "1": {
+          "word": "4tb",
+          "children": {
+            "1": {
+              "word": "4th",
+              "children": {
+                "1": {
+                  "word": "4tp",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "4tta",
+          "children": {}
+        },
+        "3": {
+          "word": "4t0ka",
+          "children": {
+            "1": {
+              "word": "4taka",
+              "children": {}
+            },
+            "3": {
+              "word": "4tsu8",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "4tsuba",
+          "children": {}
+        },
+        "5": {
+          "word": "4thnoah",
+          "children": {}
+        },
+        "7": {
+          "word": "4thrabbit",
+          "children": {}
+        },
+        "8": {
+          "word": "4thunknown",
+          "children": {}
+        }
+      }
+    }
+  }
+}

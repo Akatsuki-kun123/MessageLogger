@@ -1,0 +1,998 @@
+{
+  "word": "(i-boh)",
+  "children": {
+    "3": {
+      "word": "(ib)",
+      "children": {
+        "1": {
+          "word": "(ibr)",
+          "children": {}
+        },
+        "2": {
+          "word": "(ibex)",
+          "children": {
+            "2": {
+              "word": "(ibis)",
+              "children": {
+                "2": {
+                  "word": "(ibt5)",
+                  "children": {
+                    "2": {
+                      "word": "(ibun)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(ibara",
+      "children": {
+        "1": {
+          "word": "(ibara)",
+          "children": {}
+        },
+        "3": {
+          "word": "(ibi",
+          "children": {
+            "2": {
+              "word": "(ibnu",
+              "children": {
+                "3": {
+                  "word": "(ibuki",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(ibiku)",
+          "children": {
+            "2": {
+              "word": "(ibis1)",
+              "children": {
+                "3": {
+                  "word": "(ibuki)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "ib)",
+              "children": {
+                "1": {
+                  "word": "ib6)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "ibo",
+              "children": {
+                "2": {
+                  "word": "iboji",
+                  "children": {
+                    "2": {
+                      "word": "ibook",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "i-beam",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(ibacco)",
+      "children": {
+        "3": {
+          "word": "(ibatan)",
+          "children": {}
+        },
+        "4": {
+          "word": "(ibkmgm)",
+          "children": {
+            "6": {
+              "word": "ibao",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(ibitte",
+          "children": {
+            "4": {
+              "word": "ibane",
+              "children": {
+                "2": {
+                  "word": "ibata",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "iba",
+              "children": {
+                "1": {
+                  "word": "ibad",
+                  "children": {
+                    "1": {
+                      "word": "ibai",
+                      "children": {
+                        "1": {
+                          "word": "iban",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "ibara",
+                  "children": {
+                    "1": {
+                      "word": "ibaru",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "ibbca",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "ibuo",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "ibashi",
+                  "children": {
+                    "4": {
+                      "word": "ibkio",
+                      "children": {
+                        "2": {
+                          "word": "ibuko",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "iblod",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "~ibara",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ibuki)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ibusos)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "ib",
+          "children": {
+            "1": {
+              "word": "ib.",
+              "children": {
+                "1": {
+                  "word": "ibb",
+                  "children": {
+                    "1": {
+                      "word": "ibe",
+                      "children": {
+                        "1": {
+                          "word": "ibi",
+                          "children": {
+                            "1": {
+                              "word": "ibm",
+                              "children": {
+                                "1": {
+                                  "word": "ibn",
+                                  "children": {
+                                    "1": {
+                                      "word": "ibr",
+                                      "children": {
+                                        "1": {
+                                          "word": "ibu",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "ib's",
+              "children": {
+                "1": {
+                  "word": "ibis",
+                  "children": {}
+                },
+                "2": {
+                  "word": "ibee",
+                  "children": {
+                    "1": {
+                      "word": "ibex",
+                      "children": {
+                        "2": {
+                          "word": "ibye",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "ibik",
+                      "children": {
+                        "1": {
+                          "word": "ibil",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "ibnu",
+                          "children": {
+                            "2": {
+                              "word": "ibsg",
+                              "children": {
+                                "2": {
+                                  "word": "ibui",
+                                  "children": {
+                                    "1": {
+                                      "word": "ibul",
+                                      "children": {
+                                        "1": {
+                                          "word": "ibun",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "ibbie",
+              "children": {
+                "1": {
+                  "word": "ibble",
+                  "children": {}
+                },
+                "2": {
+                  "word": "iblee",
+                  "children": {
+                    "2": {
+                      "word": "iblis",
+                      "children": {
+                        "3": {
+                          "word": "ibuse",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "ibenq",
+                  "children": {
+                    "2": {
+                      "word": "ibeul",
+                      "children": {
+                        "3": {
+                          "word": "ibun:",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "ibiki",
+                      "children": {
+                        "1": {
+                          "word": "ibuki",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "ibis1",
+                          "children": {
+                            "1": {
+                              "word": "ibisu",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "ibita",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "ibraw",
+                          "children": {
+                            "3": {
+                              "word": "ibuya",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "ibouki",
+              "children": {
+                "3": {
+                  "word": "ibushi",
+                  "children": {}
+                },
+                "4": {
+                  "word": "ibroid",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(ibaraki)",
+      "children": {
+        "4": {
+          "word": "(iberiko",
+          "children": {
+            "5": {
+              "word": "ibara.",
+              "children": {
+                "1": {
+                  "word": "ibaran",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ibrahim",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "ibakei",
+          "children": {
+            "3": {
+              "word": "ibarra",
+              "children": {
+                "2": {
+                  "word": "ibarss",
+                  "children": {}
+                },
+                "3": {
+                  "word": "ibirii",
+                  "children": {}
+                },
+                "4": {
+                  "word": "ibrahem",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "iberia",
+              "children": {
+                "1": {
+                  "word": "iberis",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(ibunibun)",
+          "children": {
+            "5": {
+              "word": "ibutsu)",
+              "children": {}
+            },
+            "6": {
+              "word": "ibanen",
+              "children": {
+                "3": {
+                  "word": "ibunka",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "ibanez",
+              "children": {
+                "2": {
+                  "word": "ibanya",
+                  "children": {}
+                },
+                "4": {
+                  "word": "ibeyuk",
+                  "children": {
+                    "4": {
+                      "word": "ibiryo",
+                      "children": {
+                        "2": {
+                          "word": "iburoo",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "ibkive",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ibobata",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "iblokes",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(ibubobubo)",
+          "children": {
+            "6": {
+              "word": "ibuibu",
+              "children": {}
+            },
+            "7": {
+              "word": "iboobee",
+              "children": {
+                "5": {
+                  "word": "ibumuc",
+                  "children": {
+                    "3": {
+                      "word": "ibutsu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "ibbychan",
+              "children": {
+                "4": {
+                  "word": "ibbysss",
+                  "children": {}
+                },
+                "5": {
+                  "word": "ibulyn",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ibitsu",
+                  "children": {
+                    "5": {
+                      "word": "ibodi33",
+                      "children": {
+                        "4": {
+                          "word": "ibongxz",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "ib0314",
+              "children": {
+                "4": {
+                  "word": "ibitte",
+                  "children": {
+                    "4": {
+                      "word": "ibli51",
+                      "children": {
+                        "4": {
+                          "word": "ibm535",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(ibenz009)",
+      "children": {
+        "6": {
+          "word": "ibm5100",
+          "children": {
+            "1": {
+              "word": "ibn5100",
+              "children": {}
+            },
+            "5": {
+              "word": "ibu0024",
+              "children": {}
+            },
+            "7": {
+              "word": "ibunroku)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "ibekusa",
+          "children": {
+            "4": {
+              "word": "iberian",
+              "children": {
+                "2": {
+                  "word": "iberico",
+                  "children": {
+                    "1": {
+                      "word": "iberiko",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ibex-cg",
+                  "children": {
+                    "3": {
+                      "word": "ibextor",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "ibup0bi",
+              "children": {}
+            },
+            "6": {
+              "word": "ibugali)",
+              "children": {
+                "5": {
+                  "word": "ibunroku",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "iba-girl",
+          "children": {
+            "4": {
+              "word": "ibaragi",
+              "children": {
+                "5": {
+                  "word": "ibisiro",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ibushiro",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "ibahibut",
+              "children": {
+                "4": {
+                  "word": "ibasabi",
+                  "children": {
+                    "4": {
+                      "word": "ibrahimi",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ibarada",
+                  "children": {
+                    "2": {
+                      "word": "ibaraki",
+                      "children": {
+                        "1": {
+                          "word": "ibarako",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "ibayashi",
+                      "children": {
+                        "5": {
+                          "word": "ibdaart",
+                          "children": {
+                            "5": {
+                              "word": "iblisia",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "ibukuro",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ibirujo",
+              "children": {
+                "3": {
+                  "word": "ibituka",
+                  "children": {}
+                },
+                "4": {
+                  "word": "ibitani",
+                  "children": {
+                    "4": {
+                      "word": "ibusuki",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ibusaki",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ibukichi",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "iboibocco",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(ib6910801)",
+      "children": {
+        "6": {
+          "word": "(ibara1211)",
+          "children": {
+            "6": {
+              "word": "(ibukht1015)",
+              "children": {
+                "4": {
+                  "word": "(ibuki0118)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(ibukinari)",
+          "children": {
+            "8": {
+              "word": "ibenz009",
+              "children": {}
+            },
+            "9": {
+              "word": "ibis70000",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "iblos1202",
+          "children": {
+            "8": {
+              "word": "ibukifuko)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "ibaliger",
+          "children": {
+            "5": {
+              "word": "ibaraado",
+              "children": {
+                "4": {
+                  "word": "ibarahime",
+                  "children": {
+                    "4": {
+                      "word": "ibaramori",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "ibpixxel",
+                  "children": {
+                    "5": {
+                      "word": "ibunniez",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "ibukikun",
+                      "children": {
+                        "2": {
+                          "word": "ibukimui",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "ibushigin",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ibenerdy",
+              "children": {
+                "7": {
+                  "word": "ibuprofen",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "ibispaint",
+              "children": {
+                "6": {
+                  "word": "ibitsu-ju",
+                  "children": {
+                    "7": {
+                      "word": "ibrodawae",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "ibuibuyou",
+                  "children": {
+                    "5": {
+                      "word": "ibukuroga",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(ibityuttyu)",
+      "children": {
+        "9": {
+          "word": "(ibukiro1003)",
+          "children": {
+            "6": {
+              "word": "ibukuro231",
+              "children": {}
+            },
+            "9": {
+              "word": "ibdinosaur",
+              "children": {}
+            },
+            "10": {
+              "word": "ibievernie",
+              "children": {}
+            },
+            "11": {
+              "word": "ibanplays",
+              "children": {
+                "8": {
+                  "word": "ibis-series",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "ibara-chan",
+          "children": {
+            "2": {
+              "word": "ibarachann",
+              "children": {}
+            },
+            "3": {
+              "word": "ibravo-chan",
+              "children": {}
+            },
+            "4": {
+              "word": "ibara-hime",
+              "children": {
+                "4": {
+                  "word": "ibara-michi",
+                  "children": {
+                    "6": {
+                      "word": "ibarayama",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "ibara0514",
+              "children": {
+                "4": {
+                  "word": "ibarazaki",
+                  "children": {}
+                },
+                "5": {
+                  "word": "ibarashiro",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "ibekichi36",
+              "children": {}
+            },
+            "8": {
+              "word": "ibukidazo",
+              "children": {
+                "7": {
+                  "word": "ibumomo823",
+                  "children": {
+                    "7": {
+                      "word": "ibuprofend",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(ibaibaibaban)",
+      "children": {
+        "8": {
+          "word": "ibarasannn",
+          "children": {}
+        },
+        "9": {
+          "word": "ibadurrohman",
+          "children": {
+            "8": {
+              "word": "ibaraki-ken",
+              "children": {}
+            },
+            "9": {
+              "word": "ibukirasaku",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "ibsukionsen",
+          "children": {}
+        },
+        "11": {
+          "word": "ibrahimovic",
+          "children": {}
+        },
+        "12": {
+          "word": "ibonkofurei",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "(ibisf5umauma)",
+      "children": {
+        "11": {
+          "word": "ibarakidouji",
+          "children": {}
+        },
+        "12": {
+          "word": "ibaraki9698",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "(ibblescribbles)",
+      "children": {
+        "13": {
+          "word": "ibarakidoujin",
+          "children": {
+            "10": {
+              "word": "iblametheyarn",
+              "children": {}
+            },
+            "11": {
+              "word": "ibee99557521",
+              "children": {}
+            }
+          }
+        },
+        "14": {
+          "word": "ibuprofen1982",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "(ibukisuika-1080)",
+      "children": {
+        "13": {
+          "word": "ibrahimovic190",
+          "children": {}
+        }
+      }
+    },
+    "15": {
+      "word": "ibarraeuge19742",
+      "children": {}
+    },
+    "19": {
+      "word": "ibelieveinmyguardian",
+      "children": {}
+    }
+  }
+}

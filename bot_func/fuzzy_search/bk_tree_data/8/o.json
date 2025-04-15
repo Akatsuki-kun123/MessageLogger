@@ -1,0 +1,48 @@
+{
+  "word": "(8o",
+  "children": {
+    "1": {
+      "word": "8o",
+      "children": {}
+    },
+    "2": {
+      "word": "8oo",
+      "children": {}
+    },
+    "3": {
+      "word": "(8ooo)",
+      "children": {}
+    },
+    "4": {
+      "word": "8ont4",
+      "children": {}
+    },
+    "6": {
+      "word": "(8o848me)",
+      "children": {
+        "5": {
+          "word": "(8owties)",
+          "children": {}
+        },
+        "6": {
+          "word": "8okuman",
+          "children": {
+            "5": {
+              "word": "8owties",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "8osakana",
+      "children": {
+        "6": {
+          "word": "8otoufu8",
+          "children": {}
+        }
+      }
+    }
+  }
+}

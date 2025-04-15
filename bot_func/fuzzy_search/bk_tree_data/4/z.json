@@ -1,0 +1,45 @@
+{
+  "word": "4z021",
+  "children": {
+    "3": {
+      "word": "4z9",
+      "children": {
+        "1": {
+          "word": "4ze",
+          "children": {
+            "1": {
+              "word": "4zz",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "4zca",
+          "children": {
+            "2": {
+              "word": "4zk)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "4zazil",
+      "children": {}
+    },
+    "7": {
+      "word": "4zumarill",
+      "children": {}
+    },
+    "13": {
+      "word": "4zj5dskv8tyjdji",
+      "children": {
+        "12": {
+          "word": "4zw89qkqagggcf7",
+          "children": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "word": "(m8)",
+  "children": {
+    "2": {
+      "word": "m8",
+      "children": {
+        "1": {
+          "word": "m82",
+          "children": {
+            "1": {
+              "word": "m84",
+              "children": {
+                "1": {
+                  "word": "m85",
+                  "children": {
+                    "1": {
+                      "word": "m87",
+                      "children": {
+                        "1": {
+                          "word": "m88",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "m-8",
+      "children": {
+        "1": {
+          "word": "m-84",
+          "children": {}
+        },
+        "3": {
+          "word": "m870",
+          "children": {
+            "2": {
+              "word": "m893",
+              "children": {
+                "2": {
+                  "word": "m8a1",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "m82a1",
+      "children": {
+        "1": {
+          "word": "m82a2",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(m820522)",
+      "children": {
+        "5": {
+          "word": "(m8snknk)",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "m82sama",
+      "children": {
+        "6": {
+          "word": "m88km88k",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "m88030253",
+      "children": {}
+    },
+    "9": {
+      "word": "m833068161",
+      "children": {}
+    }
+  }
+}

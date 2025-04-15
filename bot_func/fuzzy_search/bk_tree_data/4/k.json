@@ -1,0 +1,200 @@
+{
+  "word": "(4ka",
+  "children": {
+    "1": {
+      "word": "(4kc",
+      "children": {
+        "1": {
+          "word": "(4km",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "4-ka",
+      "children": {
+        "2": {
+          "word": "4k",
+          "children": {
+            "1": {
+              "word": "4k)",
+              "children": {
+                "1": {
+                  "word": "4kg",
+                  "children": {
+                    "1": {
+                      "word": "4ki",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "4kai",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(4kkc)",
+      "children": {
+        "2": {
+          "word": "4kkc",
+          "children": {}
+        },
+        "3": {
+          "word": "(4koma)",
+          "children": {
+            "3": {
+              "word": "4km)",
+              "children": {}
+            },
+            "4": {
+              "word": "4ku)",
+              "children": {}
+            },
+            "5": {
+              "word": "4kki",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "4k4s",
+          "children": {
+            "2": {
+              "word": "4kbu",
+              "children": {
+                "2": {
+                  "word": "4ken",
+                  "children": {
+                    "2": {
+                      "word": "4kh4",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "4keta",
+              "children": {
+                "2": {
+                  "word": "4koma",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "4-koma",
+      "children": {
+        "2": {
+          "word": "4koma)",
+          "children": {}
+        },
+        "4": {
+          "word": "4k3b1",
+          "children": {
+            "3": {
+              "word": "4k7g2",
+              "children": {
+                "3": {
+                  "word": "4kids",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "4kaku)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(4kumauo)",
+      "children": {
+        "7": {
+          "word": "4k1030",
+          "children": {
+            "4": {
+              "word": "4k4k099",
+              "children": {
+                "4": {
+                  "word": "4kkrbk",
+                  "children": {}
+                },
+                "5": {
+                  "word": "4ki-nd",
+                  "children": {
+                    "3": {
+                      "word": "4ki465",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(4kiloti)",
+      "children": {
+        "6": {
+          "word": "4kagetsu",
+          "children": {}
+        },
+        "7": {
+          "word": "4kstarri",
+          "children": {
+            "5": {
+              "word": "4kwaryum",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "4-kounen",
+      "children": {
+        "7": {
+          "word": "4kihoshi",
+          "children": {}
+        },
+        "8": {
+          "word": "4kebidayo",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "4ki3tosora",
+      "children": {
+        "7": {
+          "word": "4ki@kachou",
+          "children": {
+            "7": {
+              "word": "4kimizuki",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "15": {
+      "word": "4komaniagensousui",
+      "children": {}
+    }
+  }
+}

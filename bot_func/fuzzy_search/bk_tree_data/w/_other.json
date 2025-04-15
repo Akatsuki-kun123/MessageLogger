@@ -1,0 +1,32 @@
+{
+  "word": "(w",
+  "children": {
+    "1": {
+      "word": "(w)",
+      "children": {
+        "1": {
+          "word": "(w/",
+          "children": {}
+        },
+        "2": {
+          "word": "w",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "=w=",
+      "children": {
+        "2": {
+          "word": "w)",
+          "children": {
+            "1": {
+              "word": "w.",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

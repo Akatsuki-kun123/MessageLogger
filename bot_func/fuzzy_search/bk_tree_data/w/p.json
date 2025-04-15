@@ -1,0 +1,187 @@
+{
+  "word": "(wp)",
+  "children": {
+    "2": {
+      "word": "(wpbg)",
+      "children": {
+        "4": {
+          "word": "wp",
+          "children": {
+            "1": {
+              "word": "wpo",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(wpl49)",
+      "children": {
+        "5": {
+          "word": "wp38",
+          "children": {
+            "2": {
+              "word": "wpmp",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(wpddwz)",
+      "children": {
+        "3": {
+          "word": "(wpdi31)",
+          "children": {}
+        },
+        "4": {
+          "word": "(wpfoal)",
+          "children": {
+            "4": {
+              "word": "(wpg-36)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "wpfxy",
+          "children": {
+            "3": {
+              "word": "wpomh",
+              "children": {
+                "3": {
+                  "word": "wprrg",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(wpjfjxu)",
+      "children": {
+        "7": {
+          "word": "wp1245",
+          "children": {
+            "4": {
+              "word": "wpchan",
+              "children": {
+                "3": {
+                  "word": "wpsh22",
+                  "children": {}
+                },
+                "4": {
+                  "word": "wprtms",
+                  "children": {
+                    "4": {
+                      "word": "wpzsla",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(wpainter)",
+      "children": {
+        "6": {
+          "word": "(wpkf2378)",
+          "children": {
+            "5": {
+              "word": "(wppcx233)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "wpalyss",
+          "children": {
+            "5": {
+              "word": "wpotion",
+              "children": {
+                "5": {
+                  "word": "wppyart",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "wpzl261",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(wpgns9536)",
+      "children": {
+        "7": {
+          "word": "wpmx5354)",
+          "children": {}
+        },
+        "8": {
+          "word": "wpdh4443",
+          "children": {
+            "5": {
+              "word": "wpzp7573",
+              "children": {}
+            },
+            "6": {
+              "word": "wphn8778",
+              "children": {
+                "6": {
+                  "word": "wpous121",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "wpdu2772",
+          "children": {
+            "5": {
+              "word": "wpmr4745",
+              "children": {
+                "6": {
+                  "word": "wptz8282",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "wpfhalek",
+              "children": {
+                "6": {
+                  "word": "wpxf4484",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "wpalswl123",
+      "children": {}
+    },
+    "10": {
+      "word": "w-phantom-0",
+      "children": {}
+    },
+    "11": {
+      "word": "wpqlrvkfjdha",
+      "children": {}
+    }
+  }
+}

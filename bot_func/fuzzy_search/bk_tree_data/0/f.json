@@ -1,0 +1,47 @@
+{
+  "word": "(0-furry-beast-0)",
+  "children": {
+    "12": {
+      "word": "(0f0urw)",
+      "children": {}
+    },
+    "13": {
+      "word": "(0fficialnothing)",
+      "children": {
+        "8": {
+          "word": "0fficial)",
+          "children": {}
+        },
+        "13": {
+          "word": "(0fuji",
+          "children": {}
+        },
+        "14": {
+          "word": "0fwt0",
+          "children": {}
+        },
+        "15": {
+          "word": "0f2b40",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "0fay",
+      "children": {
+        "2": {
+          "word": "0fu",
+          "children": {}
+        },
+        "3": {
+          "word": "0funi",
+          "children": {}
+        }
+      }
+    },
+    "15": {
+      "word": "0ff",
+      "children": {}
+    }
+  }
+}

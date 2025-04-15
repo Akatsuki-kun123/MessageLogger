@@ -1,0 +1,164 @@
+{
+  "word": "(g3)",
+  "children": {
+    "1": {
+      "word": "g3)",
+      "children": {}
+    },
+    "2": {
+      "word": "g3",
+      "children": {
+        "1": {
+          "word": "g31",
+          "children": {
+            "1": {
+              "word": "g33",
+              "children": {
+                "1": {
+                  "word": "g35",
+                  "children": {
+                    "1": {
+                      "word": "g36",
+                      "children": {
+                        "1": {
+                          "word": "g37",
+                          "children": {
+                            "1": {
+                              "word": "g3m",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "g36)",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "g-3",
+      "children": {
+        "2": {
+          "word": "g3-x",
+          "children": {
+            "2": {
+              "word": "g3a3",
+              "children": {
+                "1": {
+                  "word": "g3n3",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "g310",
+          "children": {
+            "2": {
+              "word": "g328",
+              "children": {
+                "2": {
+                  "word": "g36c",
+                  "children": {
+                    "1": {
+                      "word": "g36k",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "g3no",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "g36c)",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "g3104",
+      "children": {
+        "3": {
+          "word": "g3ida",
+          "children": {
+            "2": {
+              "word": "g3mma",
+              "children": {}
+            },
+            "3": {
+              "word": "g3pen",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(g3hopes)",
+      "children": {
+        "5": {
+          "word": "(g3tkg56)",
+          "children": {}
+        },
+        "7": {
+          "word": "g3/sg1",
+          "children": {
+            "4": {
+              "word": "g37492",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(g3223509)",
+      "children": {
+        "8": {
+          "word": "g3demon",
+          "children": {
+            "5": {
+              "word": "g3stalt",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "g35961665",
+      "children": {}
+    },
+    "9": {
+      "word": "g3-holiday",
+      "children": {
+        "6": {
+          "word": "g3-saviour",
+          "children": {}
+        },
+        "8": {
+          "word": "g321377377",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "g3siuvkkn884989",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "word": "(7flower)",
+  "children": {
+    "6": {
+      "word": "7fennec7",
+      "children": {}
+    },
+    "7": {
+      "word": "7fan",
+      "children": {
+        "3": {
+          "word": "7fuji",
+          "children": {}
+        },
+        "7": {
+          "word": "7frostpix",
+          "children": {}
+        }
+      }
+    }
+  }
+}

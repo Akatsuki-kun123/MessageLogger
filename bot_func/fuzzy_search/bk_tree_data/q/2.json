@@ -1,0 +1,48 @@
+{
+  "word": "(q2286431763)",
+  "children": {
+    "7": {
+      "word": "(q2409965783)",
+      "children": {
+        "9": {
+          "word": "(q2w23434)",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "q23)",
+      "children": {}
+    },
+    "10": {
+      "word": "q28",
+      "children": {}
+    },
+    "11": {
+      "word": "q2",
+      "children": {
+        "1": {
+          "word": "q2:",
+          "children": {
+            "1": {
+              "word": "q2l",
+              "children": {}
+            },
+            "2": {
+              "word": "q^2",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "q25kp",
+          "children": {}
+        },
+        "8": {
+          "word": "q215192000",
+          "children": {}
+        }
+      }
+    }
+  }
+}

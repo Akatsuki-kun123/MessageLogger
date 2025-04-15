@@ -1,0 +1,18 @@
+{
+  "word": "(5x7",
+  "children": {
+    "4": {
+      "word": "(5xbr1)",
+      "children": {}
+    },
+    "5": {
+      "word": "5x1000",
+      "children": {
+        "4": {
+          "word": "5xichi",
+          "children": {}
+        }
+      }
+    }
+  }
+}

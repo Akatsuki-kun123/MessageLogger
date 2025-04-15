@@ -1,0 +1,539 @@
+{
+  "word": "(m-planter)",
+  "children": {
+    "5": {
+      "word": "(m-pulse)",
+      "children": {
+        "5": {
+          "word": "(mpnez)",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(mps2nd)",
+      "children": {
+        "4": {
+          "word": "(mptm)",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(mp31097)",
+      "children": {
+        "5": {
+          "word": "(mpmb)",
+          "children": {
+            "2": {
+              "word": "(mpmiw)",
+              "children": {}
+            },
+            "6": {
+              "word": "(mppv1862)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(mpcd3788)",
+          "children": {
+            "4": {
+              "word": "(mpvr3752)",
+              "children": {}
+            },
+            "5": {
+              "word": "(mpth8384)",
+              "children": {}
+            },
+            "6": {
+              "word": "(mpnoodle)",
+              "children": {
+                "6": {
+                  "word": "(mpse2332)",
+                  "children": {
+                    "3": {
+                      "word": "(mpsss333)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "mpana",
+          "children": {
+            "3": {
+              "word": "mplzn",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "m-pin",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "(mp",
+      "children": {
+        "2": {
+          "word": "m-p",
+          "children": {
+            "2": {
+              "word": "mpl",
+              "children": {
+                "1": {
+                  "word": "mpn",
+                  "children": {
+                    "1": {
+                      "word": "mpr",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "mp4)",
+          "children": {
+            "1": {
+              "word": "mpk)",
+              "children": {}
+            },
+            "2": {
+              "word": "mpka",
+              "children": {
+                "2": {
+                  "word": "mpon",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "mpien",
+          "children": {
+            "2": {
+              "word": "mpreg",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "mp003)",
+          "children": {
+            "2": {
+              "word": "mp100)",
+              "children": {}
+            },
+            "4": {
+              "word": "mpa185",
+              "children": {
+                "4": {
+                  "word": "mpkuts",
+                  "children": {
+                    "2": {
+                      "word": "mpluss",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "mponzu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(mpkmpkmpk)",
+          "children": {
+            "6": {
+              "word": "(mpsr-kaze)",
+              "children": {}
+            },
+            "7": {
+              "word": "mpum7284)",
+              "children": {}
+            },
+            "8": {
+              "word": "mppn2424)",
+              "children": {
+                "3": {
+                  "word": "mppn7334)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "mpzz8457)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "mpvt3285)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "m&p",
+      "children": {
+        "1": {
+          "word": "mp",
+          "children": {}
+        },
+        "2": {
+          "word": "mp0",
+          "children": {
+            "1": {
+              "word": "mp3",
+              "children": {
+                "1": {
+                  "word": "mp4",
+                  "children": {
+                    "1": {
+                      "word": "mp5",
+                      "children": {
+                        "1": {
+                          "word": "mp7",
+                          "children": {
+                            "1": {
+                              "word": "mp9",
+                              "children": {
+                                "1": {
+                                  "word": "mpc",
+                                  "children": {
+                                    "1": {
+                                      "word": "mpg",
+                                      "children": {
+                                        "1": {
+                                          "word": "mpi",
+                                          "children": {
+                                            "1": {
+                                              "word": "mpk",
+                                              "children": {
+                                                "1": {
+                                                  "word": "mpo",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "mpx",
+                                                      "children": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "mp.4",
+          "children": {
+            "1": {
+              "word": "mp34",
+              "children": {}
+            },
+            "2": {
+              "word": "mp18",
+              "children": {
+                "1": {
+                  "word": "mp28",
+                  "children": {
+                    "1": {
+                      "word": "mp38",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "mp35",
+                  "children": {
+                    "2": {
+                      "word": "mp40",
+                      "children": {
+                        "1": {
+                          "word": "mp41",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "mp5k",
+                          "children": {
+                            "2": {
+                              "word": "mpoi",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "mpkpc",
+              "children": {
+                "3": {
+                  "word": "mppko",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "mp100",
+          "children": {
+            "1": {
+              "word": "mp150",
+              "children": {}
+            },
+            "3": {
+              "word": "mp241",
+              "children": {
+                "3": {
+                  "word": "mp4-2",
+                  "children": {
+                    "2": {
+                      "word": "mp4/4",
+                      "children": {
+                        "1": {
+                          "word": "mp4/5",
+                          "children": {
+                            "1": {
+                              "word": "mp4/6",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "mp5sd",
+                      "children": {
+                        "3": {
+                          "word": "mp893",
+                          "children": {
+                            "2": {
+                              "word": "mpd13",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "mpdb6",
+                              "children": {
+                                "2": {
+                                  "word": "mpmb7",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "mpkxx",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "mpp389",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "m.purin",
+          "children": {
+            "4": {
+              "word": "mporci",
+              "children": {}
+            },
+            "5": {
+              "word": "mp-155",
+              "children": {
+                "2": {
+                  "word": "mp0159",
+                  "children": {}
+                },
+                "3": {
+                  "word": "mp-412",
+                  "children": {
+                    "2": {
+                      "word": "mp-443",
+                      "children": {
+                        "1": {
+                          "word": "mp-446",
+                          "children": {
+                            "1": {
+                              "word": "mp-448",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "mp4-10",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "mp0612",
+                  "children": {
+                    "4": {
+                      "word": "mp3008",
+                      "children": {
+                        "4": {
+                          "word": "mp4-20",
+                          "children": {
+                            "1": {
+                              "word": "mp4-29",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "mpi-81",
+                              "children": {
+                                "2": {
+                                  "word": "mpi-km",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "mp777b",
+                              "children": {
+                                "4": {
+                                  "word": "mpocky",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "mpmpgnz",
+                  "children": {
+                    "4": {
+                      "word": "mpmrpjb",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "mp100nm",
+          "children": {
+            "5": {
+              "word": "mp4-12c",
+              "children": {
+                "5": {
+                  "word": "mpvdias",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "mphf5822",
+          "children": {
+            "4": {
+              "word": "mpzt5857",
+              "children": {}
+            },
+            "5": {
+              "word": "mprk5278",
+              "children": {}
+            },
+            "6": {
+              "word": "mprichin",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "mp100days",
+          "children": {
+            "7": {
+              "word": "mpa935sst",
+              "children": {
+                "5": {
+                  "word": "mpc235469",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "mpi-aks-74",
+          "children": {
+            "7": {
+              "word": "mpinfandom",
+              "children": {
+                "8": {
+                  "word": "mpkaihuku4",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "mp-prototype",
+          "children": {
+            "8": {
+              "word": "mparchitect",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "mpi-kms-72",
+      "children": {}
+    },
+    "11": {
+      "word": "m-pingguosuan",
+      "children": {}
+    }
+  }
+}

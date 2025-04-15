@@ -1,0 +1,106 @@
+{
+  "word": "(8-bit",
+  "children": {
+    "1": {
+      "word": "(8-bit)",
+      "children": {
+        "2": {
+          "word": "(8bit",
+          "children": {
+            "2": {
+              "word": "8-bit",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "8bit",
+      "children": {}
+    },
+    "3": {
+      "word": "8bite",
+      "children": {}
+    },
+    "4": {
+      "word": "8-ball",
+      "children": {
+        "3": {
+          "word": "8ban",
+          "children": {
+            "2": {
+              "word": "8bl",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "8b",
+          "children": {
+            "1": {
+              "word": "8be",
+              "children": {}
+            },
+            "2": {
+              "word": "8bee",
+              "children": {
+                "2": {
+                  "word": "8bxo",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "8ball",
+      "children": {
+        "2": {
+          "word": "8ban)",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(8bitkyuu)",
+      "children": {}
+    },
+    "7": {
+      "word": "(8-bit-britt)",
+      "children": {
+        "2": {
+          "word": "8-bit-britt",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "8bitbadguy",
+      "children": {
+        "6": {
+          "word": "8bitwizard",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "8bitshinshi",
+      "children": {}
+    },
+    "10": {
+      "word": "8bitcardinal",
+      "children": {}
+    },
+    "12": {
+      "word": "8balldoodles",
+      "children": {}
+    },
+    "14": {
+      "word": "8bupolbwaxx2mve",
+      "children": {}
+    }
+  }
+}

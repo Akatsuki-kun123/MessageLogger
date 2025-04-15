@@ -1,0 +1,86 @@
+{
+  "word": "(8ne",
+  "children": {
+    "1": {
+      "word": "8ne",
+      "children": {}
+    },
+    "2": {
+      "word": "8n",
+      "children": {
+        "1": {
+          "word": "8n)",
+          "children": {
+            "1": {
+              "word": "8n0",
+              "children": {
+                "1": {
+                  "word": "8no",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "8ni8",
+      "children": {
+        "2": {
+          "word": "8nu4",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(8nond)",
+      "children": {
+        "2": {
+          "word": "(8nznz)",
+          "children": {}
+        },
+        "5": {
+          "word": "8-nin",
+          "children": {
+            "4": {
+              "word": "8nagi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "8nmeter",
+      "children": {
+        "6": {
+          "word": "?8nairb",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(8nihoheto",
+      "children": {
+        "7": {
+          "word": "8nigiri",
+          "children": {}
+        },
+        "8": {
+          "word": "8naga-s",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(8neruneru)",
+      "children": {
+        "8": {
+          "word": "8nocheese",
+          "children": {}
+        }
+      }
+    }
+  }
+}

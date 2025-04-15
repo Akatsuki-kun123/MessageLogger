@@ -1,0 +1,133 @@
+{
+  "word": "(x+1)",
+  "children": {
+    "2": {
+      "word": "(x1n)",
+      "children": {}
+    },
+    "3": {
+      "word": "x-1",
+      "children": {
+        "1": {
+          "word": "x-10",
+          "children": {
+            "1": {
+              "word": "x-11",
+              "children": {
+                "1": {
+                  "word": "x-12",
+                  "children": {
+                    "1": {
+                      "word": "x-13",
+                      "children": {
+                        "1": {
+                          "word": "x-15",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "x1",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "x10",
+          "children": {
+            "1": {
+              "word": "x16",
+              "children": {
+                "1": {
+                  "word": "x18",
+                  "children": {
+                    "1": {
+                      "word": "x19",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "x115)",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "x1/9",
+      "children": {
+        "2": {
+          "word": "x103",
+          "children": {
+            "1": {
+              "word": "x105",
+              "children": {
+                "2": {
+                  "word": "x123",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "x10-a",
+      "children": {
+        "2": {
+          "word": "x1060",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(x1killx)",
+      "children": {
+        "7": {
+          "word": "x1ao1sm",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "x172xqqq",
+      "children": {
+        "6": {
+          "word": "x1ntage",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "(x138000815)",
+      "children": {
+        "9": {
+          "word": "x1yummy1x",
+          "children": {}
+        },
+        "10": {
+          "word": "x1-alpha",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "x12345x20022",
+      "children": {
+        "9": {
+          "word": "x13710557267",
+          "children": {}
+        }
+      }
+    }
+  }
+}

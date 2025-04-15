@@ -1,0 +1,1007 @@
+{
+  "word": "#024",
+  "children": {
+    "1": {
+      "word": "024",
+      "children": {}
+    },
+    "2": {
+      "word": "(02)",
+      "children": {
+        "1": {
+          "word": "(02m",
+          "children": {
+            "2": {
+              "word": "02)",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "-02",
+          "children": {
+            "1": {
+              "word": "02",
+              "children": {}
+            },
+            "2": {
+              "word": "020",
+              "children": {
+                "1": {
+                  "word": "021",
+                  "children": {
+                    "1": {
+                      "word": "022",
+                      "children": {
+                        "1": {
+                          "word": "023",
+                          "children": {
+                            "1": {
+                              "word": "025",
+                              "children": {
+                                "1": {
+                                  "word": "026",
+                                  "children": {
+                                    "1": {
+                                      "word": "027",
+                                      "children": {
+                                        "1": {
+                                          "word": "028",
+                                          "children": {
+                                            "1": {
+                                              "word": "029",
+                                              "children": {
+                                                "1": {
+                                                  "word": "02:",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "02n",
+                                                      "children": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "024)",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "0204",
+          "children": {
+            "1": {
+              "word": "0214",
+              "children": {
+                "1": {
+                  "word": "0224",
+                  "children": {
+                    "1": {
+                      "word": "0234",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "0245",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(020)",
+      "children": {
+        "1": {
+          "word": "(0209",
+          "children": {
+            "2": {
+              "word": "(023)",
+              "children": {
+                "1": {
+                  "word": "(025)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "(0216",
+          "children": {
+            "2": {
+              "word": "(0221",
+              "children": {
+                "2": {
+                  "word": "(02tt",
+                  "children": {}
+                },
+                "3": {
+                  "word": "0206",
+                  "children": {
+                    "2": {
+                      "word": "021)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "0201",
+              "children": {
+                "1": {
+                  "word": "0202",
+                  "children": {
+                    "1": {
+                      "word": "0203",
+                      "children": {
+                        "1": {
+                          "word": "0205",
+                          "children": {
+                            "1": {
+                              "word": "0207",
+                              "children": {
+                                "1": {
+                                  "word": "0208",
+                                  "children": {
+                                    "1": {
+                                      "word": "0209",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "023)",
+                  "children": {
+                    "1": {
+                      "word": "025)",
+                      "children": {
+                        "1": {
+                          "word": "027)",
+                          "children": {
+                            "1": {
+                              "word": "028)",
+                              "children": {
+                                "1": {
+                                  "word": "029)",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "0202)",
+              "children": {
+                "1": {
+                  "word": "0204)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "0210",
+          "children": {
+            "1": {
+              "word": "0211",
+              "children": {
+                "1": {
+                  "word": "0212",
+                  "children": {
+                    "1": {
+                      "word": "0213",
+                      "children": {
+                        "1": {
+                          "word": "0215",
+                          "children": {
+                            "1": {
+                              "word": "0216",
+                              "children": {
+                                "1": {
+                                  "word": "0217",
+                                  "children": {
+                                    "1": {
+                                      "word": "0218",
+                                      "children": {
+                                        "1": {
+                                          "word": "0219",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "0220",
+                  "children": {
+                    "1": {
+                      "word": "0270",
+                      "children": {
+                        "1": {
+                          "word": "0290",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "0214)",
+              "children": {
+                "3": {
+                  "word": "0221",
+                  "children": {
+                    "1": {
+                      "word": "0222",
+                      "children": {
+                        "1": {
+                          "word": "0223",
+                          "children": {
+                            "1": {
+                              "word": "0225",
+                              "children": {
+                                "1": {
+                                  "word": "0226",
+                                  "children": {
+                                    "1": {
+                                      "word": "0227",
+                                      "children": {
+                                        "1": {
+                                          "word": "0228",
+                                          "children": {
+                                            "1": {
+                                              "word": "0229",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "0261",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "0232",
+                      "children": {
+                        "1": {
+                          "word": "0235",
+                          "children": {
+                            "2": {
+                              "word": "0262",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "0253",
+                          "children": {
+                            "1": {
+                              "word": "0263",
+                              "children": {
+                                "1": {
+                                  "word": "0293",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "0287",
+                              "children": {
+                                "1": {
+                                  "word": "0288",
+                                  "children": {
+                                    "2": {
+                                      "word": "0297",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "02g9",
+                                  "children": {
+                                    "1": {
+                                      "word": "02gr",
+                                      "children": {}
+                                    },
+                                    "2": {
+                                      "word": "02kf",
+                                      "children": {
+                                        "2": {
+                                          "word": "02ss",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "0254)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "0.2",
+          "children": {
+            "2": {
+              "word": "0.243",
+              "children": {}
+            },
+            "4": {
+              "word": "02468",
+              "children": {
+                "2": {
+                  "word": "024th",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(0201)",
+      "children": {
+        "1": {
+          "word": "(0202)",
+          "children": {
+            "1": {
+              "word": "(0207)",
+              "children": {
+                "1": {
+                  "word": "(0209)",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "(0211)",
+              "children": {
+                "2": {
+                  "word": "0201)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "(0213)",
+          "children": {
+            "1": {
+              "word": "(0217)",
+              "children": {}
+            },
+            "2": {
+              "word": "(0220)",
+              "children": {
+                "1": {
+                  "word": "(0225)",
+                  "children": {}
+                },
+                "2": {
+                  "word": "(0272)",
+                  "children": {}
+                },
+                "3": {
+                  "word": "0203)",
+                  "children": {
+                    "2": {
+                      "word": "0211)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "0205)",
+              "children": {
+                "1": {
+                  "word": "0209)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "0201e",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(0294u)",
+          "children": {
+            "4": {
+              "word": "(02stz",
+              "children": {
+                "3": {
+                  "word": "(02won",
+                  "children": {}
+                },
+                "4": {
+                  "word": "0210)",
+                  "children": {
+                    "1": {
+                      "word": "0212)",
+                      "children": {
+                        "1": {
+                          "word": "0215)",
+                          "children": {
+                            "1": {
+                              "word": "0216)",
+                              "children": {
+                                "1": {
+                                  "word": "0217)",
+                                  "children": {
+                                    "1": {
+                                      "word": "0218)",
+                                      "children": {
+                                        "1": {
+                                          "word": "0219)",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "0220)",
+                          "children": {
+                            "1": {
+                              "word": "0260)",
+                              "children": {
+                                "1": {
+                                  "word": "0280)",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "0222)",
+                      "children": {
+                        "1": {
+                          "word": "0223)",
+                          "children": {
+                            "1": {
+                              "word": "0225)",
+                              "children": {
+                                "1": {
+                                  "word": "0226)",
+                                  "children": {
+                                    "1": {
+                                      "word": "0227)",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "02je)",
+                          "children": {
+                            "2": {
+                              "word": "02pk)",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "020104",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "0202do",
+          "children": {
+            "3": {
+              "word": "02262",
+              "children": {
+                "1": {
+                  "word": "0226i",
+                  "children": {}
+                },
+                "3": {
+                  "word": "02525",
+                  "children": {
+                    "2": {
+                      "word": "02k2s",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "026026",
+                      "children": {
+                        "4": {
+                          "word": "02leo",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "0210g",
+              "children": {
+                "2": {
+                  "word": "02png",
+                  "children": {}
+                },
+                "3": {
+                  "word": "029uu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(0217s)",
+      "children": {
+        "2": {
+          "word": "(02779)",
+          "children": {}
+        },
+        "3": {
+          "word": "(0220m)",
+          "children": {}
+        },
+        "4": {
+          "word": "021019",
+          "children": {
+            "3": {
+              "word": "0216ye",
+              "children": {
+                "3": {
+                  "word": "021931",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "02230)",
+              "children": {
+                "4": {
+                  "word": "02akst",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "0201kk",
+          "children": {
+            "3": {
+              "word": "020817",
+              "children": {
+                "4": {
+                  "word": "025aki",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "0202ase",
+              "children": {
+                "4": {
+                  "word": "025250",
+                  "children": {}
+                },
+                "5": {
+                  "word": "0253cm",
+                  "children": {
+                    "3": {
+                      "word": "029pom",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "027yuu",
+                      "children": {
+                        "4": {
+                          "word": "029jrr",
+                          "children": {
+                            "4": {
+                              "word": "02twwo",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "0200400",
+          "children": {
+            "5": {
+              "word": "0284152",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(020205)",
+      "children": {
+        "3": {
+          "word": "(020330)",
+          "children": {
+            "3": {
+              "word": "(0206tw)",
+              "children": {}
+            },
+            "4": {
+              "word": "(022018)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(0203rei",
+          "children": {
+            "4": {
+              "word": "0203159",
+              "children": {}
+            },
+            "5": {
+              "word": "(023-ch)",
+              "children": {
+                "4": {
+                  "word": "(02mami)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(0214278)",
+              "children": {
+                "4": {
+                  "word": "(0264185)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "020baby",
+          "children": {
+            "4": {
+              "word": "021kav)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "02110623",
+          "children": {
+            "5": {
+              "word": "02240407",
+              "children": {
+                "5": {
+                  "word": "02901ky",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "0225308",
+              "children": {
+                "5": {
+                  "word": "023hato",
+                  "children": {
+                    "5": {
+                      "word": "02mikan",
+                      "children": {
+                        "3": {
+                          "word": "02rinka",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "02noude",
+                          "children": {
+                            "4": {
+                              "word": "02tsuya",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "024hertz",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(02045103)",
+      "children": {
+        "5": {
+          "word": "(0206tim)",
+          "children": {
+            "5": {
+              "word": "(0230000)",
+              "children": {}
+            },
+            "6": {
+              "word": "(02670430)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(0218htt)",
+          "children": {}
+        },
+        "7": {
+          "word": "0214x0826",
+          "children": {
+            "6": {
+              "word": "02210701",
+              "children": {}
+            },
+            "7": {
+              "word": "0225mezu",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "02-santa",
+          "children": {
+            "3": {
+              "word": "02sajita",
+              "children": {}
+            },
+            "5": {
+              "word": "0216goma",
+              "children": {
+                "6": {
+                  "word": "02bear20",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "0211nami",
+              "children": {
+                "5": {
+                  "word": "02pipipi",
+                  "children": {
+                    "6": {
+                      "word": "02surume",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "02kemuko",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(02010328)",
+      "children": {
+        "3": {
+          "word": "(02030108)",
+          "children": {}
+        },
+        "5": {
+          "word": "(02052000)",
+          "children": {
+            "5": {
+              "word": "(02071yun)",
+              "children": {}
+            },
+            "7": {
+              "word": "(02140314c)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(02pollos)",
+          "children": {}
+        },
+        "8": {
+          "word": "0215katai",
+          "children": {
+            "5": {
+              "word": "021johana",
+              "children": {}
+            },
+            "6": {
+              "word": "023-happy",
+              "children": {
+                "6": {
+                  "word": "029skysky",
+                  "children": {}
+                },
+                "7": {
+                  "word": "029tintin",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "02milos02",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(0215-0215)",
+      "children": {
+        "9": {
+          "word": "0229hajime",
+          "children": {
+            "6": {
+              "word": "02pikapika",
+              "children": {}
+            },
+            "8": {
+              "word": "0260767818",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "word": "(0202warning)",
+      "children": {
+        "8": {
+          "word": "(0210panther)",
+          "children": {}
+        },
+        "9": {
+          "word": "02charaice20",
+          "children": {}
+        },
+        "10": {
+          "word": "020ouroboros",
+          "children": {}
+        },
+        "11": {
+          "word": "025sakura393",
+          "children": {
+            "10": {
+              "word": "02piropiro20",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "(0215kyoukyou)",
+      "children": {
+        "10": {
+          "word": "(02rinrinlove)",
+          "children": {
+            "10": {
+              "word": "(02squadstars)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "word": "(02uh14l1b740ao2)",
+      "children": {
+        "15": {
+          "word": "021wegtdjkruhwg",
+          "children": {}
+        }
+      }
+    }
+  }
+}

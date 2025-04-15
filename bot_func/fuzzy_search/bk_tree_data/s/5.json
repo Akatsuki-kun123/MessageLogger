@@ -1,0 +1,87 @@
+{
+  "word": "(s5625t)",
+  "children": {
+    "5": {
+      "word": "s54058",
+      "children": {
+        "3": {
+          "word": "s550",
+          "children": {}
+        },
+        "4": {
+          "word": "s565656",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "s-51",
+      "children": {
+        "1": {
+          "word": "s-54",
+          "children": {
+            "1": {
+              "word": "s-56",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "s.55",
+          "children": {
+            "2": {
+              "word": "s5",
+              "children": {
+                "1": {
+                  "word": "s58",
+                  "children": {
+                    "1": {
+                      "word": "s59",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "s580",
+          "children": {
+            "2": {
+              "word": "s5ju",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "s5-hvs1",
+          "children": {
+            "5": {
+              "word": "s5fz9",
+              "children": {
+                "3": {
+                  "word": "s5tya",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "s5705961",
+          "children": {
+            "6": {
+              "word": "s5fwxl",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "s590220",
+          "children": {}
+        }
+      }
+    }
+  }
+}

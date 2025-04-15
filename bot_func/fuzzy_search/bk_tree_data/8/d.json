@@ -1,0 +1,39 @@
+{
+  "word": "(8d8d8)",
+  "children": {
+    "2": {
+      "word": "8d8d8",
+      "children": {}
+    },
+    "5": {
+      "word": "8da",
+      "children": {
+        "1": {
+          "word": "8dai",
+          "children": {
+            "1": {
+              "word": "8day",
+              "children": {}
+            },
+            "2": {
+              "word": "8do",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "8dooo",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(8dgc4mfc)",
+      "children": {}
+    },
+    "7": {
+      "word": "8dddjbbb8",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "word": "(t-back)",
+  "children": {
+    "2": {
+      "word": "t-back",
+      "children": {
+        "1": {
+          "word": "t-back.",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(tb)",
+      "children": {
+        "1": {
+          "word": "(tbd)",
+          "children": {
+            "1": {
+              "word": "(tbs)",
+              "children": {
+                "1": {
+                  "word": "(tbt)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "(tbfp)",
+          "children": {
+            "2": {
+              "word": "(tbit)",
+              "children": {}
+            },
+            "3": {
+              "word": "tbk)",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(tbd11)",
+          "children": {
+            "3": {
+              "word": "(tbtbi)",
+              "children": {}
+            },
+            "5": {
+              "word": "tbac",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "t-bar",
+          "children": {}
+        },
+        "6": {
+          "word": "t-baton",
+          "children": {
+            "4": {
+              "word": "t-beach",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(tb",
+      "children": {
+        "1": {
+          "word": "(tb8",
+          "children": {
+            "1": {
+              "word": "(tbm",
+              "children": {
+                "1": {
+                  "word": "(tbn",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "(tbbf",
+          "children": {
+            "2": {
+              "word": "(tbdi",
+              "children": {}
+            },
+            "3": {
+              "word": "tb)",
+              "children": {
+                "1": {
+                  "word": "tbk",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "tbag",
+          "children": {
+            "1": {
+              "word": "tban",
+              "children": {}
+            },
+            "2": {
+              "word": "tbd)",
+              "children": {
+                "1": {
+                  "word": "tbn)",
+                  "children": {}
+                },
+                "2": {
+                  "word": "tbk4",
+                  "children": {
+                    "1": {
+                      "word": "tbko",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "tbyk",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "t-bth",
+          "children": {
+            "2": {
+              "word": "t-bug",
+              "children": {}
+            },
+            "4": {
+              "word": "tba7f",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(tbhono)",
+          "children": {
+            "5": {
+              "word": "t-bone",
+              "children": {}
+            },
+            "7": {
+              "word": "t-bird",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(tbal1235)",
+      "children": {
+        "5": {
+          "word": "(tbm9187)",
+          "children": {
+            "5": {
+              "word": "tb9125",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(tbc7500)",
+          "children": {
+            "6": {
+              "word": "(tbtbdesu)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "tb-11",
+          "children": {
+            "2": {
+              "word": "tb-3",
+              "children": {}
+            },
+            "3": {
+              "word": "tb-303",
+              "children": {
+                "3": {
+                  "word": "tbn3z",
+                  "children": {}
+                },
+                "4": {
+                  "word": "tbl",
+                  "children": {
+                    "2": {
+                      "word": "tbl98",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "tblmti",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "tb",
+          "children": {
+            "1": {
+              "word": "tbd",
+              "children": {
+                "1": {
+                  "word": "tbe",
+                  "children": {
+                    "1": {
+                      "word": "tbf",
+                      "children": {
+                        "1": {
+                          "word": "tbh",
+                          "children": {
+                            "1": {
+                              "word": "tbm",
+                              "children": {
+                                "1": {
+                                  "word": "tbs",
+                                  "children": {
+                                    "1": {
+                                      "word": "tbt",
+                                      "children": {
+                                        "1": {
+                                          "word": "tby",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "tb-6",
+              "children": {
+                "2": {
+                  "word": "tbbb",
+                  "children": {
+                    "2": {
+                      "word": "tboy",
+                      "children": {
+                        "2": {
+                          "word": "tbsw",
+                          "children": {
+                            "2": {
+                              "word": "tbuh",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "tbear",
+              "children": {
+                "3": {
+                  "word": "tbone",
+                  "children": {
+                    "3": {
+                      "word": "tbrow",
+                      "children": {
+                        "3": {
+                          "word": "tbsic",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "tbing1",
+              "children": {
+                "4": {
+                  "word": "tbotan",
+                  "children": {
+                    "4": {
+                      "word": "tbskio",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "tbbrian",
+              "children": {
+                "5": {
+                  "word": "tbocart",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "t-buster",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(tbdfactory)",
+      "children": {
+        "7": {
+          "word": "(tbtbrarara)",
+          "children": {}
+        },
+        "8": {
+          "word": "(tbn76594)",
+          "children": {
+            "7": {
+              "word": "(tbtrk1026)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "tbhbrie",
+          "children": {}
+        },
+        "10": {
+          "word": "tbkhkbkc",
+          "children": {
+            "5": {
+              "word": "tbrsnsk",
+              "children": {}
+            },
+            "6": {
+              "word": "tbr0009",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(tbskt6800)",
+      "children": {
+        "8": {
+          "word": "tbagginzz)",
+          "children": {
+            "7": {
+              "word": "tbdi1011)",
+              "children": {}
+            },
+            "8": {
+              "word": "tbjj1208",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "tbagginzz",
+          "children": {
+            "7": {
+              "word": "tbeebees",
+              "children": {
+                "6": {
+                  "word": "tbhoudai",
+                  "children": {
+                    "5": {
+                      "word": "tbonjobi",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "tbm-3w+3s",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "tbhbutwhy",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(tb33064667)",
+      "children": {}
+    },
+    "10": {
+      "word": "tbv31035zs",
+      "children": {}
+    },
+    "14": {
+      "word": "(tbkfqxo5vegdd6m)",
+      "children": {}
+    }
+  }
+}

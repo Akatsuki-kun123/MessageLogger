@@ -1,24 +1,11 @@
+const fs = require("fs");
 require("dotenv").config();
 
-const fs = require("fs");
-//const axios = require("axios");
-
-const Fuse = require("fuse.js");
-let characterData = require("./danbooru/tags/Character.json");
-function findTagFuzzy(tagsList, searchTag) {
-  const fuse = new Fuse(tagsList, { keys: ["name"], threshold: 0.2 });
-  const results = fuse.search(searchTag);
-  return results.length
-    ? results.slice(0, 10).map((result) => result.item)
-    : null;
-}
+const { findTagByWords } = require("./bot_func/fuzzy_search/searchFunc.js");
 
 const Discord = require("discord.js");
 const { EmbedBuilder } = require("discord.js");
 const { Client, Events, GatewayIntentBits } = require("discord.js");
-
-const pity = require("./pityHandler.js");
-const tweets = require("./twitterScraping.js");
 
 const client = new Client({
   intents: [
@@ -35,8 +22,6 @@ const token = process.env["token"];
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
-
-const snipes = new Discord.Collection();
 
 //change status
 var status = "online";
@@ -59,80 +44,6 @@ function change_status(stat, file) {
     });
   });
 }
-
-//Log deleted message
-/*
-client.on("messageDelete", (message) => {
-  snipes.set(message.channel.id, message);
-  const LogChannel = client.channels.cache.get("1340390483855282216");
-
-  if (message.author.id == 0) {
-    LogChannel.send("Bí mật của chồng, không ai được biết.");
-    return 0;
-  } else if (
-    message.author.id == 1027765339389431828 ||
-    message.author.id == 571027211407196161
-  ) {
-    return 0;
-  } else if (message.author.id == 1012001069267681320) {
-    LogChannel.send(`Bé ${message.author} đáng yêu quá chị ko nỡ (>.<")`);
-    return 0;
-  }
-
-  try {
-    const DeletedLog = new EmbedBuilder()
-      .setTitle("Deleted Message")
-      .addFields({
-        name: "Deleted by",
-        value: `${message.author} - (${message.author.id})`,
-      })
-      .addFields({ name: "In", value: message.channel.name })
-      .setColor("#FF0000")
-      .setThumbnail(message.author.displayAvatarURL({ dynamic: true }));
-
-    if (message.content) {
-      DeletedLog.addFields({ name: "Content", value: message.content });
-    }
-    if (message.attachments.first()) {
-      //console.log(message.attachments);
-      let attachment = message.attachments.first();
-
-      if (attachment.contentType.includes("image")) {
-        DeletedLog.setImage(attachment.url);
-      } else if (attachment.contentType.includes("video")) {
-        DeletedLog.addFields({ name: "Ps", value: "Has the below video" });
-      } else if (attachment.contentType.includes("audio")) {
-        DeletedLog.addFields({ name: "Ps", value: "Has the below audio" });
-      } else {
-        DeletedLog.addFields({
-          name: "Ps",
-          value: `Has pdf attachment name ${
-            attachment.title ? attachment.title : attachment.name
-          }`,
-        });
-      }
-    } else {
-      DeletedLog.addFields({ name: "Ps", value: "No attachments" });
-    }
-
-    LogChannel.send({ embeds: [DeletedLog] });
-    if (message.attachments.first()) {
-      let attachment = message.attachments.first();
-      if (attachment.contentType.includes("video")) {
-        LogChannel.send({
-          files: [attachment.url],
-        });
-      } else if (attachment.contentType.includes("audio")) {
-        LogChannel.send({
-          files: [attachment.url],
-        });
-      }
-    }
-  } catch (error) {
-    console.log(error);
-  }
-});
-*/
 
 //search danbooru
 async function searchDanbooru(characterName) {
@@ -192,6 +103,7 @@ function buildDanbooruEmbed(post) {
 }
 
 //find danbooru tag
+/*
 async function findDanbooruTag(tagName, category) {
   let url = "";
   if (category) {
@@ -222,92 +134,7 @@ async function findDanbooruTag(tagName, category) {
     return null;
   }
 }
-
-//levenshtein distance
-function levenshteinDistance(a, b) {
-  const dp = Array(a.length + 1)
-    .fill(null)
-    .map(() => Array(b.length + 1).fill(null));
-
-  for (let i = 0; i <= a.length; i++) {
-    dp[i][0] = i;
-  }
-  for (let j = 0; j <= b.length; j++) {
-    dp[0][j] = j;
-  }
-
-  for (let i = 1; i <= a.length; i++) {
-    for (let j = 1; j <= b.length; j++) {
-      if (a[i - 1] === b[j - 1]) {
-        dp[i][j] = dp[i - 1][j - 1];
-      } else {
-        dp[i][j] = 1 + Math.min(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1]);
-      }
-    }
-  }
-
-  return dp[a.length][b.length];
-}
-
-//fuzzy search words using levenshtein distance
-function fuzzySearchWords(searchWord, maxDistance = 3, maxResults = 5) {
-  const wordList = JSON.parse(
-    fs.readFileSync("./danbooru/tags/tag_words.json")
-  );
-  const firstTwoChars = searchWord.slice(0, 2);
-  const filteredWords = wordList.filter((word) =>
-    word.startsWith(firstTwoChars)
-  );
-
-  let results = [];
-  results = filteredWords
-    .map((word) => ({
-      word,
-      distance: levenshteinDistance(searchWord, word),
-    }))
-    .filter((result) => result.distance <= maxDistance)
-    .sort((a, b) => a.distance - b.distance)
-    .slice(0, maxResults)
-    .map((result) => result.word);
-
-  return results;
-}
-
-//Split search query into words and search each word
-function searchMultipleWords(query) {
-  const queryWords = query.toLowerCase().split("_");
-  let matchedWords = new Set();
-
-  queryWords.forEach((word) => {
-    const fuzzyMatches = fuzzySearchWords(word);
-    matchedWords.add(fuzzyMatches);
-  });
-
-  return Array.from(matchedWords);
-}
-
-//find tag by words found using fuzzy search
-function findTagByWords(wordGroups, maxResults = 5) {
-  const tagsList = JSON.parse(
-    fs.readFileSync("./danbooru/tags/Character.json")
-  );
-  let results = tagsList;
-
-  for (const words of wordGroups) {
-    results = results.filter((tag) => {
-      const tagWords = tag.name.split("_");
-      return words.some((word) =>
-        tagWords.some((tagWord) => tagWord.includes(word))
-      );
-    });
-
-    if (results.length === 0) {
-      break;
-    }
-  }
-
-  return results.length ? results.slice(0, maxResults) : null;
-}
+*/
 
 //build danbooru tag embed
 function buildDanbooruTagEmbed(tags, searchQuery) {
@@ -454,9 +281,7 @@ client.on("messageCreate", async (message) => {
       searchQuery = searchQuery.join("_").replace(/\s+/g, "_").toLowerCase();
 
       //let result = await findDanbooruTag(searchQuery, category);
-      //let result = findTagFuzzy(characterData, searchQuery);
-      let searchWords = searchMultipleWords(searchQuery);
-      let result = findTagByWords(searchWords, 5);
+      let result = findTagByWords(searchQuery, undefined, undefined, category);
       if (!result) {
         message.channel.send(
           `Có vẻ không tìm được tag nào giống cái này rồi ᇂ_ᇂ.`
@@ -546,5 +371,81 @@ client.on("messageCreate", (message) => {
     }
   }
 });
+
+//Log deleted message
+/*
+const snipes = new Discord.Collection();
+
+client.on("messageDelete", (message) => {
+  snipes.set(message.channel.id, message);
+  const LogChannel = client.channels.cache.get("1340390483855282216");
+
+  if (message.author.id == 0) {
+    LogChannel.send("Bí mật của chồng, không ai được biết.");
+    return 0;
+  } else if (
+    message.author.id == 1027765339389431828 ||
+    message.author.id == 571027211407196161
+  ) {
+    return 0;
+  } else if (message.author.id == 1012001069267681320) {
+    LogChannel.send(`Bé ${message.author} đáng yêu quá chị ko nỡ (>.<")`);
+    return 0;
+  }
+
+  try {
+    const DeletedLog = new EmbedBuilder()
+      .setTitle("Deleted Message")
+      .addFields({
+        name: "Deleted by",
+        value: `${message.author} - (${message.author.id})`,
+      })
+      .addFields({ name: "In", value: message.channel.name })
+      .setColor("#FF0000")
+      .setThumbnail(message.author.displayAvatarURL({ dynamic: true }));
+
+    if (message.content) {
+      DeletedLog.addFields({ name: "Content", value: message.content });
+    }
+    if (message.attachments.first()) {
+      //console.log(message.attachments);
+      let attachment = message.attachments.first();
+
+      if (attachment.contentType.includes("image")) {
+        DeletedLog.setImage(attachment.url);
+      } else if (attachment.contentType.includes("video")) {
+        DeletedLog.addFields({ name: "Ps", value: "Has the below video" });
+      } else if (attachment.contentType.includes("audio")) {
+        DeletedLog.addFields({ name: "Ps", value: "Has the below audio" });
+      } else {
+        DeletedLog.addFields({
+          name: "Ps",
+          value: `Has pdf attachment name ${
+            attachment.title ? attachment.title : attachment.name
+          }`,
+        });
+      }
+    } else {
+      DeletedLog.addFields({ name: "Ps", value: "No attachments" });
+    }
+
+    LogChannel.send({ embeds: [DeletedLog] });
+    if (message.attachments.first()) {
+      let attachment = message.attachments.first();
+      if (attachment.contentType.includes("video")) {
+        LogChannel.send({
+          files: [attachment.url],
+        });
+      } else if (attachment.contentType.includes("audio")) {
+        LogChannel.send({
+          files: [attachment.url],
+        });
+      }
+    }
+  } catch (error) {
+    console.log(error);
+  }
+});
+*/
 
 client.login(token);

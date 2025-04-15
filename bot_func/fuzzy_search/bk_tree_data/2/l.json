@@ -1,0 +1,63 @@
+{
+  "word": "(2l)",
+  "children": {
+    "1": {
+      "word": "(2l0)",
+      "children": {}
+    },
+    "2": {
+      "word": "2l",
+      "children": {
+        "1": {
+          "word": "2le",
+          "children": {
+            "1": {
+              "word": "2ll",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "2lke",
+      "children": {
+        "2": {
+          "word": "2lub",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(2lsize)",
+      "children": {}
+    },
+    "5": {
+      "word": "(2lolpop)",
+      "children": {
+        "6": {
+          "word": "2love2",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(2ldk1241)",
+      "children": {
+        "8": {
+          "word": "2latona",
+          "children": {
+            "5": {
+              "word": "2logako",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "2ltpaula",
+      "children": {}
+    }
+  }
+}

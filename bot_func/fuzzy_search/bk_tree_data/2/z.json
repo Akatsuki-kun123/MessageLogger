@@ -1,0 +1,36 @@
+{
+  "word": "(2z4gavjgqkcfuax)",
+  "children": {
+    "12": {
+      "word": "(2zkksn)",
+      "children": {}
+    },
+    "14": {
+      "word": "2zibure",
+      "children": {
+        "2": {
+          "word": "2zisuke",
+          "children": {}
+        },
+        "5": {
+          "word": "2zuz4hru",
+          "children": {
+            "6": {
+              "word": "2zxt",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "15": {
+      "word": "2z",
+      "children": {
+        "2": {
+          "word": "2zyo",
+          "children": {}
+        }
+      }
+    }
+  }
+}

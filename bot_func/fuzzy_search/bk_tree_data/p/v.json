@@ -1,0 +1,181 @@
+{
+  "word": "(pv)",
+  "children": {
+    "1": {
+      "word": "(pvg)",
+      "children": {
+        "1": {
+          "word": "(pvo)",
+          "children": {
+            "1": {
+              "word": "(pvz)",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "pv)",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "pv",
+      "children": {
+        "1": {
+          "word": "pvc",
+          "children": {
+            "1": {
+              "word": "pvn",
+              "children": {
+                "1": {
+                  "word": "pvp",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(pvalk)",
+      "children": {}
+    },
+    "4": {
+      "word": "pv12w",
+      "children": {
+        "3": {
+          "word": "pvs-7",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(pvxcovs)",
+      "children": {
+        "5": {
+          "word": "pvmivs",
+          "children": {}
+        },
+        "6": {
+          "word": "pvasls",
+          "children": {
+            "4": {
+              "word": "pvoice",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "pvs-14",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(pvfg8287)",
+      "children": {
+        "6": {
+          "word": "(pvmv5358)",
+          "children": {
+            "6": {
+              "word": "(pvza4475)",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "pv23333",
+          "children": {
+            "4": {
+              "word": "pvt3409",
+              "children": {}
+            },
+            "5": {
+              "word": "pvacuum",
+              "children": {
+                "4": {
+                  "word": "pvalent",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "pvfe8428",
+      "children": {
+        "3": {
+          "word": "pvvg7428",
+          "children": {}
+        },
+        "4": {
+          "word": "pvky8477",
+          "children": {
+            "5": {
+              "word": "pvpj7425",
+              "children": {
+                "5": {
+                  "word": "pvtn8422)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "pvsr8733",
+          "children": {
+            "5": {
+              "word": "pvwt8474)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "pvha4443)",
+          "children": {
+            "5": {
+              "word": "pvrm4582)",
+              "children": {}
+            },
+            "6": {
+              "word": "pvnd5237",
+              "children": {
+                "5": {
+                  "word": "pvpn3853",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "pvponlink",
+      "children": {
+        "7": {
+          "word": "pvtskwerl",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "(pvplispulang)",
+      "children": {
+        "11": {
+          "word": "pvcpalmtree",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "pveaxy1iikf1y9l",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "word": "(b.c)",
+  "children": {
+    "2": {
+      "word": "(bc",
+      "children": {
+        "1": {
+          "word": "(bcy",
+          "children": {}
+        },
+        "2": {
+          "word": "(bcy)",
+          "children": {
+            "2": {
+              "word": "bc)",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "b.c.",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(bcat)",
+      "children": {
+        "2": {
+          "word": "(bcmk)",
+          "children": {}
+        },
+        "4": {
+          "word": "bc",
+          "children": {
+            "1": {
+              "word": "bc1",
+              "children": {
+                "1": {
+                  "word": "bc@",
+                  "children": {
+                    "1": {
+                      "word": "bcd",
+                      "children": {
+                        "1": {
+                          "word": "bcg",
+                          "children": {
+                            "1": {
+                              "word": "bcm",
+                              "children": {
+                                "1": {
+                                  "word": "bcy",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "bccp",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(bcdsg)",
+      "children": {
+        "3": {
+          "word": "(bcomn)",
+          "children": {
+            "3": {
+              "word": "(bcrow)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "bcde",
+          "children": {
+            "2": {
+              "word": "bcss",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "bc01",
+          "children": {
+            "2": {
+              "word": "bc98",
+              "children": {
+                "2": {
+                  "word": "bcap",
+                  "children": {
+                    "2": {
+                      "word": "bcem",
+                      "children": {
+                        "2": {
+                          "word": "bcit",
+                          "children": {
+                            "2": {
+                              "word": "bcvn",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "bcoca",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "b-cat",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(bcccc52)",
+      "children": {
+        "4": {
+          "word": "bccccc",
+          "children": {}
+        },
+        "5": {
+          "word": "(bchana)",
+          "children": {
+            "2": {
+              "word": "(bcluna)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "b-chan",
+          "children": {
+            "1": {
+              "word": "bchan",
+              "children": {}
+            },
+            "4": {
+              "word": "bcag.",
+              "children": {
+                "3": {
+                  "word": "bcdsg",
+                  "children": {
+                    "3": {
+                      "word": "bcfma",
+                      "children": {
+                        "3": {
+                          "word": "bcopy",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "b.c.n.y.",
+      "children": {
+        "6": {
+          "word": "bcdf22",
+          "children": {
+            "4": {
+              "word": "bcguro",
+              "children": {
+                "4": {
+                  "word": "bcmint",
+                  "children": {
+                    "4": {
+                      "word": "bcorgi",
+                      "children": {
+                        "3": {
+                          "word": "bcowuq",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "bcroom",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(bc211220)",
+      "children": {
+        "5": {
+          "word": "(bcat1103)",
+          "children": {}
+        },
+        "6": {
+          "word": "(bcb75332)",
+          "children": {
+            "6": {
+              "word": "(bcow0809)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "bccch123",
+          "children": {
+            "5": {
+              "word": "bci0233",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "b-cruise)",
+          "children": {
+            "7": {
+              "word": "bchlmnr",
+              "children": {
+                "4": {
+                  "word": "bchynta",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "b-cheese",
+          "children": {
+            "3": {
+              "word": "b-cruise",
+              "children": {}
+            },
+            "6": {
+              "word": "b=conumi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(bcy183895)",
+      "children": {
+        "9": {
+          "word": "bcarr116",
+          "children": {
+            "4": {
+              "word": "bcsmx106",
+              "children": {}
+            },
+            "6": {
+              "word": "bcuvhino",
+              "children": {}
+            },
+            "7": {
+              "word": "bcbcmmmmm",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "b-corsairs",
+      "children": {
+        "8": {
+          "word": "bchan1582",
+          "children": {
+            "7": {
+              "word": "bcsstudio",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "bcassimiro",
+      "children": {}
+    },
+    "11": {
+      "word": "bclarissart",
+      "children": {}
+    },
+    "13": {
+      "word": "bcl3(pekojiang)",
+      "children": {}
+    },
+    "14": {
+      "word": "(bc1rub8tpr5jp2l)",
+      "children": {
+        "13": {
+          "word": "(bcy105339667574)",
+          "children": {}
+        }
+      }
+    },
+    "15": {
+      "word": "bckpx32f4tpyavj",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "word": "(3i135)",
+  "children": {
+    "3": {
+      "word": "(3isk)",
+      "children": {}
+    },
+    "5": {
+      "word": "3i",
+      "children": {
+        "1": {
+          "word": "3io",
+          "children": {}
+        },
+        "2": {
+          "word": "3ito",
+          "children": {}
+        },
+        "3": {
+          "word": "3ii10",
+          "children": {}
+        },
+        "4": {
+          "word": "3ihard",
+          "children": {
+            "4": {
+              "word": "3imij0",
+              "children": {
+                "4": {
+                  "word": "3isegg",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "3-inch",
+      "children": {
+        "4": {
+          "word": "3irin13",
+          "children": {}
+        },
+        "5": {
+          "word": "3intlar",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "3i8akira",
+      "children": {}
+    },
+    "8": {
+      "word": "3ikurasan",
+      "children": {}
+    }
+  }
+}

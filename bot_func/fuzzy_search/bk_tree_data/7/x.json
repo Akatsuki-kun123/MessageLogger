@@ -1,0 +1,31 @@
+{
+  "word": "(7x2",
+  "children": {
+    "2": {
+      "word": "7x",
+      "children": {
+        "1": {
+          "word": "7xs",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "7x8)",
+      "children": {}
+    },
+    "5": {
+      "word": "7x1010",
+      "children": {
+        "4": {
+          "word": "7xyuan",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "7xgyvvjxwf6jp2y",
+      "children": {}
+    }
+  }
+}

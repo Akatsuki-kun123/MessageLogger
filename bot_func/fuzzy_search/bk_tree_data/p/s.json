@@ -1,0 +1,1518 @@
+{
+  "word": "(p-san)",
+  "children": {
+    "2": {
+      "word": "(pstn)",
+      "children": {}
+    },
+    "3": {
+      "word": "(ps)",
+      "children": {
+        "1": {
+          "word": "(ps2)",
+          "children": {
+            "1": {
+              "word": "(psg)",
+              "children": {
+                "1": {
+                  "word": "(psy)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "(ps2))",
+          "children": {
+            "2": {
+              "word": "(psid)",
+              "children": {
+                "2": {
+                  "word": "(pso2)",
+                  "children": {
+                    "1": {
+                      "word": "(psp2)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "p-s)",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "psan",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(p-smile)",
+      "children": {
+        "2": {
+          "word": "(p-style)",
+          "children": {}
+        },
+        "5": {
+          "word": "(psdgai)",
+          "children": {
+            "4": {
+              "word": "(psp25)",
+              "children": {
+                "3": {
+                  "word": "(pssh27)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "(psycon)",
+                  "children": {
+                    "2": {
+                      "word": "(psyren)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "p-suke",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(ps",
+          "children": {
+            "1": {
+              "word": "(ps2",
+              "children": {
+                "1": {
+                  "word": "(ps3",
+                  "children": {
+                    "1": {
+                      "word": "(pst",
+                      "children": {
+                        "1": {
+                          "word": "(psy",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "ps)",
+              "children": {}
+            },
+            "3": {
+              "word": "(psp22",
+              "children": {}
+            },
+            "4": {
+              "word": "psalm",
+              "children": {
+                "3": {
+                  "word": "psino",
+                  "children": {
+                    "3": {
+                      "word": "pso2)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "p.song",
+          "children": {
+            "3": {
+              "word": "psnt",
+              "children": {}
+            },
+            "4": {
+              "word": "psaku",
+              "children": {
+                "2": {
+                  "word": "psara",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "ps-tan",
+              "children": {}
+            },
+            "6": {
+              "word": "psp-tan",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(pshuuu)",
+      "children": {
+        "4": {
+          "word": "(pso2ta)",
+          "children": {
+            "4": {
+              "word": "(psr992)",
+              "children": {
+                "4": {
+                  "word": "(psuede)",
+                  "children": {
+                    "4": {
+                      "word": "(psycho)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(pskings)",
+          "children": {
+            "2": {
+              "word": "(pso2ngs)",
+              "children": {}
+            },
+            "3": {
+              "word": "(psmin30)",
+              "children": {
+                "3": {
+                  "word": "(psyming)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(psycard)",
+              "children": {
+                "6": {
+                  "word": "psalms)",
+                  "children": {
+                    "3": {
+                      "word": "psilon)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "(psycho",
+              "children": {
+                "6": {
+                  "word": "psekai)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "psu",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "p.shot",
+          "children": {
+            "2": {
+              "word": "psoot",
+              "children": {}
+            },
+            "3": {
+              "word": "pso",
+              "children": {
+                "1": {
+                  "word": "pso2",
+                  "children": {
+                    "2": {
+                      "word": "pst",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "ps",
+              "children": {
+                "1": {
+                  "word": "ps1",
+                  "children": {
+                    "1": {
+                      "word": "ps2",
+                      "children": {
+                        "1": {
+                          "word": "ps3",
+                          "children": {
+                            "1": {
+                              "word": "ps4",
+                              "children": {
+                                "1": {
+                                  "word": "ps5",
+                                  "children": {
+                                    "1": {
+                                      "word": "psd",
+                                      "children": {
+                                        "1": {
+                                          "word": "psi",
+                                          "children": {
+                                            "1": {
+                                              "word": "psk",
+                                              "children": {
+                                                "1": {
+                                                  "word": "psl",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "psm",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "psp",
+                                                          "children": {
+                                                            "1": {
+                                                              "word": "psr",
+                                                              "children": {
+                                                                "1": {
+                                                                  "word": "pss",
+                                                                  "children": {
+                                                                    "1": {
+                                                                      "word": "psw",
+                                                                      "children": {
+                                                                        "1": {
+                                                                          "word": "psy",
+                                                                          "children": {}
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "ps-1",
+                  "children": {
+                    "1": {
+                      "word": "psg1",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "ps20",
+                      "children": {
+                        "1": {
+                          "word": "ps90",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "ps98",
+                          "children": {
+                            "2": {
+                              "word": "psdr",
+                              "children": {
+                                "2": {
+                                  "word": "pssi",
+                                  "children": {
+                                    "2": {
+                                      "word": "psta",
+                                      "children": {
+                                        "1": {
+                                          "word": "psya",
+                                          "children": {}
+                                        },
+                                        "2": {
+                                          "word": "psye",
+                                          "children": {
+                                            "1": {
+                                              "word": "psyk",
+                                              "children": {}
+                                            },
+                                            "2": {
+                                              "word": "pszk",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "ps250",
+                  "children": {
+                    "3": {
+                      "word": "psdee",
+                      "children": {
+                        "2": {
+                          "word": "psyme",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "psg-1",
+                          "children": {
+                            "3": {
+                              "word": "psyco",
+                              "children": {
+                                "1": {
+                                  "word": "psyto",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "psyga",
+                                  "children": {
+                                    "2": {
+                                      "word": "psyki",
+                                      "children": {
+                                        "2": {
+                                          "word": "psyt2",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "ps2-tan",
+              "children": {
+                "1": {
+                  "word": "ps3-tan",
+                  "children": {}
+                },
+                "4": {
+                  "word": "pstaaa",
+                  "children": {
+                    "3": {
+                      "word": "psysai",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "psario",
+                  "children": {
+                    "4": {
+                      "word": "psianop",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "pscsaff",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "ps4mana",
+              "children": {
+                "2": {
+                  "word": "psykana",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "p's",
+          "children": {
+            "2": {
+              "word": "p.s.",
+              "children": {}
+            },
+            "3": {
+              "word": "p@sta",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(pse2330)",
+      "children": {
+        "4": {
+          "word": "(psy2887)",
+          "children": {
+            "4": {
+              "word": "(psyk323)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(psidubs)",
+          "children": {
+            "5": {
+              "word": "(psychic)",
+              "children": {}
+            },
+            "6": {
+              "word": "(psxa3754)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(psempsemn)",
+          "children": {
+            "5": {
+              "word": "(pskpream)",
+              "children": {
+                "6": {
+                  "word": "(pspspsps)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(pspdspsp)",
+              "children": {}
+            },
+            "7": {
+              "word": "(psodagio)",
+              "children": {
+                "4": {
+                  "word": "(psyozaki)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(psyblade)",
+                  "children": {
+                    "6": {
+                      "word": "(psypolo",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "(psychic",
+              "children": {
+                "3": {
+                  "word": "psycho)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ps2kon",
+                  "children": {
+                    "4": {
+                      "word": "pseudo",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "p-series",
+          "children": {
+            "4": {
+              "word": "psiren",
+              "children": {
+                "1": {
+                  "word": "psyren",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "psuede",
+              "children": {
+                "3": {
+                  "word": "psyche",
+                  "children": {
+                    "3": {
+                      "word": "psyder",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "psyker",
+                  "children": {
+                    "3": {
+                      "word": "psyops",
+                      "children": {
+                        "4": {
+                          "word": "psyren2",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "ps-111",
+              "children": {
+                "3": {
+                  "word": "psi1on",
+                  "children": {}
+                },
+                "4": {
+                  "word": "pshfrk",
+                  "children": {
+                    "3": {
+                      "word": "pshuuu",
+                      "children": {
+                        "3": {
+                          "word": "pshyzo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "psikyo",
+                      "children": {
+                        "3": {
+                          "word": "pskymd",
+                          "children": {
+                            "4": {
+                              "word": "psycho",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "psomuq",
+                          "children": {
+                            "3": {
+                              "word": "psyoui",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "psycha",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "psy-min",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "psak-47",
+                  "children": {
+                    "4": {
+                      "word": "psyga43",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "psha099",
+                      "children": {
+                        "5": {
+                          "word": "psognat",
+                          "children": {
+                            "5": {
+                              "word": "pspmaru",
+                              "children": {
+                                "3": {
+                                  "word": "psycard",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "p/\\s",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(ps-101523)",
+      "children": {
+        "6": {
+          "word": "(psgw3383)",
+          "children": {
+            "5": {
+              "word": "(pskf2372)",
+              "children": {}
+            },
+            "6": {
+              "word": "(pspt4532)",
+              "children": {
+                "4": {
+                  "word": "(psrr7534)",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "psi1002",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(pstj3248)",
+          "children": {
+            "5": {
+              "word": "(psut8274)",
+              "children": {
+                "5": {
+                  "word": "(psye8488)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(psychexx)",
+              "children": {
+                "3": {
+                  "word": "(psychoro)",
+                  "children": {}
+                },
+                "7": {
+                  "word": "psh5528",
+                  "children": {
+                    "4": {
+                      "word": "psyk323",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "psj1226",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "pspf8232",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "psi4041",
+          "children": {
+            "5": {
+              "word": "pswlv05",
+              "children": {}
+            },
+            "6": {
+              "word": "pspn8722",
+              "children": {
+                "5": {
+                  "word": "psxa2324",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "psp(3dass)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "ps.heol",
+          "children": {
+            "4": {
+              "word": "psybeam",
+              "children": {
+                "4": {
+                  "word": "psychos",
+                  "children": {
+                    "3": {
+                      "word": "psypher",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "psypolo",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "psaber97",
+              "children": {
+                "5": {
+                  "word": "psammead",
+                  "children": {
+                    "5": {
+                      "word": "pspider",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "psy-crow",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "pshinobi",
+                  "children": {
+                    "4": {
+                      "word": "psidubs",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "psplojs",
+                      "children": {
+                        "3": {
+                          "word": "psycojr",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "psycome",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "psyshock",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "psy-cho",
+                      "children": {
+                        "3": {
+                          "word": "psychic",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "psyclaon",
+                          "children": {
+                            "4": {
+                              "word": "psyphun",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "psyduck",
+                              "children": {
+                                "3": {
+                                  "word": "psyzuka",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "psapraca",
+              "children": {
+                "5": {
+                  "word": "psognarr",
+                  "children": {
+                    "5": {
+                      "word": "pssgrtak",
+                      "children": {
+                        "5": {
+                          "word": "psyopsai",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "psyadrin",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "psychoann",
+                  "children": {}
+                },
+                "7": {
+                  "word": "psy-clone",
+                  "children": {
+                    "5": {
+                      "word": "psycannon",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "psapiains",
+              "children": {
+                "4": {
+                  "word": "psephrain8",
+                  "children": {}
+                },
+                "7": {
+                  "word": "psdanggui",
+                  "children": {
+                    "6": {
+                      "word": "pspgo-kun",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "psy-frame",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(pseudostars)",
+      "children": {
+        "6": {
+          "word": "(psycho-pass)",
+          "children": {}
+        },
+        "7": {
+          "word": "pseudonym",
+          "children": {}
+        },
+        "8": {
+          "word": "(psi-natural)",
+          "children": {
+            "9": {
+              "word": "(psuke0512)",
+              "children": {
+                "7": {
+                  "word": "(psychofox)",
+                  "children": {}
+                },
+                "9": {
+                  "word": "(psycogarden)",
+                  "children": {
+                    "9": {
+                      "word": "psandabear",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "(psg011204)",
+          "children": {
+            "7": {
+              "word": "(psythefly)",
+              "children": {}
+            },
+            "8": {
+              "word": "psdd3485)",
+              "children": {}
+            },
+            "9": {
+              "word": "psicoero",
+              "children": {
+                "5": {
+                  "word": "psychoman",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "psew4857",
+          "children": {
+            "6": {
+              "word": "psry7388)",
+              "children": {
+                "6": {
+                  "word": "psycho02",
+                  "children": {
+                    "4": {
+                      "word": "psycocko",
+                      "children": {
+                        "3": {
+                          "word": "psycommu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "psyg5432)",
+                      "children": {
+                        "6": {
+                          "word": "psyjoked",
+                          "children": {
+                            "3": {
+                              "word": "psylocke",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "psylduck",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "psiioniic",
+              "children": {
+                "7": {
+                  "word": "pskz3722)",
+                  "children": {
+                    "6": {
+                      "word": "psvf2344)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "p-suke1102",
+          "children": {
+            "8": {
+              "word": "psmh5753",
+              "children": {
+                "5": {
+                  "word": "psyche59",
+                  "children": {}
+                },
+                "6": {
+                  "word": "psvv3824",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(psmhbpiuczn)",
+      "children": {
+        "8": {
+          "word": "(psychonauts)",
+          "children": {
+            "5": {
+              "word": "(psychopomp)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(psychetangle)",
+          "children": {
+            "8": {
+              "word": "psychicer",
+              "children": {
+                "3": {
+                  "word": "psyqhical",
+                  "children": {}
+                },
+                "4": {
+                  "word": "psychogun",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "psykicker",
+              "children": {}
+            },
+            "11": {
+              "word": "pshrillart",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "pseudocel",
+          "children": {
+            "5": {
+              "word": "pseudogiant",
+              "children": {}
+            },
+            "6": {
+              "word": "psilocybe",
+              "children": {
+                "7": {
+                  "word": "psychogeno",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "pso2kotone",
+              "children": {
+                "6": {
+                  "word": "psychemon",
+                  "children": {}
+                },
+                "7": {
+                  "word": "psychopath",
+                  "children": {
+                    "6": {
+                      "word": "psyoptima",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "psft27mgn8",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "psakorntnoi",
+          "children": {
+            "7": {
+              "word": "psicoyote",
+              "children": {}
+            },
+            "8": {
+              "word": "psi-wo-nagu",
+              "children": {
+                "7": {
+                  "word": "psychohog",
+                  "children": {
+                    "5": {
+                      "word": "psychostars",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "pseudo-me",
+              "children": {
+                "6": {
+                  "word": "psycho373",
+                  "children": {}
+                },
+                "7": {
+                  "word": "psycheeky",
+                  "children": {
+                    "6": {
+                      "word": "psycho-pass",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(pseudo-servant:",
+      "children": {
+        "2": {
+          "word": "(psuedo-servant:",
+          "children": {}
+        },
+        "9": {
+          "word": "pseudomonas",
+          "children": {}
+        },
+        "10": {
+          "word": "pseudo1884",
+          "children": {
+            "5": {
+              "word": "pseudonym3d",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "psychoblast",
+          "children": {
+            "4": {
+              "word": "psychonauts",
+              "children": {
+                "4": {
+                  "word": "psychoniont",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "psychoramen",
+              "children": {
+                "5": {
+                  "word": "psychotria",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "(psychedelic",
+          "children": {
+            "6": {
+              "word": "psychengren",
+              "children": {
+                "5": {
+                  "word": "psychopepe",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "psycholadys",
+              "children": {}
+            },
+            "8": {
+              "word": "psyclopathe",
+              "children": {}
+            },
+            "9": {
+              "word": "psilocybin",
+              "children": {}
+            },
+            "11": {
+              "word": "psehkaonttaa",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "psichopomp",
+          "children": {
+            "1": {
+              "word": "psychopomp",
+              "children": {}
+            },
+            "4": {
+              "word": "psychowolf",
+              "children": {}
+            },
+            "5": {
+              "word": "psychobusu",
+              "children": {}
+            },
+            "6": {
+              "word": "psyche-lock",
+              "children": {
+                "5": {
+                  "word": "psyche3313",
+                  "children": {}
+                },
+                "6": {
+                  "word": "psychicjin",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "psyduck811",
+              "children": {}
+            }
+          }
+        },
+        "14": {
+          "word": "psp26958748",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "(pseudoregalia)",
+      "children": {
+        "8": {
+          "word": "pseudodragon",
+          "children": {
+            "5": {
+              "word": "pseudologue",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(psycholonials)",
+          "children": {
+            "12": {
+              "word": "pseudohydnum",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "(psychocuties)",
+          "children": {
+            "6": {
+              "word": "psychopolis",
+              "children": {}
+            },
+            "8": {
+              "word": "psychedelic",
+              "children": {
+                "2": {
+                  "word": "psycheholic",
+                  "children": {}
+                },
+                "6": {
+                  "word": "psychorochi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "psy-framegear",
+          "children": {
+            "4": {
+              "word": "psy-framelord",
+              "children": {}
+            },
+            "8": {
+              "word": "psychemical",
+              "children": {
+                "5": {
+                  "word": "psychometry",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "psyconorikan",
+              "children": {}
+            },
+            "10": {
+              "word": "psychoschizo",
+              "children": {
+                "9": {
+                  "word": "psyco-gundam:",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "psychiatrist",
+          "children": {
+            "5": {
+              "word": "psychicer09",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "pseudo-palutena",
+      "children": {
+        "7": {
+          "word": "pseudoregalia",
+          "children": {}
+        },
+        "8": {
+          "word": "pseudolirium",
+          "children": {}
+        },
+        "9": {
+          "word": "psycho-puzzle",
+          "children": {}
+        },
+        "10": {
+          "word": "psuedomiracle",
+          "children": {
+            "10": {
+              "word": "psychocuties",
+              "children": {
+                "5": {
+                  "word": "psychokotoka",
+                  "children": {
+                    "6": {
+                      "word": "psychosoldier",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "psychokokuon",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "psychoanalysis",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "psicochurroz",
+          "children": {
+            "8": {
+              "word": "psychostuff16",
+              "children": {}
+            },
+            "9": {
+              "word": "psychedelica",
+              "children": {
+                "7": {
+                  "word": "psychicpebble",
+                  "children": {
+                    "7": {
+                      "word": "psychrometer",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "psiithirisma",
+          "children": {
+            "10": {
+              "word": "psittacosaurus",
+              "children": {
+                "10": {
+                  "word": "psycholonials",
+                  "children": {}
+                },
+                "12": {
+                  "word": "psychedelica)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "13": {
+      "word": "(pseudo-shikigami:",
+      "children": {
+        "12": {
+          "word": "pseudonymjones",
+          "children": {}
+        },
+        "14": {
+          "word": "(psychedelic420)",
+          "children": {
+            "9": {
+              "word": "(psycho12412087)",
+              "children": {
+                "11": {
+                  "word": "psycheichidou",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "psychohardcore",
+              "children": {}
+            },
+            "12": {
+              "word": "psyclopathecom",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "word": "psychovultures",
+      "children": {}
+    },
+    "17": {
+      "word": "psmania0ema-otamesi",
+      "children": {
+        "16": {
+          "word": "psychedelicheroin",
+          "children": {}
+        }
+      }
+    },
+    "19": {
+      "word": "psychometalick-girls",
+      "children": {}
+    }
+  }
+}

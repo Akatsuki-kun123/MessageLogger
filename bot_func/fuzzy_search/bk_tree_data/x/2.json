@@ -1,0 +1,120 @@
+{
+  "word": "(x25)",
+  "children": {
+    "1": {
+      "word": "x25)",
+      "children": {}
+    },
+    "2": {
+      "word": "x2)",
+      "children": {
+        "1": {
+          "word": "x2o)",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(x2i2a)",
+      "children": {
+        "4": {
+          "word": "x22",
+          "children": {
+            "2": {
+              "word": "x2ca",
+              "children": {}
+            },
+            "3": {
+              "word": "x23s)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "x2",
+          "children": {
+            "1": {
+              "word": "x20",
+              "children": {
+                "1": {
+                  "word": "x2:",
+                  "children": {
+                    "1": {
+                      "word": "x2n",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "x21x",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "x-2",
+      "children": {
+        "1": {
+          "word": "x-23",
+          "children": {
+            "1": {
+              "word": "x-24",
+              "children": {
+                "1": {
+                  "word": "x-29",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "x2gon",
+          "children": {
+            "3": {
+              "word": "x2nax",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "x20man",
+      "children": {
+        "5": {
+          "word": "x235790",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "x25670782",
+      "children": {}
+    },
+    "8": {
+      "word": "x2525fleet",
+      "children": {}
+    },
+    "9": {
+      "word": "x2243271584",
+      "children": {}
+    },
+    "10": {
+      "word": "x2373797331",
+      "children": {}
+    },
+    "11": {
+      "word": "x2x2x2x2x2x2x",
+      "children": {}
+    },
+    "13": {
+      "word": "(x2mciyellrzrhg1)",
+      "children": {}
+    }
+  }
+}

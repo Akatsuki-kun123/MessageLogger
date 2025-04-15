@@ -1,0 +1,74 @@
+{
+  "word": "(2red",
+  "children": {
+    "1": {
+      "word": "2red",
+      "children": {}
+    },
+    "2": {
+      "word": "2re",
+      "children": {
+        "2": {
+          "word": "2reds",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "2r-",
+      "children": {
+        "2": {
+          "word": "2rin",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "2roco",
+      "children": {
+        "2": {
+          "word": "2rott",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "2rusty",
+      "children": {}
+    },
+    "6": {
+      "word": "2ru4shi",
+      "children": {
+        "5": {
+          "word": "2ryoume",
+          "children": {}
+        },
+        "6": {
+          "word": "2ryoume)",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(2rumai2te)",
+      "children": {
+        "7": {
+          "word": "2rabbits",
+          "children": {}
+        },
+        "9": {
+          "word": "2redpandas",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "2ra2ra2rara",
+      "children": {}
+    },
+    "13": {
+      "word": "(2rzmcaizerails6)",
+      "children": {}
+    }
+  }
+}

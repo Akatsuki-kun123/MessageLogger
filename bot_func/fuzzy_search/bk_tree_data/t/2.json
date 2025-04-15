@@ -1,0 +1,200 @@
+{
+  "word": "(t2",
+  "children": {
+    "1": {
+      "word": "t2",
+      "children": {}
+    },
+    "2": {
+      "word": "(t23)",
+      "children": {
+        "2": {
+          "word": "t23",
+          "children": {}
+        },
+        "3": {
+          "word": "t20",
+          "children": {
+            "1": {
+              "word": "t26",
+              "children": {
+                "1": {
+                  "word": "t28",
+                  "children": {
+                    "1": {
+                      "word": "t29",
+                      "children": {
+                        "1": {
+                          "word": "t2k",
+                          "children": {
+                            "1": {
+                              "word": "t2o",
+                              "children": {
+                                "1": {
+                                  "word": "t2r",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "t-2",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "t-20",
+      "children": {
+        "1": {
+          "word": "t-26",
+          "children": {
+            "1": {
+              "word": "t-28",
+              "children": {
+                "1": {
+                  "word": "t-2b",
+                  "children": {
+                    "1": {
+                      "word": "t-2c",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "t20)",
+          "children": {
+            "1": {
+              "word": "t200",
+              "children": {
+                "1": {
+                  "word": "t204",
+                  "children": {
+                    "1": {
+                      "word": "t20a",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "t230",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "t21)",
+          "children": {
+            "2": {
+              "word": "t2rn",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(t2kwe)",
+      "children": {
+        "4": {
+          "word": "t26e4",
+          "children": {
+            "1": {
+              "word": "t26e5",
+              "children": {}
+            },
+            "2": {
+              "word": "t29e3",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "t2000",
+          "children": {
+            "1": {
+              "word": "t2002",
+              "children": {}
+            },
+            "2": {
+              "word": "t260g",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "t-203",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "t255d1",
+      "children": {
+        "4": {
+          "word": "t2ukky",
+          "children": {
+            "4": {
+              "word": "t2wawa",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(t2006rs)",
+      "children": {
+        "7": {
+          "word": "t2death",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(t26gfaxt)",
+      "children": {
+        "7": {
+          "word": "t2digits",
+          "children": {}
+        },
+        "8": {
+          "word": "t2ukmyjm",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "(t20nozomu)",
+      "children": {
+        "7": {
+          "word": "(t24610571)",
+          "children": {}
+        },
+        "9": {
+          "word": "t26179133",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "t2lurunvar39265",
+      "children": {}
+    }
+  }
+}

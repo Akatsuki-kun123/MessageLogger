@@ -1,0 +1,36 @@
+{
+  "word": "(4xian)",
+  "children": {
+    "4": {
+      "word": "4xin-z",
+      "children": {}
+    },
+    "5": {
+      "word": "4x3",
+      "children": {
+        "1": {
+          "word": "4x4",
+          "children": {
+            "1": {
+              "word": "4xs",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "4x7r3",
+          "children": {
+            "3": {
+              "word": "4xp3u",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "13": {
+      "word": "4xpr7jyukt5vnix",
+      "children": {}
+    }
+  }
+}

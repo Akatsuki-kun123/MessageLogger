@@ -1,0 +1,39 @@
+{
+  "word": "(9x9",
+  "children": {
+    "2": {
+      "word": "9x8",
+      "children": {}
+    },
+    "4": {
+      "word": "9xxii",
+      "children": {
+        "2": {
+          "word": "9xxvi9",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "9x8bit",
+      "children": {
+        "4": {
+          "word": "9xya10",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "9x2no18",
+      "children": {}
+    },
+    "9": {
+      "word": "9x9sketches",
+      "children": {}
+    },
+    "14": {
+      "word": "9xczlqnl1tmns84",
+      "children": {}
+    }
+  }
+}

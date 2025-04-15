@@ -1,0 +1,44 @@
+{
+  "word": "(6one",
+  "children": {
+    "3": {
+      "word": "6o",
+      "children": {
+        "1": {
+          "word": "6o)",
+          "children": {
+            "1": {
+              "word": "6o2",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "6ori",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "6owo6",
+      "children": {}
+    },
+    "5": {
+      "word": "6osquet",
+      "children": {
+        "5": {
+          "word": "6owall",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "6+others",
+      "children": {}
+    },
+    "9": {
+      "word": "6o6chitpos",
+      "children": {}
+    }
+  }
+}

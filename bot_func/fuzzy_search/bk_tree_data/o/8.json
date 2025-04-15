@@ -1,0 +1,70 @@
+{
+  "word": "(o8o8oo8)",
+  "children": {
+    "4": {
+      "word": "(o8ob)",
+      "children": {}
+    },
+    "5": {
+      "word": "o8o8das",
+      "children": {
+        "4": {
+          "word": "o8otori",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "o81)",
+      "children": {
+        "1": {
+          "word": "o83)",
+          "children": {}
+        },
+        "2": {
+          "word": "o8o",
+          "children": {}
+        },
+        "5": {
+          "word": "o831o141",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "o81",
+      "children": {
+        "1": {
+          "word": "o87",
+          "children": {}
+        },
+        "2": {
+          "word": "o8na",
+          "children": {}
+        },
+        "3": {
+          "word": "o8622",
+          "children": {
+            "3": {
+              "word": "o8uin",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "o875765",
+          "children": {
+            "5": {
+              "word": "o8testa",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "o8srchive",
+      "children": {}
+    }
+  }
+}

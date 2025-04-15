@@ -1,0 +1,33 @@
+{
+  "word": "(l",
+  "children": {
+    "1": {
+      "word": "(l)",
+      "children": {
+        "2": {
+          "word": "l",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "l!",
+      "children": {
+        "1": {
+          "word": "l)",
+          "children": {
+            "1": {
+              "word": "l+",
+              "children": {
+                "1": {
+                  "word": "l.",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

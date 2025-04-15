@@ -1,0 +1,156 @@
+{
+  "word": "(s4",
+  "children": {
+    "1": {
+      "word": "s4",
+      "children": {}
+    },
+    "2": {
+      "word": "s4)",
+      "children": {
+        "1": {
+          "word": "s40",
+          "children": {
+            "1": {
+              "word": "s41",
+              "children": {
+                "1": {
+                  "word": "s4i",
+                  "children": {
+                    "1": {
+                      "word": "s4l",
+                      "children": {
+                        "1": {
+                          "word": "s4n",
+                          "children": {
+                            "1": {
+                              "word": "s4u",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(s4a0)",
+      "children": {
+        "4": {
+          "word": "s4bi",
+          "children": {
+            "2": {
+              "word": "s4ku",
+              "children": {
+                "2": {
+                  "word": "s4me",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(s4101)",
+      "children": {
+        "3": {
+          "word": "(s4n5u)",
+          "children": {}
+        },
+        "4": {
+          "word": "s41ty",
+          "children": {}
+        },
+        "5": {
+          "word": "s426e",
+          "children": {
+            "3": {
+              "word": "s4chi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(s41229)",
+      "children": {
+        "4": {
+          "word": "(s4wt7a)",
+          "children": {}
+        },
+        "6": {
+          "word": "s4-ken",
+          "children": {
+            "4": {
+              "word": "s4km73",
+              "children": {
+                "4": {
+                  "word": "s4mana",
+                  "children": {
+                    "3": {
+                      "word": "s4mjum",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(s405315)",
+      "children": {
+        "7": {
+          "word": "s411637",
+          "children": {
+            "4": {
+              "word": "s4chi77",
+              "children": {}
+            },
+            "5": {
+              "word": "s4mdasu",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(s4-42424)",
+      "children": {
+        "6": {
+          "word": "(s4005146)",
+          "children": {
+            "5": {
+              "word": "(s4700802)",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "s4liller",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "s4mirukun",
+      "children": {}
+    },
+    "14": {
+      "word": "(s4ivdiarku20162)",
+      "children": {}
+    }
+  }
+}

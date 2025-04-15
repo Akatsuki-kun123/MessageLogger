@@ -1,0 +1,4318 @@
+{
+  "word": "(u-r-i)",
+  "children": {
+    "2": {
+      "word": "(ur-8)",
+      "children": {
+        "2": {
+          "word": "(uri)",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(ura)",
+      "children": {
+        "1": {
+          "word": "(uran)",
+          "children": {
+            "2": {
+              "word": "(uru)",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "(urem)",
+          "children": {
+            "3": {
+              "word": "(uri",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(urarai)",
+          "children": {
+            "3": {
+              "word": "(urumi)",
+              "children": {}
+            },
+            "4": {
+              "word": "urei)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "u-rix",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(ur",
+      "children": {
+        "1": {
+          "word": "(ura",
+          "children": {
+            "1": {
+              "word": "(uro",
+              "children": {
+                "1": {
+                  "word": "(uru",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "(uran",
+          "children": {
+            "2": {
+              "word": "(urdr",
+              "children": {
+                "2": {
+                  "word": "(ursa",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "uri",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(uraga",
+          "children": {
+            "1": {
+              "word": "(urara",
+              "children": {}
+            },
+            "2": {
+              "word": "(urako",
+              "children": {
+                "3": {
+                  "word": "(uruha",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "(urban",
+              "children": {
+                "3": {
+                  "word": "(uroko",
+                  "children": {
+                    "3": {
+                      "word": "(ururu",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "ura)",
+                      "children": {
+                        "1": {
+                          "word": "urai",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "uria",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "ur-8",
+              "children": {
+                "2": {
+                  "word": "urd)",
+                  "children": {
+                    "1": {
+                      "word": "uru)",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "urei",
+                      "children": {
+                        "1": {
+                          "word": "urii",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "uri3",
+                          "children": {
+                            "1": {
+                              "word": "urie",
+                              "children": {
+                                "1": {
+                                  "word": "uril",
+                                  "children": {
+                                    "1": {
+                                      "word": "urim",
+                                      "children": {
+                                        "1": {
+                                          "word": "urin",
+                                          "children": {
+                                            "1": {
+                                              "word": "urio",
+                                              "children": {
+                                                "1": {
+                                                  "word": "uris",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "u-re",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(ura05)",
+          "children": {
+            "3": {
+              "word": "(uremy)",
+              "children": {
+                "3": {
+                  "word": "(uroko)",
+                  "children": {
+                    "3": {
+                      "word": "(urs87)",
+                      "children": {
+                        "2": {
+                          "word": "(ursus)",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "(uryou)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "ur22)",
+              "children": {
+                "2": {
+                  "word": "uruk)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "u-ray",
+              "children": {
+                "4": {
+                  "word": "urei8",
+                  "children": {
+                    "1": {
+                      "word": "ureii",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "urmia",
+                      "children": {
+                        "1": {
+                          "word": "uruia",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "urg-i",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "uru-ri",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "u-ron",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(urania)",
+          "children": {
+            "3": {
+              "word": "(uraryo)",
+              "children": {
+                "3": {
+                  "word": "(urugio)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "(uri-69)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(uri-iru)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(uragami)",
+      "children": {
+        "3": {
+          "word": "(uralum)",
+          "children": {
+            "4": {
+              "word": "(uraraka)",
+              "children": {
+                "4": {
+                  "word": "(urayosi)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(uraraka",
+          "children": {
+            "3": {
+              "word": "urara)",
+              "children": {}
+            },
+            "4": {
+              "word": "uraga",
+              "children": {}
+            },
+            "5": {
+              "word": "urami",
+              "children": {
+                "1": {
+                  "word": "uramix",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(urimiri)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(uraniwa",
+          "children": {
+            "2": {
+              "word": "urania",
+              "children": {}
+            },
+            "3": {
+              "word": "urana",
+              "children": {
+                "1": {
+                  "word": "urawa",
+                  "children": {}
+                },
+                "2": {
+                  "word": "uranic",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "(urbane",
+              "children": {
+                "4": {
+                  "word": "uraa",
+                  "children": {
+                    "1": {
+                      "word": "uraba",
+                      "children": {
+                        "1": {
+                          "word": "urada",
+                          "children": {
+                            "1": {
+                              "word": "uraha",
+                              "children": {
+                                "1": {
+                                  "word": "uraka",
+                                  "children": {
+                                    "1": {
+                                      "word": "urala",
+                                      "children": {
+                                        "1": {
+                                          "word": "urama",
+                                          "children": {
+                                            "1": {
+                                              "word": "urara",
+                                              "children": {
+                                                "1": {
+                                                  "word": "urasa",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "urata",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "uraya",
+                                                          "children": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "urabi",
+                      "children": {
+                        "1": {
+                          "word": "uraji",
+                          "children": {
+                            "1": {
+                              "word": "uraki",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "uracil",
+                  "children": {
+                    "2": {
+                      "word": "urajio",
+                      "children": {
+                        "2": {
+                          "word": "uralis",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "(ure340)",
+              "children": {
+                "4": {
+                  "word": "(urture)",
+                  "children": {
+                    "5": {
+                      "word": "(urumi00)",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "(urusei",
+                  "children": {
+                    "1": {
+                      "word": "(urushi",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "(urushix",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "uram",
+                  "children": {
+                    "1": {
+                      "word": "uram1",
+                      "children": {
+                        "1": {
+                          "word": "urame",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "urumi",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "urbain",
+                      "children": {
+                        "2": {
+                          "word": "urumin",
+                          "children": {
+                            "3": {
+                              "word": "urzaiz",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "urogi",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "uruga",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "urigin",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "(urouroo)",
+              "children": {
+                "5": {
+                  "word": "uruka)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "uroam",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "ura",
+          "children": {
+            "1": {
+              "word": "ura-",
+              "children": {
+                "1": {
+                  "word": "ura.",
+                  "children": {
+                    "1": {
+                      "word": "urab",
+                      "children": {
+                        "1": {
+                          "word": "urad",
+                          "children": {
+                            "1": {
+                              "word": "urak",
+                              "children": {
+                                "1": {
+                                  "word": "ural",
+                                  "children": {
+                                    "1": {
+                                      "word": "uran",
+                                      "children": {
+                                        "1": {
+                                          "word": "urap",
+                                          "children": {
+                                            "1": {
+                                              "word": "urau",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "urda",
+                  "children": {
+                    "1": {
+                      "word": "urna",
+                      "children": {
+                        "1": {
+                          "word": "ursa",
+                          "children": {
+                            "1": {
+                              "word": "urua",
+                              "children": {
+                                "1": {
+                                  "word": "urza",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "urabe",
+              "children": {
+                "1": {
+                  "word": "urade",
+                  "children": {
+                    "1": {
+                      "word": "urane",
+                      "children": {
+                        "1": {
+                          "word": "urare",
+                          "children": {
+                            "1": {
+                              "word": "urase",
+                              "children": {
+                                "1": {
+                                  "word": "urate",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "uraho",
+                  "children": {
+                    "1": {
+                      "word": "urako",
+                      "children": {
+                        "1": {
+                          "word": "uralo",
+                          "children": {
+                            "1": {
+                              "word": "urano",
+                              "children": {
+                                "1": {
+                                  "word": "urato",
+                                  "children": {
+                                    "1": {
+                                      "word": "urauo",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "uraku",
+                      "children": {
+                        "1": {
+                          "word": "uraru",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "urge",
+                      "children": {
+                        "3": {
+                          "word": "uriba",
+                          "children": {
+                            "1": {
+                              "word": "uruba",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "urban",
+                  "children": {
+                    "1": {
+                      "word": "urian",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "uriah",
+                      "children": {
+                        "1": {
+                          "word": "uriak",
+                          "children": {
+                            "1": {
+                              "word": "urias",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "urmn",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "urdha",
+                      "children": {
+                        "1": {
+                          "word": "ureha",
+                          "children": {
+                            "1": {
+                              "word": "uruha",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "ureka",
+                          "children": {
+                            "1": {
+                              "word": "urena",
+                              "children": {
+                                "1": {
+                                  "word": "ureta",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "urika",
+                                  "children": {
+                                    "1": {
+                                      "word": "uruka",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "urida",
+                              "children": {
+                                "1": {
+                                  "word": "urina",
+                                  "children": {
+                                    "1": {
+                                      "word": "urita",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "urota",
+                                  "children": {
+                                    "1": {
+                                      "word": "uroya",
+                                      "children": {
+                                        "2": {
+                                          "word": "uruta",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "uruca",
+                                      "children": {
+                                        "1": {
+                                          "word": "uruma",
+                                          "children": {
+                                            "1": {
+                                              "word": "urupa",
+                                              "children": {
+                                                "1": {
+                                                  "word": "urura",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "urgo",
+                          "children": {
+                            "2": {
+                              "word": "urmd",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "uraion",
+              "children": {
+                "3": {
+                  "word": "urgot",
+                  "children": {
+                    "2": {
+                      "word": "urigo",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "urimo",
+                      "children": {
+                        "2": {
+                          "word": "uripi",
+                          "children": {
+                            "1": {
+                              "word": "uriri",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "urraco",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "urewi",
+                  "children": {
+                    "2": {
+                      "word": "uroji",
+                      "children": {
+                        "2": {
+                          "word": "urufi",
+                          "children": {
+                            "1": {
+                              "word": "uruki",
+                              "children": {
+                                "1": {
+                                  "word": "ururi",
+                                  "children": {
+                                    "1": {
+                                      "word": "uruti",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "urume",
+                      "children": {
+                        "1": {
+                          "word": "urumu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "urchin",
+              "children": {
+                "2": {
+                  "word": "uribin",
+                  "children": {
+                    "2": {
+                      "word": "urufin",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ureru)",
+                  "children": {
+                    "3": {
+                      "word": "urkss)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "u.rang",
+          "children": {
+            "3": {
+              "word": "urine",
+              "children": {
+                "1": {
+                  "word": "urino",
+                  "children": {
+                    "2": {
+                      "word": "urone",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "urn",
+                  "children": {
+                    "1": {
+                      "word": "urns",
+                      "children": {
+                        "2": {
+                          "word": "uron",
+                          "children": {
+                            "1": {
+                              "word": "ursn",
+                              "children": {
+                                "1": {
+                                  "word": "urun",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "uro-g",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "ur",
+              "children": {
+                "1": {
+                  "word": "urd",
+                  "children": {
+                    "1": {
+                      "word": "ure",
+                      "children": {
+                        "1": {
+                          "word": "urf",
+                          "children": {
+                            "1": {
+                              "word": "urh",
+                              "children": {
+                                "1": {
+                                  "word": "urj",
+                                  "children": {
+                                    "1": {
+                                      "word": "urk",
+                                      "children": {
+                                        "1": {
+                                          "word": "url",
+                                          "children": {
+                                            "1": {
+                                              "word": "uro",
+                                              "children": {
+                                                "1": {
+                                                  "word": "urr",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "urs",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "uru",
+                                                          "children": {
+                                                            "1": {
+                                                              "word": "urw",
+                                                              "children": {
+                                                                "1": {
+                                                                  "word": "urx",
+                                                                  "children": {
+                                                                    "1": {
+                                                                      "word": "ury",
+                                                                      "children": {}
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "urdr",
+                  "children": {
+                    "1": {
+                      "word": "urhr",
+                      "children": {
+                        "1": {
+                          "word": "urur",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "urec",
+                      "children": {
+                        "1": {
+                          "word": "urek",
+                          "children": {
+                            "1": {
+                              "word": "urey",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "uruc",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "urkt",
+                          "children": {
+                            "1": {
+                              "word": "urkw",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "urlo",
+                              "children": {
+                                "1": {
+                                  "word": "uruo",
+                                  "children": {
+                                    "1": {
+                                      "word": "uryo",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "uroq",
+                                  "children": {
+                                    "1": {
+                                      "word": "uroy",
+                                      "children": {}
+                                    },
+                                    "2": {
+                                      "word": "uru1",
+                                      "children": {
+                                        "1": {
+                                          "word": "urue",
+                                          "children": {
+                                            "1": {
+                                              "word": "uruk",
+                                              "children": {
+                                                "1": {
+                                                  "word": "urup",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "urus",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "uruu",
+                                                          "children": {
+                                                            "1": {
+                                                              "word": "uruz",
+                                                              "children": {}
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "2": {
+                                          "word": "urxu",
+                                          "children": {
+                                            "1": {
+                                              "word": "uryu",
+                                              "children": {}
+                                            },
+                                            "2": {
+                                              "word": "urye",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "urb03",
+                  "children": {
+                    "3": {
+                      "word": "ureru",
+                      "children": {
+                        "1": {
+                          "word": "ururu",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "urewe",
+                          "children": {
+                            "3": {
+                              "word": "urhrh",
+                              "children": {
+                                "2": {
+                                  "word": "uroro",
+                                  "children": {
+                                    "2": {
+                                      "word": "urrrt",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "3": {
+                                  "word": "uroku",
+                                  "children": {
+                                    "1": {
+                                      "word": "urosu",
+                                      "children": {
+                                        "2": {
+                                          "word": "uruku",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "urufu",
+                                      "children": {
+                                        "1": {
+                                          "word": "urusu",
+                                          "children": {
+                                            "1": {
+                                              "word": "uruzu",
+                                              "children": {}
+                                            }
+                                          }
+                                        },
+                                        "2": {
+                                          "word": "uryuu",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "uri92",
+                          "children": {
+                            "2": {
+                              "word": "uribe",
+                              "children": {
+                                "2": {
+                                  "word": "urick",
+                                  "children": {
+                                    "2": {
+                                      "word": "uriel",
+                                      "children": {
+                                        "1": {
+                                          "word": "urien",
+                                          "children": {
+                                            "1": {
+                                              "word": "uriex",
+                                              "children": {}
+                                            }
+                                          }
+                                        },
+                                        "2": {
+                                          "word": "uriko",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "urkel",
+                              "children": {
+                                "1": {
+                                  "word": "urken",
+                                  "children": {
+                                    "2": {
+                                      "word": "uryel",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "urkss",
+                                  "children": {
+                                    "3": {
+                                      "word": "uryll",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "3": {
+                                  "word": "uro30",
+                                  "children": {
+                                    "2": {
+                                      "word": "uroco",
+                                      "children": {
+                                        "1": {
+                                          "word": "uroko",
+                                          "children": {
+                                            "1": {
+                                              "word": "urolo",
+                                              "children": {}
+                                            }
+                                          }
+                                        },
+                                        "2": {
+                                          "word": "urode",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "3": {
+                                      "word": "ursch",
+                                      "children": {
+                                        "2": {
+                                          "word": "ursus",
+                                          "children": {}
+                                        },
+                                        "3": {
+                                          "word": "urthr",
+                                          "children": {
+                                            "1": {
+                                              "word": "urthy",
+                                              "children": {}
+                                            },
+                                            "3": {
+                                              "word": "urudo",
+                                              "children": {
+                                                "1": {
+                                                  "word": "uruko",
+                                                  "children": {}
+                                                },
+                                                "2": {
+                                                  "word": "urute",
+                                                  "children": {}
+                                                },
+                                                "3": {
+                                                  "word": "urz-7",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "urpina",
+                  "children": {
+                    "2": {
+                      "word": "urrila",
+                      "children": {
+                        "3": {
+                          "word": "ursine",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "urhika",
+              "children": {
+                "2": {
+                  "word": "ursica",
+                  "children": {}
+                },
+                "3": {
+                  "word": "urlich",
+                  "children": {
+                    "3": {
+                      "word": "uruido",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "u-ron96",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(ur-sawasi)",
+      "children": {
+        "4": {
+          "word": "(urasawa",
+          "children": {}
+        },
+        "5": {
+          "word": "(ur-style)",
+          "children": {
+            "6": {
+              "word": "(urabata)",
+              "children": {
+                "1": {
+                  "word": "(uracata)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "(urayasu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(urakata",
+          "children": {
+            "2": {
+              "word": "(urayama",
+              "children": {}
+            },
+            "3": {
+              "word": "urawaa",
+              "children": {}
+            },
+            "4": {
+              "word": "(urakoko)",
+              "children": {
+                "6": {
+                  "word": "uramai",
+                  "children": {
+                    "1": {
+                      "word": "uranai",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "uranai~",
+                      "children": {
+                        "3": {
+                          "word": "uraragi",
+                          "children": {
+                            "2": {
+                              "word": "uraras",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "urarasy",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "(urakihs2)",
+              "children": {
+                "6": {
+                  "word": "(urara-nya)",
+                  "children": {
+                    "5": {
+                      "word": "(urotanc)",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "urusai",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(uramichi)",
+              "children": {
+                "5": {
+                  "word": "(uri22twi)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "(ureiness)",
+              "children": {
+                "5": {
+                  "word": "(uroboros)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(ursr3757)",
+                  "children": {}
+                },
+                "7": {
+                  "word": "(urobronai)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(urmmcgm)",
+          "children": {
+            "5": {
+              "word": "(uru0000)",
+              "children": {
+                "2": {
+                  "word": "(uru0301)",
+                  "children": {}
+                },
+                "3": {
+                  "word": "(uryu002)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "(uruneko)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "urachi",
+              "children": {
+                "2": {
+                  "word": "uragoi",
+                  "children": {
+                    "1": {
+                      "word": "uramoi",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "uragan",
+                  "children": {
+                    "4": {
+                      "word": "uramiti",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "urname)",
+                  "children": {
+                    "5": {
+                      "word": "urusimi",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ur'gaid",
+              "children": {
+                "3": {
+                  "word": "ur.wad",
+                  "children": {
+                    "3": {
+                      "word": "uronai",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "uraaka",
+                  "children": {
+                    "1": {
+                      "word": "uraraka",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "uraraku",
+                      "children": {
+                        "2": {
+                          "word": "urarara",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "uruaki",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "uranji",
+                      "children": {
+                        "3": {
+                          "word": "urapan",
+                          "children": {
+                            "2": {
+                              "word": "uraya0",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "urara66",
+                          "children": {
+                            "1": {
+                              "word": "uraraa6",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "urarado",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "uragiri",
+                      "children": {
+                        "4": {
+                          "word": "urusei",
+                          "children": {
+                            "1": {
+                              "word": "urushi",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "uryaoi!",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "urufas",
+                          "children": {
+                            "4": {
+                              "word": "urushia",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "uraeus",
+                  "children": {
+                    "1": {
+                      "word": "uranus",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "urasue",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "urakiso",
+                      "children": {
+                        "2": {
+                          "word": "urarisu",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "uransa",
+                          "children": {
+                            "2": {
+                              "word": "uratsu",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "urasoe",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "uraniwa",
+                      "children": {
+                        "4": {
+                          "word": "uraroji",
+                          "children": {
+                            "5": {
+                              "word": "urshka",
+                              "children": {
+                                "2": {
+                                  "word": "ursula",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "uri-san",
+                      "children": {
+                        "4": {
+                          "word": "ursiday",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "urushhii",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "u-raptor",
+          "children": {
+            "4": {
+              "word": "uracon",
+              "children": {
+                "2": {
+                  "word": "urarion",
+                  "children": {
+                    "3": {
+                      "word": "uraten",
+                      "children": {
+                        "3": {
+                          "word": "urazoe",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "urando",
+                  "children": {
+                    "3": {
+                      "word": "uratty",
+                      "children": {
+                        "3": {
+                          "word": "uriato",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "ura358",
+              "children": {
+                "3": {
+                  "word": "uracle",
+                  "children": {
+                    "2": {
+                      "word": "uraume",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "uraken",
+                      "children": {
+                        "1": {
+                          "word": "uramen",
+                          "children": {
+                            "1": {
+                              "word": "uraven",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "uranfu",
+                          "children": {
+                            "3": {
+                              "word": "uraura",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "uragiru",
+                  "children": {
+                    "2": {
+                      "word": "urajiro",
+                      "children": {
+                        "3": {
+                          "word": "urareru",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "uramine",
+                      "children": {
+                        "2": {
+                          "word": "uramiya",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "uranium",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "urareta",
+                      "children": {
+                        "4": {
+                          "word": "urower",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "urutsu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "uretan",
+                      "children": {
+                        "1": {
+                          "word": "urotan",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "uryuta",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "uri-tan",
+                  "children": {
+                    "4": {
+                      "word": "uripipi",
+                      "children": {
+                        "5": {
+                          "word": "urlicar",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "urbane",
+              "children": {
+                "2": {
+                  "word": "urkaze",
+                  "children": {
+                    "3": {
+                      "word": "uryan!",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "urbosa",
+                  "children": {
+                    "4": {
+                      "word": "uriens",
+                      "children": {
+                        "4": {
+                          "word": "uroad7",
+                          "children": {
+                            "4": {
+                              "word": "ursule",
+                              "children": {
+                                "1": {
+                                  "word": "ursure",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "uruhan",
+                                  "children": {
+                                    "1": {
+                                      "word": "ururan",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "urcmvi",
+                  "children": {
+                    "3": {
+                      "word": "urichi",
+                      "children": {
+                        "1": {
+                          "word": "uruchi",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "uriumi",
+                          "children": {
+                            "1": {
+                              "word": "uriuri",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "ureksa",
+                      "children": {
+                        "3": {
+                          "word": "uriela",
+                          "children": {
+                            "3": {
+                              "word": "urnoga",
+                              "children": {
+                                "3": {
+                                  "word": "urucra",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "urinal",
+                          "children": {
+                            "4": {
+                              "word": "urwolf",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "urubida",
+                      "children": {
+                        "3": {
+                          "word": "urukins",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "urochii",
+                  "children": {
+                    "3": {
+                      "word": "uruoshi",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "urshifu",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "urujika",
+                      "children": {
+                        "2": {
+                          "word": "urumiya",
+                          "children": {
+                            "3": {
+                              "word": "ururuka",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "ururuda",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "uru-arrow",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "ur-child",
+              "children": {
+                "6": {
+                  "word": "uron-rei",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "ur0kin0",
+          "children": {
+            "3": {
+              "word": "urokon",
+              "children": {
+                "4": {
+                  "word": "uryring",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "ur9750",
+              "children": {
+                "4": {
+                  "word": "urekko",
+                  "children": {
+                    "1": {
+                      "word": "urikko",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "uroku6",
+                      "children": {
+                        "3": {
+                          "word": "urtk07",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "uripon",
+                      "children": {
+                        "2": {
+                          "word": "urizen",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "ururun",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ureinnn",
+                  "children": {
+                    "4": {
+                      "word": "urepito",
+                      "children": {
+                        "3": {
+                          "word": "ureuizy",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "urorong",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "uromi81",
+                      "children": {
+                        "4": {
+                          "word": "uruhiko",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "urdnot",
+              "children": {
+                "3": {
+                  "word": "uriboo",
+                  "children": {
+                    "1": {
+                      "word": "uribou",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "urilou",
+                      "children": {
+                        "1": {
+                          "word": "uriyou",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "uritol",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "uroooo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "urooom",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "uronte",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "uriiboo",
+                  "children": {
+                    "4": {
+                      "word": "uroppo",
+                      "children": {
+                        "2": {
+                          "word": "urouro",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "urororo",
+                          "children": {
+                            "3": {
+                              "word": "uryoho",
+                              "children": {
+                                "1": {
+                                  "word": "uryoko",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "uroche",
+                      "children": {
+                        "2": {
+                          "word": "urogue",
+                          "children": {
+                            "2": {
+                              "word": "urouge",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "urtu-u",
+                          "children": {
+                            "2": {
+                              "word": "uruuru",
+                              "children": {
+                                "2": {
+                                  "word": "uryufu",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "uruzuy",
+                              "children": {
+                                "4": {
+                                  "word": "uryoku",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "uru...",
+                              "children": {
+                                "3": {
+                                  "word": "uru672",
+                                  "children": {
+                                    "3": {
+                                      "word": "urue37",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ururuun",
+                  "children": {
+                    "2": {
+                      "word": "ururuzr",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(ura-kanda)",
+      "children": {
+        "4": {
+          "word": "(uraokuya)",
+          "children": {}
+        },
+        "5": {
+          "word": "(uragoner)",
+          "children": {
+            "4": {
+              "word": "(uroakono)",
+              "children": {}
+            },
+            "5": {
+              "word": "(uraha246)",
+              "children": {
+                "5": {
+                  "word": "(uratanuki)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(urahara3d)",
+              "children": {
+                "6": {
+                  "word": "uranana",
+                  "children": {
+                    "2": {
+                      "word": "uraranas",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ura-acca",
+              "children": {
+                "3": {
+                  "word": "urakaba",
+                  "children": {
+                    "1": {
+                      "word": "urakata",
+                      "children": {
+                        "1": {
+                          "word": "urakawa",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(uran0136)",
+          "children": {
+            "5": {
+              "word": "(uraom0te)",
+              "children": {
+                "6": {
+                  "word": "(uroya108)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(urasekai",
+              "children": {
+                "6": {
+                  "word": "(ursavorca)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "ura-chan",
+              "children": {
+                "3": {
+                  "word": "urabaha",
+                  "children": {
+                    "3": {
+                      "word": "uragaan",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "ural-tan",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "uraban!",
+                  "children": {
+                    "3": {
+                      "word": "uracata",
+                      "children": {
+                        "2": {
+                          "word": "uragawa",
+                          "children": {
+                            "1": {
+                              "word": "urasawa",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "urahara",
+                              "children": {
+                                "2": {
+                                  "word": "urasaka",
+                                  "children": {
+                                    "1": {
+                                      "word": "urataka",
+                                      "children": {
+                                        "1": {
+                                          "word": "urayaka",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "urawaza",
+                                      "children": {
+                                        "2": {
+                                          "word": "urayama",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "uraketa",
+                      "children": {
+                        "2": {
+                          "word": "urakura",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "urashina",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "urakami",
+                  "children": {
+                    "2": {
+                      "word": "urakaze",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "uraurara",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "ur-canpy",
+              "children": {
+                "4": {
+                  "word": "uritana",
+                  "children": {}
+                },
+                "6": {
+                  "word": "urokoda",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(uraguchi",
+          "children": {
+            "3": {
+              "word": "urakichi",
+              "children": {}
+            },
+            "4": {
+              "word": "uragami",
+              "children": {}
+            },
+            "5": {
+              "word": "uraduka",
+              "children": {
+                "1": {
+                  "word": "urasuka",
+                  "children": {}
+                },
+                "2": {
+                  "word": "urayura",
+                  "children": {}
+                },
+                "3": {
+                  "word": "urakuso",
+                  "children": {
+                    "2": {
+                      "word": "uranuse",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "uramaki",
+                      "children": {
+                        "1": {
+                          "word": "urasaki",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "uranagi",
+                  "children": {
+                    "1": {
+                      "word": "uranami",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "uratari",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "uragnite",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ura-boss",
+              "children": {
+                "3": {
+                  "word": "uranous",
+                  "children": {}
+                },
+                "4": {
+                  "word": "urabrask",
+                  "children": {
+                    "3": {
+                      "word": "uramasu",
+                      "children": {
+                        "1": {
+                          "word": "urayasu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "uraemon",
+                      "children": {
+                        "4": {
+                          "word": "uranobe",
+                          "children": {
+                            "2": {
+                              "word": "uranoko",
+                              "children": {
+                                "1": {
+                                  "word": "uranoto",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "uranoma",
+                                  "children": {
+                                    "1": {
+                                      "word": "uranova",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "uracate",
+                  "children": {
+                    "2": {
+                      "word": "urasato",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "urataro",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "urad0ra",
+                      "children": {
+                        "4": {
+                          "word": "uraneko",
+                          "children": {
+                            "3": {
+                              "word": "uranyuu",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "urara283",
+                          "children": {
+                            "3": {
+                              "word": "urara666",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "urahinon",
+                      "children": {
+                        "4": {
+                          "word": "urashima",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "uri-chan",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "urbanec",
+                  "children": {
+                    "2": {
+                      "word": "urbanica",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "urushida",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "(uret4788)",
+              "children": {
+                "5": {
+                  "word": "(urff4452)",
+                  "children": {
+                    "3": {
+                      "word": "(urgs4432)",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "(urun4253)",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "(urgs7855)",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "(urje8584)",
+                      "children": {
+                        "6": {
+                          "word": "(urvp5737)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "(urgh8347)",
+                  "children": {
+                    "5": {
+                      "word": "(uryj3843)",
+                      "children": {
+                        "5": {
+                          "word": "(uryu0329)",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "(urim1010)",
+                      "children": {
+                        "5": {
+                          "word": "(urwm5454)",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "(urkffp33)",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "(ururu0731)",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "ur-bracka",
+                  "children": {
+                    "5": {
+                      "word": "urcaona",
+                      "children": {
+                        "4": {
+                          "word": "urisaba",
+                          "children": {
+                            "2": {
+                              "word": "urosawa",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "uroyama",
+                              "children": {
+                                "3": {
+                                  "word": "uruhara",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "uruizawa",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "urizane",
+                      "children": {
+                        "4": {
+                          "word": "urmanov",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "urujinya",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "urindog",
+                      "children": {
+                        "4": {
+                          "word": "urokong",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "(urkbil126)",
+              "children": {
+                "5": {
+                  "word": "(urumi0107)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(ururi7610)",
+                  "children": {}
+                },
+                "8": {
+                  "word": "uruk5885)",
+                  "children": {}
+                },
+                "9": {
+                  "word": "uro-jiita",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "ur-dragon",
+          "children": {
+            "5": {
+              "word": "uradooo",
+              "children": {
+                "6": {
+                  "word": "urotazin",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ur-style",
+              "children": {
+                "4": {
+                  "word": "urotake",
+                  "children": {
+                    "1": {
+                      "word": "urotare",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "urustam",
+                      "children": {
+                        "1": {
+                          "word": "urustar",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "urashiro",
+                  "children": {
+                    "2": {
+                      "word": "ureshino",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "urethra",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "uratock",
+                      "children": {
+                        "3": {
+                          "word": "urutora",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "uroktor",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "urisaki",
+                          "children": {
+                            "4": {
+                              "word": "ursla99",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "ursulav",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "uriyone",
+                      "children": {
+                        "5": {
+                          "word": "urotamu",
+                          "children": {
+                            "4": {
+                              "word": "uruugame",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "urabuko",
+                  "children": {
+                    "2": {
+                      "word": "uraputo",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "uramomo",
+                      "children": {
+                        "1": {
+                          "word": "uramoto",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "urokuro",
+                          "children": {
+                            "2": {
+                              "word": "uruauro",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "uradori",
+                      "children": {
+                        "1": {
+                          "word": "uramori",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "urimono",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "uruguay",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "urimasu",
+                      "children": {
+                        "2": {
+                          "word": "urinaru",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "urinary",
+                          "children": {
+                            "3": {
+                              "word": "urufaru",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "urinenn",
+                          "children": {
+                            "5": {
+                              "word": "urubearu",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "urozora",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "ursaring",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "uruhashi",
+                      "children": {
+                        "1": {
+                          "word": "uruwashi",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "uracchi",
+              "children": {
+                "2": {
+                  "word": "uramichi",
+                  "children": {}
+                },
+                "3": {
+                  "word": "urasuji",
+                  "children": {
+                    "1": {
+                      "word": "urasuzi",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "urashiki",
+                  "children": {
+                    "3": {
+                      "word": "urashuu",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "urokomi",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ural-375",
+                  "children": {
+                    "5": {
+                      "word": "uramitsu",
+                      "children": {
+                        "5": {
+                          "word": "urkme95",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "uriko77",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "urarozi09",
+                      "children": {
+                        "6": {
+                          "word": "urobune",
+                          "children": {
+                            "3": {
+                              "word": "urohuka",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "urotoma",
+                              "children": {
+                                "2": {
+                                  "word": "urotsua",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "urszula",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "6": {
+                              "word": "urushiba",
+                              "children": {
+                                "1": {
+                                  "word": "urushiha",
+                                  "children": {
+                                    "1": {
+                                      "word": "urushima",
+                                      "children": {
+                                        "1": {
+                                          "word": "urushiya",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "7": {
+                          "word": "urgente",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "ureshiko",
+          "children": {
+            "3": {
+              "word": "urihoko",
+              "children": {
+                "5": {
+                  "word": "urushi's",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "urimoto",
+              "children": {
+                "3": {
+                  "word": "uromuro",
+                  "children": {
+                    "3": {
+                      "word": "uruporo",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "urustos",
+                  "children": {
+                    "5": {
+                      "word": "urymski",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "urouchi",
+                  "children": {
+                    "5": {
+                      "word": "urusee!",
+                      "children": {
+                        "3": {
+                          "word": "urusugu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "urutsuki",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "urie018",
+              "children": {
+                "4": {
+                  "word": "uriyuri",
+                  "children": {}
+                },
+                "5": {
+                  "word": "uriyuuri",
+                  "children": {
+                    "4": {
+                      "word": "urotori",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "urlovei",
+                      "children": {
+                        "5": {
+                          "word": "urquell",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "urugus15",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "urlcsss",
+                      "children": {
+                        "4": {
+                          "word": "uroco27",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "urooboe",
+                          "children": {
+                            "4": {
+                              "word": "urotozm",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "urum2020",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "uririri69",
+                  "children": {
+                    "6": {
+                      "word": "urrt8425",
+                      "children": {
+                        "6": {
+                          "word": "urumi333",
+                          "children": {
+                            "6": {
+                              "word": "uryuujin",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ursarctic",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(uramakaron)",
+      "children": {
+        "5": {
+          "word": "(uramogmog)",
+          "children": {
+            "6": {
+              "word": "(urokogaran)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(uramesi999)",
+          "children": {
+            "9": {
+              "word": "urataros",
+              "children": {
+                "1": {
+                  "word": "uratarou",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(uraoni0312)",
+          "children": {
+            "7": {
+              "word": "(urooooboe)",
+              "children": {
+                "8": {
+                  "word": "(urushihara)",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "uramiyama",
+              "children": {
+                "7": {
+                  "word": "uronaros",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "uraganos",
+              "children": {
+                "3": {
+                  "word": "uragawai",
+                  "children": {}
+                },
+                "4": {
+                  "word": "uramachi",
+                  "children": {
+                    "4": {
+                      "word": "uramomo9",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "urotarou",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "urahara77",
+                  "children": {
+                    "5": {
+                      "word": "urasekai",
+                      "children": {
+                        "6": {
+                          "word": "urayamina",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "urination",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "uruka-chan)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(urouroyeah)",
+          "children": {
+            "7": {
+              "word": "uraomote)",
+              "children": {
+                "7": {
+                  "word": "uryaurya",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "uragoner",
+              "children": {
+                "4": {
+                  "word": "uraomote",
+                  "children": {}
+                },
+                "5": {
+                  "word": "urameshi",
+                  "children": {
+                    "6": {
+                      "word": "uroboros",
+                      "children": {
+                        "3": {
+                          "word": "urovorun",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "uruonurun",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "uroboros!",
+                  "children": {
+                    "7": {
+                      "word": "uruguayan",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "urikurage",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "ura-omote",
+              "children": {
+                "4": {
+                  "word": "urasenoe",
+                  "children": {}
+                },
+                "5": {
+                  "word": "uratchat",
+                  "children": {}
+                },
+                "6": {
+                  "word": "urabashi",
+                  "children": {
+                    "2": {
+                      "word": "uranaishi",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "urabe-san",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "urashiman",
+                      "children": {
+                        "4": {
+                          "word": "urbatman",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "uratsuka",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "ureazure",
+                      "children": {
+                        "4": {
+                          "word": "urethane",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "uriah-oyu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "urajiraiya",
+                  "children": {
+                    "6": {
+                      "word": "urigarasu",
+                      "children": {
+                        "3": {
+                          "word": "urihara84",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "ursaluna",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "urmv3444)",
+                      "children": {
+                        "8": {
+                          "word": "uruka-chan",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "urabambi",
+              "children": {
+                "5": {
+                  "word": "urabe-kun",
+                  "children": {
+                    "5": {
+                      "word": "urizaku3",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "uraimatsu",
+                      "children": {
+                        "3": {
+                          "word": "urimasu~",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "urami0310",
+                  "children": {
+                    "5": {
+                      "word": "uraniruot",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "ura71500",
+          "children": {
+            "5": {
+              "word": "uragoshi",
+              "children": {
+                "1": {
+                  "word": "urahoshi",
+                  "children": {}
+                },
+                "2": {
+                  "word": "uraguchi",
+                  "children": {
+                    "4": {
+                      "word": "uranosui",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "uratsuki",
+                  "children": {}
+                },
+                "6": {
+                  "word": "uranium10",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "uranium22",
+              "children": {
+                "2": {
+                  "word": "uraniumth",
+                  "children": {}
+                },
+                "5": {
+                  "word": "urondo25",
+                  "children": {}
+                },
+                "6": {
+                  "word": "urian666",
+                  "children": {
+                    "3": {
+                      "word": "urianger",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "urimushi",
+                      "children": {
+                        "5": {
+                          "word": "uritsuna",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "urny2528)",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "urem3733",
+                  "children": {
+                    "5": {
+                      "word": "urethra!",
+                      "children": {
+                        "1": {
+                          "word": "urethral",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "urfbownd",
+                      "children": {
+                        "4": {
+                          "word": "uroborus",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "urlattei",
+                          "children": {
+                            "6": {
+                              "word": "urshan61",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ureshisan",
+              "children": {
+                "4": {
+                  "word": "urushiruu",
+                  "children": {}
+                },
+                "6": {
+                  "word": "urikohime",
+                  "children": {
+                    "6": {
+                      "word": "uriuriuri",
+                      "children": {
+                        "7": {
+                          "word": "uruwashiki",
+                          "children": {
+                            "1": {
+                              "word": "uruwashiku",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "urzuse7en",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "urotori's",
+                  "children": {
+                    "7": {
+                      "word": "uryua0324",
+                      "children": {
+                        "7": {
+                          "word": "urzj5273)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "urushi-san",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "urchin104",
+          "children": {
+            "5": {
+              "word": "uruchimai",
+              "children": {}
+            },
+            "6": {
+              "word": "urgently",
+              "children": {
+                "6": {
+                  "word": "urhp5523",
+                  "children": {
+                    "5": {
+                      "word": "urjy8724",
+                      "children": {
+                        "5": {
+                          "word": "ursu2020",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "uripititi",
+                      "children": {
+                        "7": {
+                          "word": "uryu0270",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "ururu1118",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "uretsuki",
+              "children": {
+                "1": {
+                  "word": "urotsuki",
+                  "children": {}
+                },
+                "5": {
+                  "word": "ureyyyyy",
+                  "children": {
+                    "6": {
+                      "word": "urlututu",
+                      "children": {
+                        "6": {
+                          "word": "urobuchi",
+                          "children": {
+                            "1": {
+                              "word": "uroguchi",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "urrrsusgk",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "urfs8775",
+                  "children": {
+                    "4": {
+                      "word": "urvg4735",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "urtc8383",
+                      "children": {
+                        "4": {
+                          "word": "uryx8588",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "urwx2378",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "uryp3255",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "urobolus",
+                      "children": {
+                        "6": {
+                          "word": "urpf2348",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "uriuritei",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "ururu1998",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "uriko-hime",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(uragawa373)",
+      "children": {
+        "6": {
+          "word": "(uragirareta",
+          "children": {
+            "8": {
+              "word": "uranoda33",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(uranaginasi)",
+          "children": {
+            "8": {
+              "word": "uraaka-san",
+              "children": {
+                "4": {
+                  "word": "urarakaura",
+                  "children": {}
+                },
+                "6": {
+                  "word": "urayama80",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "uragemesu",
+          "children": {
+            "4": {
+              "word": "uratgarosu",
+              "children": {}
+            },
+            "5": {
+              "word": "uranomami",
+              "children": {}
+            },
+            "6": {
+              "word": "urakatuan",
+              "children": {
+                "4": {
+                  "word": "uratanuki",
+                  "children": {}
+                },
+                "6": {
+                  "word": "uranoyama",
+                  "children": {
+                    "7": {
+                      "word": "urigamiart",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "uraharukon",
+              "children": {
+                "5": {
+                  "word": "urawa-chan",
+                  "children": {}
+                },
+                "6": {
+                  "word": "urajiro443",
+                  "children": {
+                    "7": {
+                      "word": "urbanator",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "uranosaxia",
+                  "children": {
+                    "7": {
+                      "word": "ureapaddy",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "urjuwanwan",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "urahitsuzi",
+          "children": {
+            "5": {
+              "word": "uraichishi",
+              "children": {
+                "6": {
+                  "word": "uranosebi",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "urakenpyi",
+              "children": {
+                "5": {
+                  "word": "uraseesan",
+                  "children": {}
+                },
+                "6": {
+                  "word": "urakichi55",
+                  "children": {
+                    "7": {
+                      "word": "uranokyuu",
+                      "children": {
+                        "7": {
+                          "word": "urashimaya",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "urashimako",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "urakyunta",
+              "children": {
+                "6": {
+                  "word": "urameshiya",
+                  "children": {
+                    "6": {
+                      "word": "uranohead",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "uranoyoru",
+                      "children": {
+                        "4": {
+                          "word": "urapocere",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "urbandusk",
+                      "children": {
+                        "6": {
+                          "word": "urokodaki",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "uranus1225",
+                  "children": {
+                    "7": {
+                      "word": "urbanowicz",
+                      "children": {
+                        "8": {
+                          "word": "urifutatsu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "uricotake",
+                      "children": {
+                        "2": {
+                          "word": "uriotakeo",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "uranus-chan",
+              "children": {
+                "6": {
+                  "word": "urbanmech",
+                  "children": {}
+                },
+                "7": {
+                  "word": "urauraurara",
+                  "children": {
+                    "7": {
+                      "word": "urbanobna",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "uring2017",
+                  "children": {
+                    "7": {
+                      "word": "uryankarl",
+                      "children": {}
+                    },
+                    "9": {
+                      "word": "urusai-baka",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "urielmatt",
+                  "children": {
+                    "6": {
+                      "word": "ururaomote",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "urotander",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "urei-hibino",
+          "children": {
+            "6": {
+              "word": "ureshikute",
+              "children": {
+                "5": {
+                  "word": "urushibara",
+                  "children": {
+                    "3": {
+                      "word": "urushidayo",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "uriuriboon",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "urenokori",
+              "children": {
+                "6": {
+                  "word": "urushinuri",
+                  "children": {}
+                },
+                "7": {
+                  "word": "urimorisan",
+                  "children": {
+                    "7": {
+                      "word": "uriuzomuzo",
+                      "children": {
+                        "8": {
+                          "word": "urushihara",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "urochocco",
+                      "children": {
+                        "6": {
+                          "word": "urouroshiro",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "urushifuji",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "8": {
+                  "word": "uriyuripot",
+                  "children": {
+                    "8": {
+                      "word": "urushigusa",
+                      "children": {
+                        "3": {
+                          "word": "urushiyama",
+                          "children": {
+                            "2": {
+                              "word": "urushizaka",
+                              "children": {
+                                "1": {
+                                  "word": "urushizawa",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "urinosuke",
+              "children": {
+                "4": {
+                  "word": "urokozuki",
+                  "children": {}
+                },
+                "7": {
+                  "word": "urollogist",
+                  "children": {
+                    "6": {
+                      "word": "uron-illust",
+                      "children": {
+                        "8": {
+                          "word": "urourooooo",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "urmymerlot",
+              "children": {
+                "6": {
+                  "word": "urometoga",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(urakata1994)",
+      "children": {
+        "6": {
+          "word": "(uratakut624)",
+          "children": {}
+        },
+        "7": {
+          "word": "uragawa314",
+          "children": {}
+        },
+        "8": {
+          "word": "(uramakigigan)",
+          "children": {
+            "7": {
+              "word": "uramakaron",
+              "children": {}
+            },
+            "8": {
+              "word": "(urauraurapon)",
+              "children": {
+                "9": {
+                  "word": "uravitarian",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "(uran-factory)",
+              "children": {}
+            },
+            "10": {
+              "word": "urabanashi",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(uro4bht2hwa)",
+          "children": {
+            "9": {
+              "word": "uranohappa",
+              "children": {
+                "6": {
+                  "word": "urokogaran",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "urabangumi",
+              "children": {
+                "4": {
+                  "word": "urabeazuki",
+                  "children": {}
+                },
+                "5": {
+                  "word": "urayameshi",
+                  "children": {
+                    "5": {
+                      "word": "urayasuura",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "uraura8yama",
+                  "children": {}
+                },
+                "8": {
+                  "word": "uragirareta",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "uratekumon",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "uranohoshi",
+          "children": {
+            "5": {
+              "word": "uranophane",
+              "children": {}
+            },
+            "6": {
+              "word": "urbanknight",
+              "children": {}
+            },
+            "7": {
+              "word": "uras2rockga",
+              "children": {
+                "8": {
+                  "word": "urutakohaku",
+                  "children": {}
+                },
+                "9": {
+                  "word": "urbangarde",
+                  "children": {
+                    "6": {
+                      "word": "urbinator17",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "urtrasensei",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "urfacemyaz",
+              "children": {
+                "8": {
+                  "word": "urielmanx7",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "uruguayball",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "ureshiitime",
+          "children": {
+            "6": {
+              "word": "urushima000",
+              "children": {
+                "5": {
+                  "word": "urushiokusa",
+                  "children": {}
+                },
+                "6": {
+                  "word": "urushiushiru",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "ursweetgf2",
+              "children": {
+                "4": {
+                  "word": "urusweet380",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "uriellucina",
+              "children": {
+                "9": {
+                  "word": "urumochimaiu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "word": "(ura-tennislove)",
+      "children": {
+        "10": {
+          "word": "(urotsukidouji)",
+          "children": {}
+        },
+        "11": {
+          "word": "(urbznd151129)",
+          "children": {
+            "10": {
+              "word": "urban-centre",
+              "children": {}
+            },
+            "11": {
+              "word": "(uroshiiserimo)",
+              "children": {
+                "12": {
+                  "word": "uranonatuko",
+                  "children": {}
+                }
+              }
+            },
+            "12": {
+              "word": "ura-kairanban",
+              "children": {
+                "8": {
+                  "word": "uratamanoiyo",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "urabesunahito",
+          "children": {
+            "7": {
+              "word": "uramitsurami",
+              "children": {
+                "9": {
+                  "word": "urayamashiro",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "urajirogashi",
+              "children": {
+                "8": {
+                  "word": "urasanmyaku",
+                  "children": {}
+                },
+                "9": {
+                  "word": "urayamaurako",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "urajishikuri",
+              "children": {
+                "7": {
+                  "word": "urjashannan",
+                  "children": {}
+                },
+                "9": {
+                  "word": "uramono1011",
+                  "children": {}
+                },
+                "10": {
+                  "word": "uroyamaneko",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "uri200illust",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "uramusume777",
+          "children": {
+            "9": {
+              "word": "urinunhanada",
+              "children": {}
+            },
+            "10": {
+              "word": "urplep36568",
+              "children": {
+                "10": {
+                  "word": "urushiyataou",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "14": {
+          "word": "uriuriyukitti",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "(uramitsuru1206)",
+      "children": {
+        "11": {
+          "word": "urotsukidouji",
+          "children": {
+            "11": {
+              "word": "urushimaru0701",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "uraniwanotori",
+          "children": {
+            "8": {
+              "word": "uratamameron",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "urabanasimati",
+          "children": {
+            "7": {
+              "word": "urayamashirou",
+              "children": {}
+            },
+            "8": {
+              "word": "urbanjeremiasz",
+              "children": {}
+            },
+            "9": {
+              "word": "uroillustration",
+              "children": {}
+            },
+            "11": {
+              "word": "urielbeaupre15",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "13": {
+      "word": "(uropennzetubou)",
+      "children": {
+        "12": {
+          "word": "urotakanata02",
+          "children": {}
+        },
+        "13": {
+          "word": "uraniumgun1127",
+          "children": {
+            "12": {
+              "word": "uricksaladbar",
+              "children": {}
+            }
+          }
+        },
+        "14": {
+          "word": "urlocalrobosimp",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "urusiyamaxdane1",
+      "children": {}
+    },
+    "15": {
+      "word": "(urashimasakatasen)",
+      "children": {
+        "11": {
+          "word": "urashimatsushima",
+          "children": {}
+        },
+        "15": {
+          "word": "urumashi-03301980",
+          "children": {}
+        },
+        "16": {
+          "word": "urinxychjzzwlof",
+          "children": {}
+        },
+        "17": {
+          "word": "urd4g6b7omnfvwx",
+          "children": {}
+        }
+      }
+    },
+    "16": {
+      "word": "urashimasakatasen",
+      "children": {}
+    }
+  }
+}

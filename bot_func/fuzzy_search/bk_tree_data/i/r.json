@@ -1,0 +1,4238 @@
+{
+  "word": "\"iron",
+  "children": {
+    "1": {
+      "word": "(iron",
+      "children": {
+        "1": {
+          "word": "iron",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "(iren",
+      "children": {
+        "1": {
+          "word": "iren",
+          "children": {}
+        },
+        "2": {
+          "word": "(iro",
+          "children": {
+            "1": {
+              "word": "(iro)",
+              "children": {}
+            },
+            "2": {
+              "word": "(iron)",
+              "children": {
+                "3": {
+                  "word": "irn",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "ir0n",
+              "children": {
+                "1": {
+                  "word": "iran",
+                  "children": {
+                    "1": {
+                      "word": "irin",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "iroen",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "iro",
+          "children": {
+            "1": {
+              "word": "iro)",
+              "children": {
+                "1": {
+                  "word": "iro.",
+                  "children": {
+                    "1": {
+                      "word": "iro1",
+                      "children": {
+                        "1": {
+                          "word": "iro2",
+                          "children": {
+                            "1": {
+                              "word": "iro6",
+                              "children": {
+                                "1": {
+                                  "word": "iroa",
+                                  "children": {
+                                    "1": {
+                                      "word": "iroe",
+                                      "children": {
+                                        "1": {
+                                          "word": "iroh",
+                                          "children": {
+                                            "1": {
+                                              "word": "iroi",
+                                              "children": {
+                                                "1": {
+                                                  "word": "irom",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "iroo",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "irou",
+                                                          "children": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "iron)",
+              "children": {
+                "1": {
+                  "word": "irona",
+                  "children": {
+                    "1": {
+                      "word": "irone",
+                      "children": {
+                        "1": {
+                          "word": "ironi",
+                          "children": {
+                            "1": {
+                              "word": "irono",
+                              "children": {
+                                "1": {
+                                  "word": "irons",
+                                  "children": {
+                                    "1": {
+                                      "word": "ironu",
+                                      "children": {
+                                        "1": {
+                                          "word": "irony",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(ir",
+      "children": {
+        "1": {
+          "word": "(iru",
+          "children": {
+            "2": {
+              "word": "ir",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "(ira)",
+          "children": {
+            "1": {
+              "word": "(irc)",
+              "children": {
+                "1": {
+                  "word": "(iri)",
+                  "children": {
+                    "1": {
+                      "word": "(iru)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "(irir",
+              "children": {
+                "1": {
+                  "word": "(iris",
+                  "children": {}
+                },
+                "2": {
+                  "word": "(irys",
+                  "children": {}
+                },
+                "3": {
+                  "word": "ir)",
+                  "children": {
+                    "1": {
+                      "word": "ira",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "ir0",
+              "children": {
+                "1": {
+                  "word": "irb",
+                  "children": {
+                    "1": {
+                      "word": "irc",
+                      "children": {
+                        "1": {
+                          "word": "ire",
+                          "children": {
+                            "1": {
+                              "word": "irg",
+                              "children": {
+                                "1": {
+                                  "word": "irh",
+                                  "children": {
+                                    "1": {
+                                      "word": "iri",
+                                      "children": {
+                                        "1": {
+                                          "word": "irm",
+                                          "children": {
+                                            "1": {
+                                              "word": "irs",
+                                              "children": {
+                                                "1": {
+                                                  "word": "iru",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "iry",
+                                                      "children": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "irir",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(ir-n)",
+          "children": {
+            "2": {
+              "word": "(irene",
+              "children": {}
+            },
+            "3": {
+              "word": "(irodo",
+              "children": {
+                "1": {
+                  "word": "(iroro",
+                  "children": {}
+                },
+                "2": {
+                  "word": "(iroha",
+                  "children": {
+                    "2": {
+                      "word": "(irori",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "(iryou",
+                  "children": {}
+                },
+                "4": {
+                  "word": "iri)",
+                  "children": {
+                    "1": {
+                      "word": "iru)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "irae",
+              "children": {
+                "1": {
+                  "word": "irai",
+                  "children": {
+                    "1": {
+                      "word": "iram",
+                      "children": {
+                        "1": {
+                          "word": "iraq",
+                          "children": {
+                            "1": {
+                              "word": "iras",
+                              "children": {
+                                "1": {
+                                  "word": "iray",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "irie",
+                      "children": {
+                        "1": {
+                          "word": "irre",
+                          "children": {
+                            "1": {
+                              "word": "irue",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "irea",
+                  "children": {
+                    "1": {
+                      "word": "irei",
+                      "children": {
+                        "1": {
+                          "word": "irem",
+                          "children": {
+                            "1": {
+                              "word": "ires",
+                              "children": {
+                                "1": {
+                                  "word": "irey",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "iria",
+                          "children": {
+                            "1": {
+                              "word": "irma",
+                              "children": {
+                                "1": {
+                                  "word": "irra",
+                                  "children": {
+                                    "1": {
+                                      "word": "irua",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "irhs",
+                      "children": {
+                        "1": {
+                          "word": "iris",
+                          "children": {
+                            "1": {
+                              "word": "irus",
+                              "children": {
+                                "1": {
+                                  "word": "irys",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "irii",
+                          "children": {
+                            "1": {
+                              "word": "irim",
+                              "children": {
+                                "1": {
+                                  "word": "irio",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "irri",
+                                  "children": {
+                                    "1": {
+                                      "word": "irui",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "irkg",
+                              "children": {
+                                "2": {
+                                  "word": "irmk",
+                                  "children": {
+                                    "1": {
+                                      "word": "irmo",
+                                      "children": {
+                                        "2": {
+                                          "word": "iryk",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "irqp",
+                                      "children": {
+                                        "2": {
+                                          "word": "irst",
+                                          "children": {
+                                            "2": {
+                                              "word": "iru!",
+                                              "children": {
+                                                "1": {
+                                                  "word": "iru.",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "iru~",
+                                                      "children": {}
+                                                    }
+                                                  }
+                                                },
+                                                "2": {
+                                                  "word": "iryu",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "i-rok",
+          "children": {
+            "2": {
+              "word": "iroka",
+              "children": {
+                "1": {
+                  "word": "iroki",
+                  "children": {
+                    "1": {
+                      "word": "iroko",
+                      "children": {
+                        "1": {
+                          "word": "iroku",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "irroi",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "irgom",
+              "children": {
+                "2": {
+                  "word": "irome",
+                  "children": {
+                    "1": {
+                      "word": "iromo",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "irpot",
+                      "children": {
+                        "2": {
+                          "word": "iryou",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "iro00",
+                  "children": {
+                    "2": {
+                      "word": "iro25",
+                      "children": {
+                        "2": {
+                          "word": "iroai",
+                          "children": {
+                            "1": {
+                              "word": "iroas",
+                              "children": {
+                                "2": {
+                                  "word": "irori",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "iroba",
+                              "children": {
+                                "1": {
+                                  "word": "iroca",
+                                  "children": {
+                                    "1": {
+                                      "word": "iroha",
+                                      "children": {
+                                        "1": {
+                                          "word": "iroia",
+                                          "children": {
+                                            "1": {
+                                              "word": "iroja",
+                                              "children": {
+                                                "1": {
+                                                  "word": "iropa",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "irota",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "irowa",
+                                                          "children": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "irodt",
+                                  "children": {
+                                    "2": {
+                                      "word": "iroh3",
+                                      "children": {
+                                        "2": {
+                                          "word": "irose",
+                                          "children": {
+                                            "2": {
+                                              "word": "iroto",
+                                              "children": {
+                                                "2": {
+                                                  "word": "iroyu",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "irozu",
+                                                      "children": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "irain",
+              "children": {
+                "1": {
+                  "word": "irvin",
+                  "children": {
+                    "1": {
+                      "word": "irwin",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "irden",
+                  "children": {
+                    "1": {
+                      "word": "ireen",
+                      "children": {
+                        "1": {
+                          "word": "irien",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "irfan",
+                      "children": {
+                        "1": {
+                          "word": "irian",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "irinn",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "irina",
+                      "children": {
+                        "1": {
+                          "word": "irine",
+                          "children": {
+                            "1": {
+                              "word": "irini",
+                              "children": {
+                                "1": {
+                                  "word": "irino",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "irena",
+                  "children": {
+                    "1": {
+                      "word": "irene",
+                      "children": {
+                        "2": {
+                          "word": "iruna",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "iruni",
+                      "children": {
+                        "1": {
+                          "word": "iruno",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "irakon",
+          "children": {
+            "1": {
+              "word": "iranon",
+              "children": {}
+            },
+            "2": {
+              "word": "ironon",
+              "children": {}
+            },
+            "3": {
+              "word": "irogun",
+              "children": {
+                "2": {
+                  "word": "irohen",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "iroana",
+              "children": {
+                "1": {
+                  "word": "ironna",
+                  "children": {}
+                },
+                "2": {
+                  "word": "ironha",
+                  "children": {}
+                },
+                "3": {
+                  "word": "irons)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(irem)",
+      "children": {
+        "2": {
+          "word": "(iri8)",
+          "children": {
+            "1": {
+              "word": "(iris)",
+              "children": {}
+            },
+            "2": {
+              "word": "(irns)",
+              "children": {
+                "1": {
+                  "word": "(irys)",
+                  "children": {}
+                },
+                "2": {
+                  "word": "(irur)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(irish",
+          "children": {
+            "2": {
+              "word": "(irite",
+              "children": {
+                "3": {
+                  "word": "iris)",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "(irsta",
+              "children": {
+                "3": {
+                  "word": "irima",
+                  "children": {}
+                },
+                "4": {
+                  "word": "irimi",
+                  "children": {
+                    "1": {
+                      "word": "irimo",
+                      "children": {
+                        "1": {
+                          "word": "irimu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "(iroha)",
+              "children": {
+                "2": {
+                  "word": "(iroko)",
+                  "children": {
+                    "2": {
+                      "word": "(irori)",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "irae)",
+                  "children": {
+                    "1": {
+                      "word": "irai)",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "irri)",
+                      "children": {
+                        "2": {
+                          "word": "irst)",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "irear",
+                      "children": {
+                        "2": {
+                          "word": "ireba",
+                          "children": {
+                            "1": {
+                              "word": "ireda",
+                              "children": {
+                                "1": {
+                                  "word": "ireia",
+                                  "children": {
+                                    "1": {
+                                      "word": "ireta",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "iruma",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ireru",
+                  "children": {
+                    "2": {
+                      "word": "irete",
+                      "children": {
+                        "3": {
+                          "word": "irumu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "irume",
+                      "children": {
+                        "1": {
+                          "word": "irumi",
+                          "children": {
+                            "1": {
+                              "word": "irumo",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(iroiro",
+          "children": {
+            "3": {
+              "word": "irido",
+              "children": {
+                "1": {
+                  "word": "iriho",
+                  "children": {
+                    "1": {
+                      "word": "iriko",
+                      "children": {
+                        "1": {
+                          "word": "irito",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "iriri",
+                  "children": {
+                    "1": {
+                      "word": "iriru",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "(iron-s)",
+              "children": {
+                "4": {
+                  "word": "iroha)",
+                  "children": {
+                    "2": {
+                      "word": "iroto)",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ir:is",
+                  "children": {
+                    "2": {
+                      "word": "irise",
+                      "children": {
+                        "1": {
+                          "word": "irish",
+                          "children": {
+                            "1": {
+                              "word": "irisl",
+                              "children": {
+                                "1": {
+                                  "word": "irisu",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "iraia",
+                  "children": {
+                    "1": {
+                      "word": "irail",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "irako",
+                      "children": {
+                        "1": {
+                          "word": "irato",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "irare",
+                          "children": {
+                            "3": {
+                              "word": "irika",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "iriai",
+                          "children": {
+                            "1": {
+                              "word": "irial",
+                              "children": {
+                                "1": {
+                                  "word": "iriam",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "iriba",
+                              "children": {
+                                "1": {
+                                  "word": "irida",
+                                  "children": {
+                                    "1": {
+                                      "word": "irita",
+                                      "children": {
+                                        "1": {
+                                          "word": "iriya",
+                                          "children": {
+                                            "1": {
+                                              "word": "iriza",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "irqiy",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "iribe",
+                      "children": {
+                        "1": {
+                          "word": "iribi",
+                          "children": {
+                            "2": {
+                              "word": "iride",
+                              "children": {
+                                "1": {
+                                  "word": "irite",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "iridi",
+                          "children": {
+                            "1": {
+                              "word": "irihi",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "iriel",
+                              "children": {
+                                "2": {
+                                  "word": "irium",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "irugo",
+                          "children": {
+                            "1": {
+                              "word": "iruto",
+                              "children": {
+                                "1": {
+                                  "word": "iruyo",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "iruri",
+                              "children": {
+                                "1": {
+                                  "word": "iruru",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "irzko",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "iryry",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "(irugon)",
+              "children": {
+                "4": {
+                  "word": "irawo)",
+                  "children": {
+                    "3": {
+                      "word": "iryou)",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "irebun",
+                  "children": {
+                    "1": {
+                      "word": "irevun",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "ireena",
+                      "children": {
+                        "4": {
+                          "word": "iruku",
+                          "children": {
+                            "1": {
+                              "word": "irusu",
+                              "children": {
+                                "1": {
+                                  "word": "iruyu",
+                                  "children": {
+                                    "1": {
+                                      "word": "iruzu",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "irrena",
+                      "children": {
+                        "3": {
+                          "word": "iruei",
+                          "children": {
+                            "1": {
+                              "word": "iruel",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "irufa",
+                              "children": {
+                                "1": {
+                                  "word": "iruha",
+                                  "children": {
+                                    "1": {
+                                      "word": "iruka",
+                                      "children": {
+                                        "1": {
+                                          "word": "iruza",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "iru's",
+                          "children": {
+                            "2": {
+                              "word": "iruki",
+                              "children": {
+                                "2": {
+                                  "word": "iruse",
+                                  "children": {
+                                    "1": {
+                                      "word": "irust",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "ira96",
+                  "children": {
+                    "2": {
+                      "word": "irabe",
+                      "children": {
+                        "1": {
+                          "word": "irabu",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "irahi",
+                          "children": {
+                            "1": {
+                              "word": "iraqi",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "iraka",
+                              "children": {
+                                "1": {
+                                  "word": "iraya",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "irask",
+                                  "children": {
+                                    "1": {
+                                      "word": "irast",
+                                      "children": {
+                                        "1": {
+                                          "word": "irasu",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "irazv",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "irple",
+                      "children": {
+                        "3": {
+                          "word": "iryda",
+                          "children": {
+                            "2": {
+                              "word": "iryu8",
+                              "children": {
+                                "1": {
+                                  "word": "iryuu",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "irenee",
+                      "children": {
+                        "1": {
+                          "word": "irenes",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "irenji",
+                          "children": {
+                            "2": {
+                              "word": "irenka",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "i!roha",
+          "children": {
+            "2": {
+              "word": "iroha.",
+              "children": {
+                "1": {
+                  "word": "irohah",
+                  "children": {}
+                },
+                "2": {
+                  "word": "irouha",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "irogae",
+              "children": {
+                "3": {
+                  "word": "irohki",
+                  "children": {
+                    "2": {
+                      "word": "irohvs",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "iroihs",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "i.r.",
+              "children": {
+                "4": {
+                  "word": "iroiro",
+                  "children": {}
+                },
+                "5": {
+                  "word": "iranai",
+                  "children": {
+                    "2": {
+                      "word": "irawan",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "iridan",
+                      "children": {
+                        "2": {
+                          "word": "irugan",
+                          "children": {
+                            "1": {
+                              "word": "irulan",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "irvina",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "iritoa",
+                      "children": {
+                        "4": {
+                          "word": "irokeo",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "iraken",
+              "children": {
+                "1": {
+                  "word": "iraren",
+                  "children": {}
+                },
+                "3": {
+                  "word": "iranon)",
+                  "children": {
+                    "4": {
+                      "word": "iruirn",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "irinoi",
+                  "children": {
+                    "3": {
+                      "word": "irugou",
+                      "children": {
+                        "4": {
+                          "word": "irvine",
+                          "children": {
+                            "1": {
+                              "word": "irving",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "iromono",
+                      "children": {
+                        "3": {
+                          "word": "ironeko",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "irvank",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "iroiro)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "iralion",
+          "children": {
+            "3": {
+              "word": "irorian",
+              "children": {
+                "3": {
+                  "word": "irridon",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "iricorn",
+              "children": {
+                "3": {
+                  "word": "irochan",
+                  "children": {}
+                },
+                "4": {
+                  "word": "irorong",
+                  "children": {}
+                },
+                "5": {
+                  "word": "irohina",
+                  "children": {
+                    "2": {
+                      "word": "ironing",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "ironiso",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "irohana",
+              "children": {
+                "1": {
+                  "word": "irohani",
+                  "children": {}
+                },
+                "2": {
+                  "word": "iron'na",
+                  "children": {}
+                },
+                "3": {
+                  "word": "ironaki",
+                  "children": {
+                    "3": {
+                      "word": "ironoha",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ironcat",
+                  "children": {
+                    "3": {
+                      "word": "irono16",
+                      "children": {
+                        "2": {
+                          "word": "ironote",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(irgrh)",
+      "children": {
+        "3": {
+          "word": "(iriam)",
+          "children": {
+            "2": {
+              "word": "(irisu)",
+              "children": {}
+            },
+            "3": {
+              "word": "(iroiro)",
+              "children": {
+                "4": {
+                  "word": "(irtyu)",
+                  "children": {
+                    "3": {
+                      "word": "(iruka)",
+                      "children": {
+                        "1": {
+                          "word": "(iruta)",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "(irumi)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "(irori0)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(irozuu)",
+          "children": {
+            "3": {
+              "word": "irazu)",
+              "children": {}
+            },
+            "5": {
+              "word": "iraira)",
+              "children": {
+                "2": {
+                  "word": "iriya)",
+                  "children": {}
+                },
+                "3": {
+                  "word": "iruka)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "irked)",
+                  "children": {
+                    "4": {
+                      "word": "iruru1",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "irachi",
+              "children": {
+                "2": {
+                  "word": "irarei",
+                  "children": {
+                    "4": {
+                      "word": "irucha",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "irisha",
+                  "children": {}
+                },
+                "4": {
+                  "word": "iruril",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(irisaan",
+          "children": {
+            "3": {
+              "word": "irisia",
+              "children": {
+                "1": {
+                  "word": "iriska",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "iria59",
+              "children": {
+                "2": {
+                  "word": "iriasu",
+                  "children": {}
+                },
+                "3": {
+                  "word": "iripia",
+                  "children": {
+                    "3": {
+                      "word": "irise5",
+                      "children": {
+                        "1": {
+                          "word": "irisel",
+                          "children": {
+                            "1": {
+                              "word": "irises",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "irisrey",
+                  "children": {
+                    "4": {
+                      "word": "irsyad",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "(irodoli",
+              "children": {
+                "4": {
+                  "word": "(irokuzu",
+                  "children": {
+                    "5": {
+                      "word": "irogami",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "(ironika)",
+                  "children": {
+                    "5": {
+                      "word": "irelia",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "iricci",
+                      "children": {
+                        "2": {
+                          "word": "iriiri",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "iriido",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "irigoma",
+                          "children": {
+                            "4": {
+                              "word": "irmela",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "iraaye",
+                  "children": {
+                    "3": {
+                      "word": "iraira",
+                      "children": {
+                        "3": {
+                          "word": "irasto",
+                          "children": {
+                            "2": {
+                              "word": "irasut",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "irekae",
+                          "children": {
+                            "4": {
+                              "word": "iriyyg",
+                              "children": {
+                                "4": {
+                                  "word": "irnakk",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "ireiso",
+                      "children": {
+                        "1": {
+                          "word": "ireisu",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "ireiza",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "iruia5",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "iriekm",
+                          "children": {
+                            "3": {
+                              "word": "irije6",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "iririya",
+                              "children": {
+                                "5": {
+                                  "word": "iruka!",
+                                  "children": {
+                                    "1": {
+                                      "word": "iruka+",
+                                      "children": {
+                                        "1": {
+                                          "word": "iruka3",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "irieria",
+                      "children": {
+                        "4": {
+                          "word": "irireko",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "irinrin)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "i-rihi",
+              "children": {
+                "3": {
+                  "word": "irlhui",
+                  "children": {
+                    "3": {
+                      "word": "irzhie",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "irrich",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "irakli",
+                  "children": {
+                    "3": {
+                      "word": "iredui",
+                      "children": {
+                        "1": {
+                          "word": "iregui",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "iruiru",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "irorico",
+                      "children": {
+                        "2": {
+                          "word": "irorism",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "iracco",
+                  "children": {
+                    "3": {
+                      "word": "iradel",
+                      "children": {
+                        "3": {
+                          "word": "iratsu",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "ire-ko",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "irbeus",
+                      "children": {
+                        "3": {
+                          "word": "irukuz",
+                          "children": {
+                            "3": {
+                              "word": "iruuse",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "irete!",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "irogomi",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "iroguro",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "i-rabi",
+          "children": {
+            "3": {
+              "word": "i-riya",
+              "children": {}
+            },
+            "4": {
+              "word": "i.ryuu",
+              "children": {
+                "6": {
+                  "word": "iracing",
+                  "children": {
+                    "3": {
+                      "word": "iradiop",
+                      "children": {
+                        "3": {
+                          "word": "iranian",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "irawain",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "iranai!",
+                      "children": {
+                        "1": {
+                          "word": "iranai.",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "iranami",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "iritani",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "irobird",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "irokari",
+                      "children": {
+                        "2": {
+                          "word": "iromaki",
+                          "children": {
+                            "1": {
+                              "word": "irosaki",
+                              "children": {
+                                "1": {
+                                  "word": "irozaki",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "i.ruean",
+              "children": {
+                "3": {
+                  "word": "irudana",
+                  "children": {
+                    "2": {
+                      "word": "irutann",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ireland",
+                  "children": {}
+                },
+                "5": {
+                  "word": "iri/yin",
+                  "children": {
+                    "4": {
+                      "word": "irinaka",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "iroha's",
+                      "children": {
+                        "2": {
+                          "word": "irohara",
+                          "children": {
+                            "2": {
+                              "word": "irohasm",
+                              "children": {
+                                "1": {
+                                  "word": "irohasu",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "irohayu",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "irokawa",
+                          "children": {
+                            "2": {
+                              "word": "irowasa",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "iromeki",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "iridori",
+                  "children": {
+                    "1": {
+                      "word": "irodori",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "iritoki",
+                      "children": {
+                        "2": {
+                          "word": "irotori",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "irodoli",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "irimiro",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "iromiru",
+                      "children": {
+                        "4": {
+                          "word": "irootie",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "irohiza",
+                      "children": {
+                        "2": {
+                          "word": "iromika",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "iroiise",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "ironashi",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "iragoann",
+              "children": {
+                "4": {
+                  "word": "ironhand",
+                  "children": {}
+                },
+                "5": {
+                  "word": "irevern",
+                  "children": {
+                    "4": {
+                      "word": "irodoru",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "irikoto",
+                      "children": {
+                        "1": {
+                          "word": "irikowo",
+                          "children": {
+                            "2": {
+                              "word": "irokoto",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "iriomot",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "iro-chan",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "irilyou",
+                  "children": {
+                    "4": {
+                      "word": "iring00",
+                      "children": {
+                        "5": {
+                          "word": "iroduku",
+                          "children": {
+                            "1": {
+                              "word": "irozuku",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "irninj7",
+                      "children": {
+                        "3": {
+                          "word": "irvine3",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "iroi152",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "irohero",
+                          "children": {
+                            "1": {
+                              "word": "iromero",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "ironhide",
+                      "children": {
+                        "4": {
+                          "word": "ironight",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "irington",
+              "children": {
+                "5": {
+                  "word": "ironhead",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "irikonbu",
+          "children": {
+            "4": {
+              "word": "irionela",
+              "children": {
+                "4": {
+                  "word": "iromonia",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "iromikan",
+              "children": {
+                "4": {
+                  "word": "ironbane",
+                  "children": {
+                    "5": {
+                      "word": "iroyopon",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ironbeta",
+                  "children": {
+                    "4": {
+                      "word": "ironmaus",
+                      "children": {
+                        "5": {
+                          "word": "irotenya",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "irohasan",
+              "children": {
+                "4": {
+                  "word": "ironclad",
+                  "children": {
+                    "4": {
+                      "word": "irondash",
+                      "children": {
+                        "4": {
+                          "word": "ironeden",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "iroxykun",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ironeyes",
+                  "children": {
+                    "4": {
+                      "word": "ironfist",
+                      "children": {
+                        "2": {
+                          "word": "ironfoot",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "ironlily",
+                          "children": {
+                            "2": {
+                              "word": "ironwill",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "ironside",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "ironnake",
+                          "children": {
+                            "4": {
+                              "word": "ironwood",
+                              "children": {
+                                "2": {
+                                  "word": "ironwork",
+                                  "children": {
+                                    "1": {
+                                      "word": "ironworm",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(irahai)",
+      "children": {
+        "2": {
+          "word": "(irohami)",
+          "children": {}
+        },
+        "3": {
+          "word": "(iroha66)",
+          "children": {}
+        },
+        "4": {
+          "word": "(irasuto)",
+          "children": {
+            "4": {
+              "word": "(ireisu)",
+              "children": {}
+            },
+            "5": {
+              "word": "(irodoli)",
+              "children": {
+                "1": {
+                  "word": "(irodori)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "(irudana)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(iryanic)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "iromaki)",
+              "children": {}
+            },
+            "7": {
+              "word": "iruhamu",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(irimino)",
+          "children": {
+            "3": {
+              "word": "(irityuo)",
+              "children": {
+                "4": {
+                  "word": "(irojiro)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(iroshino)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "(irorixc)",
+              "children": {}
+            },
+            "5": {
+              "word": "(ironlily)",
+              "children": {
+                "8": {
+                  "word": "irisato",
+                  "children": {
+                    "2": {
+                      "word": "iriyaao",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "(ironclad)",
+              "children": {
+                "7": {
+                  "word": "irarenai",
+                  "children": {
+                    "3": {
+                      "word": "irarima",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "irikawa",
+                      "children": {
+                        "2": {
+                          "word": "iriyama",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "irizaki",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "irigaru",
+                      "children": {
+                        "2": {
+                          "word": "irisart",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "iritate",
+                          "children": {
+                            "3": {
+                              "word": "iriya55",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "irmfrid",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "8": {
+                  "word": "irasuto",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "iraeyah",
+              "children": {
+                "2": {
+                  "word": "irapeah",
+                  "children": {}
+                },
+                "4": {
+                  "word": "irakusa",
+                  "children": {
+                    "3": {
+                      "word": "iraru05",
+                      "children": {
+                        "2": {
+                          "word": "iraruju",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "irashman",
+                      "children": {
+                        "4": {
+                          "word": "irruham",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "irebara",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "iranball",
+                      "children": {
+                        "6": {
+                          "word": "iroha-ya",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "iruka84",
+                  "children": {
+                    "2": {
+                      "word": "irukawa",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(ironbrass",
+          "children": {
+            "4": {
+              "word": "(ironbunz)",
+              "children": {}
+            },
+            "5": {
+              "word": "(ironypot)",
+              "children": {
+                "6": {
+                  "word": "ironheart",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "irerisu",
+              "children": {
+                "4": {
+                  "word": "irinatsu",
+                  "children": {
+                    "4": {
+                      "word": "irn-bru",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "iroisaac",
+                  "children": {
+                    "5": {
+                      "word": "irokorii",
+                      "children": {
+                        "4": {
+                          "word": "iroquois",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "iroshira",
+                          "children": {
+                            "4": {
+                              "word": "irubura",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "irisbane",
+                  "children": {
+                    "5": {
+                      "word": "iroikkai",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "iromayay",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "irohanaki",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "iranobui",
+              "children": {
+                "3": {
+                  "word": "iranovoh",
+                  "children": {}
+                },
+                "5": {
+                  "word": "irensive",
+                  "children": {
+                    "4": {
+                      "word": "irenukia",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "iroshiki",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "iria-rb",
+                      "children": {
+                        "6": {
+                          "word": "irotoki2",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "ireesha",
+                  "children": {
+                    "4": {
+                      "word": "irijima",
+                      "children": {
+                        "2": {
+                          "word": "iripika",
+                          "children": {
+                            "1": {
+                              "word": "irivika",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "iruguma",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "irisssy",
+                          "children": {
+                            "3": {
+                              "word": "iristar",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "irs-chan",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "iriliac",
+                      "children": {
+                        "3": {
+                          "word": "iriliria",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "irimasen",
+                          "children": {
+                            "6": {
+                              "word": "iroshiro",
+                              "children": {
+                                "6": {
+                                  "word": "irrrttg",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "irokiiro",
+                      "children": {
+                        "5": {
+                          "word": "irvinazo",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "irisrainy",
+                  "children": {
+                    "7": {
+                      "word": "iroha-san",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "ireading",
+              "children": {
+                "2": {
+                  "word": "irelking",
+                  "children": {}
+                },
+                "3": {
+                  "word": "irisdina",
+                  "children": {}
+                },
+                "4": {
+                  "word": "iridium",
+                  "children": {
+                    "4": {
+                      "word": "iriskink",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "irelyth",
+                  "children": {
+                    "4": {
+                      "word": "irezumi",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "irikimi",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "irukakun",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "irie448",
+                  "children": {
+                    "4": {
+                      "word": "iriiclo",
+                      "children": {
+                        "4": {
+                          "word": "iris0v0",
+                          "children": {
+                            "3": {
+                              "word": "iris7yj",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "irmgult",
+                      "children": {
+                        "5": {
+                          "word": "irr1004",
+                          "children": {
+                            "5": {
+                              "word": "irys955",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "irencrag",
+          "children": {
+            "5": {
+              "word": "irero444",
+              "children": {
+                "5": {
+                  "word": "irisolar",
+                  "children": {}
+                },
+                "6": {
+                  "word": "iris-san",
+                  "children": {
+                    "6": {
+                      "word": "iryopura",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "iron-rion",
+                  "children": {
+                    "5": {
+                      "word": "ironmarch",
+                      "children": {
+                        "5": {
+                          "word": "ironscale",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "iriomote",
+              "children": {
+                "4": {
+                  "word": "irisquot",
+                  "children": {}
+                },
+                "5": {
+                  "word": "irthnmoon",
+                  "children": {}
+                },
+                "6": {
+                  "word": "irminsul",
+                  "children": {
+                    "5": {
+                      "word": "irotsuki",
+                      "children": {
+                        "1": {
+                          "word": "irotsuku",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "irotsuya",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "irofechi",
+                      "children": {
+                        "4": {
+                          "word": "iroveyou",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "ironsider",
+                          "children": {
+                            "7": {
+                              "word": "irukun00",
+                              "children": {
+                                "5": {
+                                  "word": "iruzo552",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "iron-girl",
+                  "children": {
+                    "5": {
+                      "word": "ironbison",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "iroiroiro",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "iroirobox",
+          "children": {
+            "5": {
+              "word": "ironmouse",
+              "children": {
+                "3": {
+                  "word": "ironsouls",
+                  "children": {}
+                },
+                "4": {
+                  "word": "irontower",
+                  "children": {
+                    "4": {
+                      "word": "ironworks",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ironyrony",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "irono1910",
+              "children": {
+                "5": {
+                  "word": "irony-san",
+                  "children": {}
+                },
+                "6": {
+                  "word": "irori-san",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(irebunxy)",
+      "children": {
+        "5": {
+          "word": "(irisynth)",
+          "children": {
+            "5": {
+              "word": "(irizuki)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(irestill",
+          "children": {
+            "5": {
+              "word": "(irieiri)",
+              "children": {
+                "3": {
+                  "word": "(irisqr3)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(irieart)",
+              "children": {
+                "6": {
+                  "word": "(irooriba)",
+                  "children": {}
+                },
+                "8": {
+                  "word": "irasutoya",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "(iriomote)",
+              "children": {
+                "4": {
+                  "word": "(iromake8)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(irohadot)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(iroha041)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(irisfall",
+          "children": {
+            "5": {
+              "word": "iris.exe",
+              "children": {
+                "3": {
+                  "word": "irisusde",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(irugaizu",
+              "children": {
+                "7": {
+                  "word": "irasukie",
+                  "children": {
+                    "7": {
+                      "word": "iriekanan",
+                      "children": {
+                        "3": {
+                          "word": "iriemanga",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "(irodliszt",
+              "children": {
+                "7": {
+                  "word": "ireeneart",
+                  "children": {}
+                },
+                "8": {
+                  "word": "irarenai!",
+                  "children": {
+                    "4": {
+                      "word": "irarugii",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "iraruuuu",
+                      "children": {
+                        "6": {
+                          "word": "ireroyaro",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "irekobako",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "irikomiya",
+                      "children": {
+                        "2": {
+                          "word": "irinomiyu",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "irsnhaoye",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "irz9525)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "(iron02709)",
+              "children": {
+                "5": {
+                  "word": "(ironmouse)",
+                  "children": {
+                    "5": {
+                      "word": "(ironrionn)",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "irenesexe",
+                  "children": {
+                    "4": {
+                      "word": "irenetofu",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "irukaneko",
+                  "children": {
+                    "2": {
+                      "word": "irumineko",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "iradraws",
+          "children": {
+            "4": {
+              "word": "iraqball",
+              "children": {
+                "6": {
+                  "word": "iridatsu",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "iran-iraq",
+              "children": {
+                "6": {
+                  "word": "iratsuki",
+                  "children": {
+                    "2": {
+                      "word": "iratsume",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "iridessa",
+                      "children": {
+                        "5": {
+                          "word": "irkawaza",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "irielewd",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "iranko607",
+              "children": {
+                "5": {
+                  "word": "iriski97",
+                  "children": {}
+                },
+                "6": {
+                  "word": "iria0613",
+                  "children": {
+                    "6": {
+                      "word": "iroai1205",
+                      "children": {
+                        "7": {
+                          "word": "irukatto",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "irokohaku",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "iri25ms1",
+                  "children": {
+                    "5": {
+                      "word": "irie1214",
+                      "children": {
+                        "5": {
+                          "word": "irisart13",
+                          "children": {
+                            "5": {
+                              "word": "irishika",
+                              "children": {
+                                "1": {
+                                  "word": "irishima",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "irisviel",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "irisille",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "6": {
+                              "word": "irithyll",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "irigomame",
+                          "children": {
+                            "4": {
+                              "word": "iririmari",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "iridscnce",
+                      "children": {
+                        "5": {
+                          "word": "irucaice",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "irohayusa",
+                          "children": {
+                            "5": {
+                              "word": "iruka-san",
+                              "children": {
+                                "6": {
+                                  "word": "irumyuui",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "6": {
+                              "word": "irsa-974",
+                              "children": {}
+                            },
+                            "7": {
+                              "word": "irye0129",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "iroacairo",
+                      "children": {
+                        "4": {
+                          "word": "irokawara",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "irohazaka",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "irojikake",
+                          "children": {
+                            "6": {
+                              "word": "irukasann",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "irasutoman",
+              "children": {
+                "5": {
+                  "word": "irohatomo",
+                  "children": {}
+                },
+                "6": {
+                  "word": "iris@work",
+                  "children": {
+                    "5": {
+                      "word": "irohatori",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "iroha-uta",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "irohahime",
+                  "children": {
+                    "6": {
+                      "word": "iruma-kun",
+                      "children": {
+                        "4": {
+                          "word": "irumashou",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "iruko1120",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "iriknight",
+                  "children": {
+                    "6": {
+                      "word": "iroenpitsu",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "irogakure",
+                      "children": {
+                        "5": {
+                          "word": "iroha-i-f",
+                          "children": {
+                            "4": {
+                              "word": "iroha0168",
+                              "children": {
+                                "4": {
+                                  "word": "iroha1217",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "7": {
+                          "word": "ironbeastz",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "ironduuude",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "iron-0xide",
+              "children": {
+                "5": {
+                  "word": "ironwinnie",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ironimuuuy",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "i-raf-you",
+          "children": {
+            "7": {
+              "word": "ironstylus",
+              "children": {
+                "8": {
+                  "word": "irrigation",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "irischroma",
+              "children": {
+                "4": {
+                  "word": "irispardom",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ironcarbon",
+                  "children": {}
+                },
+                "8": {
+                  "word": "ironasi247",
+                  "children": {
+                    "5": {
+                      "word": "ironatsuki",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "irontissue",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "iroiroi000",
+              "children": {
+                "5": {
+                  "word": "ironshin50",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ironpotato",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(irastlove)",
+      "children": {
+        "4": {
+          "word": "(irasutoya)",
+          "children": {
+            "5": {
+              "word": "(iristree)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(irritate)",
+          "children": {
+            "6": {
+              "word": "(irstmemu)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(irisuuwu)",
+          "children": {
+            "5": {
+              "word": "(iritemi1)",
+              "children": {}
+            },
+            "7": {
+              "word": "irasutodog",
+              "children": {}
+            },
+            "8": {
+              "word": "irastonyan)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(irie-get)",
+          "children": {
+            "6": {
+              "word": "(iroirokko)",
+              "children": {
+                "6": {
+                  "word": "(iruma-kun)",
+                  "children": {}
+                },
+                "7": {
+                  "word": "(ironxghost)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "(irokawack)",
+              "children": {
+                "5": {
+                  "word": "(iroki1211)",
+                  "children": {}
+                },
+                "8": {
+                  "word": "irasrgsmk",
+                  "children": {
+                    "6": {
+                      "word": "iriskatze",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "irystocrat",
+              "children": {}
+            },
+            "10": {
+              "word": "ironsoldier",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "(irekawari",
+          "children": {
+            "5": {
+              "word": "(irregular",
+              "children": {}
+            },
+            "6": {
+              "word": "irenillart",
+              "children": {}
+            },
+            "7": {
+              "word": "irisidaka",
+              "children": {
+                "6": {
+                  "word": "irradiate",
+                  "children": {}
+                },
+                "7": {
+                  "word": "irrelevant",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "(iridescent",
+              "children": {
+                "7": {
+                  "word": "iracebeth",
+                  "children": {}
+                },
+                "8": {
+                  "word": "(iroennpitu)",
+                  "children": {
+                    "9": {
+                      "word": "iruma-kun)",
+                      "children": {}
+                    },
+                    "10": {
+                      "word": "iris37337",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "(iroenpitsu)",
+                  "children": {
+                    "8": {
+                      "word": "irlandaise",
+                      "children": {}
+                    },
+                    "10": {
+                      "word": "iravioliii",
+                      "children": {
+                        "8": {
+                          "word": "irusu1219",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "iraudo4545",
+              "children": {
+                "8": {
+                  "word": "irisu-chan",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "irekawari",
+          "children": {
+            "4": {
+              "word": "irukatarou",
+              "children": {}
+            },
+            "5": {
+              "word": "irekubadou",
+              "children": {
+                "6": {
+                  "word": "irregular",
+                  "children": {}
+                },
+                "7": {
+                  "word": "irgendwann",
+                  "children": {
+                    "7": {
+                      "word": "iriaaaaaa",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "iruka0804",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "iroha-kuro",
+              "children": {
+                "5": {
+                  "word": "irohakaede",
+                  "children": {
+                    "7": {
+                      "word": "irokishiro",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "irohakaname",
+                  "children": {}
+                },
+                "7": {
+                  "word": "ironeshiori",
+                  "children": {
+                    "7": {
+                      "word": "irrumatio",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "irmrenders",
+              "children": {
+                "6": {
+                  "word": "irumerda2",
+                  "children": {}
+                },
+                "7": {
+                  "word": "irume3369",
+                  "children": {
+                    "5": {
+                      "word": "iruru5666",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "irumina777",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "irogami024",
+                  "children": {
+                    "5": {
+                      "word": "iroha23628",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "iridescent",
+              "children": {
+                "8": {
+                  "word": "iron-masked",
+                  "children": {
+                    "9": {
+                      "word": "irururutan",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "iroiroattena",
+          "children": {
+            "6": {
+              "word": "iroirokaname",
+              "children": {}
+            },
+            "8": {
+              "word": "ironcan0133",
+              "children": {
+                "5": {
+                  "word": "ironmanhshs",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(irast0209)",
+      "children": {
+        "6": {
+          "word": "irasuto0719",
+          "children": {
+            "6": {
+              "word": "iris507012",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(irhnhht527)",
+          "children": {
+            "7": {
+              "word": "(ironboy1203)",
+              "children": {}
+            },
+            "8": {
+              "word": "(iroamisogi)",
+              "children": {
+                "7": {
+                  "word": "(iroiro1108)",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "irisxu2624",
+              "children": {}
+            },
+            "10": {
+              "word": "irastmanaby",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "(iroha2hohe)",
+          "children": {
+            "5": {
+              "word": "(irohaaiuta)",
+              "children": {}
+            },
+            "6": {
+              "word": "(iromishiro)",
+              "children": {
+                "7": {
+                  "word": "(irowanioedo)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "(iroiro3785)",
+              "children": {
+                "3": {
+                  "word": "(iroiro3843)",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "(ironictsuki)",
+              "children": {
+                "9": {
+                  "word": "(irtuken138)",
+                  "children": {
+                    "8": {
+                      "word": "iruma-kum)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "iraicheezz",
+              "children": {
+                "7": {
+                  "word": "iramarukas",
+                  "children": {
+                    "7": {
+                      "word": "iriasutera",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "irisphilia",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "iris-taisa",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(irotoridori",
+          "children": {
+            "8": {
+              "word": "iromoto1616",
+              "children": {}
+            },
+            "9": {
+              "word": "irankotoshi",
+              "children": {
+                "7": {
+                  "word": "iranosaurus",
+                  "children": {}
+                },
+                "9": {
+                  "word": "irislenaria",
+                  "children": {
+                    "7": {
+                      "word": "iritamaggg",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "irraydiate",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "iribitatte",
+              "children": {
+                "8": {
+                  "word": "irumyuui's",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "irelandball",
+          "children": {
+            "7": {
+              "word": "iromayutaka",
+              "children": {}
+            },
+            "8": {
+              "word": "irezumi-san",
+              "children": {
+                "8": {
+                  "word": "irieventura",
+                  "children": {
+                    "9": {
+                      "word": "iroharumido",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "ironmaskbear",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "iridescense",
+              "children": {
+                "8": {
+                  "word": "irikodashig",
+                  "children": {
+                    "9": {
+                      "word": "iroproject7",
+                      "children": {
+                        "9": {
+                          "word": "irving-zero",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "9": {
+                  "word": "irotoridori",
+                  "children": {
+                    "1": {
+                      "word": "iroyoridori",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "irishphoenix",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "irodorinoaya",
+          "children": {
+            "7": {
+              "word": "irorinekodon",
+              "children": {}
+            },
+            "8": {
+              "word": "iroiroro1616",
+              "children": {
+                "7": {
+                  "word": "ironicorange",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "iroirotamadon",
+              "children": {
+                "10": {
+                  "word": "irony-rururu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(irasuto0715)",
+      "children": {
+        "7": {
+          "word": "(iravati-4u)",
+          "children": {
+            "8": {
+              "word": "(irodori0704)",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "(iris-colored",
+          "children": {
+            "8": {
+              "word": "(irisdancing)",
+              "children": {}
+            },
+            "9": {
+              "word": "(irohazoushi)",
+              "children": {
+                "10": {
+                  "word": "irastotoukou",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "irakunoikura",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(iridescence)",
+          "children": {
+            "8": {
+              "word": "(iriko-dashi)",
+              "children": {
+                "9": {
+                  "word": "(ironmaiden85)",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "(irorikigaku)",
+              "children": {
+                "7": {
+                  "word": "(irotoridori)",
+                  "children": {}
+                },
+                "11": {
+                  "word": "iristelessa",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "(irodoriginal)",
+          "children": {
+            "10": {
+              "word": "iravasiliev",
+              "children": {
+                "9": {
+                  "word": "iroquoisdomi",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "iratinavarre",
+              "children": {
+                "9": {
+                  "word": "iridakodako2",
+                  "children": {
+                    "9": {
+                      "word": "iris-icecry",
+                      "children": {}
+                    }
+                  }
+                },
+                "10": {
+                  "word": "ironsmash2142",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "irinacapitan",
+          "children": {
+            "7": {
+              "word": "iriyakakeru",
+              "children": {}
+            },
+            "8": {
+              "word": "irukasaurus",
+              "children": {}
+            },
+            "9": {
+              "word": "iriomote-sei",
+              "children": {
+                "8": {
+                  "word": "iroproject71",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "irodorikaeru",
+              "children": {
+                "6": {
+                  "word": "iroidori4422",
+                  "children": {}
+                },
+                "8": {
+                  "word": "irohanihoheto",
+                  "children": {}
+                },
+                "9": {
+                  "word": "iroyihboushi",
+                  "children": {
+                    "10": {
+                      "word": "irregular's",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "iribitaruyouni",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "(irc14786149)",
+      "children": {
+        "10": {
+          "word": "(ironcradkongo)",
+          "children": {}
+        },
+        "11": {
+          "word": "(irohanihoheto)",
+          "children": {
+            "11": {
+              "word": "iramiikaiiri",
+              "children": {
+                "8": {
+                  "word": "irasshaimase",
+                  "children": {}
+                },
+                "10": {
+                  "word": "irekawacchau",
+                  "children": {}
+                }
+              }
+            },
+            "12": {
+              "word": "irekawari!?~",
+              "children": {
+                "9": {
+                  "word": "ireleglitter",
+                  "children": {
+                    "8": {
+                      "word": "irresistible",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "13": {
+              "word": "iretekudasai",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "irasutogakari",
+          "children": {
+            "5": {
+              "word": "irasutoiibosi",
+              "children": {}
+            },
+            "7": {
+              "word": "irohasutomoya",
+              "children": {}
+            },
+            "8": {
+              "word": "irohamurasaki",
+              "children": {}
+            },
+            "9": {
+              "word": "irodorimidori",
+              "children": {}
+            },
+            "10": {
+              "word": "irokichigai01",
+              "children": {}
+            },
+            "11": {
+              "word": "irohanihoheto)",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "iroiromuridesun",
+          "children": {
+            "8": {
+              "word": "iroironokabeuti",
+              "children": {}
+            },
+            "10": {
+              "word": "ironsiderodger",
+              "children": {}
+            },
+            "11": {
+              "word": "irokichidoragon",
+              "children": {}
+            },
+            "12": {
+              "word": "irregularmonth",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "(irassyaimasi)",
+      "children": {
+        "10": {
+          "word": "(irohaniakasata)",
+          "children": {
+            "9": {
+              "word": "(irohasuiroiro)",
+              "children": {}
+            },
+            "12": {
+              "word": "iregyuradabii",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "(iroha97151188)",
+          "children": {
+            "12": {
+              "word": "iris769675331",
+              "children": {}
+            },
+            "13": {
+              "word": "irreligiositat",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "irika05181222",
+          "children": {
+            "11": {
+              "word": "irohazakayouth",
+              "children": {}
+            },
+            "13": {
+              "word": "iromonomaniabmb",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "iroha741852963",
+          "children": {
+            "10": {
+              "word": "irohanihoteto00",
+              "children": {}
+            },
+            "12": {
+              "word": "ironfoundersson",
+              "children": {
+                "11": {
+                  "word": "ironicnotsavage",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "13": {
+      "word": "(irisy77315402)",
+      "children": {
+        "12": {
+          "word": "irotoridori2024",
+          "children": {}
+        },
+        "13": {
+          "word": "iridescent-usee",
+          "children": {
+            "5": {
+              "word": "iridescentpearl",
+              "children": {}
+            }
+          }
+        },
+        "14": {
+          "word": "ir4v7ehbr0o7ts7",
+          "children": {
+            "12": {
+              "word": "ireallylikerats",
+              "children": {
+                "12": {
+                  "word": "irregularcloudi",
+                  "children": {
+                    "5": {
+                      "word": "irregularsaturn",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "14": {
+              "word": "ironshrinemaiden",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "word": "(irodorimidori19)",
+      "children": {
+        "14": {
+          "word": "iroirokangaeruhaze",
+          "children": {
+            "15": {
+              "word": "irritusruindeiver",
+              "children": {}
+            }
+          }
+        },
+        "15": {
+          "word": "irithyll8157351",
+          "children": {}
+        }
+      }
+    },
+    "15": {
+      "word": "iribitararetemasu",
+      "children": {
+        "14": {
+          "word": "irodori-classical",
+          "children": {}
+        },
+        "15": {
+          "word": "iroha-ni-jinseicho",
+          "children": {}
+        }
+      }
+    },
+    "16": {
+      "word": "(iraiuketsukechuu)",
+      "children": {
+        "17": {
+          "word": "irrationallyrational",
+          "children": {}
+        }
+      }
+    },
+    "20": {
+      "word": "ireallydontdrinkanymore",
+      "children": {}
+    }
+  }
+}

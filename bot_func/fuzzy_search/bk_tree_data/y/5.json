@@ -1,0 +1,31 @@
+{
+  "word": "(y5)",
+  "children": {
+    "2": {
+      "word": "y5",
+      "children": {
+        "1": {
+          "word": "y57",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(y5ism9)",
+      "children": {
+        "4": {
+          "word": "(y5wlht)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(y564219)",
+      "children": {}
+    },
+    "8": {
+      "word": "y56766824",
+      "children": {}
+    }
+  }
+}

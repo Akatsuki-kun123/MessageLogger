@@ -1,0 +1,55 @@
+{
+  "word": "(f8077919)",
+  "children": {
+    "7": {
+      "word": "f80",
+      "children": {
+        "1": {
+          "word": "f802",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "f-89",
+      "children": {
+        "2": {
+          "word": "f8",
+          "children": {
+            "1": {
+              "word": "f8f",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "f-8",
+      "children": {
+        "1": {
+          "word": "f-82",
+          "children": {
+            "1": {
+              "word": "f-86",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "f-84f",
+          "children": {
+            "2": {
+              "word": "f-86d",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "15": {
+      "word": "f8374nsc8eity74ns",
+      "children": {}
+    }
+  }
+}

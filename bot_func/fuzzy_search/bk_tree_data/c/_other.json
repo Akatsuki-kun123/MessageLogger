@@ -1,0 +1,47 @@
+{
+  "word": "\"c\"",
+  "children": {
+    "2": {
+      "word": "(c",
+      "children": {
+        "1": {
+          "word": ":c",
+          "children": {
+            "1": {
+              "word": "c",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "<c>",
+          "children": {
+            "2": {
+              "word": "c)",
+              "children": {
+                "1": {
+                  "word": "c+",
+                  "children": {
+                    "1": {
+                      "word": "c.",
+                      "children": {
+                        "1": {
+                          "word": "c:",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "c++",
+      "children": {}
+    }
+  }
+}

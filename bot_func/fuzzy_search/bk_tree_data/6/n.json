@@ -1,0 +1,79 @@
+{
+  "word": "(6n",
+  "children": {
+    "1": {
+      "word": "6n",
+      "children": {}
+    },
+    "2": {
+      "word": "(6nt2",
+      "children": {
+        "3": {
+          "word": "6n0",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "6ni7",
+      "children": {
+        "2": {
+          "word": "6no1",
+          "children": {
+            "2": {
+              "word": "6nta",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "6n614",
+      "children": {
+        "3": {
+          "word": "6nol)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "6nemua",
+      "children": {
+        "2": {
+          "word": "6nimu2",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(6nasiki)",
+      "children": {
+        "7": {
+          "word": "6-nichi",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "6nonnon1",
+      "children": {}
+    },
+    "8": {
+      "word": "6noseenji",
+      "children": {}
+    },
+    "9": {
+      "word": "6nichirai6",
+      "children": {}
+    },
+    "11": {
+      "word": "(6nezuuyamar9)",
+      "children": {}
+    },
+    "14": {
+      "word": "6npnmcuvsauiemp",
+      "children": {}
+    }
+  }
+}

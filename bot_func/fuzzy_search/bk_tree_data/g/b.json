@@ -1,0 +1,327 @@
+{
+  "word": "(gb",
+  "children": {
+    "1": {
+      "word": "(gbm",
+      "children": {
+        "1": {
+          "word": "(gbr",
+          "children": {}
+        },
+        "2": {
+          "word": "gb",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "(gbf)",
+      "children": {
+        "1": {
+          "word": "(gbu)",
+          "children": {}
+        },
+        "2": {
+          "word": "gb)",
+          "children": {
+            "1": {
+              "word": "gbf",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "gba",
+          "children": {
+            "1": {
+              "word": "gbb",
+              "children": {
+                "1": {
+                  "word": "gbc",
+                  "children": {
+                    "1": {
+                      "word": "gbm",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "gbgb",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(gbox)",
+      "children": {
+        "3": {
+          "word": "gbf)",
+          "children": {
+            "2": {
+              "word": "gbgb)",
+              "children": {
+                "2": {
+                  "word": "gbgx",
+                  "children": {}
+                },
+                "3": {
+                  "word": "gbou",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "gb-4",
+          "children": {
+            "2": {
+              "word": "gb00",
+              "children": {
+                "2": {
+                  "word": "gbdg",
+                  "children": {
+                    "1": {
+                      "word": "gbfg",
+                      "children": {
+                        "1": {
+                          "word": "gbng",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "gbek",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "g.b.",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "g-bro",
+      "children": {
+        "3": {
+          "word": "gbobo",
+          "children": {}
+        },
+        "4": {
+          "word": "gbeer",
+          "children": {
+            "3": {
+              "word": "gbmah",
+              "children": {
+                "3": {
+                  "word": "gbvpg",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(gbktst)",
+      "children": {
+        "5": {
+          "word": "gbird)",
+          "children": {}
+        },
+        "6": {
+          "word": "gb-012",
+          "children": {
+            "2": {
+              "word": "gbu-12",
+              "children": {}
+            },
+            "3": {
+              "word": "gb4818",
+              "children": {}
+            },
+            "4": {
+              "word": "gb630k",
+              "children": {
+                "4": {
+                  "word": "gbeeee",
+                  "children": {
+                    "4": {
+                      "word": "gbu-28",
+                      "children": {
+                        "2": {
+                          "word": "gbu-39",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "gbumop",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "g-bike",
+          "children": {
+            "2": {
+              "word": "g-bird",
+              "children": {}
+            },
+            "3": {
+              "word": "g-bull",
+              "children": {
+                "2": {
+                  "word": "g-buri",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(gb06109)",
+      "children": {
+        "4": {
+          "word": "(gbs2001)",
+          "children": {}
+        },
+        "5": {
+          "word": "(gbtnote)",
+          "children": {}
+        },
+        "7": {
+          "word": "gbaspgbc",
+          "children": {
+            "5": {
+              "word": "gblamgo",
+              "children": {}
+            },
+            "6": {
+              "word": "gbbgb321",
+              "children": {
+                "6": {
+                  "word": "gbdlife",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(gb-delta)",
+      "children": {
+        "6": {
+          "word": "(gb451200)",
+          "children": {
+            "6": {
+              "word": "(gbombom7)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "g-babaan",
+          "children": {
+            "6": {
+              "word": "gbhering",
+              "children": {}
+            },
+            "7": {
+              "word": "gbdigger",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "gb0071fg",
+          "children": {
+            "6": {
+              "word": "gbsangou",
+              "children": {
+                "6": {
+                  "word": "gburi814",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(gbln22211)",
+      "children": {
+        "9": {
+          "word": "gbcqn0304",
+          "children": {
+            "7": {
+              "word": "gbeimtama",
+              "children": {
+                "6": {
+                  "word": "gbsaphira",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(gb-polaris)",
+      "children": {
+        "8": {
+          "word": "gberardini",
+          "children": {}
+        },
+        "9": {
+          "word": "gblxiaoyao",
+          "children": {
+            "8": {
+              "word": "gboro-gboro",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "gbr20210907",
+      "children": {
+        "9": {
+          "word": "gbsartworks",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "gb9667813762231",
+      "children": {
+        "13": {
+          "word": "gbfwakannnaiman",
+          "children": {}
+        }
+      }
+    }
+  }
+}

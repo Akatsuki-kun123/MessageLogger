@@ -1,0 +1,23 @@
+{
+  "word": "(5",
+  "children": {
+    "1": {
+      "word": "5",
+      "children": {}
+    },
+    "2": {
+      "word": "5%",
+      "children": {
+        "1": {
+          "word": "5)",
+          "children": {
+            "1": {
+              "word": "5:",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

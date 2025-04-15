@@ -1,0 +1,61 @@
+{
+  "word": "(q",
+  "children": {
+    "1": {
+      "word": ":q",
+      "children": {
+        "1": {
+          "word": ";q",
+          "children": {
+            "1": {
+              "word": "q",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(q!)",
+      "children": {
+        "2": {
+          "word": "q!",
+          "children": {
+            "1": {
+              "word": "q)",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "<q>",
+          "children": {
+            "2": {
+              "word": "^q^",
+              "children": {
+                "2": {
+                  "word": "q.",
+                  "children": {
+                    "1": {
+                      "word": "q:",
+                      "children": {
+                        "1": {
+                          "word": "q~",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "q!)",
+      "children": {}
+    }
+  }
+}

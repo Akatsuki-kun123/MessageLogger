@@ -1,0 +1,22 @@
+{
+  "word": "0-ji",
+  "children": {
+    "2": {
+      "word": "0j",
+      "children": {}
+    },
+    "3": {
+      "word": "0j0)",
+      "children": {
+        "2": {
+          "word": "0jae",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "0jl0000",
+      "children": {}
+    }
+  }
+}

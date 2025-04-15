@@ -1,0 +1,78 @@
+{
+  "word": "(1ga)",
+  "children": {
+    "2": {
+      "word": "1ga",
+      "children": {}
+    },
+    "3": {
+      "word": "1g",
+      "children": {
+        "1": {
+          "word": "1go",
+          "children": {}
+        },
+        "2": {
+          "word": "1gen",
+          "children": {
+            "2": {
+              "word": "1gou",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "1ga84",
+          "children": {
+            "2": {
+              "word": "1gase",
+              "children": {}
+            },
+            "3": {
+              "word": "1gram",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "1-gou",
+      "children": {
+        "1": {
+          "word": "1-gou)",
+          "children": {}
+        },
+        "4": {
+          "word": "1girl",
+          "children": {}
+        },
+        "5": {
+          "word": "1gemao",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(1gusakat)",
+      "children": {
+        "6": {
+          "word": "1gundam",
+          "children": {}
+        },
+        "8": {
+          "word": "1gmizz",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "(1gvk7ftr3268550)",
+      "children": {}
+    },
+    "14": {
+      "word": "1gkfdifvvcm3mfm",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "word": "(g2",
+  "children": {
+    "1": {
+      "word": "(g2)",
+      "children": {
+        "2": {
+          "word": "g2",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "g2)",
+      "children": {
+        "1": {
+          "word": "g20",
+          "children": {
+            "1": {
+              "word": "g21",
+              "children": {
+                "1": {
+                  "word": "g22",
+                  "children": {
+                    "1": {
+                      "word": "g28",
+                      "children": {
+                        "1": {
+                          "word": "g29",
+                          "children": {
+                            "1": {
+                              "word": "g2g",
+                              "children": {
+                                "1": {
+                                  "word": "g2h",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "g27z",
+      "children": {
+        "2": {
+          "word": "g2zk",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "g-2k1",
+      "children": {
+        "4": {
+          "word": "g21mm",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(g2jitsu",
+      "children": {
+        "6": {
+          "word": "g2684)",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(g21oooo)",
+      "children": {}
+    },
+    "7": {
+      "word": "(g2684433)",
+      "children": {
+        "8": {
+          "word": "g20chaos",
+          "children": {}
+        }
+      }
+    }
+  }
+}

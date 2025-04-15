@@ -1,0 +1,85 @@
+{
+  "word": "(e00",
+  "children": {
+    "1": {
+      "word": "e00",
+      "children": {}
+    },
+    "2": {
+      "word": "e0)",
+      "children": {
+        "1": {
+          "word": "e00)",
+          "children": {
+            "2": {
+              "word": "e04",
+              "children": {
+                "1": {
+                  "word": "e06",
+                  "children": {
+                    "1": {
+                      "word": "e0k",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "e030",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "e-01",
+      "children": {}
+    },
+    "4": {
+      "word": "e-0057",
+      "children": {
+        "4": {
+          "word": "e0308r",
+          "children": {
+            "4": {
+              "word": "e0vae",
+              "children": {
+                "3": {
+                  "word": "e0xia",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "e-05mm",
+      "children": {
+        "5": {
+          "word": "e0128)",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "e014l225",
+      "children": {}
+    },
+    "8": {
+      "word": "e0s5r1o2h",
+      "children": {}
+    },
+    "9": {
+      "word": "(e038754478)",
+      "children": {}
+    },
+    "14": {
+      "word": "(e04su31842k7hl4)",
+      "children": {}
+    }
+  }
+}

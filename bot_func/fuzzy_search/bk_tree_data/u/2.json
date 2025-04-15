@@ -1,0 +1,164 @@
+{
+  "word": "(u2",
+  "children": {
+    "1": {
+      "word": "(u2)",
+      "children": {
+        "2": {
+          "word": "u2",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "u-2",
+      "children": {
+        "1": {
+          "word": "u22",
+          "children": {}
+        },
+        "2": {
+          "word": "u2)",
+          "children": {
+            "1": {
+              "word": "u26",
+              "children": {
+                "1": {
+                  "word": "u2i",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(u283)",
+      "children": {
+        "3": {
+          "word": "u22)",
+          "children": {
+            "1": {
+              "word": "u25)",
+              "children": {
+                "1": {
+                  "word": "u27)",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "u235",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "u228",
+          "children": {
+            "2": {
+              "word": "u2k1",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "u-29",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(u2co6)",
+      "children": {
+        "3": {
+          "word": "(u2m3i)",
+          "children": {}
+        },
+        "4": {
+          "word": "u2xoz",
+          "children": {}
+        },
+        "5": {
+          "word": "u-256",
+          "children": {
+            "4": {
+              "word": "u2key",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(u2rhap)",
+      "children": {
+        "4": {
+          "word": "u2hara",
+          "children": {}
+        },
+        "5": {
+          "word": "u21hwm",
+          "children": {
+            "4": {
+              "word": "u2851)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "u2suke",
+          "children": {}
+        },
+        "7": {
+          "word": "u-2001",
+          "children": {
+            "1": {
+              "word": "u-2501",
+              "children": {}
+            },
+            "2": {
+              "word": "u-2048",
+              "children": {}
+            },
+            "3": {
+              "word": "u-2513",
+              "children": {
+                "2": {
+                  "word": "u-2540",
+                  "children": {}
+                },
+                "3": {
+                  "word": "u-2626",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(u2cream)",
+      "children": {
+        "6": {
+          "word": "u22yume",
+          "children": {}
+        },
+        "7": {
+          "word": "u2fkogu",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "u2t5k2s5",
+      "children": {}
+    },
+    "8": {
+      "word": "(u2katsu14)",
+      "children": {}
+    }
+  }
+}

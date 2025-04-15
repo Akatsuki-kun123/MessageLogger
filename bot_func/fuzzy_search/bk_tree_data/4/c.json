@@ -1,0 +1,78 @@
+{
+  "word": "(4ces)",
+  "children": {
+    "2": {
+      "word": "4ces",
+      "children": {}
+    },
+    "3": {
+      "word": "(4chan)",
+      "children": {}
+    },
+    "4": {
+      "word": "(4chan))",
+      "children": {
+        "3": {
+          "word": "4chan",
+          "children": {}
+        },
+        "5": {
+          "word": "4cat",
+          "children": {
+            "2": {
+              "word": "4chi",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "4c",
+          "children": {
+            "1": {
+              "word": "4ci",
+              "children": {}
+            },
+            "3": {
+              "word": "4cccc",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "4cucu7",
+      "children": {}
+    },
+    "6": {
+      "word": "4carly2",
+      "children": {
+        "5": {
+          "word": "4chawon",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(4colorkiss)",
+      "children": {
+        "7": {
+          "word": "(4cornermmd)",
+          "children": {}
+        },
+        "8": {
+          "word": "4ciliana",
+          "children": {}
+        },
+        "9": {
+          "word": "4coma3rd",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "4cc355p0rt",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "word": "(u-jiro)",
+  "children": {
+    "3": {
+      "word": "(uji)",
+      "children": {}
+    },
+    "4": {
+      "word": "(ujaku)",
+      "children": {
+        "4": {
+          "word": "uji)",
+          "children": {
+            "2": {
+              "word": "ujiko",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "ujino",
+          "children": {
+            "2": {
+              "word": "ujuro",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "u-ji",
+          "children": {
+            "1": {
+              "word": "u-jin",
+              "children": {}
+            },
+            "2": {
+              "word": "u-joe",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "uji",
+      "children": {
+        "1": {
+          "word": "ujii",
+          "children": {
+            "1": {
+              "word": "ujin",
+              "children": {}
+            },
+            "2": {
+              "word": "ujo",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "ujibe",
+          "children": {
+            "1": {
+              "word": "ujiie",
+              "children": {}
+            },
+            "2": {
+              "word": "ujiga",
+              "children": {
+                "1": {
+                  "word": "ujigi",
+                  "children": {
+                    "2": {
+                      "word": "ujita",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "ujou",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "ujicax",
+          "children": {
+            "2": {
+              "word": "ujinao",
+              "children": {}
+            },
+            "3": {
+              "word": "ujioui",
+              "children": {
+                "2": {
+                  "word": "ujiuji",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "ujooo",
+              "children": {
+                "2": {
+                  "word": "ujuto",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "ujijino",
+          "children": {
+            "3": {
+              "word": "ujimoto",
+              "children": {}
+            },
+            "4": {
+              "word": "ujinori",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(uje8yzb)",
+      "children": {
+        "6": {
+          "word": "uje",
+          "children": {
+            "5": {
+              "word": "ujiyasu",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "ujac",
+          "children": {
+            "2": {
+              "word": "ujaku",
+              "children": {
+                "2": {
+                  "word": "uju",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "ujone",
+              "children": {
+                "3": {
+                  "word": "ujugn",
+                  "children": {
+                    "2": {
+                      "word": "ujuju",
+                      "children": {
+                        "2": {
+                          "word": "ujuui",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "ujamong",
+              "children": {
+                "4": {
+                  "word": "ujimasa",
+                  "children": {
+                    "3": {
+                      "word": "ujizane",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "uju-in",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ujigami",
+                  "children": {
+                    "2": {
+                      "word": "ujigawa",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "ujikawa",
+                      "children": {
+                        "2": {
+                          "word": "ujiwara",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "ujisato",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "uji1210",
+              "children": {
+                "4": {
+                  "word": "ujikuso",
+                  "children": {
+                    "4": {
+                      "word": "ujimine",
+                      "children": {
+                        "4": {
+                          "word": "ujiteru",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "ujijinoji",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(uj15yaku)",
+      "children": {
+        "6": {
+          "word": "(ujgf8737)",
+          "children": {
+            "4": {
+              "word": "(ujyh7732)",
+              "children": {}
+            },
+            "6": {
+              "word": "(ujkn2523)",
+              "children": {
+                "5": {
+                  "word": "(ujme5328)",
+                  "children": {
+                    "5": {
+                      "word": "(ujrn7248)",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "(ujmu5458)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "ujhr4238)",
+          "children": {
+            "7": {
+              "word": "ujimatsu",
+              "children": {
+                "4": {
+                  "word": "ujugoesu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "ujf2030",
+          "children": {
+            "5": {
+              "word": "ujfr8245",
+              "children": {
+                "6": {
+                  "word": "ujsj2527",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ujiginji",
+              "children": {
+                "5": {
+                  "word": "ujishige",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "ujiujiyarou",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(uj26cobrsv)",
+      "children": {
+        "9": {
+          "word": "ujdp8383)",
+          "children": {
+            "4": {
+              "word": "ujth8743)",
+              "children": {
+                "5": {
+                  "word": "ujyx8587)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "ujsm4324)",
+              "children": {}
+            },
+            "6": {
+              "word": "ujkz3558)",
+              "children": {
+                "6": {
+                  "word": "ujng4425)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "ujan8877",
+          "children": {
+            "6": {
+              "word": "ujgu3584",
+              "children": {
+                "6": {
+                  "word": "ujwy4733",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "ujikintoki",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(ujimushi1031)",
+      "children": {}
+    },
+    "11": {
+      "word": "uji10ukifune",
+      "children": {}
+    },
+    "14": {
+      "word": "(uj0lvnbd5lbnuki)",
+      "children": {}
+    }
+  }
+}

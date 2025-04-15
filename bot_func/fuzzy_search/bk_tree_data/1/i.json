@@ -1,0 +1,92 @@
+{
+  "word": "(1i1i1i1i)",
+  "children": {
+    "6": {
+      "word": "(1ibl5)",
+      "children": {
+        "5": {
+          "word": "(1igmab0)",
+          "children": {
+            "7": {
+              "word": "1i17ri",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(1ichimasu)",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "1i1",
+      "children": {
+        "1": {
+          "word": "1i1y",
+          "children": {}
+        },
+        "3": {
+          "word": "1ichi",
+          "children": {
+            "3": {
+              "word": "1in0)",
+              "children": {}
+            },
+            "4": {
+              "word": "1iyon1",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "1iqwaiq",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "1-i",
+      "children": {
+        "1": {
+          "word": "1i",
+          "children": {}
+        },
+        "3": {
+          "word": "1i2l",
+          "children": {
+            "2": {
+              "word": "1ily",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "1iang",
+          "children": {
+            "3": {
+              "word": "1inch",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "1illust",
+          "children": {}
+        },
+        "7": {
+          "word": "1inkygirl",
+          "children": {}
+        },
+        "8": {
+          "word": "1ichiroku6",
+          "children": {}
+        },
+        "10": {
+          "word": "1inuinuinui1",
+          "children": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "word": "(5-sai",
+  "children": {
+    "1": {
+      "word": "5-sai",
+      "children": {}
+    },
+    "2": {
+      "word": "5sai",
+      "children": {}
+    },
+    "3": {
+      "word": "(5s5",
+      "children": {
+        "6": {
+          "word": "5-saiko",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "5-shiki",
+      "children": {
+        "3": {
+          "word": "5saiji",
+          "children": {}
+        },
+        "5": {
+          "word": "5s",
+          "children": {
+            "1": {
+              "word": "5ss",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "5-string",
+      "children": {
+        "5": {
+          "word": "5s0n9",
+          "children": {
+            "3": {
+              "word": "5spra",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(5smey06)",
+      "children": {}
+    },
+    "8": {
+      "word": "5shiganai)",
+      "children": {}
+    },
+    "10": {
+      "word": "5sistersnet",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "word": "(o",
+  "children": {
+    "1": {
+      "word": "(o)",
+      "children": {
+        "2": {
+          "word": ":o",
+          "children": {
+            "1": {
+              "word": ";o",
+              "children": {
+                "1": {
+                  "word": "@o",
+                  "children": {
+                    "1": {
+                      "word": "o",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "<o>",
+      "children": {
+        "2": {
+          "word": ">o<",
+          "children": {
+            "2": {
+              "word": "\\o/",
+              "children": {
+                "2": {
+                  "word": "^o^",
+                  "children": {
+                    "2": {
+                      "word": "o!",
+                      "children": {
+                        "1": {
+                          "word": "o'",
+                          "children": {
+                            "1": {
+                              "word": "o)",
+                              "children": {
+                                "1": {
+                                  "word": "o.",
+                                  "children": {
+                                    "1": {
+                                      "word": "o~",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "o.<~",
+      "children": {}
+    },
+    "5": {
+      "word": "\\(^o^)/",
+      "children": {}
+    }
+  }
+}

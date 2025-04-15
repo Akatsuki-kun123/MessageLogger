@@ -1,0 +1,137 @@
+{
+  "word": "(m6",
+  "children": {
+    "1": {
+      "word": "m6",
+      "children": {}
+    },
+    "2": {
+      "word": "m-6",
+      "children": {
+        "1": {
+          "word": "m66",
+          "children": {}
+        },
+        "2": {
+          "word": "m60",
+          "children": {
+            "1": {
+              "word": "m61",
+              "children": {
+                "1": {
+                  "word": "m67",
+                  "children": {
+                    "1": {
+                      "word": "m6a",
+                      "children": {
+                        "1": {
+                          "word": "m6d",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "m6m6",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "m(6)",
+      "children": {
+        "2": {
+          "word": "m-62",
+          "children": {
+            "1": {
+              "word": "m-66",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "m600",
+          "children": {
+            "2": {
+              "word": "m6a2",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(m6812)",
+      "children": {
+        "3": {
+          "word": "(m6t2a)",
+          "children": {}
+        },
+        "4": {
+          "word": "m60a2",
+          "children": {
+            "2": {
+              "word": "m61a4",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "m6000",
+          "children": {
+            "3": {
+              "word": "m6c6m",
+              "children": {
+                "2": {
+                  "word": "m6ch1",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "m67box",
+      "children": {
+        "4": {
+          "word": "m6m2m3",
+          "children": {
+            "4": {
+              "word": "m6ni6c",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(m63ky86)",
+      "children": {
+        "7": {
+          "word": "m6jocha",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "m61517138",
+      "children": {
+        "6": {
+          "word": "m67756016",
+          "children": {}
+        },
+        "7": {
+          "word": "m6c/socom",
+          "children": {}
+        }
+      }
+    }
+  }
+}

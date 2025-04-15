@@ -1,0 +1,856 @@
+{
+  "word": "(m&g)",
+  "children": {
+    "1": {
+      "word": "(mg)",
+      "children": {}
+    },
+    "2": {
+      "word": "(mg",
+      "children": {
+        "2": {
+          "word": "(mg.)",
+          "children": {
+            "1": {
+              "word": "(mg2)",
+              "children": {
+                "1": {
+                  "word": "(mg3)",
+                  "children": {
+                    "1": {
+                      "word": "(mga)",
+                      "children": {
+                        "1": {
+                          "word": "(mgk)",
+                          "children": {
+                            "1": {
+                              "word": "(mgn)",
+                              "children": {
+                                "1": {
+                                  "word": "(mgo)",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "m&g",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(mglg)",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(mg54)",
+      "children": {
+        "2": {
+          "word": "(mgml)",
+          "children": {
+            "1": {
+              "word": "(mgmn)",
+              "children": {}
+            },
+            "2": {
+              "word": "(mgs3)",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(mgln",
+          "children": {
+            "1": {
+              "word": "(mgmn",
+              "children": {}
+            },
+            "2": {
+              "word": "(mgmg",
+              "children": {
+                "1": {
+                  "word": "(mgml",
+                  "children": {}
+                },
+                "2": {
+                  "word": "(mgnm",
+                  "children": {
+                    "2": {
+                      "word": "(mgoo",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "mg4",
+              "children": {
+                "1": {
+                  "word": "mg5",
+                  "children": {}
+                },
+                "2": {
+                  "word": "mgs)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "mgmg)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "mg",
+          "children": {
+            "1": {
+              "word": "mg.",
+              "children": {
+                "1": {
+                  "word": "mg3",
+                  "children": {
+                    "1": {
+                      "word": "mg6",
+                      "children": {
+                        "1": {
+                          "word": "mga",
+                          "children": {
+                            "1": {
+                              "word": "mgc",
+                              "children": {
+                                "1": {
+                                  "word": "mgd",
+                                  "children": {
+                                    "1": {
+                                      "word": "mge",
+                                      "children": {
+                                        "1": {
+                                          "word": "mgg",
+                                          "children": {
+                                            "1": {
+                                              "word": "mgh",
+                                              "children": {
+                                                "1": {
+                                                  "word": "mgi",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "mgk",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "mgl",
+                                                          "children": {
+                                                            "1": {
+                                                              "word": "mgm",
+                                                              "children": {
+                                                                "1": {
+                                                                  "word": "mgn",
+                                                                  "children": {
+                                                                    "1": {
+                                                                      "word": "mgo",
+                                                                      "children": {
+                                                                        "1": {
+                                                                          "word": "mgr",
+                                                                          "children": {
+                                                                            "1": {
+                                                                              "word": "mgs",
+                                                                              "children": {
+                                                                                "1": {
+                                                                                  "word": "mgt",
+                                                                                  "children": {
+                                                                                    "1": {
+                                                                                      "word": "mgu",
+                                                                                      "children": {
+                                                                                        "1": {
+                                                                                          "word": "mgv",
+                                                                                          "children": {
+                                                                                            "1": {
+                                                                                              "word": "mgx",
+                                                                                              "children": {}
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "mggg",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "m.g",
+          "children": {
+            "1": {
+              "word": "m.g.",
+              "children": {
+                "2": {
+                  "word": "m/g",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(mga2a)",
+      "children": {
+        "1": {
+          "word": "(mgawa)",
+          "children": {}
+        },
+        "3": {
+          "word": "(mgear)",
+          "children": {
+            "3": {
+              "word": "(mgn00)",
+              "children": {
+                "2": {
+                  "word": "(mgr02)",
+                  "children": {}
+                },
+                "3": {
+                  "word": "(mgrkd)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "mg42",
+          "children": {
+            "3": {
+              "word": "mgnp)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "mg08",
+          "children": {
+            "2": {
+              "word": "mg15",
+              "children": {
+                "2": {
+                  "word": "mg30",
+                  "children": {
+                    "1": {
+                      "word": "mg34",
+                      "children": {
+                        "1": {
+                          "word": "mg36",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "mgn0",
+                          "children": {
+                            "1": {
+                              "word": "mgx0",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "mg57",
+                      "children": {
+                        "2": {
+                          "word": "mgch",
+                          "children": {
+                            "1": {
+                              "word": "mgph",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "mgmc",
+                              "children": {
+                                "1": {
+                                  "word": "mgmg",
+                                  "children": {
+                                    "1": {
+                                      "word": "mgms",
+                                      "children": {
+                                        "1": {
+                                          "word": "mgmt",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "mgrc",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "mgnk",
+                                  "children": {
+                                    "1": {
+                                      "word": "mgnn",
+                                      "children": {
+                                        "1": {
+                                          "word": "mgnt",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "mgpn",
+                                      "children": {
+                                        "2": {
+                                          "word": "mgr6",
+                                          "children": {
+                                            "1": {
+                                              "word": "mgrm",
+                                              "children": {
+                                                "1": {
+                                                  "word": "mgro",
+                                                  "children": {}
+                                                }
+                                              }
+                                            },
+                                            "2": {
+                                              "word": "mgum",
+                                              "children": {
+                                                "1": {
+                                                  "word": "mguy",
+                                                  "children": {}
+                                                },
+                                                "2": {
+                                                  "word": "mgwr",
+                                                  "children": {
+                                                    "2": {
+                                                      "word": "mgzl",
+                                                      "children": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "mgguy",
+              "children": {
+                "3": {
+                  "word": "mgmg2",
+                  "children": {
+                    "1": {
+                      "word": "mgmg3",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "mgmgmg)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "m->g",
+          "children": {
+            "3": {
+              "word": "m-gun",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(m-gekka)",
+      "children": {
+        "5": {
+          "word": "(mg+-02)",
+          "children": {
+            "3": {
+              "word": "(mgym12)",
+              "children": {}
+            },
+            "4": {
+              "word": "(mgl139)",
+              "children": {
+                "4": {
+                  "word": "(mgzyaz)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(mgmgcat)",
+              "children": {
+                "1": {
+                  "word": "(mgmggat)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(mg2023",
+          "children": {
+            "4": {
+              "word": "mga05)",
+              "children": {}
+            },
+            "5": {
+              "word": "(mgmguzk",
+              "children": {
+                "5": {
+                  "word": "mgnkz",
+                  "children": {}
+                },
+                "6": {
+                  "word": "mgen1",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "m-goro",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "mg-43",
+          "children": {
+            "3": {
+              "word": "mg317",
+              "children": {
+                "2": {
+                  "word": "mg338",
+                  "children": {}
+                },
+                "3": {
+                  "word": "mgnj0",
+                  "children": {
+                    "3": {
+                      "word": "mgoh2",
+                      "children": {
+                        "3": {
+                          "word": "mgrcx",
+                          "children": {
+                            "2": {
+                              "word": "mgxcr",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "mgmgmg",
+              "children": {
+                "3": {
+                  "word": "mgmnzx",
+                  "children": {
+                    "3": {
+                      "word": "mgmsop",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(mgayaha)",
+      "children": {
+        "5": {
+          "word": "(mgkrr28)",
+          "children": {
+            "5": {
+              "word": "(mgyktbr)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "mga-lu",
+          "children": {
+            "4": {
+              "word": "mglame",
+              "children": {}
+            },
+            "5": {
+              "word": "mgmgcup)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "m@gical",
+          "children": {
+            "4": {
+              "word": "mgi048",
+              "children": {
+                "3": {
+                  "word": "mgirt1",
+                  "children": {}
+                },
+                "4": {
+                  "word": "mgnctc",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "mg-100",
+              "children": {
+                "2": {
+                  "word": "mg-206",
+                  "children": {}
+                },
+                "3": {
+                  "word": "mg1b20",
+                  "children": {}
+                },
+                "4": {
+                  "word": "mg55m5",
+                  "children": {
+                    "4": {
+                      "word": "mg633b",
+                      "children": {
+                        "2": {
+                          "word": "mgr333",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "mgnk33",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "mgk968",
+                          "children": {
+                            "4": {
+                              "word": "mgnsfx",
+                              "children": {
+                                "4": {
+                                  "word": "mgtnyo",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "mggmunu",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "mgmgmega",
+              "children": {
+                "3": {
+                  "word": "mgmgmgdo",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(mgan3222)",
+      "children": {
+        "4": {
+          "word": "(mgax7527)",
+          "children": {
+            "6": {
+              "word": "(mgpp8282)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(mgda7284)",
+          "children": {
+            "5": {
+              "word": "(mgrj3383)",
+              "children": {
+                "6": {
+                  "word": "mga3842",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(mgdw5574)",
+          "children": {
+            "6": {
+              "word": "(mgjpaaww)",
+              "children": {
+                "6": {
+                  "word": "(mglrsk0m)",
+                  "children": {
+                    "5": {
+                      "word": "(mgo10000)",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "(mgncosmo)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "mgong520",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "mggk2458",
+          "children": {
+            "4": {
+              "word": "mgk2839",
+              "children": {}
+            },
+            "5": {
+              "word": "mgr1219",
+              "children": {}
+            },
+            "6": {
+              "word": "mgnorkr",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "mg08/15",
+          "children": {
+            "1": {
+              "word": "mg08/18",
+              "children": {}
+            },
+            "4": {
+              "word": "mgye510",
+              "children": {}
+            },
+            "5": {
+              "word": "mg\\sean",
+              "children": {
+                "5": {
+                  "word": "mgi7009",
+                  "children": {
+                    "5": {
+                      "word": "mgl-140",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "mgmgkyun",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "mg991998",
+      "children": {
+        "5": {
+          "word": "mgftk158",
+          "children": {
+            "6": {
+              "word": "mghs1220",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "mges2285",
+          "children": {
+            "4": {
+              "word": "mgxf2257",
+              "children": {
+                "3": {
+                  "word": "mgxk2222",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "mglubino",
+              "children": {
+                "6": {
+                  "word": "mgrnov11",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "mgmgdes61",
+          "children": {
+            "7": {
+              "word": "mgrakm526",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(mg1000-rio)",
+      "children": {
+        "8": {
+          "word": "(mg42fw190d)",
+          "children": {}
+        },
+        "9": {
+          "word": "mgomurainu",
+          "children": {}
+        },
+        "10": {
+          "word": "m-goldfish",
+          "children": {
+            "8": {
+              "word": "mgecko117",
+              "children": {
+                "6": {
+                  "word": "mgekilove",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(mgim4428000)",
+      "children": {
+        "9": {
+          "word": "(mgosketches)",
+          "children": {}
+        },
+        "10": {
+          "word": "mgot25trvg",
+          "children": {}
+        },
+        "11": {
+          "word": "mgal-clark",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "mgc52003625",
+      "children": {}
+    },
+    "12": {
+      "word": "mg1178526aun",
+      "children": {
+        "9": {
+          "word": "mgchan922761",
+          "children": {}
+        },
+        "10": {
+          "word": "mg42cat-k1ng",
+          "children": {
+            "10": {
+              "word": "mgyuseu42340",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "word": "mguisvwh5y5m7zj",
+      "children": {}
+    }
+  }
+}

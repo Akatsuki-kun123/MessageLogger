@@ -1,0 +1,89 @@
+{
+  "word": "(u4)",
+  "children": {
+    "1": {
+      "word": "u4)",
+      "children": {}
+    },
+    "2": {
+      "word": "u4",
+      "children": {
+        "1": {
+          "word": "u47",
+          "children": {
+            "1": {
+              "word": "u4a",
+              "children": {
+                "1": {
+                  "word": "u4e",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(u4lo6)",
+      "children": {
+        "5": {
+          "word": "u488",
+          "children": {}
+        },
+        "6": {
+          "word": "u-47",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "u-410",
+      "children": {
+        "1": {
+          "word": "u-450",
+          "children": {}
+        },
+        "2": {
+          "word": "u-441",
+          "children": {}
+        },
+        "3": {
+          "word": "u4444",
+          "children": {}
+        },
+        "4": {
+          "word": "u4dom",
+          "children": {
+            "3": {
+              "word": "u4u8u",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "u-4989",
+      "children": {
+        "4": {
+          "word": "u4284g",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(u446644k)",
+      "children": {
+        "7": {
+          "word": "u46tera",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "u4417927511305",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "word": "(1q84)",
+  "children": {
+    "2": {
+      "word": "1q84",
+      "children": {}
+    },
+    "4": {
+      "word": "1q",
+      "children": {
+        "2": {
+          "word": "1q77",
+          "children": {
+            "2": {
+              "word": "1qaz",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(1qndlbd",
+      "children": {
+        "6": {
+          "word": "1quart",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "1qzxkfk9hclbyi5",
+      "children": {}
+    }
+  }
+}

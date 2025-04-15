@@ -1,0 +1,31 @@
+{
+  "word": "(d700)",
+  "children": {
+    "4": {
+      "word": "d7",
+      "children": {}
+    },
+    "5": {
+      "word": "(d72567000)",
+      "children": {
+        "9": {
+          "word": "d-79",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "d7777777",
+      "children": {
+        "6": {
+          "word": "d7zombie",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "d74335631",
+      "children": {}
+    }
+  }
+}

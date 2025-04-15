@@ -1,0 +1,57 @@
+{
+  "word": "(g5",
+  "children": {
+    "1": {
+      "word": "g5",
+      "children": {}
+    },
+    "2": {
+      "word": "g59",
+      "children": {}
+    },
+    "3": {
+      "word": "-g56b",
+      "children": {
+        "4": {
+          "word": "g.50",
+          "children": {
+            "1": {
+              "word": "g.55",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "g-530",
+      "children": {}
+    },
+    "5": {
+      "word": "(g50289)",
+      "children": {}
+    },
+    "6": {
+      "word": "(g557744)",
+      "children": {
+        "7": {
+          "word": "g536503",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "g54games",
+      "children": {}
+    },
+    "8": {
+      "word": "(g50492905)",
+      "children": {
+        "9": {
+          "word": "g5mercury",
+          "children": {}
+        }
+      }
+    }
+  }
+}

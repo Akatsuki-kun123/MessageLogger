@@ -1,0 +1,18 @@
+{
+  "word": "(j",
+  "children": {
+    "1": {
+      "word": "j",
+      "children": {}
+    },
+    "2": {
+      "word": "j)",
+      "children": {
+        "1": {
+          "word": "j.",
+          "children": {}
+        }
+      }
+    }
+  }
+}

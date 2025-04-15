@@ -1,0 +1,42 @@
+{
+  "word": "(1yu",
+  "children": {
+    "1": {
+      "word": "1yu",
+      "children": {}
+    },
+    "2": {
+      "word": "1y",
+      "children": {}
+    },
+    "3": {
+      "word": "1-ya",
+      "children": {
+        "2": {
+          "word": "1yym",
+          "children": {}
+        },
+        "3": {
+          "word": "1yen",
+          "children": {}
+        },
+        "4": {
+          "word": "1yuru",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "1yeol",
+      "children": {}
+    },
+    "6": {
+      "word": "1yen1yen",
+      "children": {}
+    },
+    "7": {
+      "word": "1yoichi1",
+      "children": {}
+    }
+  }
+}

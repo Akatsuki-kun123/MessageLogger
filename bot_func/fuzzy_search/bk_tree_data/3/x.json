@@ -1,0 +1,59 @@
+{
+  "word": "(3x3",
+  "children": {
+    "1": {
+      "word": "(3xq",
+      "children": {
+        "2": {
+          "word": "3x3",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "3x",
+      "children": {
+        "1": {
+          "word": "3x7",
+          "children": {
+            "1": {
+              "word": "3xf",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(3xma)",
+      "children": {
+        "4": {
+          "word": "3x357",
+          "children": {
+            "2": {
+              "word": "3x3oh",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "3.x",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "3x-yo",
+      "children": {
+        "3": {
+          "word": "3xens",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "3xhollow",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "word": "(2ars)",
+  "children": {
+    "3": {
+      "word": "2a2s",
+      "children": {}
+    },
+    "4": {
+      "word": "2a",
+      "children": {
+        "1": {
+          "word": "2a4",
+          "children": {
+            "1": {
+              "word": "2am",
+              "children": {
+                "1": {
+                  "word": "2ao",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "2a36",
+          "children": {
+            "2": {
+              "word": "2a42",
+              "children": {
+                "1": {
+                  "word": "2am2",
+                  "children": {}
+                },
+                "2": {
+                  "word": "2ac5",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "2a2hs",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "2a2223",
+      "children": {
+        "4": {
+          "word": "2a5caa",
+          "children": {
+            "4": {
+              "word": "2amezz",
+              "children": {
+                "3": {
+                  "word": "2amier",
+                  "children": {}
+                },
+                "4": {
+                  "word": "2ante1",
+                  "children": {
+                    "4": {
+                      "word": "2aphie",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "2ababa9",
+      "children": {}
+    },
+    "9": {
+      "word": "2angelisimo",
+      "children": {}
+    },
+    "11": {
+      "word": "2advancedarts",
+      "children": {}
+    },
+    "14": {
+      "word": "2a9um4joiu2ommf",
+      "children": {}
+    }
+  }
+}

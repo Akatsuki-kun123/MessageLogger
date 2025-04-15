@@ -1,0 +1,39 @@
+{
+  "word": "(n510x)",
+  "children": {
+    "5": {
+      "word": "n52",
+      "children": {
+        "1": {
+          "word": "n54",
+          "children": {
+            "1": {
+              "word": "n57",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "n5995",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(n52minami)",
+      "children": {}
+    },
+    "8": {
+      "word": "n5gnocchi",
+      "children": {}
+    },
+    "9": {
+      "word": "n5y3sakana",
+      "children": {}
+    },
+    "12": {
+      "word": "n5947136332810",
+      "children": {}
+    }
+  }
+}

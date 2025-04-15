@@ -1,0 +1,970 @@
+{
+  "word": "(uc",
+  "children": {
+    "1": {
+      "word": "uc",
+      "children": {}
+    },
+    "2": {
+      "word": "(ucc)",
+      "children": {
+        "1": {
+          "word": "(uco)",
+          "children": {}
+        },
+        "2": {
+          "word": "(uchi",
+          "children": {
+            "1": {
+              "word": "(uchu",
+              "children": {}
+            },
+            "3": {
+              "word": "uc)",
+              "children": {
+                "1": {
+                  "word": "ucc",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "uc8",
+          "children": {
+            "1": {
+              "word": "uca",
+              "children": {
+                "1": {
+                  "word": "uco",
+                  "children": {
+                    "1": {
+                      "word": "uc~",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(ucdy)",
+      "children": {
+        "2": {
+          "word": "(ucot)",
+          "children": {}
+        },
+        "3": {
+          "word": "(uchuu",
+          "children": {
+            "3": {
+              "word": "ucyu",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "ucat",
+          "children": {
+            "1": {
+              "word": "ucav",
+              "children": {}
+            },
+            "2": {
+              "word": "ucca",
+              "children": {
+                "2": {
+                  "word": "uces",
+                  "children": {
+                    "2": {
+                      "word": "uchi",
+                      "children": {
+                        "1": {
+                          "word": "ucho",
+                          "children": {
+                            "1": {
+                              "word": "uchu",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "ucmm",
+                          "children": {
+                            "1": {
+                              "word": "ucmr",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "ucon",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "u-co",
+          "children": {
+            "2": {
+              "word": "u.c.",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(uchiba",
+      "children": {
+        "1": {
+          "word": "(uchida",
+          "children": {}
+        },
+        "3": {
+          "word": "uchi)",
+          "children": {
+            "1": {
+              "word": "uchio",
+              "children": {
+                "1": {
+                  "word": "uchiu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "ucchi",
+          "children": {
+            "3": {
+              "word": "uchon",
+              "children": {
+                "1": {
+                  "word": "uchor",
+                  "children": {}
+                },
+                "2": {
+                  "word": "uchuu",
+                  "children": {}
+                },
+                "3": {
+                  "word": "ucncb",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "uca09",
+          "children": {
+            "3": {
+              "word": "uccow",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(uca-lm)",
+      "children": {
+        "3": {
+          "word": "(ucan85)",
+          "children": {}
+        },
+        "4": {
+          "word": "uc-lab",
+          "children": {}
+        },
+        "5": {
+          "word": "uchima",
+          "children": {
+            "3": {
+              "word": "uciumi",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "ucchan",
+          "children": {
+            "1": {
+              "word": "ucchon",
+              "children": {}
+            },
+            "2": {
+              "word": "ucchii",
+              "children": {}
+            },
+            "3": {
+              "word": "uchako",
+              "children": {
+                "2": {
+                  "word": "uchino",
+                  "children": {
+                    "1": {
+                      "word": "uchuno",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "uchiha",
+                  "children": {
+                    "1": {
+                      "word": "uchina",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "uching",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "uchi00",
+              "children": {
+                "2": {
+                  "word": "uchiba",
+                  "children": {
+                    "1": {
+                      "word": "uchida",
+                      "children": {
+                        "1": {
+                          "word": "uchika",
+                          "children": {
+                            "1": {
+                              "word": "uchira",
+                              "children": {
+                                "1": {
+                                  "word": "uchisa",
+                                  "children": {
+                                    "1": {
+                                      "word": "uchiwa",
+                                      "children": {
+                                        "1": {
+                                          "word": "uchiya",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "uchike",
+                      "children": {
+                        "1": {
+                          "word": "uchiki",
+                          "children": {
+                            "1": {
+                              "word": "uchiko",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "uchu89",
+                  "children": {
+                    "2": {
+                      "word": "uchuri",
+                      "children": {
+                        "2": {
+                          "word": "uchuta",
+                          "children": {
+                            "2": {
+                              "word": "uchuu!",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "ucniku",
+                      "children": {
+                        "4": {
+                          "word": "ucr10a",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ucyuji",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "~uchiki",
+              "children": {
+                "2": {
+                  "word": "~uchira",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "u-chan",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(uccello)",
+      "children": {
+        "3": {
+          "word": "uccelli",
+          "children": {}
+        },
+        "5": {
+          "word": "(uchuuux)",
+          "children": {}
+        },
+        "6": {
+          "word": "(uchouten",
+          "children": {
+            "2": {
+              "word": "(uchuusen",
+              "children": {}
+            },
+            "5": {
+              "word": "(uchronia",
+              "children": {}
+            },
+            "6": {
+              "word": "ucheong",
+              "children": {
+                "4": {
+                  "word": "uchicom",
+                  "children": {
+                    "3": {
+                      "word": "uchini)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ucchinu",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "uc-sama",
+          "children": {
+            "4": {
+              "word": "uchacha",
+              "children": {
+                "3": {
+                  "word": "uchiura",
+                  "children": {
+                    "1": {
+                      "word": "uchuura",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "uchiage",
+                  "children": {
+                    "3": {
+                      "word": "uchisar",
+                      "children": {
+                        "3": {
+                          "word": "uchiumi",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "uchikun",
+              "children": {
+                "3": {
+                  "word": "uchoten",
+                  "children": {
+                    "3": {
+                      "word": "uchujin",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ucq6461",
+                  "children": {
+                    "5": {
+                      "word": "ucukrtz",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "uchiuchi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(uchihime)",
+      "children": {
+        "2": {
+          "word": "uchihime",
+          "children": {}
+        },
+        "5": {
+          "word": "(uchr2228)",
+          "children": {
+            "7": {
+              "word": "uchigane",
+              "children": {
+                "2": {
+                  "word": "uchikake",
+                  "children": {
+                    "1": {
+                      "word": "uchikaze",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "uchihara",
+                  "children": {
+                    "2": {
+                      "word": "uchiyama",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "uchikina",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "uchilose",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "uchikoma",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(ucju5557)",
+          "children": {
+            "4": {
+              "word": "(ucnx7547)",
+              "children": {}
+            },
+            "5": {
+              "word": "(ucrh3525)",
+              "children": {}
+            },
+            "6": {
+              "word": "(ucrm8434)",
+              "children": {}
+            },
+            "7": {
+              "word": "ucchi-77",
+              "children": {
+                "6": {
+                  "word": "uchubito",
+                  "children": {
+                    "4": {
+                      "word": "uchuusen",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "uchi-asa",
+              "children": {
+                "1": {
+                  "word": "uchiyasa",
+                  "children": {}
+                },
+                "2": {
+                  "word": "uchigawa",
+                  "children": {
+                    "1": {
+                      "word": "uchikawa",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "uchikata",
+                      "children": {
+                        "2": {
+                          "word": "uchiwara",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "uchikoga",
+                  "children": {
+                    "2": {
+                      "word": "uchikura",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "uchimura",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "uchimaki",
+                      "children": {
+                        "1": {
+                          "word": "uchimaku",
+                          "children": {
+                            "2": {
+                              "word": "uchisaki",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "uchizako",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "uchizato",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "uchi1048",
+                  "children": {
+                    "4": {
+                      "word": "uchifuji",
+                      "children": {
+                        "3": {
+                          "word": "uchimori",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "uchouten",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "uchnoooo",
+          "children": {
+            "4": {
+              "word": "uchronia",
+              "children": {
+                "4": {
+                  "word": "uchuuron",
+                  "children": {}
+                },
+                "5": {
+                  "word": "uchuneko",
+                  "children": {
+                    "1": {
+                      "word": "uchunuko",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "uchuyaro",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "ucht2484",
+              "children": {
+                "5": {
+                  "word": "uchu-jin",
+                  "children": {
+                    "1": {
+                      "word": "uchuujin",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "uchuunin",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "uchukapi",
+                      "children": {
+                        "3": {
+                          "word": "uchulups",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "uchucoala",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ucic1223",
+              "children": {
+                "6": {
+                  "word": "ucupumar",
+                  "children": {
+                    "3": {
+                      "word": "ucy28mar",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "u-cha-py",
+          "children": {
+            "7": {
+              "word": "ucdw7443",
+              "children": {
+                "4": {
+                  "word": "ucju3447",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ucrz3837",
+                  "children": {
+                    "4": {
+                      "word": "uczc4857",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "ucye4228",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "ucwwucwww",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(ucbabbino)",
+      "children": {
+        "6": {
+          "word": "(uchuuneko)",
+          "children": {
+            "5": {
+              "word": "uchuubito",
+              "children": {
+                "3": {
+                  "word": "uchuujin)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(uchisukui)",
+          "children": {
+            "6": {
+              "word": "(ucoyou775)",
+              "children": {}
+            },
+            "7": {
+              "word": "uchronia)",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "uccs2225)",
+          "children": {
+            "4": {
+              "word": "uctn2277)",
+              "children": {}
+            },
+            "5": {
+              "word": "ucft3727)",
+              "children": {
+                "4": {
+                  "word": "ucgm3522)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "ucgs8782)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ucgx8234)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ucnd3578)",
+              "children": {
+                "6": {
+                  "word": "ucuw5843)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "uchamochi",
+              "children": {
+                "6": {
+                  "word": "uchuuneko",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "uchicchii",
+          "children": {
+            "4": {
+              "word": "uchigohan",
+              "children": {
+                "5": {
+                  "word": "uchimakei",
+                  "children": {
+                    "2": {
+                      "word": "uchimasui",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "uchiwatan",
+              "children": {
+                "7": {
+                  "word": "uchuuchou:",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(ucaghanabi)",
+      "children": {
+        "6": {
+          "word": "(uchitama?!)",
+          "children": {
+            "6": {
+              "word": "uchiwasabi",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "uchuwagasi",
+          "children": {}
+        },
+        "8": {
+          "word": "uchigatana",
+          "children": {
+            "3": {
+              "word": "uchiyamada",
+              "children": {}
+            },
+            "4": {
+              "word": "uchitama?!",
+              "children": {}
+            },
+            "5": {
+              "word": "uchinomaki",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "uchida-kun",
+          "children": {
+            "7": {
+              "word": "uchremushi",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "uchoutenko",
+          "children": {
+            "9": {
+              "word": "uck-eck-uck",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(uchiyama289)",
+      "children": {
+        "5": {
+          "word": "uchiyamasid",
+          "children": {
+            "3": {
+              "word": "uchiyamatan",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(uchronially)",
+          "children": {
+            "10": {
+              "word": "uchiyashiro",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "uchihaniray",
+          "children": {
+            "6": {
+              "word": "uchihigashi",
+              "children": {
+                "7": {
+                  "word": "uchiwaflame",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "uchinukenai",
+          "children": {
+            "7": {
+              "word": "uchuubranko",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "uchuuerohon",
+          "children": {
+            "6": {
+              "word": "uchuupi-art",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "word": "ucha20040131",
+      "children": {
+        "9": {
+          "word": "uchihasakino",
+          "children": {}
+        },
+        "10": {
+          "word": "ucsuannaijun",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "(uchiuchimia13)",
+      "children": {
+        "10": {
+          "word": "uchikoshi2525",
+          "children": {
+            "9": {
+              "word": "uchoohicohshi",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "uchinoko-chan",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "uchiyan-uchizum",
+      "children": {}
+    },
+    "14": {
+      "word": "(uchuukaijuu1917)",
+      "children": {
+        "14": {
+          "word": "ucbjw5p6zb79750",
+          "children": {
+            "14": {
+              "word": "ucyunananakocyan",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

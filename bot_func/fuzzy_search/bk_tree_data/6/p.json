@@ -1,0 +1,39 @@
+{
+  "word": "(6p",
+  "children": {
+    "1": {
+      "word": "(6pp",
+      "children": {}
+    },
+    "2": {
+      "word": "(6p6)",
+      "children": {}
+    },
+    "3": {
+      "word": "6p50",
+      "children": {
+        "2": {
+          "word": "6p62",
+          "children": {
+            "2": {
+              "word": "6pa)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(6p62's",
+      "children": {}
+    },
+    "5": {
+      "word": "6pnou2",
+      "children": {}
+    },
+    "14": {
+      "word": "(6pmhusnuunb6ui5)",
+      "children": {}
+    }
+  }
+}

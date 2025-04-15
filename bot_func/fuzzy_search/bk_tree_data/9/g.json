@@ -1,0 +1,48 @@
+{
+  "word": "(9guniguni)",
+  "children": {
+    "7": {
+      "word": "9gui2",
+      "children": {}
+    },
+    "8": {
+      "word": "9gag",
+      "children": {
+        "2": {
+          "word": "9gu",
+          "children": {}
+        },
+        "3": {
+          "word": "9gatsu",
+          "children": {}
+        },
+        "6": {
+          "word": "9gennfox",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "9-ga",
+      "children": {
+        "2": {
+          "word": "9-gou",
+          "children": {
+            "3": {
+              "word": "9g9",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "9gamerkgk",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "9gojonnybgo",
+      "children": {}
+    }
+  }
+}

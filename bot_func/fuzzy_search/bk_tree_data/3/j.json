@@ -1,0 +1,36 @@
+{
+  "word": "(3j3)",
+  "children": {
+    "3": {
+      "word": "(3jjbn)",
+      "children": {
+        "4": {
+          "word": "3jn7",
+          "children": {}
+        },
+        "5": {
+          "word": "3ji",
+          "children": {
+            "1": {
+              "word": "3jo",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "3-ji",
+      "children": {
+        "4": {
+          "word": "3jane",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(3jonemu",
+      "children": {}
+    }
+  }
+}

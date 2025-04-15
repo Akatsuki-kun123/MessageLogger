@@ -1,0 +1,307 @@
+{
+  "word": "(c-drop)",
+  "children": {
+    "4": {
+      "word": "(cd)",
+      "children": {
+        "2": {
+          "word": "(cd-i)",
+          "children": {
+            "2": {
+              "word": "(cddc)",
+              "children": {
+                "2": {
+                  "word": "(cdpa)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(cdlum)",
+          "children": {}
+        },
+        "4": {
+          "word": "c-dra",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(cd",
+      "children": {
+        "1": {
+          "word": "(cdl",
+          "children": {}
+        },
+        "2": {
+          "word": "cd)",
+          "children": {
+            "1": {
+              "word": "cdr",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "c-da",
+          "children": {
+            "3": {
+              "word": "cde)",
+              "children": {
+                "2": {
+                  "word": "cdlo",
+                  "children": {
+                    "2": {
+                      "word": "cdrw",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "cdone",
+          "children": {}
+        },
+        "5": {
+          "word": "(cd1897)",
+          "children": {
+            "4": {
+              "word": "(cdameg)",
+              "children": {
+                "4": {
+                  "word": "(cdggam)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "cdrp0k",
+              "children": {
+                "4": {
+                  "word": "cdsola",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(cdcdqqq)",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(cdh3539)",
+      "children": {
+        "6": {
+          "word": "cdov34",
+          "children": {
+            "4": {
+              "word": "cdumc3",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "cd",
+          "children": {
+            "1": {
+              "word": "cda",
+              "children": {
+                "1": {
+                  "word": "cdb",
+                  "children": {
+                    "1": {
+                      "word": "cdm",
+                      "children": {
+                        "1": {
+                          "word": "cds",
+                          "children": {
+                            "1": {
+                              "word": "cdu",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "cdte",
+              "children": {}
+            },
+            "3": {
+              "word": "cd2fm",
+              "children": {
+                "2": {
+                  "word": "cdlum",
+                  "children": {}
+                },
+                "3": {
+                  "word": "cdesu",
+                  "children": {
+                    "3": {
+                      "word": "cds06",
+                      "children": {
+                        "3": {
+                          "word": "cdzrc",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "cd2020",
+              "children": {
+                "4": {
+                  "word": "cdnagi",
+                  "children": {
+                    "4": {
+                      "word": "cdxdhd",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "c-diamond",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(cdjk7758)",
+      "children": {
+        "5": {
+          "word": "(cdwp2353)",
+          "children": {}
+        },
+        "8": {
+          "word": "cdawgva",
+          "children": {
+            "4": {
+              "word": "cdsuyta",
+              "children": {}
+            },
+            "5": {
+              "word": "cdgm000",
+              "children": {
+                "4": {
+                  "word": "cdmyum0",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "cdmurudo",
+              "children": {}
+            },
+            "7": {
+              "word": "cdromarts",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "c-dystoria",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "cdd032506",
+      "children": {
+        "4": {
+          "word": "cdxk3254",
+          "children": {}
+        },
+        "5": {
+          "word": "cdey3224)",
+          "children": {}
+        },
+        "6": {
+          "word": "cdkm5358)",
+          "children": {
+            "5": {
+              "word": "cdvk2385)",
+              "children": {}
+            },
+            "6": {
+              "word": "cdof1300",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "cdefsorab",
+          "children": {
+            "6": {
+              "word": "cdose112",
+              "children": {
+                "6": {
+                  "word": "cdtxufre",
+                  "children": {
+                    "5": {
+                      "word": "cdubbart",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "cdjw4444)",
+              "children": {
+                "6": {
+                  "word": "cdwe8882)",
+                  "children": {}
+                },
+                "7": {
+                  "word": "cdkz8872",
+                  "children": {
+                    "5": {
+                      "word": "cdyk5378",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "cdzdbzgoku",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "cdcarswell",
+      "children": {
+        "8": {
+          "word": "cddramadigi",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "cdypainting",
+      "children": {}
+    }
+  }
+}

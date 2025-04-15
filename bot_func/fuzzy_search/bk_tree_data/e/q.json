@@ -1,0 +1,318 @@
+{
+  "word": "(eq8",
+  "children": {
+    "2": {
+      "word": "eq",
+      "children": {
+        "1": {
+          "word": "eq)",
+          "children": {
+            "1": {
+              "word": "eq5",
+              "children": {
+                "1": {
+                  "word": "eqe",
+                  "children": {
+                    "1": {
+                      "word": "eqi",
+                      "children": {
+                        "1": {
+                          "word": "equ",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "e-qi",
+      "children": {
+        "3": {
+          "word": "equa",
+          "children": {
+            "1": {
+              "word": "eque",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(eqtjc)",
+      "children": {
+        "5": {
+          "word": "eqbal",
+          "children": {
+            "1": {
+              "word": "equal",
+              "children": {}
+            },
+            "2": {
+              "word": "equan",
+              "children": {}
+            },
+            "3": {
+              "word": "eqeww",
+              "children": {
+                "3": {
+                  "word": "eques",
+                  "children": {
+                    "1": {
+                      "word": "equis",
+                      "children": {
+                        "1": {
+                          "word": "equus",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "equip",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "e-qal",
+          "children": {
+            "3": {
+              "word": "e.que",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(eqeart)",
+      "children": {
+        "4": {
+          "word": "equal)",
+          "children": {}
+        },
+        "5": {
+          "word": "equala",
+          "children": {
+            "1": {
+              "word": "equals",
+              "children": {}
+            },
+            "3": {
+              "word": "eques)",
+              "children": {
+                "3": {
+                  "word": "equity",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "equine",
+          "children": {
+            "2": {
+              "word": "equius",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "e'quel",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(equal4d)",
+      "children": {
+        "4": {
+          "word": "equal02",
+          "children": {}
+        },
+        "5": {
+          "word": "equador",
+          "children": {
+            "3": {
+              "word": "equlair",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "equinox",
+          "children": {
+            "4": {
+              "word": "equotea",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "eqweeqwe",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(eqleoq34)",
+      "children": {
+        "5": {
+          "word": "(equleart)",
+          "children": {}
+        },
+        "6": {
+          "word": "(equalsai)",
+          "children": {
+            "4": {
+              "word": "(equation)",
+              "children": {}
+            },
+            "5": {
+              "word": "(equestria",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "equinox)",
+          "children": {}
+        },
+        "8": {
+          "word": "equality",
+          "children": {
+            "3": {
+              "word": "equation",
+              "children": {}
+            },
+            "4": {
+              "word": "equuleus",
+              "children": {}
+            },
+            "5": {
+              "word": "equipped",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(equal-one)",
+      "children": {
+        "3": {
+          "word": "(equation9)",
+          "children": {}
+        },
+        "4": {
+          "word": "(equal0615)",
+          "children": {
+            "3": {
+              "word": "(equal1014)",
+              "children": {}
+            },
+            "6": {
+              "word": "equation)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "equal-e-p",
+          "children": {
+            "4": {
+              "word": "equality)",
+              "children": {
+                "3": {
+                  "word": "equalizer",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "equ4lhate",
+          "children": {
+            "5": {
+              "word": "equalyiko",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "equipment",
+          "children": {}
+        },
+        "8": {
+          "word": "equestior",
+          "children": {
+            "3": {
+              "word": "equestria",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "equalarrow",
+      "children": {
+        "5": {
+          "word": "equalizer!",
+          "children": {
+            "6": {
+              "word": "equatorial",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "equipment)",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "equilibrium",
+      "children": {
+        "7": {
+          "word": "equinoxette",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "equippedboat",
+      "children": {}
+    },
+    "12": {
+      "word": "equilibrium3d",
+      "children": {}
+    },
+    "13": {
+      "word": "(eqgfcrqu2r82516)",
+      "children": {
+        "14": {
+          "word": "equinoxreverie",
+          "children": {}
+        },
+        "15": {
+          "word": "equ.darkmatter",
+          "children": {}
+        }
+      }
+    }
+  }
+}

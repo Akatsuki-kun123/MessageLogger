@@ -1,0 +1,73 @@
+{
+  "word": "(7cona5)",
+  "children": {
+    "4": {
+      "word": "(7corners)",
+      "children": {
+        "6": {
+          "word": "7co)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(7cube",
+      "children": {
+        "4": {
+          "word": "7cats",
+          "children": {
+            "2": {
+              "word": "7cta",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "7c",
+      "children": {
+        "1": {
+          "word": "7c'",
+          "children": {
+            "1": {
+              "word": "7cm",
+              "children": {
+                "1": {
+                  "word": "7cs",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "7crowns",
+          "children": {}
+        },
+        "7": {
+          "word": "7cinnamin",
+          "children": {
+            "6": {
+              "word": "7comachi7",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "7chaaaaan",
+      "children": {}
+    },
+    "8": {
+      "word": "7cervantes",
+      "children": {
+        "7": {
+          "word": "7cupcoffee",
+          "children": {}
+        }
+      }
+    }
+  }
+}

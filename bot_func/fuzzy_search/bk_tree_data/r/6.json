@@ -1,0 +1,30 @@
+{
+  "word": "(r60)",
+  "children": {
+    "2": {
+      "word": "r60",
+      "children": {}
+    },
+    "3": {
+      "word": "r6",
+      "children": {}
+    },
+    "4": {
+      "word": "r-63",
+      "children": {
+        "4": {
+          "word": "r6aru",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(r6hgvu5)",
+      "children": {}
+    },
+    "8": {
+      "word": "r68(rokuha)",
+      "children": {}
+    }
+  }
+}

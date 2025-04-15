@@ -1,0 +1,54 @@
+{
+  "word": "(3yami8)",
+  "children": {
+    "5": {
+      "word": "3yade",
+      "children": {
+        "2": {
+          "word": "3yan",
+          "children": {}
+        },
+        "3": {
+          "word": "3yuki",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "3year",
+      "children": {
+        "2": {
+          "word": "3yuazr",
+          "children": {}
+        },
+        "3": {
+          "word": "3yk0",
+          "children": {
+            "2": {
+              "word": "3you",
+              "children": {
+                "1": {
+                  "word": "3yu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(3yo4yo5yo)",
+      "children": {
+        "9": {
+          "word": "3yniaruk",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "3yo4yo5yo",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "word": "\"i",
+  "children": {
+    "1": {
+      "word": "(i",
+      "children": {
+        "1": {
+          "word": ":i",
+          "children": {
+            "1": {
+              "word": ";i",
+              "children": {
+                "1": {
+                  "word": "i",
+                  "children": {
+                    "1": {
+                      "word": "~i",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(i)",
+      "children": {
+        "1": {
+          "word": "(i-",
+          "children": {
+            "2": {
+              "word": "-i)",
+              "children": {
+                "1": {
+                  "word": "i)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "<i>",
+          "children": {
+            "2": {
+              "word": "[i]",
+              "children": {
+                "2": {
+                  "word": "i!",
+                  "children": {
+                    "1": {
+                      "word": "i-",
+                      "children": {
+                        "1": {
+                          "word": "i.",
+                          "children": {
+                            "1": {
+                              "word": "i:",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

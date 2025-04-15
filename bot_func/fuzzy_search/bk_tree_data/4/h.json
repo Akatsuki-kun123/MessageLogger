@@ -1,0 +1,59 @@
+{
+  "word": "(4-heart)",
+  "children": {
+    "4": {
+      "word": "(4hira)",
+      "children": {}
+    },
+    "5": {
+      "word": "(4h)",
+      "children": {
+        "4": {
+          "word": "(4h9xxx)",
+          "children": {
+            "4": {
+              "word": "(4hands)",
+              "children": {
+                "4": {
+                  "word": "(4hrk12)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "4hands",
+      "children": {
+        "4": {
+          "word": "4heeee",
+          "children": {
+            "4": {
+              "word": "4hh)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "4ho",
+      "children": {
+        "3": {
+          "word": "4hune",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "4hakamairi9",
+      "children": {}
+    },
+    "10": {
+      "word": "4heyheyhey12",
+      "children": {}
+    }
+  }
+}

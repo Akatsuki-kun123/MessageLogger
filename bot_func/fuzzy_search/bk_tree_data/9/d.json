@@ -1,0 +1,31 @@
+{
+  "word": "(9diamond-dogs)",
+  "children": {
+    "11": {
+      "word": "(9dtq0)",
+      "children": {}
+    },
+    "13": {
+      "word": "9d",
+      "children": {
+        "1": {
+          "word": "9dq",
+          "children": {
+            "1": {
+              "word": "9dw",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "9degree",
+          "children": {}
+        },
+        "8": {
+          "word": "9d5juk6bzt",
+          "children": {}
+        }
+      }
+    }
+  }
+}

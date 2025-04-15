@@ -1,0 +1,47 @@
+{
+  "word": "(4jima)",
+  "children": {
+    "3": {
+      "word": "(4johan)",
+      "children": {}
+    },
+    "4": {
+      "word": "4ji",
+      "children": {
+        "2": {
+          "word": "4jiri",
+          "children": {}
+        },
+        "3": {
+          "word": "4jirou",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "4-ji",
+      "children": {
+        "2": {
+          "word": "4j",
+          "children": {}
+        },
+        "5": {
+          "word": "4jigen4",
+          "children": {}
+        },
+        "6": {
+          "word": "4jouhan",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "4joukioto",
+      "children": {}
+    },
+    "12": {
+      "word": "(4jse6iryd699855)",
+      "children": {}
+    }
+  }
+}

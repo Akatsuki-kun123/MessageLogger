@@ -1,0 +1,3168 @@
+{
+  "word": "\"sweet",
+  "children": {
+    "1": {
+      "word": "(sweet",
+      "children": {
+        "1": {
+          "word": "-sweet",
+          "children": {
+            "1": {
+              "word": "sweet",
+              "children": {
+                "1": {
+                  "word": "~sweet",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(sweat",
+      "children": {
+        "1": {
+          "word": "sweat",
+          "children": {}
+        },
+        "2": {
+          "word": "(sweet)",
+          "children": {
+            "1": {
+              "word": "(sweets",
+              "children": {}
+            },
+            "3": {
+              "word": "swept",
+              "children": {
+                "1": {
+                  "word": "swet",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "swee",
+          "children": {
+            "1": {
+              "word": "sweed",
+              "children": {
+                "1": {
+                  "word": "sweem",
+                  "children": {
+                    "1": {
+                      "word": "sweep",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "sweet!",
+              "children": {
+                "1": {
+                  "word": "sweet)",
+                  "children": {
+                    "1": {
+                      "word": "sweet2",
+                      "children": {
+                        "1": {
+                          "word": "sweeto",
+                          "children": {
+                            "1": {
+                              "word": "sweets",
+                              "children": {
+                                "1": {
+                                  "word": "sweety",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(sweeter",
+      "children": {
+        "1": {
+          "word": "sweeter",
+          "children": {}
+        },
+        "2": {
+          "word": "(sweetie",
+          "children": {
+            "2": {
+              "word": "(sweets)",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "sweeeet",
+          "children": {
+            "2": {
+              "word": "sweetst",
+              "children": {}
+            },
+            "3": {
+              "word": "sweet'n",
+              "children": {
+                "2": {
+                  "word": "sweet-p",
+                  "children": {
+                    "2": {
+                      "word": "sweet55",
+                      "children": {
+                        "2": {
+                          "word": "sweetie",
+                          "children": {
+                            "2": {
+                              "word": "sweetly",
+                              "children": {
+                                "2": {
+                                  "word": "sweets)",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "swear",
+          "children": {
+            "2": {
+              "word": "sweaty",
+              "children": {
+                "2": {
+                  "word": "sweta",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "sweden",
+              "children": {
+                "2": {
+                  "word": "sweena",
+                  "children": {}
+                },
+                "3": {
+                  "word": "sweep)",
+                  "children": {
+                    "1": {
+                      "word": "sweepa",
+                      "children": {
+                        "1": {
+                          "word": "sweeps",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "sweeva",
+                      "children": {
+                        "2": {
+                          "word": "sweezy",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "swweeet",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "swat",
+          "children": {
+            "1": {
+              "word": "swit",
+              "children": {
+                "1": {
+                  "word": "swot",
+                  "children": {
+                    "1": {
+                      "word": "swt",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "swe",
+              "children": {
+                "1": {
+                  "word": "swei",
+                  "children": {
+                    "1": {
+                      "word": "swen",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "swheat",
+                  "children": {
+                    "3": {
+                      "word": "swift",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "swell",
+              "children": {
+                "2": {
+                  "word": "swemu",
+                  "children": {
+                    "2": {
+                      "word": "swena",
+                      "children": {
+                        "2": {
+                          "word": "sweyn",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "swepot",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(swan",
+      "children": {
+        "1": {
+          "word": "swan",
+          "children": {}
+        },
+        "2": {
+          "word": "(swat)",
+          "children": {
+            "1": {
+              "word": "(sway)",
+              "children": {}
+            },
+            "2": {
+              "word": "swan)",
+              "children": {}
+            },
+            "3": {
+              "word": "(swim",
+              "children": {
+                "2": {
+                  "word": "(swing",
+                  "children": {
+                    "3": {
+                      "word": "(swk",
+                      "children": {
+                        "1": {
+                          "word": "(swr",
+                          "children": {
+                            "2": {
+                              "word": "(swyk",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "(swoi",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "(sworn",
+                  "children": {
+                    "3": {
+                      "word": "swain",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "swa",
+                      "children": {
+                        "1": {
+                          "word": "swab",
+                          "children": {
+                            "1": {
+                              "word": "swag",
+                              "children": {
+                                "1": {
+                                  "word": "swap",
+                                  "children": {
+                                    "1": {
+                                      "word": "swav",
+                                      "children": {
+                                        "1": {
+                                          "word": "sway",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "swang",
+                  "children": {
+                    "1": {
+                      "word": "swank",
+                      "children": {
+                        "1": {
+                          "word": "swann",
+                          "children": {
+                            "1": {
+                              "word": "swans",
+                              "children": {
+                                "1": {
+                                  "word": "swany",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "swin",
+              "children": {
+                "1": {
+                  "word": "swon",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(swdp)",
+          "children": {
+            "1": {
+              "word": "(swdy)",
+              "children": {}
+            },
+            "2": {
+              "word": "(swiz)",
+              "children": {
+                "2": {
+                  "word": "(swot)",
+                  "children": {}
+                },
+                "3": {
+                  "word": "swap)",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "(swiss",
+              "children": {
+                "3": {
+                  "word": "(sword",
+                  "children": {}
+                },
+                "4": {
+                  "word": "sw)",
+                  "children": {
+                    "1": {
+                      "word": "swd",
+                      "children": {
+                        "1": {
+                          "word": "swp",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "swt)",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "swdmn",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "sw",
+              "children": {
+                "1": {
+                  "word": "sw1",
+                  "children": {
+                    "1": {
+                      "word": "sw2",
+                      "children": {
+                        "1": {
+                          "word": "swf",
+                          "children": {
+                            "1": {
+                              "word": "swg",
+                              "children": {
+                                "1": {
+                                  "word": "swh",
+                                  "children": {
+                                    "1": {
+                                      "word": "swi",
+                                      "children": {
+                                        "1": {
+                                          "word": "swk",
+                                          "children": {
+                                            "1": {
+                                              "word": "swm",
+                                              "children": {
+                                                "1": {
+                                                  "word": "sws",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "sw20",
+                  "children": {
+                    "2": {
+                      "word": "sw8k",
+                      "children": {
+                        "2": {
+                          "word": "swif",
+                          "children": {
+                            "1": {
+                              "word": "swig",
+                              "children": {
+                                "1": {
+                                  "word": "swim",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "swoo",
+                              "children": {
+                                "2": {
+                                  "word": "swsh",
+                                  "children": {
+                                    "1": {
+                                      "word": "swsw",
+                                      "children": {
+                                        "1": {
+                                          "word": "swsy",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "swtr",
+                                      "children": {
+                                        "2": {
+                                          "word": "sww9",
+                                          "children": {
+                                            "1": {
+                                              "word": "swwa",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "swaid",
+                  "children": {
+                    "2": {
+                      "word": "swall",
+                      "children": {
+                        "2": {
+                          "word": "swami",
+                          "children": {
+                            "1": {
+                              "word": "swamp",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "swarm",
+                              "children": {
+                                "2": {
+                                  "word": "swaya",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "swine",
+                      "children": {
+                        "1": {
+                          "word": "swing",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "swoon",
+                          "children": {
+                            "1": {
+                              "word": "sworn",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "swaney",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(sweater",
+          "children": {
+            "4": {
+              "word": "swatty",
+              "children": {
+                "4": {
+                  "word": "swear)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "swalot",
+              "children": {
+                "3": {
+                  "word": "swartz",
+                  "children": {
+                    "4": {
+                      "word": "swole",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "swipe",
+                  "children": {
+                    "1": {
+                      "word": "swire",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "swmtk",
+                      "children": {
+                        "3": {
+                          "word": "swt2)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "sw.31",
+              "children": {
+                "3": {
+                  "word": "sw745",
+                  "children": {
+                    "3": {
+                      "word": "swich",
+                      "children": {
+                        "2": {
+                          "word": "swim!",
+                          "children": {
+                            "1": {
+                              "word": "swim)",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "swirl",
+                              "children": {
+                                "2": {
+                                  "word": "swiss",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "swomp",
+                          "children": {
+                            "1": {
+                              "word": "swoop",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "swoog",
+                              "children": {
+                                "2": {
+                                  "word": "sword",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "swsh)",
+                              "children": {
+                                "1": {
+                                  "word": "swsp)",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "swvfg",
+                                  "children": {
+                                    "2": {
+                                      "word": "swxig",
+                                      "children": {}
+                                    },
+                                    "3": {
+                                      "word": "sww13",
+                                      "children": {
+                                        "3": {
+                                          "word": "swzbs",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(sweeten)",
+          "children": {
+            "4": {
+              "word": "sweater",
+              "children": {
+                "3": {
+                  "word": "sweeney",
+                  "children": {}
+                },
+                "4": {
+                  "word": "sweetman",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "sweaper",
+              "children": {
+                "3": {
+                  "word": "swerve",
+                  "children": {}
+                },
+                "4": {
+                  "word": "sweenoy",
+                  "children": {
+                    "4": {
+                      "word": "swell)",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "swift)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "swd3e2",
+              "children": {
+                "3": {
+                  "word": "swider",
+                  "children": {
+                    "1": {
+                      "word": "swimer",
+                      "children": {
+                        "1": {
+                          "word": "swiper",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "swivel",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "swwerz",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(sweetest",
+          "children": {
+            "4": {
+              "word": "sweeper",
+              "children": {
+                "4": {
+                  "word": "sweeting",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "swebkit",
+              "children": {
+                "3": {
+                  "word": "swertia",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "sweetcry",
+          "children": {
+            "2": {
+              "word": "sweetily",
+              "children": {}
+            },
+            "3": {
+              "word": "sweetest",
+              "children": {
+                "3": {
+                  "word": "sweethex",
+                  "children": {
+                    "3": {
+                      "word": "sweetmiu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(s-wab)",
+      "children": {
+        "3": {
+          "word": "(swarm)",
+          "children": {
+            "5": {
+              "word": "s-wake",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(swill)",
+          "children": {
+            "3": {
+              "word": "(sword)",
+              "children": {
+                "2": {
+                  "word": "(swtor)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "swablu",
+              "children": {
+                "3": {
+                  "word": "swamp)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "s-w",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(swd3e2)",
+          "children": {
+            "4": {
+              "word": "(swimmt)",
+              "children": {
+                "4": {
+                  "word": "(swkerc)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(swords",
+              "children": {
+                "2": {
+                  "word": "sword)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "swirl)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "swing)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "swahou",
+              "children": {
+                "3": {
+                  "word": "swalaf",
+                  "children": {
+                    "3": {
+                      "word": "swammi",
+                      "children": {
+                        "2": {
+                          "word": "swamps",
+                          "children": {
+                            "1": {
+                              "word": "swampy",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "swan's",
+                          "children": {
+                            "2": {
+                              "word": "swanna",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "swatch",
+                              "children": {
+                                "3": {
+                                  "word": "swayze",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "swaybat",
+                  "children": {
+                    "5": {
+                      "word": "swtare",
+                      "children": {
+                        "4": {
+                          "word": "sww097",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "s&w",
+              "children": {
+                "1": {
+                  "word": "s.w",
+                  "children": {}
+                },
+                "4": {
+                  "word": "s.wolf",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "swagger",
+          "children": {
+            "2": {
+              "word": "swarmer",
+              "children": {}
+            },
+            "3": {
+              "word": "swallez",
+              "children": {
+                "3": {
+                  "word": "swansea",
+                  "children": {}
+                },
+                "5": {
+                  "word": "sweagar",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "swampat",
+              "children": {
+                "4": {
+                  "word": "swaneye",
+                  "children": {
+                    "4": {
+                      "word": "swattis",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "sweater)",
+                  "children": {
+                    "5": {
+                      "word": "swiwwel",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "swing!",
+                      "children": {
+                        "1": {
+                          "word": "swing-",
+                          "children": {
+                            "1": {
+                              "word": "swings",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "swifts)",
+              "children": {
+                "3": {
+                  "word": "switch",
+                  "children": {
+                    "3": {
+                      "word": "swotsy",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "swimmy",
+                  "children": {
+                    "2": {
+                      "word": "swirly",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "swinub",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "swoosh",
+                      "children": {
+                        "3": {
+                          "word": "swords",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "swkl:d",
+                  "children": {
+                    "4": {
+                      "word": "swnoki",
+                      "children": {
+                        "4": {
+                          "word": "sword:",
+                          "children": {
+                            "1": {
+                              "word": "swordy",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "swt038",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "swoobat",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(sweethex)",
+          "children": {
+            "4": {
+              "word": "sweeper)",
+              "children": {}
+            },
+            "5": {
+              "word": "sweater:",
+              "children": {}
+            },
+            "6": {
+              "word": "sweating",
+              "children": {
+                "3": {
+                  "word": "sweatson",
+                  "children": {}
+                },
+                "5": {
+                  "word": "switzer",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "swampert",
+              "children": {
+                "3": {
+                  "word": "swimmer",
+                  "children": {}
+                },
+                "4": {
+                  "word": "swinery",
+                  "children": {
+                    "4": {
+                      "word": "sworder",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "swollen",
+                  "children": {}
+                },
+                "6": {
+                  "word": "swedish",
+                  "children": {
+                    "4": {
+                      "word": "swellow",
+                      "children": {
+                        "4": {
+                          "word": "swerzan",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "swadeart",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "(sweetfish",
+          "children": {
+            "3": {
+              "word": "(sweetfood",
+              "children": {
+                "4": {
+                  "word": "(sweetling",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "sweetwing",
+              "children": {}
+            },
+            "5": {
+              "word": "sweepers",
+              "children": {
+                "3": {
+                  "word": "sweeping",
+                  "children": {}
+                },
+                "4": {
+                  "word": "sweetest)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "sweetnano",
+                  "children": {
+                    "3": {
+                      "word": "sweetrain",
+                      "children": {
+                        "3": {
+                          "word": "sweetsa1t",
+                          "children": {
+                            "3": {
+                              "word": "sweetyaek",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "sweets-bu",
+                      "children": {
+                        "4": {
+                          "word": "sweetybir",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "swiftlet",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "sweet-ice",
+          "children": {
+            "3": {
+              "word": "sweetdiva",
+              "children": {
+                "3": {
+                  "word": "sweetfish",
+                  "children": {
+                    "3": {
+                      "word": "sweetlips",
+                      "children": {
+                        "3": {
+                          "word": "sweetmint",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "sweetixel",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "sweetches",
+              "children": {
+                "3": {
+                  "word": "sweetheat",
+                  "children": {
+                    "3": {
+                      "word": "sweetness",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "sweetdou3",
+                  "children": {
+                    "3": {
+                      "word": "sweetsoro",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "sweetiex2",
+                      "children": {
+                        "4": {
+                          "word": "sweetp247",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(sw4553)",
+      "children": {
+        "4": {
+          "word": "(swag01)",
+          "children": {
+            "4": {
+              "word": "(swindy)",
+              "children": {
+                "3": {
+                  "word": "(switch)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(swallow",
+          "children": {
+            "4": {
+              "word": "(swaying",
+              "children": {}
+            },
+            "6": {
+              "word": "sw54321",
+              "children": {
+                "5": {
+                  "word": "switch)",
+                  "children": {
+                    "4": {
+                      "word": "swords)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(sweeee10)",
+          "children": {
+            "6": {
+              "word": "swimmer)",
+              "children": {}
+            },
+            "7": {
+              "word": "(swimsuit",
+              "children": {
+                "7": {
+                  "word": "swfan90",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "sw-xaii",
+              "children": {
+                "4": {
+                  "word": "swahili",
+                  "children": {
+                    "4": {
+                      "word": "swirlie",
+                      "children": {
+                        "1": {
+                          "word": "swirlix",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "switchi",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "swdiary",
+                      "children": {
+                        "4": {
+                          "word": "swordia",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "sw50bmg",
+                  "children": {
+                    "4": {
+                      "word": "swavigg",
+                      "children": {
+                        "2": {
+                          "word": "swaying",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "swiping",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "swmkuma",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "swabian",
+                      "children": {
+                        "3": {
+                          "word": "swanmon",
+                          "children": {
+                            "1": {
+                              "word": "swanson",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "swfchan",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "swacoro",
+                          "children": {
+                            "3": {
+                              "word": "swajone",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "swaddle",
+                              "children": {
+                                "4": {
+                                  "word": "swallow",
+                                  "children": {}
+                                },
+                                "5": {
+                                  "word": "swbyoun",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "5": {
+                              "word": "swimcap",
+                              "children": {
+                                "3": {
+                                  "word": "swimmon",
+                                  "children": {}
+                                },
+                                "5": {
+                                  "word": "sworgun",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "swim-up",
+                          "children": {
+                            "3": {
+                              "word": "swirupa",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "swindle",
+                              "children": {
+                                "2": {
+                                  "word": "swizzle",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "swing!!",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "swiz667",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "swurst3d",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(sweetoim0)",
+          "children": {
+            "3": {
+              "word": "(sweets770)",
+              "children": {}
+            },
+            "4": {
+              "word": "(sweetsaku)",
+              "children": {
+                "1": {
+                  "word": "(sweetsazu)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "swastika",
+              "children": {
+                "3": {
+                  "word": "swatting",
+                  "children": {}
+                },
+                "5": {
+                  "word": "swiftail",
+                  "children": {
+                    "5": {
+                      "word": "swt-team",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "swelazin",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "swandita",
+              "children": {
+                "4": {
+                  "word": "swanport",
+                  "children": {
+                    "4": {
+                      "word": "swapnote",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "swimsuit",
+                  "children": {
+                    "4": {
+                      "word": "swingout",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "swoobats",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "sweilynh",
+                  "children": {
+                    "5": {
+                      "word": "swilhelm",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "swiftpaw",
+                      "children": {
+                        "5": {
+                          "word": "swimnemo",
+                          "children": {
+                            "3": {
+                              "word": "swipemon",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "switchel",
+                              "children": {
+                                "1": {
+                                  "word": "switches",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "switzler",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "swolefin",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "swaddled",
+              "children": {
+                "3": {
+                  "word": "swindler",
+                  "children": {}
+                },
+                "4": {
+                  "word": "swiggler",
+                  "children": {}
+                },
+                "5": {
+                  "word": "swapfell",
+                  "children": {
+                    "6": {
+                      "word": "swordart",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "swimmer-",
+                  "children": {
+                    "1": {
+                      "word": "swimmer?",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "swimwear",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "sworcery",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "swwhenry",
+                      "children": {
+                        "6": {
+                          "word": "swymsuyt",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "s.w.a.t.",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "(sweetheart",
+          "children": {
+            "5": {
+              "word": "sweetness)",
+              "children": {}
+            },
+            "6": {
+              "word": "sweatband",
+              "children": {
+                "4": {
+                  "word": "sweatsuit",
+                  "children": {}
+                },
+                "6": {
+                  "word": "sweepers!",
+                  "children": {
+                    "5": {
+                      "word": "sweeten310",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "sweet3wolf",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "sweatdrop",
+              "children": {
+                "6": {
+                  "word": "swensen's",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "swevenfox",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "-sweetheart",
+          "children": {
+            "1": {
+              "word": "sweetheart",
+              "children": {}
+            },
+            "4": {
+              "word": "sweetberry",
+              "children": {
+                "3": {
+                  "word": "sweetparty",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "sweetderan",
+              "children": {
+                "5": {
+                  "word": "sweetholic",
+                  "children": {
+                    "5": {
+                      "word": "sweetstorm",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "sweet-lola",
+              "children": {
+                "3": {
+                  "word": "sweetalpha",
+                  "children": {
+                    "4": {
+                      "word": "sweetfloss",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "sweetkooky",
+                  "children": {
+                    "4": {
+                      "word": "sweetsogga",
+                      "children": {
+                        "3": {
+                          "word": "sweetsuika",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "sweetstove",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "sweettle.n",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "sweetcoron",
+                  "children": {
+                    "4": {
+                      "word": "sweetpotsp",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "sweetspicy",
+                      "children": {
+                        "4": {
+                          "word": "sweetwitch",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(swallows",
+      "children": {
+        "1": {
+          "word": "swallows",
+          "children": {}
+        },
+        "2": {
+          "word": "swallow)",
+          "children": {}
+        },
+        "4": {
+          "word": "swadloon",
+          "children": {}
+        },
+        "5": {
+          "word": "(swapnote)",
+          "children": {
+            "5": {
+              "word": "(swkywon)",
+              "children": {}
+            },
+            "6": {
+              "word": "(swell102)",
+              "children": {
+                "7": {
+                  "word": "swanland",
+                  "children": {}
+                },
+                "8": {
+                  "word": "swagvo1d",
+                  "children": {
+                    "5": {
+                      "word": "swankiss",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "(swirling",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(swimming",
+          "children": {
+            "3": {
+              "word": "swarming",
+              "children": {
+                "2": {
+                  "word": "swirling",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "swapping",
+              "children": {}
+            },
+            "5": {
+              "word": "(swing!!)",
+              "children": {
+                "5": {
+                  "word": "(swtmiss)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(swrgymg)",
+              "children": {
+                "7": {
+                  "word": "swanhild",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "swanilda",
+              "children": {
+                "4": {
+                  "word": "swanyume",
+                  "children": {}
+                },
+                "5": {
+                  "word": "swaysway",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "sweatdrops",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(swimsuit)",
+          "children": {
+            "4": {
+              "word": "(swimwear)",
+              "children": {}
+            },
+            "5": {
+              "word": "(swittaru)",
+              "children": {
+                "6": {
+                  "word": "swimrain",
+                  "children": {
+                    "3": {
+                      "word": "switssin",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "swimming",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "swibnida",
+              "children": {
+                "4": {
+                  "word": "swinging",
+                  "children": {}
+                },
+                "5": {
+                  "word": "swimmmmy",
+                  "children": {
+                    "4": {
+                      "word": "swissman",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "sw00buuu",
+              "children": {
+                "6": {
+                  "word": "swida001",
+                  "children": {
+                    "3": {
+                      "word": "switch01",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "switch!!",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "swoksaar",
+                      "children": {
+                        "4": {
+                          "word": "swordian",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "swooping",
+                          "children": {
+                            "5": {
+                              "word": "swordgil",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "swiftclaw",
+                  "children": {
+                    "7": {
+                      "word": "swylveine",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "swca4858",
+              "children": {
+                "4": {
+                  "word": "swkn4778",
+                  "children": {
+                    "6": {
+                      "word": "swtd5855",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "swgf3738",
+                  "children": {
+                    "5": {
+                      "word": "swhj1988",
+                      "children": {
+                        "6": {
+                          "word": "swtr3355",
+                          "children": {
+                            "5": {
+                              "word": "swya3572",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "swhz4525",
+                      "children": {
+                        "5": {
+                          "word": "swrr5587",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "swfy5532",
+                  "children": {
+                    "6": {
+                      "word": "swordman",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "sweatpants",
+                  "children": {
+                    "7": {
+                      "word": "swordress",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "sweezdraws",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "sweather20",
+          "children": {
+            "6": {
+              "word": "swessyarts",
+              "children": {
+                "6": {
+                  "word": "swetrain4",
+                  "children": {}
+                },
+                "7": {
+                  "word": "swiftsure",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "swedenborg",
+              "children": {
+                "5": {
+                  "word": "swedgewood",
+                  "children": {}
+                },
+                "6": {
+                  "word": "sweepswoop",
+                  "children": {}
+                },
+                "7": {
+                  "word": "swimwear)",
+                  "children": {}
+                },
+                "8": {
+                  "word": "swhrta706",
+                  "children": {
+                    "6": {
+                      "word": "swiftcutz",
+                      "children": {
+                        "3": {
+                          "word": "swiftyuki",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "swiftsten",
+                          "children": {
+                            "4": {
+                              "word": "swiftwind",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "swubbletea",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "swimsuit)",
+              "children": {
+                "7": {
+                  "word": "swordtail",
+                  "children": {
+                    "7": {
+                      "word": "swyezi611",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "(sweetbriar)",
+          "children": {
+            "5": {
+              "word": "(sweetcandy)",
+              "children": {
+                "7": {
+                  "word": "sweetdreams",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "sweethearts",
+              "children": {
+                "5": {
+                  "word": "sweetpotat0",
+                  "children": {}
+                },
+                "6": {
+                  "word": "sweetporing",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "swedenball",
+              "children": {
+                "5": {
+                  "word": "sweeneybad",
+                  "children": {}
+                },
+                "8": {
+                  "word": "sweetcheese",
+                  "children": {
+                    "6": {
+                      "word": "sweetiemoon",
+                      "children": {
+                        "6": {
+                          "word": "sweetlychii",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "sweepy0314",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "sweet-apple",
+          "children": {
+            "5": {
+              "word": "sweet-queen",
+              "children": {
+                "6": {
+                  "word": "sweetnarumy",
+                  "children": {
+                    "5": {
+                      "word": "sweetsprite",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "sweetcherub",
+              "children": {
+                "4": {
+                  "word": "sweetheart)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "sweetdvvi01",
+                  "children": {
+                    "6": {
+                      "word": "sweetk1tten",
+                      "children": {
+                        "6": {
+                          "word": "sweetrinaxd",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "sweezrength",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(swan2525)",
+      "children": {
+        "4": {
+          "word": "(swansong)",
+          "children": {
+            "6": {
+              "word": "(swfh8575)",
+              "children": {
+                "4": {
+                  "word": "(swrb0505)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(swimmy05)",
+          "children": {
+            "6": {
+              "word": "(swpv5248)",
+              "children": {
+                "5": {
+                  "word": "(swup4722)",
+                  "children": {
+                    "5": {
+                      "word": "(swyt8223)",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "swkr5825)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(swing-red)",
+          "children": {
+            "8": {
+              "word": "swain1578",
+              "children": {
+                "7": {
+                  "word": "swkk5824)",
+                  "children": {
+                    "3": {
+                      "word": "swrw7824)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(swimjelly)",
+          "children": {
+            "6": {
+              "word": "swimming)",
+              "children": {}
+            },
+            "7": {
+              "word": "(swordzart)",
+              "children": {
+                "8": {
+                  "word": "swampland",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "(swordfish",
+              "children": {
+                "6": {
+                  "word": "swampfire",
+                  "children": {}
+                },
+                "7": {
+                  "word": "swampkips",
+                  "children": {}
+                },
+                "8": {
+                  "word": "swdk7338)",
+                  "children": {
+                    "7": {
+                      "word": "swinburne",
+                      "children": {
+                        "5": {
+                          "word": "swingchip",
+                          "children": {
+                            "4": {
+                              "word": "swinging!",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "swagapino",
+              "children": {
+                "4": {
+                  "word": "swatching",
+                  "children": {}
+                },
+                "5": {
+                  "word": "swan-thing",
+                  "children": {}
+                },
+                "6": {
+                  "word": "swallow02",
+                  "children": {
+                    "6": {
+                      "word": "swarmship",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(swimy0pe0u",
+          "children": {
+            "7": {
+              "word": "swilyring",
+              "children": {
+                "6": {
+                  "word": "swiminlcl",
+                  "children": {
+                    "6": {
+                      "word": "swimmer224",
+                      "children": {
+                        "7": {
+                          "word": "switchyou",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "swidowski",
+              "children": {
+                "6": {
+                  "word": "swirl9017",
+                  "children": {
+                    "4": {
+                      "word": "swirlkura",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "switch365",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "swennosuke",
+              "children": {
+                "7": {
+                  "word": "swkingdom",
+                  "children": {
+                    "7": {
+                      "word": "sword-lkb",
+                      "children": {
+                        "4": {
+                          "word": "swordance",
+                          "children": {
+                            "4": {
+                              "word": "swordsman",
+                              "children": {
+                                "3": {
+                                  "word": "swordsong",
+                                  "children": {
+                                    "2": {
+                                      "word": "swordsoul",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "8": {
+                  "word": "swkzw1015",
+                  "children": {
+                    "7": {
+                      "word": "swordfish",
+                      "children": {
+                        "4": {
+                          "word": "swordhand",
+                          "children": {
+                            "4": {
+                              "word": "swordzorc",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "(sweet10stsn)",
+          "children": {
+            "5": {
+              "word": "(sweethearts)",
+              "children": {}
+            },
+            "6": {
+              "word": "(sweetlychii)",
+              "children": {
+                "5": {
+                  "word": "(sweetpocket)",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "switch-tan",
+              "children": {}
+            },
+            "9": {
+              "word": "swiftfrost",
+              "children": {
+                "8": {
+                  "word": "swordstaff",
+                  "children": {
+                    "3": {
+                      "word": "swordstick",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "swordsmith",
+              "children": {
+                "4": {
+                  "word": "swordwaltz",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "swordcraft",
+              "children": {
+                "5": {
+                  "word": "swordriver",
+                  "children": {
+                    "3": {
+                      "word": "sworgrader",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "(sweetheart's",
+          "children": {
+            "3": {
+              "word": "sweethearts)",
+              "children": {}
+            },
+            "7": {
+              "word": "swordheists",
+              "children": {}
+            },
+            "8": {
+              "word": "sweetsnow914",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "sweetberries",
+          "children": {
+            "5": {
+              "word": "sweetiecrepe",
+              "children": {}
+            },
+            "6": {
+              "word": "sweetblossom",
+              "children": {
+                "6": {
+                  "word": "sweetmeloday",
+                  "children": {}
+                },
+                "7": {
+                  "word": "sweetearth84",
+                  "children": {
+                    "7": {
+                      "word": "sweetymeiden",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "sweetcassava",
+              "children": {
+                "5": {
+                  "word": "sweetchimera",
+                  "children": {}
+                },
+                "6": {
+                  "word": "sweetdivakay",
+                  "children": {}
+                },
+                "7": {
+                  "word": "sweethome026",
+                  "children": {
+                    "6": {
+                      "word": "sweetsoupman",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "sweetstellar",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(sw4189101)",
+      "children": {
+        "7": {
+          "word": "(swampchin)",
+          "children": {
+            "7": {
+              "word": "(swoonnoah)",
+              "children": {}
+            },
+            "9": {
+              "word": "sw21159502",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "(swiftswift)",
+          "children": {
+            "7": {
+              "word": "swimradio)",
+              "children": {}
+            },
+            "8": {
+              "word": "(sworgrader)",
+              "children": {
+                "7": {
+                  "word": "swordsman)",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "sw56441674",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(swallowtail",
+          "children": {
+            "5": {
+              "word": "swallow165",
+              "children": {
+                "3": {
+                  "word": "swallowing",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "swampmagik",
+              "children": {}
+            },
+            "9": {
+              "word": "(sweater5656)",
+              "children": {
+                "9": {
+                  "word": "swatchling",
+                  "children": {}
+                },
+                "11": {
+                  "word": "sword-wind",
+                  "children": {
+                    "4": {
+                      "word": "swordalice",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "swxzananas",
+                      "children": {}
+                    },
+                    "9": {
+                      "word": "swscout1222",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "swissrifle",
+              "children": {
+                "7": {
+                  "word": "swordsouls",
+                  "children": {}
+                },
+                "8": {
+                  "word": "swordfangs",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "sweetblue1010",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "(sweet-potato)",
+          "children": {
+            "6": {
+              "word": "(sweetmeloday)",
+              "children": {
+                "9": {
+                  "word": "sweet-pop1301",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "(sweetandsour)",
+              "children": {
+                "7": {
+                  "word": "(sweetsmaniac)",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "sweetchan1004",
+              "children": {}
+            },
+            "10": {
+              "word": "swallowtail",
+              "children": {
+                "8": {
+                  "word": "switchtilde",
+                  "children": {
+                    "7": {
+                      "word": "switzerland",
+                      "children": {}
+                    },
+                    "9": {
+                      "word": "swordswoman",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "swiftatk777",
+                  "children": {
+                    "9": {
+                      "word": "sword-dream",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "11": {
+              "word": "swanprincex",
+              "children": {
+                "7": {
+                  "word": "swapperj333",
+                  "children": {}
+                },
+                "8": {
+                  "word": "swiiiiiits!",
+                  "children": {
+                    "8": {
+                      "word": "swordmaster",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "swordstress",
+                  "children": {}
+                }
+              }
+            },
+            "12": {
+              "word": "s.wakisaka",
+              "children": {
+                "8": {
+                  "word": "swarmcaller",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "sweethome0099",
+          "children": {
+            "6": {
+              "word": "sweetslove198",
+              "children": {}
+            },
+            "10": {
+              "word": "swordbreaker",
+              "children": {
+                "6": {
+                  "word": "swordofdeath",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "swissedtoast",
+              "children": {
+                "8": {
+                  "word": "swursterotic",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "sweet-empress",
+          "children": {
+            "6": {
+              "word": "sweetcritters",
+              "children": {}
+            },
+            "7": {
+              "word": "sweetcrescent",
+              "children": {}
+            },
+            "8": {
+              "word": "sweetolpotato",
+              "children": {
+                "8": {
+                  "word": "~sweet&bitter~",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(sw09010901)",
+      "children": {
+        "8": {
+          "word": "(swamparrow)",
+          "children": {
+            "8": {
+              "word": "(sworddavid)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(swallowtail)",
+          "children": {
+            "6": {
+              "word": "swallowx000",
+              "children": {}
+            },
+            "8": {
+              "word": "(swiftlyswan)",
+              "children": {}
+            },
+            "9": {
+              "word": "(swan's-down",
+              "children": {
+                "9": {
+                  "word": "(sword-dream)",
+                  "children": {
+                    "6": {
+                      "word": "(swordmaiden)",
+                      "children": {}
+                    }
+                  }
+                },
+                "10": {
+                  "word": "(swordmaster)",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "swkanon0419",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "(sweepysheepy)",
+          "children": {
+            "7": {
+              "word": "swoopyshape",
+              "children": {}
+            },
+            "10": {
+              "word": "swordswoman)",
+              "children": {}
+            },
+            "11": {
+              "word": "swallowtail)",
+              "children": {
+                "9": {
+                  "word": "switchblade",
+                  "children": {
+                    "3": {
+                      "word": "switchboard",
+                      "children": {}
+                    },
+                    "9": {
+                      "word": "swordscomic",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "12": {
+              "word": "swagamicchi",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "(sweethoneybee)",
+          "children": {
+            "11": {
+              "word": "swigosip-eum",
+              "children": {
+                "9": {
+                  "word": "swordman.exe",
+                  "children": {}
+                },
+                "10": {
+                  "word": "swordmankite",
+                  "children": {}
+                }
+              }
+            },
+            "12": {
+              "word": "swi-silverna",
+              "children": {
+                "8": {
+                  "word": "swordstalker",
+                  "children": {}
+                },
+                "9": {
+                  "word": "sword-dancer",
+                  "children": {
+                    "4": {
+                      "word": "swordsmaster",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "swordfighter",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "13": {
+              "word": "swagkashiart",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "s-watered-man",
+          "children": {
+            "10": {
+              "word": "swallowgreeny",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "sweeetrazzbery",
+          "children": {
+            "8": {
+              "word": "sweetxrainfall",
+              "children": {}
+            },
+            "9": {
+              "word": "sweetvillagesc",
+              "children": {}
+            },
+            "10": {
+              "word": "sweetonedollar",
+              "children": {
+                "9": {
+                  "word": "sweetsmilensfw",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "word": "(swaganisledge)",
+      "children": {
+        "8": {
+          "word": "(swagkashiart)",
+          "children": {}
+        },
+        "9": {
+          "word": "(swallowstars)",
+          "children": {}
+        },
+        "10": {
+          "word": "(swordfighter)",
+          "children": {}
+        },
+        "11": {
+          "word": "(sweetonedollar)",
+          "children": {
+            "9": {
+              "word": "(sweettimehappy)",
+              "children": {}
+            },
+            "13": {
+              "word": "swordmistress",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "swallow-wisp",
+          "children": {
+            "10": {
+              "word": "swijid028821",
+              "children": {
+                "9": {
+                  "word": "swimbird-346",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "13": {
+          "word": "sweet-blueberry",
+          "children": {
+            "9": {
+              "word": "sweetcoolcolors",
+              "children": {
+                "9": {
+                  "word": "sweetlicktreats",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "sweetdreamnight",
+              "children": {
+                "10": {
+                  "word": "sweeteacrummble",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "swerte66390688",
+              "children": {}
+            },
+            "12": {
+              "word": "switchback87",
+              "children": {}
+            },
+            "13": {
+              "word": "sws720626411",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "(swallow-luff)",
+      "children": {
+        "7": {
+          "word": "swallow-tailed",
+          "children": {
+            "6": {
+              "word": "swallowszinan",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "swimmingpool)",
+          "children": {}
+        },
+        "12": {
+          "word": "(sweet-honey1560)",
+          "children": {
+            "10": {
+              "word": "(sweetly-chaotic)",
+              "children": {}
+            },
+            "14": {
+              "word": "swanlakeredance",
+              "children": {}
+            },
+            "15": {
+              "word": "swordsmachine",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "swabthegamerman",
+          "children": {
+            "11": {
+              "word": "sworddraken111",
+              "children": {}
+            },
+            "12": {
+              "word": "sweetlittlekitty",
+              "children": {
+                "12": {
+                  "word": "swiftskinscoil",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "14": {
+          "word": "sweetpotatojelly",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "(swiftcastbroil)",
+      "children": {
+        "10": {
+          "word": "(swordofthestone)",
+          "children": {}
+        },
+        "11": {
+          "word": "swordwaltzworks",
+          "children": {}
+        },
+        "12": {
+          "word": "(swliyhbpe9xqqze)",
+          "children": {
+            "14": {
+              "word": "swissmissmachi",
+              "children": {
+                "12": {
+                  "word": "switzerlandball",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "13": {
+          "word": "swastika-shaped",
+          "children": {
+            "13": {
+              "word": "swkrqgefvm4pims",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "word": "(swpvercirozcyod)",
+      "children": {
+        "14": {
+          "word": "sweetcafe-chocolat",
+          "children": {
+            "14": {
+              "word": "swimsuitsuccubus",
+              "children": {}
+            }
+          }
+        },
+        "15": {
+          "word": "swaglord6942069",
+          "children": {
+            "10": {
+              "word": "swallowtail-0507",
+              "children": {}
+            },
+            "11": {
+              "word": "swallowtail-bird",
+              "children": {}
+            }
+          }
+        },
+        "16": {
+          "word": "sweetolivefragrans",
+          "children": {}
+        }
+      }
+    },
+    "17": {
+      "word": "swinging-flashlight",
+      "children": {}
+    },
+    "18": {
+      "word": "sweet-childhood-dreams",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "word": "(9pon)",
+  "children": {
+    "3": {
+      "word": "9p)",
+      "children": {}
+    },
+    "4": {
+      "word": "9pain",
+      "children": {
+        "3": {
+          "word": "9pikon",
+          "children": {
+            "4": {
+              "word": "9pm",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "9puramu",
+      "children": {}
+    }
+  }
+}

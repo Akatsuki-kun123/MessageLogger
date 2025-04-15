@@ -1,0 +1,4191 @@
+{
+  "word": "\"snow",
+  "children": {
+    "1": {
+      "word": "(snow",
+      "children": {
+        "1": {
+          "word": "-snow",
+          "children": {
+            "1": {
+              "word": "snow",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(snow)",
+      "children": {
+        "1": {
+          "word": "(snowy",
+          "children": {
+            "2": {
+              "word": "snow)",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "snow4",
+          "children": {
+            "1": {
+              "word": "snowe",
+              "children": {
+                "1": {
+                  "word": "snowf",
+                  "children": {
+                    "1": {
+                      "word": "snowl",
+                      "children": {
+                        "1": {
+                          "word": "snowp",
+                          "children": {
+                            "1": {
+                              "word": "snoww",
+                              "children": {
+                                "1": {
+                                  "word": "snowy",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "s-now",
+          "children": {
+            "2": {
+              "word": "sngw",
+              "children": {
+                "1": {
+                  "word": "snuw",
+                  "children": {}
+                },
+                "2": {
+                  "word": "sno",
+                  "children": {
+                    "1": {
+                      "word": "snoa",
+                      "children": {
+                        "1": {
+                          "word": "snob",
+                          "children": {
+                            "1": {
+                              "word": "snod",
+                              "children": {
+                                "1": {
+                                  "word": "snoe",
+                                  "children": {
+                                    "1": {
+                                      "word": "snom",
+                                      "children": {
+                                        "1": {
+                                          "word": "snoo",
+                                          "children": {
+                                            "1": {
+                                              "word": "snot",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(sn",
+      "children": {
+        "1": {
+          "word": "(sn)",
+          "children": {
+            "1": {
+              "word": "(snd",
+              "children": {
+                "1": {
+                  "word": "(snk",
+                  "children": {
+                    "1": {
+                      "word": "(snn",
+                      "children": {
+                        "1": {
+                          "word": "(snu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "sn",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "(sn25",
+          "children": {
+            "2": {
+              "word": "(sna1",
+              "children": {
+                "1": {
+                  "word": "(snao",
+                  "children": {}
+                },
+                "2": {
+                  "word": "(sngm",
+                  "children": {
+                    "2": {
+                      "word": "(snk)",
+                      "children": {
+                        "1": {
+                          "word": "(sns)",
+                          "children": {
+                            "1": {
+                              "word": "(snt)",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "(snrb",
+                          "children": {
+                            "2": {
+                              "word": "(snsn",
+                              "children": {
+                                "2": {
+                                  "word": "(snzi",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "sn2",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "sn)",
+              "children": {
+                "1": {
+                  "word": "sn1",
+                  "children": {
+                    "1": {
+                      "word": "sn3",
+                      "children": {
+                        "1": {
+                          "word": "sna",
+                          "children": {
+                            "1": {
+                              "word": "snb",
+                              "children": {
+                                "1": {
+                                  "word": "snc",
+                                  "children": {
+                                    "1": {
+                                      "word": "snd",
+                                      "children": {
+                                        "1": {
+                                          "word": "sne",
+                                          "children": {
+                                            "1": {
+                                              "word": "sng",
+                                              "children": {
+                                                "1": {
+                                                  "word": "snh",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "sni",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "snj",
+                                                          "children": {
+                                                            "1": {
+                                                              "word": "snk",
+                                                              "children": {
+                                                                "1": {
+                                                                  "word": "snl",
+                                                                  "children": {
+                                                                    "1": {
+                                                                      "word": "snm",
+                                                                      "children": {
+                                                                        "1": {
+                                                                          "word": "snn",
+                                                                          "children": {
+                                                                            "1": {
+                                                                              "word": "snr",
+                                                                              "children": {
+                                                                                "1": {
+                                                                                  "word": "sns",
+                                                                                  "children": {
+                                                                                    "1": {
+                                                                                      "word": "snt",
+                                                                                      "children": {
+                                                                                        "1": {
+                                                                                          "word": "sny",
+                                                                                          "children": {}
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(snog)",
+          "children": {
+            "2": {
+              "word": "(snomi",
+              "children": {
+                "4": {
+                  "word": "sng)",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "snag",
+              "children": {
+                "1": {
+                  "word": "snug",
+                  "children": {}
+                },
+                "2": {
+                  "word": "sngk",
+                  "children": {
+                    "2": {
+                      "word": "snt)",
+                      "children": {
+                        "1": {
+                          "word": "snu)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "s-no",
+              "children": {
+                "2": {
+                  "word": "snao",
+                  "children": {
+                    "2": {
+                      "word": "snnm",
+                      "children": {
+                        "1": {
+                          "word": "snnt",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "sn07",
+                  "children": {
+                    "2": {
+                      "word": "sn2a",
+                      "children": {
+                        "1": {
+                          "word": "sn2k",
+                          "children": {
+                            "2": {
+                              "word": "snda",
+                              "children": {
+                                "1": {
+                                  "word": "snfa",
+                                  "children": {
+                                    "1": {
+                                      "word": "snya",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "sn31",
+                          "children": {
+                            "2": {
+                              "word": "sn50",
+                              "children": {
+                                "1": {
+                                  "word": "snd0",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "sn95",
+                                  "children": {
+                                    "2": {
+                                      "word": "sna9",
+                                      "children": {
+                                        "1": {
+                                          "word": "snap",
+                                          "children": {
+                                            "1": {
+                                              "word": "snax",
+                                              "children": {}
+                                            }
+                                          }
+                                        },
+                                        "2": {
+                                          "word": "snbn",
+                                          "children": {
+                                            "1": {
+                                              "word": "sndn",
+                                              "children": {
+                                                "1": {
+                                                  "word": "snen",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "snhn",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "snrn",
+                                                          "children": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            "2": {
+                                              "word": "sncf",
+                                              "children": {
+                                                "2": {
+                                                  "word": "sndy",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "snmy",
+                                                      "children": {}
+                                                    },
+                                                    "2": {
+                                                      "word": "snee",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "snek",
+                                                          "children": {
+                                                            "1": {
+                                                              "word": "sneu",
+                                                              "children": {}
+                                                            }
+                                                          }
+                                                        },
+                                                        "2": {
+                                                          "word": "snip",
+                                                          "children": {
+                                                            "1": {
+                                                              "word": "snyp",
+                                                              "children": {}
+                                                            },
+                                                            "2": {
+                                                              "word": "snld",
+                                                              "children": {
+                                                                "2": {
+                                                                  "word": "snmi",
+                                                                  "children": {
+                                                                    "1": {
+                                                                      "word": "snmk",
+                                                                      "children": {
+                                                                        "1": {
+                                                                          "word": "snmt",
+                                                                          "children": {}
+                                                                        },
+                                                                        "2": {
+                                                                          "word": "snti",
+                                                                          "children": {}
+                                                                        }
+                                                                      }
+                                                                    },
+                                                                    "2": {
+                                                                      "word": "snpr",
+                                                                      "children": {
+                                                                        "2": {
+                                                                          "word": "snsk",
+                                                                          "children": {
+                                                                            "1": {
+                                                                              "word": "snsq",
+                                                                              "children": {}
+                                                                            },
+                                                                            "2": {
+                                                                              "word": "snub",
+                                                                              "children": {
+                                                                                "1": {
+                                                                                  "word": "snuq",
+                                                                                  "children": {
+                                                                                    "1": {
+                                                                                      "word": "snus",
+                                                                                      "children": {}
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(snowy)",
+          "children": {
+            "3": {
+              "word": "snob)",
+              "children": {}
+            },
+            "4": {
+              "word": "snao)",
+              "children": {
+                "2": {
+                  "word": "snooa",
+                  "children": {
+                    "1": {
+                      "word": "snoop",
+                      "children": {
+                        "1": {
+                          "word": "snoos",
+                          "children": {
+                            "1": {
+                              "word": "snoot",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "snome",
+                  "children": {
+                    "2": {
+                      "word": "snorc",
+                      "children": {
+                        "1": {
+                          "word": "snork",
+                          "children": {
+                            "1": {
+                              "word": "snort",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "snout",
+                          "children": {
+                            "2": {
+                              "word": "snovi",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "sncol",
+              "children": {
+                "1": {
+                  "word": "snyol",
+                  "children": {}
+                },
+                "2": {
+                  "word": "snnoa",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "snosnow",
+          "children": {
+            "3": {
+              "word": "snowww",
+              "children": {}
+            },
+            "4": {
+              "word": "snow's",
+              "children": {
+                "2": {
+                  "word": "snow-d",
+                  "children": {
+                    "2": {
+                      "word": "snow12",
+                      "children": {
+                        "2": {
+                          "word": "snow54",
+                          "children": {
+                            "2": {
+                              "word": "snowdr",
+                              "children": {
+                                "2": {
+                                  "word": "snowel",
+                                  "children": {
+                                    "1": {
+                                      "word": "snowfl",
+                                      "children": {}
+                                    },
+                                    "2": {
+                                      "word": "snowfi",
+                                      "children": {
+                                        "1": {
+                                          "word": "snowii",
+                                          "children": {
+                                            "1": {
+                                              "word": "snowmi",
+                                              "children": {
+                                                "1": {
+                                                  "word": "snowpi",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "2": {
+                                          "word": "snowha",
+                                          "children": {
+                                            "2": {
+                                              "word": "snowie",
+                                              "children": {
+                                                "2": {
+                                                  "word": "snowly",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(sna4)",
+      "children": {
+        "2": {
+          "word": "(snack",
+          "children": {
+            "2": {
+              "word": "(snafy",
+              "children": {
+                "2": {
+                  "word": "(snail",
+                  "children": {
+                    "2": {
+                      "word": "(snake",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "(snc7)",
+              "children": {
+                "2": {
+                  "word": "(snhs)",
+                  "children": {
+                    "2": {
+                      "word": "(snip)",
+                      "children": {
+                        "1": {
+                          "word": "(snqp)",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "(snm))",
+                          "children": {
+                            "2": {
+                              "word": "(snsj)",
+                              "children": {
+                                "2": {
+                                  "word": "(snz0)",
+                                  "children": {
+                                    "1": {
+                                      "word": "(snze)",
+                                      "children": {
+                                        "1": {
+                                          "word": "(snzk)",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(snboo)",
+          "children": {
+            "4": {
+              "word": "(snoain",
+              "children": {
+                "4": {
+                  "word": "(sntgr",
+                  "children": {
+                    "5": {
+                      "word": "snoi4)",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "sn25)",
+                  "children": {
+                    "2": {
+                      "word": "snkn)",
+                      "children": {
+                        "2": {
+                          "word": "snmt)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "snack",
+              "children": {
+                "1": {
+                  "word": "snark",
+                  "children": {}
+                },
+                "2": {
+                  "word": "snafu",
+                  "children": {
+                    "1": {
+                      "word": "snaru",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "snail",
+                      "children": {
+                        "1": {
+                          "word": "snarl",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "snake",
+                          "children": {
+                            "1": {
+                              "word": "snaki",
+                              "children": {
+                                "2": {
+                                  "word": "snale",
+                                  "children": {
+                                    "1": {
+                                      "word": "snape",
+                                      "children": {
+                                        "1": {
+                                          "word": "snare",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "snana",
+                              "children": {
+                                "2": {
+                                  "word": "snaps",
+                                  "children": {
+                                    "2": {
+                                      "word": "snarf",
+                                      "children": {
+                                        "1": {
+                                          "word": "snart",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(snobby",
+          "children": {
+            "4": {
+              "word": "(snow77)",
+              "children": {
+                "5": {
+                  "word": "snoacz",
+                  "children": {}
+                },
+                "6": {
+                  "word": "snivy",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "sn077",
+              "children": {
+                "2": {
+                  "word": "sny87",
+                  "children": {}
+                },
+                "3": {
+                  "word": "sn1ke",
+                  "children": {
+                    "2": {
+                      "word": "snine",
+                      "children": {
+                        "1": {
+                          "word": "snipe",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "snyde",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "sn564",
+                      "children": {
+                        "2": {
+                          "word": "sn5st",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "sneak",
+                          "children": {
+                            "1": {
+                              "word": "snkak",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "sneeg",
+                              "children": {
+                                "1": {
+                                  "word": "sneer",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "sneff",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "snick",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "snf8l",
+                              "children": {
+                                "3": {
+                                  "word": "sniff",
+                                  "children": {
+                                    "1": {
+                                      "word": "snuff",
+                                      "children": {}
+                                    },
+                                    "2": {
+                                      "word": "snips",
+                                      "children": {
+                                        "2": {
+                                          "word": "snitz",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "3": {
+                                      "word": "snmdx",
+                                      "children": {
+                                        "3": {
+                                          "word": "snrns",
+                                          "children": {
+                                            "3": {
+                                              "word": "snsei",
+                                              "children": {
+                                                "3": {
+                                                  "word": "snupp",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "snnaol",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "s!na",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(snowman",
+          "children": {
+            "4": {
+              "word": "snimon",
+              "children": {
+                "4": {
+                  "word": "snooza",
+                  "children": {}
+                },
+                "5": {
+                  "word": "snow27)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "snooop",
+              "children": {
+                "2": {
+                  "word": "snoops",
+                  "children": {
+                    "1": {
+                      "word": "snoopy",
+                      "children": {
+                        "1": {
+                          "word": "snoopz",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "snooty",
+                      "children": {
+                        "1": {
+                          "word": "snoozy",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "snooze",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "snoppy",
+                  "children": {
+                    "2": {
+                      "word": "snorey",
+                      "children": {
+                        "2": {
+                          "word": "snotty",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "snor34",
+                      "children": {
+                        "2": {
+                          "word": "snorks",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "snosqu",
+                          "children": {
+                            "3": {
+                              "word": "snover",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "snkkof",
+              "children": {
+                "4": {
+                  "word": "snyoki",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "s.n.x",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "s.n.o.w",
+          "children": {
+            "5": {
+              "word": "snoperw",
+              "children": {
+                "3": {
+                  "word": "snowbow",
+                  "children": {}
+                },
+                "4": {
+                  "word": "snowolf",
+                  "children": {
+                    "2": {
+                      "word": "snowone",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "snowwan",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "snow124",
+              "children": {
+                "2": {
+                  "word": "snow234",
+                  "children": {}
+                },
+                "3": {
+                  "word": "snowbot",
+                  "children": {
+                    "1": {
+                      "word": "snowbox",
+                      "children": {
+                        "1": {
+                          "word": "snowboy",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "snowcat",
+                      "children": {
+                        "2": {
+                          "word": "snowkit",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "snowdoc",
+                          "children": {
+                            "1": {
+                              "word": "snowdon",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "snowfox",
+                              "children": {
+                                "2": {
+                                  "word": "snowmob",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "snowchu",
+                      "children": {
+                        "2": {
+                          "word": "snowcie",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "snowdin",
+                          "children": {
+                            "2": {
+                              "word": "snowgie",
+                              "children": {
+                                "2": {
+                                  "word": "snowgun",
+                                  "children": {
+                                    "3": {
+                                      "word": "snowmix",
+                                      "children": {
+                                        "1": {
+                                          "word": "snowpix",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "3": {
+                                  "word": "snowing",
+                                  "children": {
+                                    "3": {
+                                      "word": "snowman",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "snowfly",
+                              "children": {
+                                "2": {
+                                  "word": "snowfur",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "snowier",
+                                  "children": {
+                                    "2": {
+                                      "word": "snowleo",
+                                      "children": {}
+                                    },
+                                    "3": {
+                                      "word": "snowmya",
+                                      "children": {
+                                        "3": {
+                                          "word": "snowzcz",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(s.n.o.w)",
+      "children": {
+        "4": {
+          "word": "(snoory)",
+          "children": {}
+        },
+        "5": {
+          "word": "(sn468)",
+          "children": {
+            "3": {
+              "word": "(snach)",
+              "children": {
+                "1": {
+                  "word": "(snack)",
+                  "children": {}
+                },
+                "2": {
+                  "word": "(snail)",
+                  "children": {
+                    "2": {
+                      "word": "(snake)",
+                      "children": {
+                        "1": {
+                          "word": "(snale)",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "(snaps)",
+                          "children": {
+                            "2": {
+                              "word": "(snari)",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "(sneya)",
+                  "children": {
+                    "2": {
+                      "word": "(snryk)",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "(sntmr)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "(snovee)",
+              "children": {
+                "3": {
+                  "word": "(snozsz)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "(snznoz)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(snails",
+          "children": {
+            "2": {
+              "word": "(snakes",
+              "children": {
+                "4": {
+                  "word": "snail)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "(sniper",
+              "children": {
+                "3": {
+                  "word": "snape)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "snake)",
+                  "children": {
+                    "1": {
+                      "word": "snare)",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "snaps)",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "snack)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(snowcie)",
+              "children": {
+                "2": {
+                  "word": "(snowied)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "sn220)",
+                  "children": {
+                    "2": {
+                      "word": "snk10)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "(snow118)",
+              "children": {
+                "2": {
+                  "word": "(snow21g)",
+                  "children": {}
+                },
+                "3": {
+                  "word": "(snowcat)",
+                  "children": {
+                    "3": {
+                      "word": "(snowpea)",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "snooker",
+                  "children": {
+                    "1": {
+                      "word": "snooter",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "snookie",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "snooot1",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(snowball",
+          "children": {
+            "1": {
+              "word": "(snowfall",
+              "children": {}
+            },
+            "3": {
+              "word": "(snowsilk",
+              "children": {
+                "3": {
+                  "word": "snowwill",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "(snowdrop",
+              "children": {
+                "5": {
+                  "word": "snowpaws",
+                  "children": {
+                    "3": {
+                      "word": "snowwa24",
+                      "children": {
+                        "2": {
+                          "word": "snowwart",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "snorkel",
+              "children": {
+                "2": {
+                  "word": "snorkle",
+                  "children": {}
+                },
+                "3": {
+                  "word": "snorlax",
+                  "children": {}
+                },
+                "4": {
+                  "word": "snozaki",
+                  "children": {}
+                },
+                "5": {
+                  "word": "snowdos)",
+                  "children": {
+                    "3": {
+                      "word": "snowwish",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "snowywah",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "sn8tbt",
+              "children": {
+                "3": {
+                  "word": "snebby",
+                  "children": {}
+                },
+                "4": {
+                  "word": "snail8",
+                  "children": {
+                    "1": {
+                      "word": "snails",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "snakai",
+                      "children": {
+                        "3": {
+                          "word": "snaley",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "snbeee",
+                      "children": {
+                        "4": {
+                          "word": "sneako",
+                          "children": {
+                            "1": {
+                              "word": "sneaks",
+                              "children": {
+                                "1": {
+                                  "word": "sneaky",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "snorunt",
+                      "children": {
+                        "4": {
+                          "word": "snouter",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "snapmaw",
+                  "children": {
+                    "4": {
+                      "word": "snopios",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "snorc21",
+                      "children": {
+                        "3": {
+                          "word": "snordix",
+                          "children": {
+                            "3": {
+                              "word": "snoreyn",
+                              "children": {
+                                "3": {
+                                  "word": "snoring",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "snouken",
+                          "children": {
+                            "4": {
+                              "word": "snovsky",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "sn2562",
+              "children": {
+                "4": {
+                  "word": "sn48it",
+                  "children": {
+                    "2": {
+                      "word": "snifit",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "sne7in",
+                      "children": {
+                        "3": {
+                          "word": "snivii",
+                          "children": {
+                            "3": {
+                              "word": "sntrio",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "snacks",
+                      "children": {
+                        "1": {
+                          "word": "snacky",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "snakes",
+                          "children": {
+                            "1": {
+                              "word": "snares",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "snakku",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "snick^",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "snagem",
+                          "children": {
+                            "2": {
+                              "word": "snakeu",
+                              "children": {
+                                "1": {
+                                  "word": "snakey",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "snaree",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "snatch",
+                              "children": {
+                                "2": {
+                                  "word": "snatti",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "snfskn",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "sneeze",
+                          "children": {
+                            "1": {
+                              "word": "sneezy",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "snmegp",
+                              "children": {
+                                "3": {
+                                  "word": "snseek",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "snider",
+                              "children": {
+                                "1": {
+                                  "word": "snimer",
+                                  "children": {
+                                    "1": {
+                                      "word": "sniper",
+                                      "children": {}
+                                    },
+                                    "2": {
+                                      "word": "snyder",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "3": {
+                                  "word": "sniiux",
+                                  "children": {
+                                    "3": {
+                                      "word": "snikt!",
+                                      "children": {
+                                        "3": {
+                                          "word": "snippy",
+                                          "children": {
+                                            "3": {
+                                              "word": "snitch",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "4": {
+                                      "word": "snuddi",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "4": {
+                                  "word": "snmn47",
+                                  "children": {
+                                    "4": {
+                                      "word": "snnktn",
+                                      "children": {
+                                        "4": {
+                                          "word": "snuffy",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "snap-on",
+                  "children": {
+                    "2": {
+                      "word": "snappop",
+                      "children": {
+                        "2": {
+                          "word": "snaptor",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "snartob",
+                      "children": {
+                        "3": {
+                          "word": "snkaton",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "snikonp",
+                      "children": {
+                        "5": {
+                          "word": "snlutoo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "snsnchi",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "snow-kun",
+          "children": {
+            "3": {
+              "word": "snowskau",
+              "children": {
+                "4": {
+                  "word": "snowtune",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "snow2497",
+              "children": {
+                "4": {
+                  "word": "snowball",
+                  "children": {
+                    "1": {
+                      "word": "snowbell",
+                      "children": {
+                        "2": {
+                          "word": "snowfall",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "snowkell",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "snowcake",
+                      "children": {
+                        "1": {
+                          "word": "snowfake",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "snowcat.",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "snowciel",
+                          "children": {
+                            "4": {
+                              "word": "snowhole",
+                              "children": {
+                                "4": {
+                                  "word": "snowmaru",
+                                  "children": {
+                                    "3": {
+                                      "word": "snowravy",
+                                      "children": {
+                                        "3": {
+                                          "word": "snowsant",
+                                          "children": {
+                                            "3": {
+                                              "word": "snowxaaz",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "snowfold",
+                          "children": {
+                            "3": {
+                              "word": "snowlily",
+                              "children": {
+                                "3": {
+                                  "word": "snowmelt",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "snowphel",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "snowdome",
+                      "children": {
+                        "2": {
+                          "word": "snowrose",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "snowdrop",
+                          "children": {
+                            "3": {
+                              "word": "snowduck",
+                              "children": {
+                                "2": {
+                                  "word": "snowdust",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "snowshoe",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "snowsong",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "snowk1ss",
+                          "children": {
+                            "3": {
+                              "word": "snowmist",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "snowling",
+                              "children": {
+                                "3": {
+                                  "word": "snowpict",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "snowmeow",
+                                  "children": {
+                                    "2": {
+                                      "word": "snowplow",
+                                      "children": {}
+                                    },
+                                    "4": {
+                                      "word": "snowstar",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "snowsnowm",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "snowysnow",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(sn330t)",
+      "children": {
+        "3": {
+          "word": "(snr405)",
+          "children": {}
+        },
+        "4": {
+          "word": "(snatch)",
+          "children": {
+            "4": {
+              "word": "(sndaaa)",
+              "children": {
+                "4": {
+                  "word": "(sni8er)",
+                  "children": {
+                    "1": {
+                      "word": "(sniper)",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "(snj15k)",
+                      "children": {
+                        "4": {
+                          "word": "(snmrvi)",
+                          "children": {
+                            "4": {
+                              "word": "(snxu18)",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(snail's",
+          "children": {
+            "6": {
+              "word": "(snnmfmw)",
+              "children": {
+                "5": {
+                  "word": "(snocs13)",
+                  "children": {
+                    "4": {
+                      "word": "(snosui7)",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "sn0n0me",
+                  "children": {
+                    "5": {
+                      "word": "sniper)",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "sn0art2",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "(snow0021)",
+              "children": {
+                "3": {
+                  "word": "(snow0v0g)",
+                  "children": {
+                    "3": {
+                      "word": "(snowyx02)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(snow1993)",
+          "children": {
+            "4": {
+              "word": "(snowdrop)",
+              "children": {
+                "4": {
+                  "word": "(snowfear)",
+                  "children": {
+                    "3": {
+                      "word": "(snowfire)",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "(snowmimi)",
+                      "children": {
+                        "4": {
+                          "word": "(snowybun)",
+                          "children": {
+                            "3": {
+                              "word": "(snowysky)",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "(snowstorm",
+              "children": {
+                "5": {
+                  "word": "(snowwhite",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "snd1129",
+              "children": {
+                "6": {
+                  "word": "snoozer)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "snegg31",
+              "children": {
+                "5": {
+                  "word": "snvass3",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "sn00zer",
+              "children": {
+                "3": {
+                  "word": "snacker",
+                  "children": {
+                    "2": {
+                      "word": "snapper",
+                      "children": {
+                        "3": {
+                          "word": "sneaker",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "sniffer",
+                      "children": {
+                        "1": {
+                          "word": "snifter",
+                          "children": {
+                            "2": {
+                              "word": "snuffer",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "snipper",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "snackey",
+                  "children": {
+                    "2": {
+                      "word": "snicket",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "snagged",
+                      "children": {
+                        "2": {
+                          "word": "snagret",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "snakies",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "snazzle",
+                      "children": {
+                        "4": {
+                          "word": "sneasel",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "snzisnr",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "snafamo",
+                  "children": {
+                    "3": {
+                      "word": "snaftfc",
+                      "children": {
+                        "4": {
+                          "word": "snanake",
+                          "children": {
+                            "3": {
+                              "word": "snapagi",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "snibako",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "snail's",
+                      "children": {
+                        "2": {
+                          "word": "snail-k",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "snatcha",
+                          "children": {
+                            "1": {
+                              "word": "snatchy",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "snyffus",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "snufkin",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "sneakie",
+                      "children": {
+                        "2": {
+                          "word": "sneakyy",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "snuckle",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "sneed's",
+                          "children": {
+                            "4": {
+                              "word": "snerufu",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "snuggle",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "sniping",
+                          "children": {
+                            "4": {
+                              "word": "snively",
+                              "children": {
+                                "3": {
+                                  "word": "snivyyt",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "5": {
+                              "word": "snkkdlt",
+                              "children": {
+                                "5": {
+                                  "word": "snsstk1",
+                                  "children": {
+                                    "4": {
+                                      "word": "sntutan",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "snailotl",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(snowboard",
+          "children": {
+            "4": {
+              "word": "(snowbreak",
+              "children": {
+                "4": {
+                  "word": "(snowfield",
+                  "children": {}
+                },
+                "6": {
+                  "word": "snowatary",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "snowstorm",
+              "children": {}
+            },
+            "6": {
+              "word": "snobbism",
+              "children": {
+                "4": {
+                  "word": "snotcast",
+                  "children": {}
+                },
+                "5": {
+                  "word": "snoocola",
+                  "children": {
+                    "3": {
+                      "word": "snoozaga",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "snotlout",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "snow-true",
+                  "children": {
+                    "5": {
+                      "word": "snow20200",
+                      "children": {
+                        "5": {
+                          "word": "snowfall)",
+                          "children": {
+                            "3": {
+                              "word": "snowwaltz",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "snap-off",
+              "children": {
+                "5": {
+                  "word": "snawachi",
+                  "children": {
+                    "5": {
+                      "word": "snpmonki",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "sndokome",
+                      "children": {
+                        "4": {
+                          "word": "snezkova",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "snkagawa",
+                  "children": {
+                    "6": {
+                      "word": "snone111",
+                      "children": {
+                        "5": {
+                          "word": "snoozing",
+                          "children": {
+                            "2": {
+                              "word": "snorting",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "snortzog",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "snoutlet",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "snare-oh",
+              "children": {
+                "6": {
+                  "word": "snsikwii",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "snow-area",
+          "children": {
+            "3": {
+              "word": "snowbaron",
+              "children": {
+                "4": {
+                  "word": "snowbreak",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "snowangel",
+              "children": {
+                "4": {
+                  "word": "snowflyer",
+                  "children": {
+                    "4": {
+                      "word": "snowshoes",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "snowman49",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "snowberry",
+                  "children": {
+                    "3": {
+                      "word": "snowboard",
+                      "children": {
+                        "3": {
+                          "word": "snowleart",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "snowburuu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "snowguard",
+                      "children": {
+                        "5": {
+                          "word": "snowrabby",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "snowdrake",
+                      "children": {
+                        "2": {
+                          "word": "snowflake",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "snowscape",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "snowmoeka",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "snowbelle",
+              "children": {
+                "3": {
+                  "word": "snowbroke",
+                  "children": {}
+                },
+                "4": {
+                  "word": "snowbunny",
+                  "children": {
+                    "4": {
+                      "word": "snowquill",
+                      "children": {
+                        "4": {
+                          "word": "snowshine",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "snowchild",
+                      "children": {
+                        "3": {
+                          "word": "snowygold",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "snowslide",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "snowglobe",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "snowcloud",
+                  "children": {
+                    "4": {
+                      "word": "snowcrazy",
+                      "children": {
+                        "4": {
+                          "word": "snowdrops",
+                          "children": {
+                            "5": {
+                              "word": "snowysaur",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "snowwwowo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "snowekaki",
+                      "children": {
+                        "2": {
+                          "word": "snowskadi",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "snowwiiii",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "snowfoxxx",
+                          "children": {
+                            "4": {
+                              "word": "snowpoint",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "snowkying",
+                              "children": {
+                                "4": {
+                                  "word": "snowtrick",
+                                  "children": {}
+                                },
+                                "5": {
+                                  "word": "snowli901",
+                                  "children": {
+                                    "3": {
+                                      "word": "snowlight",
+                                      "children": {}
+                                    },
+                                    "5": {
+                                      "word": "snowy1124",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(snak502)",
+      "children": {
+        "4": {
+          "word": "(snekfag)",
+          "children": {
+            "4": {
+              "word": "(sngktry)",
+              "children": {
+                "3": {
+                  "word": "(snzkicy)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(sngm025)",
+              "children": {
+                "6": {
+                  "word": "(snkakdot)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "(snow53902)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(snn-175)",
+          "children": {
+            "5": {
+              "word": "(sntr-dx)",
+              "children": {
+                "5": {
+                  "word": "(snuzuzu)",
+                  "children": {
+                    "5": {
+                      "word": "(snxmari)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "snan723)",
+              "children": {}
+            },
+            "7": {
+              "word": "snacks00",
+              "children": {
+                "4": {
+                  "word": "snake101",
+                  "children": {}
+                },
+                "5": {
+                  "word": "snake937",
+                  "children": {
+                    "3": {
+                      "word": "snakeman",
+                      "children": {
+                        "3": {
+                          "word": "snakepit",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(snickers",
+          "children": {
+            "3": {
+              "word": "sneakers",
+              "children": {}
+            },
+            "5": {
+              "word": "snackkkk",
+              "children": {
+                "5": {
+                  "word": "snatcher",
+                  "children": {}
+                },
+                "6": {
+                  "word": "snifer25",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(snocotan)",
+              "children": {
+                "7": {
+                  "word": "snackyboy",
+                  "children": {
+                    "6": {
+                      "word": "snartles",
+                      "children": {
+                        "6": {
+                          "word": "sneaking",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "8": {
+                  "word": "snapfire",
+                  "children": {
+                    "6": {
+                      "word": "sneakshy",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "snaexist",
+              "children": {
+                "4": {
+                  "word": "snap-fit",
+                  "children": {
+                    "3": {
+                      "word": "snapchat",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "snapping",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "snagback",
+                  "children": {
+                    "4": {
+                      "word": "snailaql",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "snap1994",
+                      "children": {
+                        "4": {
+                          "word": "snapcube",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "snnk2858",
+                  "children": {
+                    "4": {
+                      "word": "snsk1875",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "snapshot)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(snowbreak)",
+          "children": {
+            "4": {
+              "word": "(snowdrift)",
+              "children": {
+                "3": {
+                  "word": "(snowdrops)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(snowflake)",
+                  "children": {
+                    "4": {
+                      "word": "(snowscene)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "(snowcmpie)",
+              "children": {
+                "4": {
+                  "word": "(snowhouse)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(snowma--n)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "snhw8835)",
+              "children": {
+                "7": {
+                  "word": "snorkel14",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "sne4kies",
+              "children": {
+                "4": {
+                  "word": "sneasler",
+                  "children": {
+                    "3": {
+                      "word": "sneijder",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "sniffles",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "sneekkio",
+                      "children": {
+                        "5": {
+                          "word": "snickers",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "snes-tan",
+                  "children": {
+                    "4": {
+                      "word": "snezhana",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "sneusagi",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "snickerz",
+                      "children": {
+                        "5": {
+                          "word": "snyder's",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "snubbiyu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "snipsman",
+                  "children": {
+                    "4": {
+                      "word": "sniptera",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "snwctmdc",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "snubbull",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "snatchmon",
+              "children": {
+                "6": {
+                  "word": "snickurs",
+                  "children": {}
+                },
+                "7": {
+                  "word": "sneezing",
+                  "children": {
+                    "3": {
+                      "word": "sniffing",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "snfe7384",
+                      "children": {
+                        "5": {
+                          "word": "snve8253",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "snippity",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "snfd8578",
+                      "children": {
+                        "5": {
+                          "word": "snrm2275",
+                          "children": {
+                            "6": {
+                              "word": "snup4543",
+                              "children": {
+                                "6": {
+                                  "word": "snxa8737",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(snow-white",
+          "children": {
+            "6": {
+              "word": "(snowflakes",
+              "children": {}
+            },
+            "7": {
+              "word": "snoofarts",
+              "children": {
+                "5": {
+                  "word": "snoozroot",
+                  "children": {
+                    "7": {
+                      "word": "snowballs)",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "snorrevik",
+                  "children": {
+                    "6": {
+                      "word": "snowattack",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "snowball22",
+                      "children": {
+                        "5": {
+                          "word": "snowcake47",
+                          "children": {
+                            "4": {
+                              "word": "snowsakura",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "snowstorm)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "snowelle25",
+                  "children": {
+                    "6": {
+                      "word": "snowking68",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "snodgrass",
+              "children": {
+                "6": {
+                  "word": "snonfield",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "sndionemu",
+              "children": {
+                "6": {
+                  "word": "snegovski",
+                  "children": {
+                    "6": {
+                      "word": "snubnosed",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "snstannous",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "sneegsnag",
+                  "children": {
+                    "6": {
+                      "word": "sniperno0",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "snuffydoo",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "snow-frost",
+          "children": {
+            "1": {
+              "word": "snowyfrost",
+              "children": {}
+            },
+            "4": {
+              "word": "snow-noise",
+              "children": {
+                "5": {
+                  "word": "snowpriest",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "snow-white",
+              "children": {
+                "4": {
+                  "word": "snowhartte",
+                  "children": {}
+                },
+                "5": {
+                  "word": "snow-yuuki",
+                  "children": {
+                    "5": {
+                      "word": "snowlymint",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "snowelight",
+                  "children": {
+                    "5": {
+                      "word": "snowflower",
+                      "children": {
+                        "5": {
+                          "word": "snowmelonn",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "snowmorpho",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "snowfredel",
+                      "children": {
+                        "6": {
+                          "word": "snowspots1",
+                          "children": {
+                            "6": {
+                              "word": "snowy1moon",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "snowbreak:",
+              "children": {
+                "3": {
+                  "word": "snowdreams",
+                  "children": {}
+                },
+                "5": {
+                  "word": "snowflakes",
+                  "children": {
+                    "4": {
+                      "word": "snowtenkey",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "snowclover",
+                  "children": {
+                    "5": {
+                      "word": "snowconcon",
+                      "children": {
+                        "6": {
+                          "word": "snowfeline",
+                          "children": {
+                            "5": {
+                              "word": "snowolfyue",
+                              "children": {
+                                "5": {
+                                  "word": "snowylynxx",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "6": {
+                              "word": "snowlattes",
+                              "children": {
+                                "6": {
+                                  "word": "snowolf111",
+                                  "children": {
+                                    "5": {
+                                      "word": "snowysox12",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "snowishing",
+                      "children": {
+                        "5": {
+                          "word": "snowlydial",
+                          "children": {
+                            "5": {
+                              "word": "snowmobile",
+                              "children": {}
+                            },
+                            "6": {
+                              "word": "snowpigeon",
+                              "children": {
+                                "6": {
+                                  "word": "snowybunny",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "snowlily32",
+                          "children": {
+                            "5": {
+                              "word": "snowowl987",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(sn1499sl)",
+      "children": {
+        "5": {
+          "word": "sn1995sho",
+          "children": {}
+        },
+        "6": {
+          "word": "(snapchat)",
+          "children": {
+            "6": {
+              "word": "(sndk1480)",
+              "children": {
+                "5": {
+                  "word": "(sndrta2n)",
+                  "children": {
+                    "6": {
+                      "word": "(sngt7887)",
+                      "children": {
+                        "5": {
+                          "word": "(snkh8835)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "(snea8372)",
+                  "children": {
+                    "3": {
+                      "word": "(snrv4372)",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "(snrm5532)",
+                      "children": {
+                        "5": {
+                          "word": "(snur2022)",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "(sngm0815)",
+                      "children": {
+                        "5": {
+                          "word": "(snrj2255)",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "(snuffles)",
+                          "children": {
+                            "6": {
+                              "word": "(snvcenni)",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "(snegovski)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(snow181575)",
+          "children": {
+            "6": {
+              "word": "(snowgallop)",
+              "children": {
+                "3": {
+                  "word": "(snowmellon)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "snch2757)",
+              "children": {
+                "5": {
+                  "word": "snjd8547)",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "(sntoriink)",
+              "children": {
+                "8": {
+                  "word": "snap3353)",
+                  "children": {
+                    "5": {
+                      "word": "snvk4583)",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "snmk8728)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "snhu2323)",
+              "children": {
+                "7": {
+                  "word": "snlivis50",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "snailssss",
+              "children": {
+                "6": {
+                  "word": "snana9241",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(snow-dusted",
+          "children": {
+            "6": {
+              "word": "snub-nosed",
+              "children": {}
+            },
+            "7": {
+              "word": "(snowcanvas)",
+              "children": {
+                "5": {
+                  "word": "(snowdreams)",
+                  "children": {
+                    "5": {
+                      "word": "(snowytowns)",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "(snowmaiden)",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "(snowliptom)",
+                  "children": {
+                    "5": {
+                      "word": "(snowywatch)",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "(snowmelody)",
+                      "children": {
+                        "5": {
+                          "word": "(snowowl515)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "snakebite",
+              "children": {
+                "5": {
+                  "word": "snarkhunt",
+                  "children": {}
+                },
+                "8": {
+                  "word": "snoofyseal",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "snackdang",
+              "children": {
+                "5": {
+                  "word": "snart-tnk",
+                  "children": {}
+                },
+                "6": {
+                  "word": "snailfish",
+                  "children": {
+                    "6": {
+                      "word": "snake-eye",
+                      "children": {
+                        "4": {
+                          "word": "snakekura",
+                          "children": {
+                            "4": {
+                              "word": "snakeskin",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "snakeynsfw",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "snesflint",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "sneakveek",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "sneedy123",
+                  "children": {
+                    "7": {
+                      "word": "snipercat",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "snaaaking",
+              "children": {
+                "6": {
+                  "word": "snailchan",
+                  "children": {
+                    "5": {
+                      "word": "snaketrap",
+                      "children": {
+                        "7": {
+                          "word": "snitchbug",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "snaketail",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "sneake108",
+                      "children": {
+                        "3": {
+                          "word": "sneakery4",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "snezhinka",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "sngmyqng2",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "snekberry",
+                  "children": {
+                    "4": {
+                      "word": "snickerby",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "snipe-968",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "(snowflake's",
+          "children": {
+            "5": {
+              "word": "snoeflaefk",
+              "children": {
+                "5": {
+                  "word": "snow-laden)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "snowyfeline",
+              "children": {}
+            },
+            "8": {
+              "word": "snowcatmilk",
+              "children": {}
+            },
+            "9": {
+              "word": "snailroyal",
+              "children": {
+                "6": {
+                  "word": "snapdragon",
+                  "children": {
+                    "8": {
+                      "word": "snellsnail",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "snoozemore",
+                  "children": {
+                    "8": {
+                      "word": "snsakanasn",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "snapperoni",
+              "children": {
+                "6": {
+                  "word": "sneezecoon",
+                  "children": {}
+                },
+                "7": {
+                  "word": "snarkspawn",
+                  "children": {}
+                },
+                "8": {
+                  "word": "snssns2468",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "snow-bunnii",
+          "children": {
+            "6": {
+              "word": "snow-fredel",
+              "children": {
+                "5": {
+                  "word": "snow-tombed",
+                  "children": {}
+                },
+                "6": {
+                  "word": "snow-plough",
+                  "children": {}
+                },
+                "7": {
+                  "word": "snowblivion",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "snowcatming",
+              "children": {
+                "5": {
+                  "word": "snowkatt101",
+                  "children": {
+                    "7": {
+                      "word": "snowscapism",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "snowcupcake",
+                  "children": {
+                    "7": {
+                      "word": "snowsakuraz",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "snowdrake's",
+                  "children": {
+                    "5": {
+                      "word": "snowdrop123",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "snowteadrop",
+                      "children": {
+                        "6": {
+                          "word": "snowtrooper",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "snowkindred",
+                      "children": {
+                        "5": {
+                          "word": "snowpiercer",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "snowspeeder",
+                          "children": {
+                            "7": {
+                              "word": "snowwolpard",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "7": {
+                          "word": "snowyoooooo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "snowsnowsnow",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(snake1360)",
+      "children": {
+        "4": {
+          "word": "(snake5745)",
+          "children": {
+            "4": {
+              "word": "(snakeping)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(sneakveek)",
+          "children": {
+            "7": {
+              "word": "(sniper579)",
+              "children": {
+                "6": {
+                  "word": "(snp-esuma)",
+                  "children": {}
+                },
+                "8": {
+                  "word": "snake-eyed",
+                  "children": {
+                    "1": {
+                      "word": "snake-eyes",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "snakeycake",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "snake-chan",
+              "children": {
+                "4": {
+                  "word": "snake21jpn",
+                  "children": {}
+                },
+                "5": {
+                  "word": "snakefruit",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(sngmdeath)",
+          "children": {
+            "7": {
+              "word": "(snks2muda)",
+              "children": {
+                "6": {
+                  "word": "(snm823456)",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "(snow1046015)",
+              "children": {
+                "9": {
+                  "word": "snails0106",
+                  "children": {}
+                },
+                "11": {
+                  "word": "snakfusker",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(snow-rain00)",
+          "children": {
+            "6": {
+              "word": "(snowyfeline)",
+              "children": {}
+            },
+            "8": {
+              "word": "snailtrain",
+              "children": {}
+            },
+            "10": {
+              "word": "snaileater",
+              "children": {
+                "6": {
+                  "word": "snipeyartz",
+                  "children": {}
+                },
+                "7": {
+                  "word": "snanda0213",
+                  "children": {
+                    "7": {
+                      "word": "snaxattack",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "sneaksmile",
+                      "children": {
+                        "3": {
+                          "word": "sneakyhide",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "11": {
+              "word": "snackstores",
+              "children": {
+                "7": {
+                  "word": "sneakymouse",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "(snmfloowern)",
+          "children": {
+            "7": {
+              "word": "(snowsnow211)",
+              "children": {}
+            },
+            "9": {
+              "word": "(snow-melting",
+              "children": {
+                "8": {
+                  "word": "(snow2creams)",
+                  "children": {}
+                },
+                "9": {
+                  "word": "snailomatic",
+                  "children": {
+                    "8": {
+                      "word": "snifferish",
+                      "children": {}
+                    }
+                  }
+                },
+                "11": {
+                  "word": "snipeyozora",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "snagharpoon",
+              "children": {
+                "7": {
+                  "word": "snorgelsson",
+                  "children": {}
+                },
+                "8": {
+                  "word": "snipewriter",
+                  "children": {}
+                },
+                "9": {
+                  "word": "snivybells",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "sn80302958",
+              "children": {
+                "8": {
+                  "word": "snipuhiisi",
+                  "children": {}
+                },
+                "9": {
+                  "word": "snipperpool",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "(snow-swiping",
+          "children": {
+            "8": {
+              "word": "snipsnipart",
+              "children": {}
+            },
+            "9": {
+              "word": "snoopminnie",
+              "children": {
+                "6": {
+                  "word": "snooziiharu",
+                  "children": {}
+                },
+                "8": {
+                  "word": "snowieillust",
+                  "children": {}
+                },
+                "9": {
+                  "word": "snowberryaki",
+                  "children": {
+                    "6": {
+                      "word": "snowleoplard",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "snowdrop6963",
+                      "children": {
+                        "8": {
+                          "word": "snowfall0617",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "snoopy29112",
+              "children": {}
+            },
+            "11": {
+              "word": "snegurochka",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "snootwhacker",
+          "children": {
+            "7": {
+              "word": "snowdarkness",
+              "children": {
+                "8": {
+                  "word": "snowglobekey",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "snowballball",
+              "children": {
+                "6": {
+                  "word": "snowcarnival",
+                  "children": {}
+                },
+                "7": {
+                  "word": "snowboarding",
+                  "children": {
+                    "7": {
+                      "word": "snowmole2419",
+                      "children": {
+                        "8": {
+                          "word": "snowstormbat",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(sn44747026)",
+      "children": {
+        "8": {
+          "word": "(sna106gkkt)",
+          "children": {
+            "6": {
+              "word": "(snakeysmut)",
+              "children": {}
+            },
+            "7": {
+              "word": "(snacherubi)",
+              "children": {
+                "7": {
+                  "word": "(snake21jpn)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "(snow-covered)",
+          "children": {
+            "8": {
+              "word": "(snowbaby1103)",
+              "children": {
+                "8": {
+                  "word": "(snowybugloss)",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "snailasleep",
+              "children": {}
+            },
+            "11": {
+              "word": "snagglepuss",
+              "children": {
+                "5": {
+                  "word": "snugglestab",
+                  "children": {}
+                },
+                "7": {
+                  "word": "snifflesmp4",
+                  "children": {}
+                },
+                "8": {
+                  "word": "sneakerzsad",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "snaggletooth",
+          "children": {
+            "8": {
+              "word": "snakiestlion",
+              "children": {}
+            },
+            "9": {
+              "word": "snake.poison",
+              "children": {
+                "7": {
+                  "word": "snasentinsed",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "sniperlord92",
+              "children": {
+                "9": {
+                  "word": "snoopshomaru",
+                  "children": {
+                    "8": {
+                      "word": "snoozerabbit",
+                      "children": {}
+                    },
+                    "9": {
+                      "word": "snozberriezz",
+                      "children": {}
+                    },
+                    "10": {
+                      "word": "snowblock0915",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "11": {
+              "word": "snowfairy3046",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "snow-camellia",
+          "children": {
+            "8": {
+              "word": "snowpeachdrop",
+              "children": {
+                "9": {
+                  "word": "snowsalmon0x0",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "snowchild1010",
+              "children": {
+                "9": {
+                  "word": "snowgoburimon",
+                  "children": {
+                    "8": {
+                      "word": "snowmoonproxy",
+                      "children": {}
+                    },
+                    "9": {
+                      "word": "snowmishibari",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "word": "(snackbunnii)",
+      "children": {
+        "8": {
+          "word": "snackanimals",
+          "children": {
+            "7": {
+              "word": "snickerninja",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(sneedham507)",
+          "children": {
+            "10": {
+              "word": "snakeman.exe",
+              "children": {}
+            },
+            "11": {
+              "word": "snartfulisms",
+              "children": {
+                "10": {
+                  "word": "snatchstation",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "snail-studios",
+          "children": {
+            "8": {
+              "word": "snipperclips",
+              "children": {}
+            },
+            "10": {
+              "word": "snickerdooble",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "snivisnivi444",
+          "children": {
+            "9": {
+              "word": "snysysnymnmkn",
+              "children": {}
+            },
+            "10": {
+              "word": "snsk45656254",
+              "children": {}
+            },
+            "11": {
+              "word": "snsp60479502",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "snoozincopter",
+          "children": {
+            "10": {
+              "word": "snowbnnytakami",
+              "children": {}
+            },
+            "11": {
+              "word": "snowdolphinnnn",
+              "children": {
+                "9": {
+                  "word": "snowsakurachan",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "13": {
+          "word": "snow-priestess",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "(snipperclips)",
+      "children": {
+        "9": {
+          "word": "sniperstalker",
+          "children": {}
+        },
+        "11": {
+          "word": "(snowhalation22)",
+          "children": {
+            "9": {
+              "word": "(snowstrawberry)",
+              "children": {}
+            },
+            "13": {
+              "word": "snagtherabbit",
+              "children": {
+                "10": {
+                  "word": "snake6tenpura",
+                  "children": {
+                    "10": {
+                      "word": "snuffleupagus",
+                      "children": {}
+                    }
+                  }
+                },
+                "11": {
+                  "word": "snoozieperhour",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "snadhya'runes",
+          "children": {
+            "9": {
+              "word": "snazzypumpkin",
+              "children": {}
+            },
+            "10": {
+              "word": "snailedwistrea",
+              "children": {
+                "11": {
+                  "word": "snarkilly1111",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "sngln19748154",
+              "children": {
+                "11": {
+                  "word": "snugglepuff28",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "13": {
+          "word": "snowaoringo3903",
+          "children": {
+            "7": {
+              "word": "snowspringcraft",
+              "children": {}
+            }
+          }
+        },
+        "14": {
+          "word": "snowflakessheep",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "(snow-ho-yuki113)",
+      "children": {
+        "12": {
+          "word": "(snugglepuff28)",
+          "children": {}
+        },
+        "13": {
+          "word": "(snuffymcsnuff)",
+          "children": {
+            "14": {
+              "word": "snnvk9og7qkjscj",
+              "children": {}
+            }
+          }
+        },
+        "15": {
+          "word": "snazzistrawberi",
+          "children": {
+            "13": {
+              "word": "sniper16783072",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "word": "(snake22flash14)",
+      "children": {
+        "12": {
+          "word": "sneakattack1221",
+          "children": {}
+        }
+      }
+    },
+    "19": {
+      "word": "snarksharkproductions",
+      "children": {}
+    }
+  }
+}

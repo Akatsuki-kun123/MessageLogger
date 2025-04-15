@@ -1,0 +1,317 @@
+{
+  "word": "!",
+  "children": {
+    "1": {
+      "word": "!!",
+      "children": {
+        "1": {
+          "word": "!)",
+          "children": {
+            "1": {
+              "word": "!?",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "&",
+          "children": {
+            "1": {
+              "word": "'",
+              "children": {
+                "1": {
+                  "word": "(",
+                  "children": {
+                    "1": {
+                      "word": ")",
+                      "children": {
+                        "1": {
+                          "word": "+",
+                          "children": {
+                            "1": {
+                              "word": "-",
+                              "children": {
+                                "1": {
+                                  "word": ".",
+                                  "children": {
+                                    "1": {
+                                      "word": "/",
+                                      "children": {
+                                        "1": {
+                                          "word": ":",
+                                          "children": {
+                                            "1": {
+                                              "word": ";",
+                                              "children": {
+                                                "1": {
+                                                  "word": "<",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "=",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": ">",
+                                                          "children": {
+                                                            "1": {
+                                                              "word": "?",
+                                                              "children": {
+                                                                "1": {
+                                                                  "word": "@",
+                                                                  "children": {
+                                                                    "1": {
+                                                                      "word": "^",
+                                                                      "children": {
+                                                                        "1": {
+                                                                          "word": "|",
+                                                                          "children": {
+                                                                            "1": {
+                                                                              "word": "~",
+                                                                              "children": {}
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(&",
+      "children": {
+        "2": {
+          "word": "))",
+          "children": {
+            "1": {
+              "word": "+)",
+              "children": {
+                "1": {
+                  "word": ".)",
+                  "children": {
+                    "1": {
+                      "word": ";)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "++",
+              "children": {
+                "1": {
+                  "word": "+-",
+                  "children": {
+                    "2": {
+                      "word": ":+",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "..",
+                  "children": {
+                    "2": {
+                      "word": ":/",
+                      "children": {
+                        "1": {
+                          "word": ":<",
+                          "children": {
+                            "1": {
+                              "word": ":>",
+                              "children": {
+                                "1": {
+                                  "word": ":|",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": ";/",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": ";(",
+                          "children": {
+                            "1": {
+                              "word": ";<",
+                              "children": {
+                                "1": {
+                                  "word": ";>",
+                                  "children": {
+                                    "1": {
+                                      "word": ";|",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "<<",
+                              "children": {
+                                "2": {
+                                  "word": "??",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "'&'",
+      "children": {
+        "1": {
+          "word": "'~'",
+          "children": {}
+        },
+        "3": {
+          "word": "(?)",
+          "children": {
+            "2": {
+              "word": ">:)",
+              "children": {
+                "3": {
+                  "word": "???",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "+++",
+              "children": {
+                "3": {
+                  "word": "...",
+                  "children": {
+                    "3": {
+                      "word": ":>=",
+                      "children": {
+                        "3": {
+                          "word": "<|>",
+                          "children": {
+                            "3": {
+                              "word": ">:(",
+                              "children": {
+                                "3": {
+                                  "word": "@@@",
+                                  "children": {
+                                    "3": {
+                                      "word": "^^^",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(!?)",
+          "children": {
+            "4": {
+              "word": "...!",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(..)",
+      "children": {
+        "2": {
+          "word": "(^^)",
+          "children": {
+            "4": {
+              "word": "...?",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "\\\\//",
+          "children": {
+            "2": {
+              "word": "\\||/",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(---)",
+      "children": {
+        "3": {
+          "word": "(???)",
+          "children": {}
+        },
+        "5": {
+          "word": "....?",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(????)",
+      "children": {
+        "6": {
+          "word": "......",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "=(^.^)=",
+      "children": {}
+    }
+  }
+}

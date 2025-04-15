@@ -1,0 +1,58 @@
+{
+  "word": "(5a64",
+  "children": {
+    "2": {
+      "word": "(5am)",
+      "children": {}
+    },
+    "3": {
+      "word": "5a)",
+      "children": {
+        "1": {
+          "word": "5a1",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(5aeko)",
+      "children": {
+        "5": {
+          "word": "5a7ak",
+          "children": {
+            "3": {
+              "word": "5afvb",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "5alive",
+      "children": {}
+    },
+    "6": {
+      "word": "5anart5",
+      "children": {}
+    },
+    "7": {
+      "word": "5amdraws",
+      "children": {
+        "5": {
+          "word": "5amonbro",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "(5altybitter5)",
+      "children": {
+        "2": {
+          "word": "5altybitter5",
+          "children": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "word": "(8cco)",
+  "children": {
+    "2": {
+      "word": "(8cm)",
+      "children": {}
+    },
+    "3": {
+      "word": "8.co",
+      "children": {
+        "2": {
+          "word": "8con",
+          "children": {
+            "1": {
+              "word": "8cox",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "8c",
+      "children": {
+        "1": {
+          "word": "8cm",
+          "children": {}
+        },
+        "2": {
+          "word": "8chi",
+          "children": {}
+        },
+        "3": {
+          "word": "8chan",
+          "children": {
+            "1": {
+              "word": "8chin",
+              "children": {}
+            },
+            "3": {
+              "word": "8club",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "8ch110",
+      "children": {
+        "4": {
+          "word": "8cho3so",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "8caracal",
+      "children": {
+        "5": {
+          "word": "8castle",
+          "children": {
+            "5": {
+              "word": "8ctorice",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "8cheddy8",
+      "children": {
+        "6": {
+          "word": "8chinchin",
+          "children": {}
+        }
+      }
+    }
+  }
+}

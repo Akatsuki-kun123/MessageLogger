@@ -1,0 +1,88 @@
+{
+  "word": "(l-2)",
+  "children": {
+    "1": {
+      "word": "(l2)",
+      "children": {}
+    },
+    "2": {
+      "word": "(l2",
+      "children": {
+        "2": {
+          "word": "l2)",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(l215)",
+      "children": {
+        "4": {
+          "word": "l2",
+          "children": {
+            "1": {
+              "word": "l22",
+              "children": {
+                "1": {
+                  "word": "l2d",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "l221",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "l274",
+      "children": {
+        "2": {
+          "word": "l2tp",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "l2awk",
+      "children": {}
+    },
+    "6": {
+      "word": "(l2tekkn)",
+      "children": {
+        "7": {
+          "word": "l2blq1",
+          "children": {}
+        },
+        "8": {
+          "word": "l-21/e-3",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "l277786",
+      "children": {}
+    },
+    "9": {
+      "word": "l24509hrl",
+      "children": {
+        "7": {
+          "word": "l2oiyalty",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "l2h7ifqefwljyik",
+      "children": {}
+    },
+    "15": {
+      "word": "l2vxugjvw8t4tqo",
+      "children": {}
+    }
+  }
+}

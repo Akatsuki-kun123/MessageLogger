@@ -1,0 +1,219 @@
+{
+  "word": "(x-blades)",
+  "children": {
+    "2": {
+      "word": "(xblade)",
+      "children": {
+        "3": {
+          "word": "x-blades",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(xblaze)",
+      "children": {
+        "4": {
+          "word": "x-blade",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(xblaze",
+      "children": {
+        "2": {
+          "word": "xblade",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "xblaze",
+      "children": {}
+    },
+    "6": {
+      "word": "(xb1jm)",
+      "children": {
+        "3": {
+          "word": "(xb500)",
+          "children": {
+            "3": {
+              "word": "(xbit)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(xbenix)",
+          "children": {}
+        },
+        "5": {
+          "word": "(xbaobab)",
+          "children": {}
+        },
+        "6": {
+          "word": "x-blood",
+          "children": {
+            "4": {
+              "word": "x-brawn",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "x-bomber",
+          "children": {
+            "3": {
+              "word": "x-buster",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "x-bh4",
+      "children": {
+        "2": {
+          "word": "x-bow",
+          "children": {
+            "1": {
+              "word": "x-boy",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "xb)",
+          "children": {
+            "2": {
+              "word": "xbsx",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "xbaka",
+          "children": {
+            "2": {
+              "word": "xbeta",
+              "children": {}
+            },
+            "3": {
+              "word": "xbmax",
+              "children": {
+                "3": {
+                  "word": "xboss",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "xbrawlx",
+          "children": {
+            "5": {
+              "word": "xbuster",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "xbalanque",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "xb",
+      "children": {
+        "1": {
+          "word": "xbx",
+          "children": {}
+        },
+        "2": {
+          "word": "xb-0",
+          "children": {
+            "2": {
+              "word": "xbox",
+              "children": {
+                "2": {
+                  "word": "xbxr",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "xb-19",
+          "children": {
+            "2": {
+              "word": "xb-35",
+              "children": {
+                "2": {
+                  "word": "xb-70",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "xboct",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "xb2744",
+          "children": {
+            "4": {
+              "word": "xbocat",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "xb12stt",
+          "children": {
+            "5": {
+              "word": "xbenhgx",
+              "children": {
+                "4": {
+                  "word": "xbonbon",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "xboommon",
+          "children": {}
+        },
+        "7": {
+          "word": "xbd-01exa",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "xbakoukix",
+      "children": {
+        "7": {
+          "word": "xbeanknone",
+          "children": {}
+        },
+        "8": {
+          "word": "xbydefault",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "xbmcvcmb32dwafn",
+      "children": {}
+    }
+  }
+}

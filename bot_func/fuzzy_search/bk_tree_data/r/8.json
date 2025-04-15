@@ -1,0 +1,73 @@
+{
+  "word": "(r800)",
+  "children": {
+    "2": {
+      "word": "(r81)",
+      "children": {
+        "1": {
+          "word": "(r87)",
+          "children": {}
+        },
+        "4": {
+          "word": "r8000",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(r8toa)",
+      "children": {}
+    },
+    "4": {
+      "word": "r8",
+      "children": {
+        "2": {
+          "word": "r888",
+          "children": {
+            "1": {
+              "word": "r88c",
+              "children": {}
+            },
+            "2": {
+              "word": "r89c",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "r8y6y",
+          "children": {}
+        },
+        "4": {
+          "word": "r80g/s",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(r8grets)",
+      "children": {
+        "6": {
+          "word": "r8ter01",
+          "children": {}
+        },
+        "7": {
+          "word": "r84265",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "r8809287474",
+      "children": {}
+    },
+    "10": {
+      "word": "r8697916zry",
+      "children": {}
+    },
+    "12": {
+      "word": "r8a-creations",
+      "children": {}
+    }
+  }
+}

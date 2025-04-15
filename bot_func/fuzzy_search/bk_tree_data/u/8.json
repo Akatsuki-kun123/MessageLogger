@@ -1,0 +1,39 @@
+{
+  "word": "(u81521824)",
+  "children": {
+    "7": {
+      "word": "u8354",
+      "children": {}
+    },
+    "8": {
+      "word": "u81",
+      "children": {}
+    },
+    "9": {
+      "word": "u-81",
+      "children": {
+        "2": {
+          "word": "u8",
+          "children": {
+            "1": {
+              "word": "u86",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "u-8787",
+          "children": {}
+        },
+        "4": {
+          "word": "u83y3",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "u87654321111111",
+      "children": {}
+    }
+  }
+}

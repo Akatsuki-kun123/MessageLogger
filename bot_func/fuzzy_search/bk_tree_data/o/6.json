@@ -1,0 +1,62 @@
+{
+  "word": "(o6k6s)",
+  "children": {
+    "2": {
+      "word": "(o6v6o)",
+      "children": {}
+    },
+    "4": {
+      "word": "o626",
+      "children": {
+        "1": {
+          "word": "o6o6",
+          "children": {}
+        },
+        "2": {
+          "word": "o6v6o",
+          "children": {}
+        },
+        "3": {
+          "word": "o6o1)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "o6",
+      "children": {
+        "1": {
+          "word": "o64",
+          "children": {
+            "1": {
+              "word": "o69",
+              "children": {
+                "1": {
+                  "word": "o6i",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "o6771",
+          "children": {
+            "3": {
+              "word": "o6890",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "o6nuqm",
+          "children": {}
+        },
+        "5": {
+          "word": "o694699",
+          "children": {}
+        }
+      }
+    }
+  }
+}

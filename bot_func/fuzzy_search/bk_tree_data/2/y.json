@@ -1,0 +1,63 @@
+{
+  "word": "(2yubakari)",
+  "children": {
+    "7": {
+      "word": "2yakitori2",
+      "children": {
+        "7": {
+          "word": "2yuring",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "2y)",
+      "children": {
+        "1": {
+          "word": "2ya",
+          "children": {
+            "1": {
+              "word": "2yu",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "2yan",
+          "children": {}
+        },
+        "7": {
+          "word": "2yugcheon",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "2y",
+      "children": {
+        "1": {
+          "word": "2ym",
+          "children": {}
+        },
+        "2": {
+          "word": "2y.x",
+          "children": {
+            "2": {
+              "word": "2yo4",
+              "children": {
+                "1": {
+                  "word": "2you",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "word": "2ys1acquer1120558",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "word": "(dn)",
+  "children": {
+    "1": {
+      "word": "(dnp)",
+      "children": {
+        "1": {
+          "word": "(dns)",
+          "children": {}
+        },
+        "2": {
+          "word": "(dns",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "(dnet)",
+      "children": {
+        "2": {
+          "word": "(dnpj)",
+          "children": {}
+        },
+        "3": {
+          "word": "(dngn",
+          "children": {
+            "1": {
+              "word": "(dngr",
+              "children": {
+                "2": {
+                  "word": "(dnrn",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "dnt",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "dn",
+          "children": {
+            "1": {
+              "word": "dn3",
+              "children": {
+                "1": {
+                  "word": "dna",
+                  "children": {
+                    "1": {
+                      "word": "dnc",
+                      "children": {
+                        "1": {
+                          "word": "dnf",
+                          "children": {
+                            "1": {
+                              "word": "dng",
+                              "children": {
+                                "1": {
+                                  "word": "dnk",
+                                  "children": {
+                                    "1": {
+                                      "word": "dnl",
+                                      "children": {
+                                        "1": {
+                                          "word": "dnm",
+                                          "children": {
+                                            "1": {
+                                              "word": "dnp",
+                                              "children": {
+                                                "1": {
+                                                  "word": "dnq",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "dns",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "dny",
+                                                          "children": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(dna^2)",
+      "children": {
+        "4": {
+          "word": "(dngnn",
+          "children": {
+            "2": {
+              "word": "dngn)",
+              "children": {}
+            },
+            "3": {
+              "word": "dnrn)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "d-na",
+          "children": {
+            "3": {
+              "word": "dndm",
+              "children": {
+                "1": {
+                  "word": "dngm",
+                  "children": {}
+                },
+                "2": {
+                  "word": "dnfr",
+                  "children": {
+                    "2": {
+                      "word": "dngu",
+                      "children": {
+                        "2": {
+                          "word": "dnkb",
+                          "children": {
+                            "2": {
+                              "word": "dnmg",
+                              "children": {
+                                "1": {
+                                  "word": "dnmi",
+                                  "children": {
+                                    "1": {
+                                      "word": "dnms",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "dnri",
+                                  "children": {
+                                    "1": {
+                                      "word": "dnrn",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "d-n",
+          "children": {
+            "1": {
+              "word": "d-ne",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(dn1217)",
+      "children": {
+        "4": {
+          "word": "(dndk01)",
+          "children": {
+            "4": {
+              "word": "(dnrnaq)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "dna^2",
+          "children": {
+            "3": {
+              "word": "dnddn",
+              "children": {
+                "2": {
+                  "word": "dnlin",
+                  "children": {
+                    "2": {
+                      "word": "dnugn",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "dnriv",
+                  "children": {
+                    "3": {
+                      "word": "dnsos",
+                      "children": {
+                        "3": {
+                          "word": "dnull",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "d-nut",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(dnangel)",
+      "children": {
+        "4": {
+          "word": "(dndn222)",
+          "children": {}
+        },
+        "5": {
+          "word": "(dnxor63)",
+          "children": {
+            "7": {
+              "word": "dnanan",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "dnaddr",
+          "children": {
+            "3": {
+              "word": "dnumde",
+              "children": {}
+            },
+            "4": {
+              "word": "dndlga",
+              "children": {
+                "4": {
+                  "word": "dnenvy",
+                  "children": {
+                    "3": {
+                      "word": "dnjnms",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "dntven",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "d-nobi",
+          "children": {
+            "4": {
+              "word": "dnkb11",
+              "children": {}
+            },
+            "5": {
+              "word": "dnbsan",
+              "children": {
+                "3": {
+                  "word": "dnstar",
+                  "children": {}
+                },
+                "4": {
+                  "word": "dneiya",
+                  "children": {
+                    "4": {
+                      "word": "dnfjup",
+                      "children": {
+                        "4": {
+                          "word": "dnh260",
+                          "children": {
+                            "3": {
+                              "word": "dnt420",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(dncs8244)",
+      "children": {
+        "4": {
+          "word": "(dnvt2447)",
+          "children": {}
+        },
+        "5": {
+          "word": "(dnjsrl63)",
+          "children": {
+            "5": {
+              "word": "(dnxm5273)",
+              "children": {}
+            },
+            "6": {
+              "word": "(dnpg2252)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(dnjm7358)",
+          "children": {
+            "5": {
+              "word": "(dnwd3782)",
+              "children": {}
+            },
+            "6": {
+              "word": "(dnzgslin)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "dn22059",
+          "children": {
+            "5": {
+              "word": "dnpsctr",
+              "children": {
+                "5": {
+                  "word": "dnsvnlg",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "dn313gl",
+          "children": {
+            "4": {
+              "word": "dnangel",
+              "children": {
+                "4": {
+                  "word": "dnn1ght",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "dnajssk",
+              "children": {
+                "4": {
+                  "word": "dnatkbb",
+                  "children": {
+                    "5": {
+                      "word": "dnxpunk",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "dneod13",
+                  "children": {
+                    "5": {
+                      "word": "dngnrnp",
+                      "children": {
+                        "3": {
+                          "word": "dngnttb",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "dnieper",
+                          "children": {
+                            "5": {
+                              "word": "dnuatun",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "d.night",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(dndtmbdue)",
+      "children": {
+        "6": {
+          "word": "(dnsimksth)",
+          "children": {}
+        },
+        "7": {
+          "word": "(dneko0123)",
+          "children": {
+            "6": {
+              "word": "(dnwls3010)",
+              "children": {}
+            },
+            "7": {
+              "word": "(dngus3535)",
+              "children": {
+                "7": {
+                  "word": "(dnjsaos86)",
+                  "children": {
+                    "7": {
+                      "word": "(dnkfuaka1)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "dndc7285)",
+              "children": {
+                "5": {
+                  "word": "dndp3458)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "dnfm8547)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "dndeh317",
+          "children": {
+            "5": {
+              "word": "dndk5656",
+              "children": {
+                "7": {
+                  "word": "dnxe8323)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "dnemtcl0",
+              "children": {
+                "6": {
+                  "word": "dnne7725)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "dnuj4273)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "d-nezumi",
+          "children": {
+            "6": {
+              "word": "dnaitari",
+              "children": {
+                "6": {
+                  "word": "dnea5227",
+                  "children": {
+                    "4": {
+                      "word": "dnes5445",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "dn1241kb",
+              "children": {
+                "6": {
+                  "word": "dnfy8445",
+                  "children": {
+                    "4": {
+                      "word": "dnhk8575",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "dnpd8887",
+                      "children": {
+                        "6": {
+                          "word": "dnsy7254",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "dniwekat",
+                      "children": {
+                        "5": {
+                          "word": "dnuw3882",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "dnpd2838",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(dnenqkswja)",
+      "children": {
+        "8": {
+          "word": "(dnsduco420)",
+          "children": {
+            "9": {
+              "word": "dnshkshkd",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "dnadna3333",
+          "children": {
+            "6": {
+              "word": "dnadungeon",
+              "children": {}
+            },
+            "7": {
+              "word": "dnamc2012",
+              "children": {
+                "6": {
+                  "word": "dnormal11",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(dnacometrue)",
+      "children": {
+        "9": {
+          "word": "dnmont1031",
+          "children": {}
+        },
+        "10": {
+          "word": "dnsdltkfkd",
+          "children": {}
+        },
+        "11": {
+          "word": "dnbrcc-bon",
+          "children": {
+            "8": {
+              "word": "dnjswns178",
+              "children": {
+                "6": {
+                  "word": "dnpqxnsdtd",
+                  "children": {}
+                },
+                "8": {
+                  "word": "dnshadow12",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(dndosld73832)",
+      "children": {
+        "12": {
+          "word": "dna-fantasy",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "dnjd15411541",
+      "children": {}
+    },
+    "13": {
+      "word": "dngjinsh279600",
+      "children": {}
+    },
+    "14": {
+      "word": "dngjiq380123719",
+      "children": {
+        "12": {
+          "word": "dnyjttjjmvozmtl",
+          "children": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "word": "(r-744)",
+  "children": {
+    "4": {
+      "word": "r-7",
+      "children": {
+        "1": {
+          "word": "r-73",
+          "children": {
+            "1": {
+              "word": "r-77",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "r716)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "r7038",
+      "children": {
+        "3": {
+          "word": "r71",
+          "children": {
+            "1": {
+              "word": "r717",
+              "children": {
+                "2": {
+                  "word": "r75",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "r7ll",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(r7038xx)",
+      "children": {
+        "6": {
+          "word": "r773364",
+          "children": {}
+        },
+        "7": {
+          "word": "r777668",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(r7df7c65c)",
+      "children": {
+        "9": {
+          "word": "r7038xx",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "r72557738",
+      "children": {}
+    },
+    "9": {
+      "word": "(r758120518)",
+      "children": {}
+    }
+  }
+}

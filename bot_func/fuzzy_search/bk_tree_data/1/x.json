@@ -1,0 +1,56 @@
+{
+  "word": "(1x9",
+  "children": {
+    "2": {
+      "word": "1x",
+      "children": {
+        "1": {
+          "word": "1x0",
+          "children": {
+            "1": {
+              "word": "1x3",
+              "children": {
+                "1": {
+                  "word": "1x4",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "1-x",
+      "children": {
+        "3": {
+          "word": "1x10",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "1x156",
+      "children": {
+        "3": {
+          "word": "1x2x3",
+          "children": {
+            "3": {
+              "word": "1xing",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "1x1x1x1",
+      "children": {
+        "4": {
+          "word": "1x3x8)",
+          "children": {}
+        }
+      }
+    }
+  }
+}

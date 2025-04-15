@@ -1,0 +1,40 @@
+{
+  "word": "(8pesitos)",
+  "children": {
+    "6": {
+      "word": "(8pxl)",
+      "children": {}
+    },
+    "7": {
+      "word": "8philia",
+      "children": {
+        "5": {
+          "word": "8po",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "8-pin",
+      "children": {
+        "3": {
+          "word": "8p",
+          "children": {
+            "1": {
+              "word": "8py",
+              "children": {}
+            },
+            "2": {
+              "word": "8p8p",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "8plus1000",
+          "children": {}
+        }
+      }
+    }
+  }
+}

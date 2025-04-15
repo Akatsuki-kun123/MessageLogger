@@ -1,0 +1,69 @@
+{
+  "word": "f-94",
+  "children": {
+    "2": {
+      "word": "f9",
+      "children": {
+        "1": {
+          "word": "f90",
+          "children": {
+            "1": {
+              "word": "f91",
+              "children": {
+                "1": {
+                  "word": "f97",
+                  "children": {
+                    "1": {
+                      "word": "f99",
+                      "children": {
+                        "1": {
+                          "word": "f9c",
+                          "children": {
+                            "1": {
+                              "word": "f9f",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "f90y",
+      "children": {
+        "2": {
+          "word": "f91)",
+          "children": {
+            "1": {
+              "word": "f96)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "f90ii",
+      "children": {}
+    },
+    "8": {
+      "word": "f9387dora",
+      "children": {}
+    },
+    "11": {
+      "word": "f91gundam831",
+      "children": {}
+    },
+    "14": {
+      "word": "f9tacxfbvc62332",
+      "children": {}
+    }
+  }
+}

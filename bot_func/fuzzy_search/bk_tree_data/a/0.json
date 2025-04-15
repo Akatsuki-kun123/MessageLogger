@@ -1,0 +1,271 @@
+{
+  "word": "(a-01)",
+  "children": {
+    "2": {
+      "word": "(a0)",
+      "children": {
+        "1": {
+          "word": "(a01",
+          "children": {}
+        },
+        "2": {
+          "word": "a01)",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(a0",
+      "children": {
+        "2": {
+          "word": "a01",
+          "children": {}
+        },
+        "3": {
+          "word": "a012",
+          "children": {
+            "2": {
+              "word": "a09)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(a0ko1)",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(a010217)",
+      "children": {
+        "4": {
+          "word": "a0101",
+          "children": {}
+        },
+        "5": {
+          "word": "a0210",
+          "children": {}
+        },
+        "6": {
+          "word": "a00",
+          "children": {
+            "1": {
+              "word": "a07",
+              "children": {
+                "2": {
+                  "word": "a0z0",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "a0000",
+              "children": {
+                "2": {
+                  "word": "a00xm",
+                  "children": {}
+                },
+                "3": {
+                  "word": "a082",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "a0614",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "a0",
+          "children": {
+            "1": {
+              "word": "a08",
+              "children": {
+                "1": {
+                  "word": "a0i",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "a0lp",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(a0905371)",
+      "children": {
+        "6": {
+          "word": "(a0dddd)",
+          "children": {}
+        },
+        "7": {
+          "word": "a0406",
+          "children": {
+            "2": {
+              "word": "a0609",
+              "children": {
+                "2": {
+                  "word": "a0s0l",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "a0623",
+              "children": {
+                "3": {
+                  "word": "a07uk",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "a04me",
+          "children": {
+            "2": {
+              "word": "a0lmh",
+              "children": {}
+            },
+            "4": {
+              "word": "a0a194",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(a0240765)",
+      "children": {
+        "6": {
+          "word": "(a0azuma)",
+          "children": {}
+        },
+        "7": {
+          "word": "a04chr",
+          "children": {}
+        },
+        "8": {
+          "word": "a03bi9",
+          "children": {
+            "4": {
+              "word": "a0iisa",
+              "children": {
+                "4": {
+                  "word": "a0ja9k",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "a0akumu",
+              "children": {}
+            },
+            "6": {
+              "word": "a0912011",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(a01891226)",
+      "children": {
+        "6": {
+          "word": "(a05su15ka)",
+          "children": {}
+        },
+        "9": {
+          "word": "a0078485",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "(a05867430)",
+      "children": {
+        "9": {
+          "word": "(a0909301989)",
+          "children": {
+            "9": {
+              "word": "a09110526",
+              "children": {}
+            },
+            "10": {
+              "word": "a03kouta",
+              "children": {}
+            },
+            "11": {
+              "word": "a0415koso",
+              "children": {
+                "7": {
+                  "word": "a0secret",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(a01085748817)",
+      "children": {
+        "8": {
+          "word": "(a0983535619)",
+          "children": {}
+        },
+        "10": {
+          "word": "a02543420",
+          "children": {}
+        },
+        "11": {
+          "word": "a01macaron",
+          "children": {
+            "8": {
+              "word": "a05rigika",
+              "children": {
+                "8": {
+                  "word": "a063310758",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "a0960212623",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "(a0922484236)",
+      "children": {
+        "7": {
+          "word": "(a0955987928)",
+          "children": {
+            "9": {
+              "word": "a0916485664",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "a01-isumi1013",
+          "children": {}
+        }
+      }
+    }
+  }
+}

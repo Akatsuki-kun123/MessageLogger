@@ -1,0 +1,27 @@
+{
+  "word": "(8",
+  "children": {
+    "1": {
+      "word": "(8)",
+      "children": {
+        "2": {
+          "word": "8",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "8)",
+      "children": {
+        "1": {
+          "word": "8:",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "8))",
+      "children": {}
+    }
+  }
+}

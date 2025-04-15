@@ -1,0 +1,32 @@
+{
+  "word": "(-0)",
+  "children": {
+    "1": {
+      "word": "(0)",
+      "children": {}
+    },
+    "2": {
+      "word": "(0",
+      "children": {
+        "2": {
+          "word": "+-0",
+          "children": {
+            "3": {
+              "word": "0)",
+              "children": {
+                "1": {
+                  "word": ":0)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "0",
+      "children": {}
+    }
+  }
+}

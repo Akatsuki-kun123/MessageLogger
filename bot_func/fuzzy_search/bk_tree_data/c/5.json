@@ -1,0 +1,96 @@
+{
+  "word": "(c5",
+  "children": {
+    "1": {
+      "word": "c5",
+      "children": {}
+    },
+    "2": {
+      "word": "c5)",
+      "children": {
+        "1": {
+          "word": "c50",
+          "children": {
+            "1": {
+              "word": "c53",
+              "children": {
+                "1": {
+                  "word": "c55",
+                  "children": {
+                    "1": {
+                      "word": "c56",
+                      "children": {
+                        "1": {
+                          "word": "c57",
+                          "children": {
+                            "1": {
+                              "word": "c5m",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "c-5m",
+      "children": {
+        "3": {
+          "word": "c50o",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(c55mm)",
+      "children": {
+        "3": {
+          "word": "(c5h5o)",
+          "children": {}
+        },
+        "4": {
+          "word": "c527m",
+          "children": {}
+        },
+        "5": {
+          "word": "c5h12",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(c56160)",
+      "children": {
+        "6": {
+          "word": "c52278",
+          "children": {
+            "4": {
+              "word": "c5mnno",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "c520gpss",
+      "children": {
+        "6": {
+          "word": "c5xa0231",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "(c57hikaru)",
+      "children": {}
+    }
+  }
+}

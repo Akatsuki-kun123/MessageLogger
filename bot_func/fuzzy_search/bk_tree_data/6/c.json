@@ -1,0 +1,63 @@
+{
+  "word": "(6cbr2d)",
+  "children": {
+    "5": {
+      "word": "6ccb20",
+      "children": {
+        "4": {
+          "word": "6com)",
+          "children": {
+            "3": {
+              "word": "6crcg",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "6c",
+      "children": {
+        "1": {
+          "word": "6ch",
+          "children": {
+            "1": {
+              "word": "6cm",
+              "children": {
+                "1": {
+                  "word": "6co",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "6cat",
+          "children": {
+            "2": {
+              "word": "6cha",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "6chii",
+          "children": {}
+        },
+        "4": {
+          "word": "6c6bbb",
+          "children": {}
+        },
+        "6": {
+          "word": "6ca32465",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "6cheetah",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "word": "\"9\"",
+  "children": {
+    "2": {
+      "word": "(9",
+      "children": {
+        "1": {
+          "word": "(9)",
+          "children": {
+            "2": {
+              "word": "+9",
+              "children": {
+                "1": {
+                  "word": "9",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "9%",
+          "children": {
+            "1": {
+              "word": "9)",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "word": "(b",
+  "children": {
+    "1": {
+      "word": "(b)",
+      "children": {
+        "1": {
+          "word": "(b:",
+          "children": {}
+        },
+        "2": {
+          "word": ";b",
+          "children": {
+            "1": {
+              "word": "b",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "-b)",
+      "children": {
+        "1": {
+          "word": "b)",
+          "children": {}
+        },
+        "2": {
+          "word": "b&",
+          "children": {
+            "1": {
+              "word": "b.",
+              "children": {
+                "1": {
+                  "word": "b:",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

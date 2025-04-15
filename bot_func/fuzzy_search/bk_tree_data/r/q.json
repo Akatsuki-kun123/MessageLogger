@@ -1,0 +1,76 @@
+{
+  "word": "(rq",
+  "children": {
+    "1": {
+      "word": "rq",
+      "children": {}
+    },
+    "2": {
+      "word": "r.q",
+      "children": {}
+    },
+    "3": {
+      "word": "rq-1",
+      "children": {
+        "1": {
+          "word": "rq-3",
+          "children": {
+            "1": {
+              "word": "rq-4",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "rqll",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(rqcs6)",
+      "children": {
+        "5": {
+          "word": "rqm55",
+          "children": {
+            "3": {
+              "word": "rqxui",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(rqawxl)",
+      "children": {
+        "5": {
+          "word": "rqjxwc",
+          "children": {}
+        },
+        "6": {
+          "word": "rq-170",
+          "children": {
+            "4": {
+              "word": "rqbiko",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "rqmunic",
+      "children": {
+        "6": {
+          "word": "rqtkrqtk",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "(rquick2009)",
+      "children": {}
+    }
+  }
+}

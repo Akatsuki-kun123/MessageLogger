@@ -1,0 +1,98 @@
+{
+  "word": "(7hai)",
+  "children": {
+    "3": {
+      "word": "7hako",
+      "children": {}
+    },
+    "4": {
+      "word": "7-hao",
+      "children": {
+        "2": {
+          "word": "7h2o",
+          "children": {}
+        },
+        "3": {
+          "word": "7h",
+          "children": {
+            "1": {
+              "word": "7h3",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "7h3rd",
+          "children": {
+            "4": {
+              "word": "7hrang",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "7hoshi)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "7hanada",
+      "children": {
+        "4": {
+          "word": "7hn0ng",
+          "children": {}
+        },
+        "5": {
+          "word": "7hertz",
+          "children": {
+            "4": {
+              "word": "7hikki",
+              "children": {
+                "3": {
+                  "word": "7hoshi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "7haoquan",
+      "children": {
+        "6": {
+          "word": "7hinode",
+          "children": {
+            "5": {
+              "word": "7hwlfkf",
+              "children": {}
+            },
+            "6": {
+              "word": "7hn04si6",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "7heartsart",
+      "children": {
+        "7": {
+          "word": "7hundredt",
+          "children": {}
+        },
+        "8": {
+          "word": "7himebdgd",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "7hikinoyagi",
+      "children": {}
+    }
+  }
+}

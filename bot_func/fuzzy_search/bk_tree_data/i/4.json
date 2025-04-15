@@ -1,0 +1,68 @@
+{
+  "word": "(i49)",
+  "children": {
+    "2": {
+      "word": "i45)",
+      "children": {
+        "2": {
+          "word": "i49",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "i4",
+      "children": {
+        "1": {
+          "word": "i40",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(i4fp01)",
+      "children": {
+        "5": {
+          "word": "i-401",
+          "children": {
+            "3": {
+              "word": "i-490!)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "i-400",
+          "children": {
+            "1": {
+              "word": "i-402",
+              "children": {}
+            },
+            "2": {
+              "word": "i-41",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "i-46",
+          "children": {
+            "1": {
+              "word": "i-47",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "i401shioi",
+      "children": {
+        "7": {
+          "word": "i47yrdqhj",
+          "children": {}
+        }
+      }
+    }
+  }
+}

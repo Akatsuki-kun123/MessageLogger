@@ -1,0 +1,23 @@
+{
+  "word": "(h",
+  "children": {
+    "1": {
+      "word": "h",
+      "children": {}
+    },
+    "2": {
+      "word": "h!",
+      "children": {
+        "1": {
+          "word": "h)",
+          "children": {
+            "1": {
+              "word": "h.",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

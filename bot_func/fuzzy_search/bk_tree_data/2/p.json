@@ -1,0 +1,80 @@
+{
+  "word": "(2p",
+  "children": {
+    "1": {
+      "word": "2p",
+      "children": {}
+    },
+    "2": {
+      "word": "2p)",
+      "children": {}
+    },
+    "3": {
+      "word": "2p2t",
+      "children": {
+        "2": {
+          "word": "2pin",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "2phan",
+      "children": {
+        "3": {
+          "word": "2poet",
+          "children": {
+            "3": {
+              "word": "2pwqq",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(2pine2)",
+      "children": {
+        "6": {
+          "word": "2palsa",
+          "children": {
+            "4": {
+              "word": "2pfrog",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "2pcolor",
+      "children": {
+        "5": {
+          "word": "2pingms",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(2percent)",
+      "children": {}
+    },
+    "8": {
+      "word": "2-pounder",
+      "children": {}
+    },
+    "10": {
+      "word": "2pcryptoart",
+      "children": {}
+    },
+    "14": {
+      "word": "(2pineapplepizza)",
+      "children": {
+        "2": {
+          "word": "2pineapplepizza",
+          "children": {}
+        }
+      }
+    }
+  }
+}

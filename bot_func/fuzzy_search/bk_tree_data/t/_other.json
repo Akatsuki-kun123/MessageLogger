@@ -1,0 +1,45 @@
+{
+  "word": "(-t)",
+  "children": {
+    "1": {
+      "word": "(t)",
+      "children": {}
+    },
+    "2": {
+      "word": "(t",
+      "children": {
+        "1": {
+          "word": "(t.",
+          "children": {}
+        },
+        "2": {
+          "word": "(t))",
+          "children": {
+            "2": {
+              "word": "t)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": ":t",
+      "children": {
+        "1": {
+          "word": ";t",
+          "children": {
+            "1": {
+              "word": "t",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "t.",
+          "children": {}
+        }
+      }
+    }
+  }
+}

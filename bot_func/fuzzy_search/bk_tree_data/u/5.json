@@ -1,0 +1,90 @@
+{
+  "word": "(u56164459)",
+  "children": {
+    "7": {
+      "word": "(u5apy0n)",
+      "children": {
+        "7": {
+          "word": "u571x15",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "u5)",
+      "children": {
+        "2": {
+          "word": "u505",
+          "children": {
+            "2": {
+              "word": "u543",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "u-505",
+      "children": {
+        "2": {
+          "word": "u-511",
+          "children": {
+            "2": {
+              "word": "u-522",
+              "children": {
+                "1": {
+                  "word": "u-552",
+                  "children": {}
+                },
+                "2": {
+                  "word": "u-556",
+                  "children": {
+                    "1": {
+                      "word": "u-557",
+                      "children": {
+                        "2": {
+                          "word": "u-56",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "u500",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "u5",
+          "children": {
+            "1": {
+              "word": "u5p",
+              "children": {}
+            },
+            "3": {
+              "word": "u5000",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "u5cbs",
+          "children": {}
+        },
+        "5": {
+          "word": "u5apy0n",
+          "children": {}
+        },
+        "7": {
+          "word": "u50wn-tan",
+          "children": {}
+        }
+      }
+    }
+  }
+}

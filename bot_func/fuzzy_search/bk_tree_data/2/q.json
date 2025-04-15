@@ -1,0 +1,31 @@
+{
+  "word": "(2q8k0)",
+  "children": {
+    "3": {
+      "word": "(2ql)",
+      "children": {}
+    },
+    "5": {
+      "word": "2-qzkn",
+      "children": {
+        "3": {
+          "word": "2qzg",
+          "children": {}
+        },
+        "4": {
+          "word": "2q",
+          "children": {
+            "1": {
+              "word": "2q6",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "(2qoyz9k5ookixcs)",
+      "children": {}
+    }
+  }
+}

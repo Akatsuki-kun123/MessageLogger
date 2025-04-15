@@ -1,0 +1,72 @@
+{
+  "word": "4-bit",
+  "children": {
+    "1": {
+      "word": "4bit",
+      "children": {}
+    },
+    "3": {
+      "word": "4b",
+      "children": {
+        "1": {
+          "word": "4b)",
+          "children": {
+            "1": {
+              "word": "4ba",
+              "children": {
+                "1": {
+                  "word": "4bs",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "4bkm",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "4back",
+      "children": {
+        "3": {
+          "word": "4boys",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "4-bun'no",
+      "children": {
+        "6": {
+          "word": "4ba3ki",
+          "children": {
+            "4": {
+              "word": "4blood",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "4b-enpitsu",
+      "children": {
+        "7": {
+          "word": "4bangai",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "4beraser",
+      "children": {}
+    },
+    "11": {
+      "word": "4byssopel4gic",
+      "children": {}
+    }
+  }
+}

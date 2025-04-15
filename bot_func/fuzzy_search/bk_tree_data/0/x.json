@@ -1,0 +1,106 @@
+{
+  "word": "(0x0",
+  "children": {
+    "1": {
+      "word": "(0x0)",
+      "children": {
+        "2": {
+          "word": "0x0",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "0x",
+      "children": {
+        "1": {
+          "word": "0x)",
+          "children": {
+            "1": {
+              "word": "0x3",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "0x64",
+      "children": {
+        "2": {
+          "word": "0x9p",
+          "children": {}
+        },
+        "3": {
+          "word": "0xax0",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "0x0023",
+      "children": {
+        "2": {
+          "word": "0x0082",
+          "children": {}
+        },
+        "4": {
+          "word": "0x2gi",
+          "children": {
+            "3": {
+              "word": "0x3nr",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(0x3777)",
+      "children": {
+        "5": {
+          "word": "(0xx0xzt)",
+          "children": {}
+        },
+        "6": {
+          "word": "0xced3",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(0xhsk16)",
+      "children": {
+        "6": {
+          "word": "0xasami",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(0xxlinxx0)",
+      "children": {
+        "8": {
+          "word": "0xconfig",
+          "children": {}
+        },
+        "9": {
+          "word": "0x4682b4",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "0x00000050",
+      "children": {}
+    },
+    "9": {
+      "word": "0xeyedaisy",
+      "children": {}
+    },
+    "10": {
+      "word": "0xxshakepxx0",
+      "children": {}
+    }
+  }
+}

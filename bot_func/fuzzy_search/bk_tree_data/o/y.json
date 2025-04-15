@@ -1,0 +1,1346 @@
+{
+  "word": "(o-yama)",
+  "children": {
+    "2": {
+      "word": "o-yama",
+      "children": {}
+    },
+    "3": {
+      "word": "(o-yasumi)",
+      "children": {
+        "4": {
+          "word": "(oyaji)",
+          "children": {}
+        },
+        "5": {
+          "word": "(oya)",
+          "children": {
+            "3": {
+              "word": "(oyaoya)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "oyama",
+          "children": {
+            "1": {
+              "word": "oyama0",
+              "children": {
+                "1": {
+                  "word": "oyaman",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(oy)",
+      "children": {
+        "2": {
+          "word": "(oyku)",
+          "children": {}
+        },
+        "3": {
+          "word": "(oyako",
+          "children": {
+            "3": {
+              "word": "(oyoyo)",
+              "children": {
+                "3": {
+                  "word": "(oyuat)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "oyag)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "(oyonu)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(oyatsu)",
+          "children": {
+            "3": {
+              "word": "(oyavun)",
+              "children": {}
+            },
+            "4": {
+              "word": "(oyuimo)",
+              "children": {
+                "4": {
+                  "word": "oyako)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "oyaji)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "oyami",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(oyabaka",
+          "children": {
+            "4": {
+              "word": "oyasai",
+              "children": {
+                "1": {
+                  "word": "oyasai)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(oyasumi)",
+              "children": {
+                "5": {
+                  "word": "oyumai",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "o-yatsu",
+          "children": {
+            "3": {
+              "word": "oyamasu",
+              "children": {}
+            },
+            "4": {
+              "word": "oyamaru",
+              "children": {}
+            },
+            "5": {
+              "word": "oyamada",
+              "children": {
+                "2": {
+                  "word": "oyamano",
+                  "children": {
+                    "2": {
+                      "word": "oyamayy",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(oyasumi",
+      "children": {
+        "2": {
+          "word": "(oyasumie)",
+          "children": {
+            "2": {
+              "word": "oyasumi)",
+              "children": {}
+            },
+            "4": {
+              "word": "(oyayubi",
+              "children": {
+                "3": {
+                  "word": "oyaumi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(oyusame",
+          "children": {
+            "5": {
+              "word": "oyashi",
+              "children": {
+                "2": {
+                  "word": "oyasmic",
+                  "children": {
+                    "3": {
+                      "word": "oyasu",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "oyasu3)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(oyogume)",
+          "children": {
+            "4": {
+              "word": "oyume",
+              "children": {}
+            },
+            "5": {
+              "word": "(oyster",
+              "children": {
+                "4": {
+                  "word": "(oyu",
+                  "children": {}
+                },
+                "6": {
+                  "word": "oyabun)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "oyabu",
+              "children": {
+                "1": {
+                  "word": "oyabun",
+                  "children": {
+                    "2": {
+                      "word": "oyatu",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "oyagi",
+                  "children": {}
+                },
+                "3": {
+                  "word": "oysm",
+                  "children": {}
+                },
+                "4": {
+                  "word": "oyajima",
+                  "children": {
+                    "2": {
+                      "word": "oyatoma",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "oyashi)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "oyadi",
+              "children": {
+                "1": {
+                  "word": "oyaji",
+                  "children": {
+                    "1": {
+                      "word": "oyaki",
+                      "children": {
+                        "1": {
+                          "word": "oyari",
+                          "children": {
+                            "1": {
+                              "word": "oyazi",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "oyanagi",
+                  "children": {
+                    "4": {
+                      "word": "oyatsu",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "oyassan",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(oyj814)",
+          "children": {
+            "4": {
+              "word": "(oyu135)",
+              "children": {}
+            },
+            "5": {
+              "word": "(oyo",
+              "children": {
+                "4": {
+                  "word": "oyu0)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(oyuwari)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "oya",
+              "children": {
+                "1": {
+                  "word": "oyat",
+                  "children": {}
+                },
+                "2": {
+                  "word": "oyado",
+                  "children": {
+                    "1": {
+                      "word": "oyako",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "oymd",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "oyuha",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "oyabin",
+                  "children": {
+                    "1": {
+                      "word": "oyabon",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "oyakko",
+                      "children": {
+                        "3": {
+                          "word": "oyales",
+                          "children": {
+                            "3": {
+                              "word": "oyaoya",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "oyome",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "oyahada",
+                  "children": {
+                    "2": {
+                      "word": "oyakata",
+                      "children": {
+                        "2": {
+                          "word": "oyapara",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "oyanaku",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "oysmrm",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "o-yuki",
+              "children": {
+                "5": {
+                  "word": "oyuyamio",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(oysmp13)",
+          "children": {
+            "5": {
+              "word": "(oyugane)",
+              "children": {}
+            },
+            "6": {
+              "word": "oyamadan",
+              "children": {
+                "4": {
+                  "word": "oyomaru",
+                  "children": {
+                    "1": {
+                      "word": "oyumaru",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "oyumaxo",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oymng",
+                  "children": {}
+                },
+                "6": {
+                  "word": "oyoyo)",
+                  "children": {
+                    "3": {
+                      "word": "oyuit)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(oyakodon)",
+      "children": {
+        "4": {
+          "word": "(oyukino)",
+          "children": {}
+        },
+        "5": {
+          "word": "(oyatu55k)",
+          "children": {
+            "7": {
+              "word": "(oyoyoyo",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(oyanirami)",
+          "children": {
+            "5": {
+              "word": "(oyashira",
+              "children": {}
+            },
+            "7": {
+              "word": "(oycue41)",
+              "children": {
+                "7": {
+                  "word": "oyajide",
+                  "children": {
+                    "4": {
+                      "word": "oyashio",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "oyafune",
+              "children": {
+                "3": {
+                  "word": "oyone",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "oyoko",
+              "children": {
+                "1": {
+                  "word": "oyoso",
+                  "children": {
+                    "1": {
+                      "word": "oyoyo",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "oy97oy",
+          "children": {
+            "3": {
+              "word": "oyo",
+              "children": {
+                "1": {
+                  "word": "oyou",
+                  "children": {}
+                },
+                "2": {
+                  "word": "oyuno",
+                  "children": {
+                    "1": {
+                      "word": "oyupo",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "oyzjoj",
+                  "children": {}
+                },
+                "4": {
+                  "word": "oysmohy",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "oyasuya",
+              "children": {
+                "4": {
+                  "word": "oyeung",
+                  "children": {
+                    "2": {
+                      "word": "oyun",
+                      "children": {
+                        "1": {
+                          "word": "oyune",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "oyuki",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "oyogu",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oyk",
+                  "children": {
+                    "3": {
+                      "word": "oyo98",
+                      "children": {
+                        "2": {
+                          "word": "oyobi",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "oyuki.",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "oyo004",
+                      "children": {
+                        "3": {
+                          "word": "oyobi!",
+                          "children": {
+                            "2": {
+                              "word": "oyoge!",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "oyol55",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "oyuand",
+                          "children": {
+                            "1": {
+                              "word": "oyuano",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "oyabuli",
+              "children": {
+                "2": {
+                  "word": "oyasumi",
+                  "children": {
+                    "2": {
+                      "word": "oyayubi",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "oyajiji",
+                  "children": {
+                    "4": {
+                      "word": "oyasuu3",
+                      "children": {
+                        "1": {
+                          "word": "oyasuuu",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "oyatuwa",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "oyaji59",
+                  "children": {
+                    "4": {
+                      "word": "oyattsu",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oyster)",
+                  "children": {
+                    "4": {
+                      "word": "oyumeno",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "oyu-san",
+                      "children": {
+                        "4": {
+                          "word": "oyumino",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "oyomesan",
+              "children": {}
+            },
+            "7": {
+              "word": "oyamasuke",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "oy",
+          "children": {
+            "1": {
+              "word": "oyl",
+              "children": {
+                "1": {
+                  "word": "oyq",
+                  "children": {
+                    "1": {
+                      "word": "oyu",
+                      "children": {
+                        "1": {
+                          "word": "oyy",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "oyes",
+              "children": {
+                "2": {
+                  "word": "oyir",
+                  "children": {
+                    "2": {
+                      "word": "oysi",
+                      "children": {
+                        "1": {
+                          "word": "oyui",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "oyul",
+                          "children": {
+                            "1": {
+                              "word": "oyuu",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "oywj",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "oy0y0",
+              "children": {
+                "2": {
+                  "word": "oyuyu",
+                  "children": {}
+                },
+                "3": {
+                  "word": "oyspe",
+                  "children": {
+                    "2": {
+                      "word": "oyuge",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "oyuru",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "oygihc",
+              "children": {
+                "3": {
+                  "word": "oyuchi",
+                  "children": {}
+                },
+                "4": {
+                  "word": "oyster",
+                  "children": {
+                    "4": {
+                      "word": "oyuyyy",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "oyuharu",
+              "children": {
+                "2": {
+                  "word": "oyutaku",
+                  "children": {
+                    "3": {
+                      "word": "oyuwari",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "oyusame",
+                  "children": {
+                    "3": {
+                      "word": "oyuzaki",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "oyumaru0",
+              "children": {}
+            },
+            "7": {
+              "word": "oyomesama",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(oyasiro35)",
+      "children": {
+        "4": {
+          "word": "oyashiro)",
+          "children": {}
+        },
+        "5": {
+          "word": "oyashiro",
+          "children": {}
+        },
+        "6": {
+          "word": "(oyasumign8)",
+          "children": {
+            "7": {
+              "word": "(oyatsu3ji",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(oyumaromaro)",
+          "children": {
+            "8": {
+              "word": "oyakodon",
+              "children": {
+                "5": {
+                  "word": "oyxiaoyo",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "oyasameme",
+              "children": {
+                "4": {
+                  "word": "oyasumina",
+                  "children": {}
+                },
+                "7": {
+                  "word": "oyirukak",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "oyasaiiis",
+              "children": {
+                "3": {
+                  "word": "oyashiki",
+                  "children": {}
+                },
+                "6": {
+                  "word": "oyatu55k",
+                  "children": {
+                    "6": {
+                      "word": "oyoso17",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "oyabuchu",
+          "children": {
+            "4": {
+              "word": "oyobice",
+              "children": {}
+            },
+            "5": {
+              "word": "oyururi",
+              "children": {}
+            },
+            "6": {
+              "word": "oyakata47",
+              "children": {
+                "5": {
+                  "word": "oyaoya007",
+                  "children": {}
+                },
+                "6": {
+                  "word": "oyomotin",
+                  "children": {
+                    "5": {
+                      "word": "oyoziza",
+                      "children": {
+                        "5": {
+                          "word": "oyukome",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "oyoneko",
+                  "children": {
+                    "3": {
+                      "word": "oyoyoyo",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "oyunoie",
+                      "children": {
+                        "2": {
+                          "word": "oyunomi",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "oyu0405",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "oyogenai)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "oyenpaws",
+          "children": {
+            "4": {
+              "word": "oyhenart",
+              "children": {}
+            },
+            "5": {
+              "word": "oyogenai",
+              "children": {}
+            },
+            "6": {
+              "word": "oyo-kun",
+              "children": {
+                "4": {
+                  "word": "oyome-san",
+                  "children": {
+                    "6": {
+                      "word": "oyoungj",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "oyuk1nz",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oyu0819",
+                  "children": {
+                    "4": {
+                      "word": "oyuzuki",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "oyumanzyu",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(oyabun1234)",
+      "children": {
+        "6": {
+          "word": "oyaman12000",
+          "children": {}
+        },
+        "7": {
+          "word": "(oyasuminasai)",
+          "children": {
+            "8": {
+              "word": "(oyatutabero)",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "-oyozure-)",
+          "children": {
+            "6": {
+              "word": "oyazineko",
+              "children": {}
+            },
+            "7": {
+              "word": "oyakusoku",
+              "children": {
+                "6": {
+                  "word": "oyazi1089",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "oyaji2436",
+              "children": {
+                "7": {
+                  "word": "oyasumichu",
+                  "children": {
+                    "7": {
+                      "word": "oyunemuri",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "oyaji-sou",
+          "children": {
+            "4": {
+              "word": "oyajitchi",
+              "children": {}
+            },
+            "5": {
+              "word": "oyakioisi",
+              "children": {
+                "6": {
+                  "word": "oyashirazu",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "oyakodon:",
+              "children": {
+                "7": {
+                  "word": "oyumi30do",
+                  "children": {
+                    "6": {
+                      "word": "oyuugi-p",
+                      "children": {
+                        "5": {
+                          "word": "oyuyuyuyu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "oyakomastar",
+              "children": {
+                "7": {
+                  "word": "oyasemirri",
+                  "children": {}
+                },
+                "8": {
+                  "word": "oyatsuming",
+                  "children": {}
+                },
+                "9": {
+                  "word": "oyinniex",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "oyecomova",
+          "children": {
+            "5": {
+              "word": "oyoxotol",
+              "children": {}
+            },
+            "7": {
+              "word": "oyome-chan",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(oyasumunemui)",
+      "children": {
+        "6": {
+          "word": "oyasuminasai",
+          "children": {
+            "4": {
+              "word": "oyasumineko",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(oyatudaisuki)",
+          "children": {
+            "7": {
+              "word": "oyasumisuya",
+              "children": {}
+            },
+            "9": {
+              "word": "oyasumichuu",
+              "children": {
+                "4": {
+                  "word": "oyasuminaseu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "oyasumirakko",
+          "children": {
+            "4": {
+              "word": "oyasumisan01",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "oyatsutime",
+          "children": {
+            "8": {
+              "word": "oystianmori",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "oyashiro-sama",
+          "children": {
+            "8": {
+              "word": "oyuirasuto",
+              "children": {}
+            },
+            "9": {
+              "word": "oyogimasen.",
+              "children": {
+                "4": {
+                  "word": "oyogitsune",
+                  "children": {}
+                },
+                "7": {
+                  "word": "oyugerong",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "oyatsu0425",
+              "children": {}
+            },
+            "11": {
+              "word": "oyoung0619",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "oyakata-sama",
+          "children": {
+            "5": {
+              "word": "oyakata1220",
+              "children": {}
+            },
+            "8": {
+              "word": "oyomesandazo",
+              "children": {}
+            },
+            "9": {
+              "word": "oyecomova08",
+              "children": {}
+            },
+            "10": {
+              "word": "oyuoisiiyo",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(oyakodon0511)",
+      "children": {
+        "4": {
+          "word": "oyakodon451",
+          "children": {}
+        },
+        "7": {
+          "word": "oyakoro0927",
+          "children": {}
+        },
+        "8": {
+          "word": "oyakorodesu",
+          "children": {}
+        },
+        "9": {
+          "word": "oyakoricell",
+          "children": {}
+        },
+        "10": {
+          "word": "(oyoy12345678)",
+          "children": {
+            "10": {
+              "word": "oyayubi-hime)",
+              "children": {}
+            },
+            "12": {
+              "word": "oyasirosama07",
+              "children": {
+                "7": {
+                  "word": "oyatunoousama",
+                  "children": {}
+                },
+                "8": {
+                  "word": "oyasumination",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "(oyasirazumonai)",
+          "children": {
+            "10": {
+              "word": "oyashimakanya",
+              "children": {
+                "6": {
+                  "word": "oyashiroppa",
+                  "children": {}
+                },
+                "10": {
+                  "word": "oyomidtarumi",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "oyasumichuri",
+              "children": {}
+            },
+            "12": {
+              "word": "oyayubihime",
+              "children": {
+                "5": {
+                  "word": "oyayubisakku",
+                  "children": {}
+                },
+                "7": {
+                  "word": "oyukikeiho",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "oysterpanic",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "oyakatahonmaru",
+      "children": {
+        "8": {
+          "word": "oyatutabetabe",
+          "children": {}
+        },
+        "10": {
+          "word": "oyatsu/15:00",
+          "children": {
+            "6": {
+              "word": "oyatsunokumo",
+              "children": {}
+            },
+            "7": {
+              "word": "oyatsuredgray",
+              "children": {}
+            },
+            "9": {
+              "word": "oyayubi-hime",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "oyasuminasai31",
+          "children": {
+            "9": {
+              "word": "oyibingxiuo",
+              "children": {}
+            },
+            "10": {
+              "word": "oysterfried",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "oyluser0715",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "oyasuminjyutsu",
+      "children": {
+        "11": {
+          "word": "oystercatcher",
+          "children": {
+            "13": {
+              "word": "oyugawakimasita",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "13": {
+      "word": "(oyajinohigesori)",
+      "children": {
+        "10": {
+          "word": "(oyakoro4gurakoro)",
+          "children": {}
+        },
+        "13": {
+          "word": "(oyakatasabuluaaa)",
+          "children": {}
+        },
+        "14": {
+          "word": "oy6eaddao5qetyk",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "oysterpersimmon",
+      "children": {}
+    }
+  }
+}

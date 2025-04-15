@@ -1,0 +1,126 @@
+{
+  "word": "(w1221)",
+  "children": {
+    "2": {
+      "word": "(w1lm1)",
+      "children": {}
+    },
+    "3": {
+      "word": "(w1k)",
+      "children": {
+        "4": {
+          "word": "w1225",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(w14mm",
+      "children": {
+        "4": {
+          "word": "w1022",
+          "children": {
+            "2": {
+              "word": "w12",
+              "children": {
+                "1": {
+                  "word": "w124",
+                  "children": {
+                    "1": {
+                      "word": "w126",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "w11",
+              "children": {
+                "1": {
+                  "word": "w111",
+                  "children": {
+                    "1": {
+                      "word": "w113",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "w1",
+      "children": {
+        "1": {
+          "word": "w14",
+          "children": {
+            "1": {
+              "word": "w1k",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "w14m",
+          "children": {
+            "2": {
+              "word": "w1re",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "w1r3d",
+          "children": {
+            "3": {
+              "word": "w1wk4",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "w1nter",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "w11051105",
+      "children": {
+        "5": {
+          "word": "w15351580",
+          "children": {}
+        },
+        "7": {
+          "word": "w1zwater",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "w155349818",
+      "children": {}
+    },
+    "9": {
+      "word": "w1177155400",
+      "children": {}
+    },
+    "10": {
+      "word": "w10yu1i118yw",
+      "children": {
+        "10": {
+          "word": "w1sd8396453",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "(w1lajiezccpoksv)",
+      "children": {}
+    }
+  }
+}

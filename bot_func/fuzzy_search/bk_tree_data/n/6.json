@@ -1,0 +1,53 @@
+{
+  "word": "(n647)",
+  "children": {
+    "2": {
+      "word": "n647",
+      "children": {}
+    },
+    "3": {
+      "word": "n6)",
+      "children": {
+        "1": {
+          "word": "n64",
+          "children": {
+            "2": {
+              "word": "n6s)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(n64qd11)",
+      "children": {
+        "7": {
+          "word": "n6",
+          "children": {
+            "1": {
+              "word": "n60",
+              "children": {}
+            },
+            "3": {
+              "word": "n6058",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "n61nor",
+      "children": {}
+    },
+    "8": {
+      "word": "n683583377",
+      "children": {}
+    },
+    "12": {
+      "word": "n6uirf2rno46247",
+      "children": {}
+    }
+  }
+}

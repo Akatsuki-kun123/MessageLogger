@@ -1,0 +1,58 @@
+{
+  "word": "7-gatsu",
+  "children": {
+    "3": {
+      "word": "7-gou",
+      "children": {
+        "4": {
+          "word": "7gatos",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "7-gou)",
+      "children": {
+        "2": {
+          "word": "7gou",
+          "children": {}
+        },
+        "4": {
+          "word": "7ga10",
+          "children": {
+            "2": {
+              "word": "7gao",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "7g",
+      "children": {
+        "1": {
+          "word": "7go",
+          "children": {}
+        },
+        "2": {
+          "word": "7go3",
+          "children": {}
+        },
+        "3": {
+          "word": "7gear",
+          "children": {
+            "3": {
+              "word": "7gnok",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "7gabriel7",
+      "children": {}
+    }
+  }
+}

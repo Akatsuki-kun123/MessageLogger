@@ -1,0 +1,49 @@
+{
+  "word": "(7-eleven)",
+  "children": {
+    "2": {
+      "word": "7-eleven",
+      "children": {}
+    },
+    "6": {
+      "word": "(7eo)",
+      "children": {}
+    },
+    "7": {
+      "word": "7enn",
+      "children": {}
+    },
+    "8": {
+      "word": "7e",
+      "children": {
+        "3": {
+          "word": "7e07o",
+          "children": {
+            "3": {
+              "word": "7eddy",
+              "children": {
+                "3": {
+                  "word": "7essa",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "7eiaq3939",
+      "children": {
+        "7": {
+          "word": "7entangle",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "7eslieblackrock",
+      "children": {}
+    }
+  }
+}

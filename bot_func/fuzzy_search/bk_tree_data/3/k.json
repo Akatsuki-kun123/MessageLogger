@@ -1,0 +1,179 @@
+{
+  "word": "(3k)",
+  "children": {
+    "1": {
+      "word": "(3ki)",
+      "children": {}
+    },
+    "2": {
+      "word": "3k",
+      "children": {
+        "1": {
+          "word": "3k2",
+          "children": {
+            "1": {
+              "word": "3kb",
+              "children": {
+                "1": {
+                  "word": "3ko",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(3kaku)",
+      "children": {
+        "2": {
+          "word": "(3kami)",
+          "children": {}
+        },
+        "3": {
+          "word": "(3keee)",
+          "children": {}
+        },
+        "4": {
+          "word": "3kan",
+          "children": {}
+        },
+        "5": {
+          "word": "3k1j",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(3keine)",
+      "children": {
+        "4": {
+          "word": "(3kzzzk)",
+          "children": {}
+        },
+        "6": {
+          "word": "3kaku",
+          "children": {
+            "2": {
+              "word": "3kami",
+              "children": {}
+            },
+            "3": {
+              "word": "3koma",
+              "children": {
+                "1": {
+                  "word": "3kuma",
+                  "children": {}
+                },
+                "2": {
+                  "word": "3koto",
+                  "children": {}
+                },
+                "3": {
+                  "word": "3kwcp",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "3kabe0",
+      "children": {
+        "4": {
+          "word": "3keaki",
+          "children": {
+            "3": {
+              "word": "3kneko",
+              "children": {}
+            },
+            "4": {
+              "word": "3kkowa",
+              "children": {
+                "3": {
+                  "word": "3ko4ba",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(3kandeep)",
+      "children": {
+        "5": {
+          "word": "(3ki2ne10)",
+          "children": {
+            "5": {
+              "word": "(3kittie9)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "3kakubg",
+          "children": {
+            "5": {
+              "word": "3kdxoxo",
+              "children": {
+                "5": {
+                  "word": "3knight",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "3k1kaza",
+          "children": {
+            "5": {
+              "word": "3ki9709",
+              "children": {
+                "5": {
+                  "word": "3ksubak",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "3k4voice",
+      "children": {}
+    },
+    "8": {
+      "word": "3-kyoudai",
+      "children": {
+        "1": {
+          "word": "3-kyoudai)",
+          "children": {}
+        },
+        "6": {
+          "word": "3kio2giri",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "3kakuyuusha",
+      "children": {
+        "8": {
+          "word": "3kiroguramu",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "(3kklkukj7nyqieu)",
+      "children": {}
+    }
+  }
+}

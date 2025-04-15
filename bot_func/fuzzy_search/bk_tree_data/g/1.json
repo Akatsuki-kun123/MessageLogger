@@ -1,0 +1,132 @@
+{
+  "word": "(g1)",
+  "children": {
+    "1": {
+      "word": "(g1g",
+      "children": {
+        "2": {
+          "word": "g1)",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "(g10w)",
+      "children": {
+        "4": {
+          "word": "g1",
+          "children": {
+            "1": {
+              "word": "g11",
+              "children": {
+                "1": {
+                  "word": "g15",
+                  "children": {
+                    "1": {
+                      "word": "g16",
+                      "children": {
+                        "1": {
+                          "word": "g1x",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "g-14",
+      "children": {
+        "2": {
+          "word": "g141",
+          "children": {}
+        },
+        "3": {
+          "word": "g10a",
+          "children": {
+            "1": {
+              "word": "g10n",
+              "children": {}
+            },
+            "2": {
+              "word": "g150",
+              "children": {
+                "2": {
+                  "word": "g1ax",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "g-192",
+      "children": {
+        "3": {
+          "word": "g1221",
+          "children": {}
+        },
+        "4": {
+          "word": "g1ldr",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "g-1010",
+      "children": {
+        "2": {
+          "word": "g11030",
+          "children": {}
+        },
+        "3": {
+          "word": "g110st",
+          "children": {
+            "3": {
+              "word": "g1r0r0",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "g110plz",
+      "children": {
+        "5": {
+          "word": "g1g8mmm",
+          "children": {
+            "4": {
+              "word": "g1ngam1",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(g1200004567)",
+      "children": {}
+    },
+    "10": {
+      "word": "g10163gyzen",
+      "children": {
+        "8": {
+          "word": "g1204366721",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "g1a1c2a1e2e2d2",
+      "children": {}
+    }
+  }
+}

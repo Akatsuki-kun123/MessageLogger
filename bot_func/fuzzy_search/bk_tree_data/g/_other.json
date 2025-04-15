@@ -1,0 +1,27 @@
+{
+  "word": "(&g)",
+  "children": {
+    "1": {
+      "word": "(g)",
+      "children": {}
+    },
+    "2": {
+      "word": "(g",
+      "children": {
+        "2": {
+          "word": "g)",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "g",
+      "children": {
+        "1": {
+          "word": "g.",
+          "children": {}
+        }
+      }
+    }
+  }
+}

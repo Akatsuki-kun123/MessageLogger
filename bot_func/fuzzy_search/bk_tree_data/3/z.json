@@ -1,0 +1,35 @@
+{
+  "word": "(3zandora)",
+  "children": {
+    "7": {
+      "word": "3zi)",
+      "children": {
+        "2": {
+          "word": "3znk",
+          "children": {}
+        },
+        "8": {
+          "word": "3zukinormal",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "3z",
+      "children": {
+        "1": {
+          "word": "3zk",
+          "children": {}
+        },
+        "3": {
+          "word": "3zttt",
+          "children": {}
+        },
+        "4": {
+          "word": "3zukie",
+          "children": {}
+        }
+      }
+    }
+  }
+}

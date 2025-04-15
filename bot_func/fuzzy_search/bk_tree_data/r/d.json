@@ -1,0 +1,293 @@
+{
+  "word": "(rd",
+  "children": {
+    "1": {
+      "word": "rd",
+      "children": {}
+    },
+    "2": {
+      "word": "(rdg)",
+      "children": {
+        "1": {
+          "word": "(rdj)",
+          "children": {}
+        },
+        "2": {
+          "word": "(rdml",
+          "children": {
+            "3": {
+              "word": "rdg",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "rdb",
+          "children": {
+            "1": {
+              "word": "rdi",
+              "children": {
+                "1": {
+                  "word": "rdm",
+                  "children": {
+                    "1": {
+                      "word": "rds",
+                      "children": {
+                        "1": {
+                          "word": "rdy",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "r&d",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(rdbm)",
+      "children": {
+        "3": {
+          "word": "rd7)",
+          "children": {
+            "2": {
+              "word": "rdrm",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "rdif",
+          "children": {
+            "2": {
+              "word": "rdnt",
+              "children": {
+                "2": {
+                  "word": "rdsk",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "r.d.",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "rd180",
+      "children": {
+        "2": {
+          "word": "rd250",
+          "children": {}
+        },
+        "3": {
+          "word": "rd4o9",
+          "children": {
+            "3": {
+              "word": "rdbka",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "rd320r",
+      "children": {
+        "1": {
+          "word": "rd350r",
+          "children": {}
+        },
+        "4": {
+          "word": "rdeenz",
+          "children": {
+            "4": {
+              "word": "rdoffe",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(rd97589)",
+      "children": {
+        "5": {
+          "word": "(rdbalsr)",
+          "children": {
+            "7": {
+              "word": "rdc7229",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "rdp1109",
+          "children": {}
+        },
+        "7": {
+          "word": "rd11011",
+          "children": {
+            "5": {
+              "word": "rdmyono",
+              "children": {
+                "5": {
+                  "word": "rdp3656",
+                  "children": {
+                    "5": {
+                      "word": "rdrayst",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "r/drama",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(rdad3278)",
+      "children": {
+        "4": {
+          "word": "(rddy7288)",
+          "children": {
+            "5": {
+              "word": "(rdns3738)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(rddk7322)",
+          "children": {
+            "5": {
+              "word": "(rdnk2585)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(rdja5584)",
+          "children": {
+            "3": {
+              "word": "(rdnm7584)",
+              "children": {}
+            },
+            "6": {
+              "word": "(rdomname)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "rdarinka",
+          "children": {
+            "6": {
+              "word": "rdchso83",
+              "children": {
+                "6": {
+                  "word": "rddj7372",
+                  "children": {
+                    "4": {
+                      "word": "rdhn7358",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "rdff3842",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "rdim6gr8",
+                      "children": {
+                        "5": {
+                          "word": "rdnw5528",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "rdvddang",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "r-daigun",
+          "children": {
+            "3": {
+              "word": "r-dragon",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(rdkshinku)",
+      "children": {
+        "7": {
+          "word": "rdse4475)",
+          "children": {}
+        },
+        "8": {
+          "word": "rdgx7257)",
+          "children": {
+            "5": {
+              "word": "rdve5552)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "rdindmrdon",
+          "children": {
+            "6": {
+              "word": "rduuroorn",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(rdgraphica)",
+      "children": {
+        "8": {
+          "word": "rddumpling",
+          "children": {}
+        },
+        "9": {
+          "word": "rdcarneiro",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "rdukedesign",
+      "children": {}
+    },
+    "14": {
+      "word": "rdtbkclge5sne9j",
+      "children": {}
+    }
+  }
+}

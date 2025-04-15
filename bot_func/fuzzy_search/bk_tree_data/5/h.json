@@ -1,0 +1,67 @@
+{
+  "word": "(5han9e)",
+  "children": {
+    "4": {
+      "word": "(5hxm)",
+      "children": {
+        "4": {
+          "word": "5han",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "5ham0",
+      "children": {
+        "2": {
+          "word": "5havv",
+          "children": {}
+        },
+        "3": {
+          "word": "5hin",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "5-headed",
+      "children": {
+        "4": {
+          "word": "5health",
+          "children": {}
+        },
+        "6": {
+          "word": "5hgohi",
+          "children": {
+            "3": {
+              "word": "5ho",
+              "children": {}
+            },
+            "4": {
+              "word": "5hi0",
+              "children": {
+                "2": {
+                  "word": "5ht",
+                  "children": {
+                    "1": {
+                      "word": "5hz",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "5higure",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "5hibu05",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

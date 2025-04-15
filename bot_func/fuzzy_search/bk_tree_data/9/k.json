@@ -1,0 +1,88 @@
+{
+  "word": "9-ka",
+  "children": {
+    "1": {
+      "word": "9-ku",
+      "children": {}
+    },
+    "2": {
+      "word": "9k",
+      "children": {
+        "1": {
+          "word": "9k)",
+          "children": {
+            "1": {
+              "word": "9k9",
+              "children": {
+                "1": {
+                  "word": "9ku",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "9kan",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "9k35",
+      "children": {
+        "2": {
+          "word": "9k58",
+          "children": {
+            "2": {
+              "word": "9key",
+              "children": {
+                "2": {
+                  "word": "9ki9",
+                  "children": {
+                    "2": {
+                      "word": "9kv)",
+                      "children": {
+                        "2": {
+                          "word": "9kyc",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "9kenk9",
+      "children": {
+        "4": {
+          "word": "9kugai",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "9k317m",
+      "children": {
+        "4": {
+          "word": "9kiite",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "9klipse",
+      "children": {
+        "5": {
+          "word": "9kyechi",
+          "children": {}
+        }
+      }
+    }
+  }
+}

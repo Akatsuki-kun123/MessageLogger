@@ -1,0 +1,99 @@
+{
+  "word": "(1a2b",
+  "children": {
+    "3": {
+      "word": "1a",
+      "children": {
+        "1": {
+          "word": "1a1",
+          "children": {
+            "1": {
+              "word": "1am",
+              "children": {
+                "1": {
+                  "word": "1aw",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "1ai4",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(1art.)",
+      "children": {
+        "4": {
+          "word": "1and)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(1a41a4)",
+      "children": {
+        "6": {
+          "word": "1a2i1y2",
+          "children": {
+            "4": {
+              "word": "1aki3e",
+              "children": {
+                "4": {
+                  "word": "1axyyo",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "1amdino",
+      "children": {
+        "5": {
+          "word": "1arutan",
+          "children": {
+            "5": {
+              "word": "1asiate",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "1aoisora1",
+      "children": {}
+    },
+    "9": {
+      "word": "1a1acthulhu",
+      "children": {}
+    },
+    "10": {
+      "word": "(1a2b3c4d98721)",
+      "children": {
+        "10": {
+          "word": "(1asa-0-asa1)",
+          "children": {}
+        },
+        "13": {
+          "word": "1a79f5as19e",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "1aletheplayer1",
+      "children": {}
+    },
+    "14": {
+      "word": "(1ae7ylsjzoqvcu4)",
+      "children": {}
+    }
+  }
+}

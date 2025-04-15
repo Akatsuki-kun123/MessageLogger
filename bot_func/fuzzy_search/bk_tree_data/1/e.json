@@ -1,0 +1,36 @@
+{
+  "word": "(1eavethebus)",
+  "children": {
+    "8": {
+      "word": "(1egend)",
+      "children": {}
+    },
+    "10": {
+      "word": "1elims1",
+      "children": {
+        "5": {
+          "word": "1eye",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "1e.2",
+      "children": {
+        "3": {
+          "word": "1e2023",
+          "children": {
+            "4": {
+              "word": "1eni1",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "1eternalstar",
+          "children": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "word": "'r",
+  "children": {
+    "1": {
+      "word": "(r",
+      "children": {
+        "1": {
+          "word": "r",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "(r)",
+      "children": {
+        "1": {
+          "word": "r)",
+          "children": {}
+        },
+        "2": {
+          "word": "-r-",
+          "children": {
+            "2": {
+              "word": "r!",
+              "children": {
+                "1": {
+                  "word": "r.",
+                  "children": {
+                    "1": {
+                      "word": "r:",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

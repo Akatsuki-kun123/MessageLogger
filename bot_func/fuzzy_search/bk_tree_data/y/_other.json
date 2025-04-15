@@ -1,0 +1,28 @@
+{
+  "word": "(y",
+  "children": {
+    "1": {
+      "word": ".y",
+      "children": {
+        "1": {
+          "word": "y",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "y!",
+      "children": {
+        "1": {
+          "word": "y)",
+          "children": {
+            "1": {
+              "word": "y.",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

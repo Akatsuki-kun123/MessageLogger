@@ -1,0 +1,67 @@
+{
+  "word": "(m",
+  "children": {
+    "1": {
+      "word": "(m)",
+      "children": {
+        "2": {
+          "word": ".m",
+          "children": {
+            "1": {
+              "word": "m",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "/m/",
+      "children": {
+        "1": {
+          "word": "\\m/",
+          "children": {}
+        },
+        "2": {
+          "word": "=m=",
+          "children": {
+            "2": {
+              "word": "m!",
+              "children": {
+                "1": {
+                  "word": "m)",
+                  "children": {
+                    "1": {
+                      "word": "m+",
+                      "children": {
+                        "1": {
+                          "word": "m.",
+                          "children": {
+                            "1": {
+                              "word": "m:",
+                              "children": {
+                                "1": {
+                                  "word": "m?",
+                                  "children": {
+                                    "1": {
+                                      "word": "m@",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

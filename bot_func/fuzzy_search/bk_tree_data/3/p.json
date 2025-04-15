@@ -1,0 +1,72 @@
+{
+  "word": "(3ping",
+  "children": {
+    "1": {
+      "word": "3ping",
+      "children": {}
+    },
+    "3": {
+      "word": "(3po",
+      "children": {}
+    },
+    "4": {
+      "word": "(3point0)",
+      "children": {
+        "6": {
+          "word": "3piece",
+          "children": {}
+        },
+        "7": {
+          "word": "3p",
+          "children": {
+            "1": {
+              "word": "3p!",
+              "children": {
+                "1": {
+                  "word": "3pa",
+                  "children": {
+                    "1": {
+                      "word": "3pm",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "3pel1",
+              "children": {
+                "2": {
+                  "word": "3peso",
+                  "children": {}
+                },
+                "3": {
+                  "word": "3plus",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "3-punkan",
+      "children": {
+        "6": {
+          "word": "3ph3ab3",
+          "children": {
+            "5": {
+              "word": "3portry",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "3percentdemo",
+      "children": {}
+    }
+  }
+}

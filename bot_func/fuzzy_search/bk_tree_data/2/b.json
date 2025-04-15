@@ -1,0 +1,158 @@
+{
+  "word": "(2b-ge)",
+  "children": {
+    "2": {
+      "word": "2b-ge",
+      "children": {}
+    },
+    "3": {
+      "word": "(2bro.)",
+      "children": {
+        "3": {
+          "word": "(2bt4)",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(2bangai)",
+      "children": {
+        "5": {
+          "word": "(2bi",
+          "children": {}
+        },
+        "7": {
+          "word": "2b2e",
+          "children": {
+            "1": {
+              "word": "2bee",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(2b-pencil)",
+      "children": {
+        "7": {
+          "word": "2b-chan",
+          "children": {}
+        },
+        "8": {
+          "word": "2-bit",
+          "children": {
+            "2": {
+              "word": "2bi",
+              "children": {}
+            },
+            "3": {
+              "word": "2bai",
+              "children": {
+                "2": {
+                  "word": "2bls",
+                  "children": {
+                    "1": {
+                      "word": "2blu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "2banme",
+              "children": {
+                "4": {
+                  "word": "2bwolf",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "2b",
+          "children": {
+            "1": {
+              "word": "2b1",
+              "children": {
+                "1": {
+                  "word": "2bo",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "2b14",
+              "children": {
+                "2": {
+                  "word": "2b2t",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "2bmm2",
+              "children": {
+                "3": {
+                  "word": "2booo",
+                  "children": {
+                    "2": {
+                      "word": "2boys",
+                      "children": {
+                        "3": {
+                          "word": "2bro.",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "2-banme",
+      "children": {
+        "5": {
+          "word": "2ban-tan",
+          "children": {}
+        },
+        "6": {
+          "word": "2b-pencil",
+          "children": {
+            "6": {
+              "word": "2b-takesi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(2baki1999)",
+      "children": {
+        "10": {
+          "word": "2-butani",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "(2bceruza-7)",
+      "children": {}
+    },
+    "9": {
+      "word": "2b50088740",
+      "children": {}
+    },
+    "16": {
+      "word": "2benchuanshaoniao",
+      "children": {}
+    }
+  }
+}

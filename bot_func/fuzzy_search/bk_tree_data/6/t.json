@@ -1,0 +1,108 @@
+{
+  "word": "(6th",
+  "children": {
+    "1": {
+      "word": "(6th)",
+      "children": {
+        "2": {
+          "word": "6th",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "6t",
+      "children": {
+        "1": {
+          "word": "6ta",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "6tea",
+      "children": {
+        "2": {
+          "word": "6tkm",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "6tako",
+      "children": {
+        "3": {
+          "word": "6teen",
+          "children": {
+            "2": {
+              "word": "6tepe",
+              "children": {
+                "2": {
+                  "word": "6tree",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "6to9c",
+              "children": {
+                "3": {
+                  "word": "6tygu",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "6ta6tam",
+      "children": {
+        "4": {
+          "word": "6tnut9",
+          "children": {}
+        },
+        "5": {
+          "word": "6tom19",
+          "children": {
+            "4": {
+              "word": "6tsume",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "6t24413",
+      "children": {
+        "5": {
+          "word": "6tanso6",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(6thavenue)",
+      "children": {
+        "6": {
+          "word": "(6tousei4)",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "6tanbarin",
+      "children": {}
+    },
+    "10": {
+      "word": "6thsalogater",
+      "children": {}
+    },
+    "13": {
+      "word": "6tyninevehicles",
+      "children": {}
+    }
+  }
+}

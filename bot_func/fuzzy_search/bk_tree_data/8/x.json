@@ -1,0 +1,43 @@
+{
+  "word": "(8x0yxxuidcwmrqu)",
+  "children": {
+    "12": {
+      "word": "(8x8x)",
+      "children": {}
+    },
+    "13": {
+      "word": "8x8x)",
+      "children": {}
+    },
+    "14": {
+      "word": "8x8)",
+      "children": {}
+    },
+    "15": {
+      "word": "8-xenon-8",
+      "children": {
+        "6": {
+          "word": "8x8",
+          "children": {}
+        },
+        "7": {
+          "word": "8x",
+          "children": {
+            "2": {
+              "word": "8x13",
+              "children": {}
+            },
+            "3": {
+              "word": "8xvly",
+              "children": {}
+            },
+            "4": {
+              "word": "8x8bee",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

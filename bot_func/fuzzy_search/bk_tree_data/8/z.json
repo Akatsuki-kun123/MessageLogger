@@ -1,0 +1,27 @@
+{
+  "word": "(8zidayo)",
+  "children": {
+    "5": {
+      "word": "8zikan",
+      "children": {}
+    },
+    "6": {
+      "word": "8zoo",
+      "children": {}
+    },
+    "7": {
+      "word": "8zk",
+      "children": {
+        "1": {
+          "word": "8zm",
+          "children": {
+            "1": {
+              "word": "8zu",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "word": "(8s3u1)",
+  "children": {
+    "3": {
+      "word": "(8sn)",
+      "children": {}
+    },
+    "4": {
+      "word": "8su4",
+      "children": {
+        "1": {
+          "word": "8sun",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "8-sun",
+      "children": {
+        "2": {
+          "word": "8sn",
+          "children": {}
+        },
+        "4": {
+          "word": "8sets",
+          "children": {}
+        },
+        "5": {
+          "word": "8sayo7",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "8sami64",
+      "children": {
+        "5": {
+          "word": "8seiji8",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "(8sayo7honkai)",
+      "children": {}
+    },
+    "13": {
+      "word": "8sjqzhap4pupzkc",
+      "children": {}
+    }
+  }
+}

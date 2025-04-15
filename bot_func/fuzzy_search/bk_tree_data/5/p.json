@@ -1,0 +1,42 @@
+{
+  "word": "(5p6p7p)",
+  "children": {
+    "4": {
+      "word": "(5prco)",
+      "children": {}
+    },
+    "5": {
+      "word": "(5pianno)",
+      "children": {}
+    },
+    "6": {
+      "word": "5p",
+      "children": {
+        "1": {
+          "word": "5pb",
+          "children": {}
+        },
+        "2": {
+          "word": "5pb.",
+          "children": {}
+        },
+        "3": {
+          "word": "5plus",
+          "children": {}
+        },
+        "4": {
+          "word": "5plus5",
+          "children": {}
+        },
+        "5": {
+          "word": "5pieces",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "5p00kybunny",
+      "children": {}
+    }
+  }
+}

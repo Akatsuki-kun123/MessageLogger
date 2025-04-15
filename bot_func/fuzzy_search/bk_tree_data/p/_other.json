@@ -1,0 +1,69 @@
+{
+  "word": "(p",
+  "children": {
+    "1": {
+      "word": "(p)",
+      "children": {
+        "2": {
+          "word": ":p",
+          "children": {
+            "1": {
+              "word": ";p",
+              "children": {
+                "1": {
+                  "word": "p",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(p!)",
+      "children": {
+        "2": {
+          "word": "-p)",
+          "children": {
+            "1": {
+              "word": "p)",
+              "children": {}
+            },
+            "2": {
+              "word": "p!",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "<p>",
+          "children": {
+            "2": {
+              "word": "^p^",
+              "children": {
+                "2": {
+                  "word": "p.",
+                  "children": {
+                    "1": {
+                      "word": "p~",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": ">:p",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "p.)",
+      "children": {}
+    }
+  }
+}

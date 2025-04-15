@@ -1,0 +1,51 @@
+{
+  "word": "\"z\"",
+  "children": {
+    "1": {
+      "word": "z\"",
+      "children": {}
+    },
+    "2": {
+      "word": "(z",
+      "children": {
+        "1": {
+          "word": "-z",
+          "children": {
+            "1": {
+              "word": "z",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "z)",
+          "children": {
+            "1": {
+              "word": "z+",
+              "children": {
+                "1": {
+                  "word": "z-",
+                  "children": {
+                    "1": {
+                      "word": "z.",
+                      "children": {
+                        "1": {
+                          "word": "z:",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(.;z",
+      "children": {}
+    }
+  }
+}

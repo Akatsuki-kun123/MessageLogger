@@ -1,0 +1,40 @@
+{
+  "word": "(1jump6)",
+  "children": {
+    "6": {
+      "word": "1ja",
+      "children": {
+        "3": {
+          "word": "1jjang",
+          "children": {}
+        },
+        "4": {
+          "word": "1jjyou",
+          "children": {
+            "4": {
+              "word": "1jo3wo",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "1jx0rte",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "1-ji",
+      "children": {
+        "6": {
+          "word": "1ji45fun",
+          "children": {}
+        },
+        "9": {
+          "word": "1jumangoku",
+          "children": {}
+        }
+      }
+    }
+  }
+}

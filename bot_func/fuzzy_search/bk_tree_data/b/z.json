@@ -1,0 +1,144 @@
+{
+  "word": "(b'z)",
+  "children": {
+    "2": {
+      "word": "b'z",
+      "children": {}
+    },
+    "3": {
+      "word": "(bzxt)",
+      "children": {
+        "4": {
+          "word": "bz",
+          "children": {
+            "1": {
+              "word": "bzi",
+              "children": {
+                "1": {
+                  "word": "bzk",
+                  "children": {
+                    "1": {
+                      "word": "bzp",
+                      "children": {
+                        "1": {
+                          "word": "bzs",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "b.z",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "bz10",
+      "children": {
+        "2": {
+          "word": "bzeh",
+          "children": {
+            "2": {
+              "word": "bzil",
+              "children": {
+                "1": {
+                  "word": "bzyl",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(bzone4)",
+      "children": {
+        "5": {
+          "word": "bzeep",
+          "children": {
+            "3": {
+              "word": "bzogo",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "bzb33n",
+          "children": {
+            "4": {
+              "word": "bzdsk",
+              "children": {
+                "3": {
+                  "word": "bzqpg",
+                  "children": {
+                    "4": {
+                      "word": "bzzuki",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(bzeias2)",
+      "children": {
+        "6": {
+          "word": "bz8112",
+          "children": {
+            "4": {
+              "word": "bzerox",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "bz1214",
+          "children": {
+            "4": {
+              "word": "bzurrf",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(bzsaro01)",
+      "children": {
+        "8": {
+          "word": "bziwang",
+          "children": {
+            "6": {
+              "word": "bzztbulb",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(bzaliacid)",
+      "children": {}
+    },
+    "14": {
+      "word": "(bzgbqwxo4q66341)",
+      "children": {
+        "13": {
+          "word": "bzzeqcwktqcwmfb",
+          "children": {}
+        }
+      }
+    }
+  }
+}

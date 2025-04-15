@@ -1,0 +1,377 @@
+{
+  "word": "(rx-78-5yori)",
+  "children": {
+    "6": {
+      "word": "rx-78-5",
+      "children": {}
+    },
+    "7": {
+      "word": "(rx178145)",
+      "children": {
+        "5": {
+          "word": "(rx78cv01)",
+          "children": {}
+        },
+        "6": {
+          "word": "rx-78-01",
+          "children": {
+            "1": {
+              "word": "rx-78-1",
+              "children": {}
+            },
+            "2": {
+              "word": "rx-78-2",
+              "children": {
+                "1": {
+                  "word": "rx-78-7",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(rx7anfini)",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "(rx-93ff)",
+      "children": {
+        "5": {
+          "word": "(rxluar)",
+          "children": {
+            "3": {
+              "word": "(rxstr)",
+              "children": {}
+            },
+            "7": {
+              "word": "rx-78f00",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(rxgs8838)",
+          "children": {
+            "6": {
+              "word": "(rxhj5225)",
+              "children": {
+                "7": {
+                  "word": "rx178)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "rx-78nt-x",
+          "children": {
+            "6": {
+              "word": "rx7-555",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "rx78kuroko2",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "(rx77",
+      "children": {
+        "2": {
+          "word": "(rx79g",
+          "children": {
+            "4": {
+              "word": "rx-7",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(rx79bd",
+          "children": {
+            "5": {
+              "word": "rx-8",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(rxlal)",
+          "children": {
+            "5": {
+              "word": "rx-81",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(rxm091)",
+          "children": {
+            "6": {
+              "word": "rxnrin",
+              "children": {}
+            },
+            "7": {
+              "word": "rxgv7875",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(rxdd2447)",
+          "children": {
+            "5": {
+              "word": "(rxmu4278)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(rxcy4424)",
+          "children": {
+            "8": {
+              "word": "rx782110a",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "rx-vision",
+          "children": {}
+        },
+        "10": {
+          "word": "rx-zeromaru",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "(rxn",
+      "children": {
+        "2": {
+          "word": "rx)",
+          "children": {
+            "1": {
+              "word": "rxr",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "rx-3",
+          "children": {
+            "1": {
+              "word": "rx-c",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "rx-10",
+          "children": {
+            "3": {
+              "word": "rx79v",
+              "children": {
+                "3": {
+                  "word": "rxgdo",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "rx53l5",
+          "children": {
+            "4": {
+              "word": "rx7649",
+              "children": {
+                "4": {
+                  "word": "rxo2xs",
+                  "children": {
+                    "4": {
+                      "word": "rxsiki",
+                      "children": {
+                        "4": {
+                          "word": "rxzarx",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "rxgxbxy",
+          "children": {
+            "5": {
+              "word": "rxx9801",
+              "children": {
+                "5": {
+                  "word": "rxyshso",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "rxlindera",
+          "children": {
+            "6": {
+              "word": "rxoixoans",
+              "children": {}
+            },
+            "7": {
+              "word": "rxnx3444)",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "rxdx2445)",
+          "children": {
+            "5": {
+              "word": "rxjx3784)",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "rxr03535662",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "rx",
+      "children": {
+        "1": {
+          "word": "rx.",
+          "children": {
+            "1": {
+              "word": "rx4",
+              "children": {
+                "1": {
+                  "word": "rx?",
+                  "children": {
+                    "1": {
+                      "word": "rxq",
+                      "children": {
+                        "1": {
+                          "word": "rxs",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "rx33",
+          "children": {
+            "2": {
+              "word": "rx92",
+              "children": {
+                "2": {
+                  "word": "rxge",
+                  "children": {
+                    "2": {
+                      "word": "rxjx",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "rx649",
+          "children": {
+            "3": {
+              "word": "rxbel",
+              "children": {
+                "3": {
+                  "word": "rxnns",
+                  "children": {
+                    "3": {
+                      "word": "rxsdm",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "rx1220",
+          "children": {
+            "2": {
+              "word": "rx1234",
+              "children": {}
+            },
+            "3": {
+              "word": "rxb029",
+              "children": {
+                "4": {
+                  "word": "rxnal0",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "rxl649",
+              "children": {
+                "4": {
+                  "word": "rxviph",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "rxna4375",
+          "children": {
+            "5": {
+              "word": "rxrm4733",
+              "children": {
+                "5": {
+                  "word": "rxtw4424",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "rxsilence",
+          "children": {}
+        },
+        "8": {
+          "word": "rxttenmind",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "rxlsxsnil1w6nil",
+      "children": {}
+    }
+  }
+}

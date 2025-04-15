@@ -1,0 +1,53 @@
+{
+  "word": "(2xxxxxx)",
+  "children": {
+    "5": {
+      "word": "2xx)",
+      "children": {}
+    },
+    "6": {
+      "word": "2x00x",
+      "children": {
+        "3": {
+          "word": "2x6)",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "2x",
+      "children": {
+        "1": {
+          "word": "2x2",
+          "children": {
+            "1": {
+              "word": "2x7",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "2x4!",
+          "children": {
+            "2": {
+              "word": "2xko",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "2xbun",
+          "children": {}
+        },
+        "5": {
+          "word": "2x2eyes",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "2xro4jh5j08kakr",
+      "children": {}
+    }
+  }
+}

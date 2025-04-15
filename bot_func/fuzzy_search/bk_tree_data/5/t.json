@@ -1,0 +1,106 @@
+{
+  "word": "(5t",
+  "children": {
+    "1": {
+      "word": "(5th",
+      "children": {
+        "2": {
+          "word": "5t",
+          "children": {}
+        }
+      }
+    },
+    "2": {
+      "word": "5tb",
+      "children": {
+        "1": {
+          "word": "5th",
+          "children": {
+            "1": {
+              "word": "5to",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "5tou",
+      "children": {}
+    },
+    "4": {
+      "word": "5-tsu",
+      "children": {}
+    },
+    "5": {
+      "word": "(5tella)",
+      "children": {
+        "5": {
+          "word": "5tanda",
+          "children": {}
+        },
+        "6": {
+          "word": "5tarex",
+          "children": {
+            "3": {
+              "word": "5tatsu",
+              "children": {}
+            },
+            "4": {
+              "word": "5tomiu",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(5ta6o0m)",
+      "children": {
+        "5": {
+          "word": "(5tell4r)",
+          "children": {}
+        },
+        "6": {
+          "word": "5taccu5",
+          "children": {}
+        },
+        "7": {
+          "word": "5t3llar",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "(5tsukado)",
+      "children": {
+        "2": {
+          "word": "(5tsukino)",
+          "children": {
+            "4": {
+              "word": "5tsukado",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "5teruyo5",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "5thavenue",
+      "children": {
+        "6": {
+          "word": "5tonokome",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "5tanfusiji",
+      "children": {}
+    }
+  }
+}

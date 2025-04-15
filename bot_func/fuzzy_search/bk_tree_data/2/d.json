@@ -1,0 +1,167 @@
+{
+  "word": "(2d-tigrotta)",
+  "children": {
+    "8": {
+      "word": "(2d1ty)",
+      "children": {
+        "4": {
+          "word": "2dart)",
+          "children": {
+            "2": {
+              "word": "2domt)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(2dollar",
+          "children": {}
+        },
+        "8": {
+          "word": "2d-knight",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "(2days)",
+      "children": {
+        "4": {
+          "word": "2dart",
+          "children": {}
+        },
+        "5": {
+          "word": "2dtuna",
+          "children": {}
+        },
+        "6": {
+          "word": "2d10art",
+          "children": {
+            "4": {
+              "word": "2dswirl",
+              "children": {}
+            },
+            "5": {
+              "word": "2dgoril",
+              "children": {}
+            },
+            "6": {
+              "word": "2diamond",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(2du",
+      "children": {
+        "2": {
+          "word": "2d)",
+          "children": {
+            "1": {
+              "word": "2da",
+              "children": {
+                "1": {
+                  "word": "2dr",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "2dcg",
+          "children": {
+            "2": {
+              "word": "2dea",
+              "children": {
+                "2": {
+                  "word": "2drr",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "2ddol",
+          "children": {}
+        },
+        "5": {
+          "word": "2demon",
+          "children": {}
+        },
+        "6": {
+          "word": "2doeda4u",
+          "children": {
+            "6": {
+              "word": "2dpossum",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "2dductility",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "2-d",
+      "children": {
+        "1": {
+          "word": "2d",
+          "children": {}
+        },
+        "2": {
+          "word": "2dk",
+          "children": {
+            "1": {
+              "word": "2ds",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "2-daime",
+          "children": {
+            "5": {
+              "word": "2den9",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "2duck2",
+          "children": {}
+        },
+        "7": {
+          "word": "2day1jun",
+          "children": {
+            "6": {
+              "word": "2dpandayo",
+              "children": {}
+            },
+            "7": {
+              "word": "2dshepard",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "2donemuru",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "2.d",
+      "children": {}
+    },
+    "13": {
+      "word": "2dwillneverdie",
+      "children": {}
+    }
+  }
+}

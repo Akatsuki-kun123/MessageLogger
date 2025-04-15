@@ -1,0 +1,89 @@
+{
+  "word": "(0-g",
+  "children": {
+    "1": {
+      "word": "0-g",
+      "children": {}
+    },
+    "2": {
+      "word": "(0gu",
+      "children": {
+        "2": {
+          "word": "0g",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "0gi",
+      "children": {
+        "1": {
+          "word": "0gz",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(0gina",
+      "children": {
+        "3": {
+          "word": "0g0nn",
+          "children": {
+            "2": {
+              "word": "0gong",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "0gen3",
+      "children": {
+        "2": {
+          "word": "0gznz",
+          "children": {}
+        },
+        "3": {
+          "word": "0gsan",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(0g0dam)",
+      "children": {
+        "4": {
+          "word": "(0gizen)",
+          "children": {}
+        },
+        "5": {
+          "word": "0gina0",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "0gamiomi",
+      "children": {
+        "6": {
+          "word": "0goodiiy",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "(0gravity0)",
+      "children": {
+        "9": {
+          "word": "0gong7pang",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "(0guriponta)",
+      "children": {}
+    }
+  }
+}

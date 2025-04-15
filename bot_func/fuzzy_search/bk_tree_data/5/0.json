@@ -1,0 +1,694 @@
+{
+  "word": "$50k",
+  "children": {
+    "1": {
+      "word": "50k",
+      "children": {}
+    },
+    "2": {
+      "word": "(50",
+      "children": {
+        "1": {
+          "word": "(50)",
+          "children": {
+            "1": {
+              "word": "(500",
+              "children": {
+                "1": {
+                  "word": "(505",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": ".50",
+              "children": {
+                "1": {
+                  "word": "50",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "50)",
+          "children": {
+            "1": {
+              "word": "500",
+              "children": {
+                "1": {
+                  "word": "501",
+                  "children": {
+                    "1": {
+                      "word": "502",
+                      "children": {
+                        "1": {
+                          "word": "503",
+                          "children": {
+                            "1": {
+                              "word": "504",
+                              "children": {
+                                "1": {
+                                  "word": "505",
+                                  "children": {
+                                    "1": {
+                                      "word": "506",
+                                      "children": {
+                                        "1": {
+                                          "word": "508",
+                                          "children": {
+                                            "1": {
+                                              "word": "509",
+                                              "children": {
+                                                "1": {
+                                                  "word": "50m",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(50%)",
+      "children": {
+        "2": {
+          "word": "(50cc",
+          "children": {
+            "3": {
+              "word": "500)",
+              "children": {
+                "1": {
+                  "word": "501)",
+                  "children": {
+                    "1": {
+                      "word": "504)",
+                      "children": {
+                        "1": {
+                          "word": "506)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "5000",
+          "children": {
+            "1": {
+              "word": "5002",
+              "children": {
+                "1": {
+                  "word": "500d",
+                  "children": {
+                    "1": {
+                      "word": "500t",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "5050",
+                  "children": {
+                    "1": {
+                      "word": "5080",
+                      "children": {
+                        "1": {
+                          "word": "5090",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "5018",
+              "children": {
+                "1": {
+                  "word": "5028",
+                  "children": {
+                    "1": {
+                      "word": "5098",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "5050)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "5+0",
+          "children": {
+            "3": {
+              "word": "500gk",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(50/50",
+      "children": {
+        "1": {
+          "word": "50/50",
+          "children": {}
+        },
+        "3": {
+          "word": "(5000)",
+          "children": {
+            "2": {
+              "word": "(5043)",
+              "children": {
+                "4": {
+                  "word": "50000",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "5.0.5",
+          "children": {
+            "3": {
+              "word": "5003)",
+              "children": {}
+            },
+            "4": {
+              "word": "5010)",
+              "children": {
+                "1": {
+                  "word": "5014)",
+                  "children": {}
+                },
+                "2": {
+                  "word": "501st",
+                  "children": {
+                    "2": {
+                      "word": "5080t",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "5027)",
+                      "children": {
+                        "1": {
+                          "word": "5087)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "50218",
+                  "children": {
+                    "2": {
+                      "word": "502nd",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "503rd",
+                      "children": {
+                        "3": {
+                          "word": "50429",
+                          "children": {
+                            "2": {
+                              "word": "5046m",
+                              "children": {
+                                "2": {
+                                  "word": "504th",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "505th",
+                              "children": {
+                                "1": {
+                                  "word": "506th",
+                                  "children": {
+                                    "1": {
+                                      "word": "507th",
+                                      "children": {
+                                        "1": {
+                                          "word": "508th",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "3": {
+                                  "word": "50asu",
+                                  "children": {
+                                    "3": {
+                                      "word": "50bmg",
+                                      "children": {
+                                        "3": {
+                                          "word": "50man",
+                                          "children": {
+                                            "2": {
+                                              "word": "50yen",
+                                              "children": {}
+                                            },
+                                            "3": {
+                                              "word": "50off",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(50328)",
+      "children": {
+        "3": {
+          "word": "(507gw)",
+          "children": {
+            "4": {
+              "word": "50448)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "503ank)",
+          "children": {}
+        },
+        "5": {
+          "word": "500600",
+          "children": {
+            "3": {
+              "word": "500sec",
+              "children": {}
+            },
+            "4": {
+              "word": "506bei",
+              "children": {
+                "4": {
+                  "word": "508119",
+                  "children": {
+                    "4": {
+                      "word": "50gjuu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "50milky",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(500647)",
+      "children": {
+        "3": {
+          "word": "(500yen)",
+          "children": {
+            "4": {
+              "word": "(502473)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(501190)",
+          "children": {
+            "3": {
+              "word": "(501465)",
+              "children": {
+                "4": {
+                  "word": "(505999)",
+                  "children": {
+                    "4": {
+                      "word": "(50d0d0)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "(508931)",
+              "children": {
+                "3": {
+                  "word": "(50eqt1)",
+                  "children": {
+                    "4": {
+                      "word": "(50u9e2)",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "(50r50r)",
+                  "children": {
+                    "5": {
+                      "word": "501061)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "502371)",
+          "children": {
+            "4": {
+              "word": "503462)",
+              "children": {}
+            },
+            "5": {
+              "word": "5050990)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "5005910z",
+          "children": {
+            "5": {
+              "word": "5015632",
+              "children": {
+                "5": {
+                  "word": "50p100p",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "5040222",
+              "children": {
+                "5": {
+                  "word": "50zushi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(50-point",
+      "children": {
+        "6": {
+          "word": "(5006611)",
+          "children": {
+            "4": {
+              "word": "(5062316)",
+              "children": {
+                "3": {
+                  "word": "(5090366)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(5010127)",
+              "children": {
+                "4": {
+                  "word": "(5024777)",
+                  "children": {
+                    "3": {
+                      "word": "(5025587)",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "(5037476)",
+                  "children": {
+                    "4": {
+                      "word": "(50db-06)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "5000-nen",
+          "children": {
+            "5": {
+              "word": "50qianmi",
+              "children": {}
+            },
+            "6": {
+              "word": "50270429",
+              "children": {
+                "4": {
+                  "word": "5048842)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "509ccejp",
+                  "children": {
+                    "6": {
+                      "word": "50x48x48",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "500hxh500",
+          "children": {
+            "5": {
+              "word": "50406250)",
+              "children": {
+                "3": {
+                  "word": "50562150)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(50021106)",
+      "children": {
+        "5": {
+          "word": "(50181439)",
+          "children": {
+            "6": {
+              "word": "(50513604)",
+              "children": {
+                "5": {
+                  "word": "(50763096)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "50529226)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(50158413)",
+          "children": {
+            "6": {
+              "word": "(50464982)",
+              "children": {
+                "6": {
+                  "word": "50139128)",
+                  "children": {}
+                },
+                "7": {
+                  "word": "50271430)",
+                  "children": {
+                    "4": {
+                      "word": "50671594)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "505713231",
+          "children": {
+            "5": {
+              "word": "506115121",
+              "children": {
+                "6": {
+                  "word": "50710337)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "506744463",
+              "children": {}
+            },
+            "7": {
+              "word": "506331987",
+              "children": {
+                "6": {
+                  "word": "50830952)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "503566133",
+          "children": {
+            "5": {
+              "word": "503759336",
+              "children": {}
+            },
+            "6": {
+              "word": "506964990",
+              "children": {}
+            },
+            "7": {
+              "word": "50gryvnia",
+              "children": {
+                "6": {
+                  "word": "50percent",
+                  "children": {}
+                },
+                "7": {
+                  "word": "50peanuts",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "50kcalorie",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "(502391384)",
+      "children": {
+        "7": {
+          "word": "(50bellisz)",
+          "children": {}
+        },
+        "8": {
+          "word": "5083539299",
+          "children": {
+            "8": {
+              "word": "5091957578",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "5049setuna",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "(5040772317)",
+      "children": {
+        "8": {
+          "word": "5014495577)",
+          "children": {
+            "7": {
+              "word": "5045636563)",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "5025komatiko",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "(50401234567)",
+      "children": {
+        "10": {
+          "word": "50fl42ch4a2n",
+          "children": {}
+        },
+        "11": {
+          "word": "50mgnicotine",
+          "children": {
+            "8": {
+              "word": "50mochimochi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "50kuike50namake",
+      "children": {}
+    }
+  }
+}

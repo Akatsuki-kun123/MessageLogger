@@ -1,0 +1,253 @@
+{
+  "word": "(2n4",
+  "children": {
+    "1": {
+      "word": "(2nd",
+      "children": {}
+    },
+    "2": {
+      "word": "(2n5)",
+      "children": {
+        "1": {
+          "word": "(2nd)",
+          "children": {
+            "1": {
+              "word": "(2ne)",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "2n)",
+          "children": {
+            "1": {
+              "word": "2n5",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "2n",
+          "children": {
+            "1": {
+              "word": "2nd",
+              "children": {
+                "1": {
+                  "word": "2ne",
+                  "children": {
+                    "1": {
+                      "word": "2no",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(2nas)",
+      "children": {
+        "2": {
+          "word": "(2neu)",
+          "children": {}
+        },
+        "3": {
+          "word": "2naz",
+          "children": {
+            "2": {
+              "word": "2nd)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "2nco",
+          "children": {
+            "2": {
+              "word": "2nd.",
+              "children": {
+                "1": {
+                  "word": "2ndl",
+                  "children": {
+                    "2": {
+                      "word": "2no.",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "2ne1",
+                  "children": {
+                    "2": {
+                      "word": "2nii",
+                      "children": {
+                        "2": {
+                          "word": "2nja",
+                          "children": {
+                            "1": {
+                              "word": "2nya",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "2nom",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "2-nd",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "2-nen",
+      "children": {
+        "3": {
+          "word": "2nine",
+          "children": {
+            "1": {
+              "word": "2nini",
+              "children": {}
+            },
+            "2": {
+              "word": "2njin",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "2nacl",
+          "children": {
+            "3": {
+              "word": "2nose",
+              "children": {
+                "2": {
+                  "word": "2nske",
+                  "children": {}
+                },
+                "3": {
+                  "word": "2npl1",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(2ndere)",
+      "children": {
+        "4": {
+          "word": "(2ni-ha)",
+          "children": {
+            "3": {
+              "word": "(2niso2)",
+              "children": {}
+            },
+            "6": {
+              "word": "2ndope",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "2na3ke",
+          "children": {
+            "3": {
+              "word": "2nomae",
+              "children": {}
+            },
+            "4": {
+              "word": "2nekos",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "2/niro",
+          "children": {
+            "5": {
+              "word": "2nozki",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(2nohito)",
+      "children": {
+        "6": {
+          "word": "2nozaem",
+          "children": {}
+        },
+        "7": {
+          "word": "2-nichi",
+          "children": {
+            "5": {
+              "word": "2nensei",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "2nakajo7",
+      "children": {
+        "6": {
+          "word": "2nibori2",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "2ndheaven",
+      "children": {
+        "6": {
+          "word": "2ndsights",
+          "children": {
+            "5": {
+              "word": "2nisikoyn",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(2n682755728)",
+      "children": {
+        "11": {
+          "word": "2nightcode5",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "(2nouta060807)",
+      "children": {}
+    },
+    "12": {
+      "word": "2nzinnisitoku",
+      "children": {}
+    },
+    "14": {
+      "word": "2naom8q6gt87292",
+      "children": {}
+    }
+  }
+}

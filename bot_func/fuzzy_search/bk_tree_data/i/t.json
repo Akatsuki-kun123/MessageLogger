@@ -1,0 +1,4353 @@
+{
+  "word": "\"ittara",
+  "children": {
+    "1": {
+      "word": "ittara",
+      "children": {}
+    },
+    "2": {
+      "word": "itara",
+      "children": {}
+    },
+    "3": {
+      "word": "(itta)",
+      "children": {
+        "1": {
+          "word": "itta)",
+          "children": {}
+        },
+        "2": {
+          "word": "itta",
+          "children": {
+            "1": {
+              "word": "itta.",
+              "children": {
+                "1": {
+                  "word": "ittai",
+                  "children": {
+                    "1": {
+                      "word": "ittan",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "itata",
+          "children": {
+            "2": {
+              "word": "ittla",
+              "children": {}
+            },
+            "3": {
+              "word": "itta!?",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "itaba",
+          "children": {
+            "1": {
+              "word": "itaka",
+              "children": {
+                "1": {
+                  "word": "itasa",
+                  "children": {
+                    "1": {
+                      "word": "itaya",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "itari",
+              "children": {
+                "1": {
+                  "word": "itaro",
+                  "children": {
+                    "1": {
+                      "word": "itaru",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "ithaca",
+                  "children": {
+                    "2": {
+                      "word": "itoama",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "itatata",
+              "children": {
+                "3": {
+                  "word": "ittica",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "itteru",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "itarka",
+          "children": {
+            "3": {
+              "word": "itohara",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(ita",
+      "children": {
+        "1": {
+          "word": "(itr",
+          "children": {
+            "1": {
+              "word": "(itt",
+              "children": {}
+            },
+            "2": {
+              "word": "ita",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "(itami",
+          "children": {
+            "2": {
+              "word": "(itoma",
+              "children": {
+                "4": {
+                  "word": "itai",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "(itcha",
+              "children": {
+                "2": {
+                  "word": "(itiya",
+                  "children": {}
+                },
+                "4": {
+                  "word": "itak",
+                  "children": {
+                    "1": {
+                      "word": "ital",
+                      "children": {
+                        "1": {
+                          "word": "itan",
+                          "children": {
+                            "1": {
+                              "word": "itau",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "itoa",
+              "children": {
+                "1": {
+                  "word": "itza",
+                  "children": {}
+                },
+                "2": {
+                  "word": "itt",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(itasha",
+          "children": {
+            "3": {
+              "word": "(itsuka",
+              "children": {
+                "3": {
+                  "word": "itsia",
+                  "children": {}
+                },
+                "4": {
+                  "word": "itaita",
+                  "children": {
+                    "3": {
+                      "word": "itoha",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "(itori",
+              "children": {
+                "3": {
+                  "word": "itami",
+                  "children": {
+                    "1": {
+                      "word": "itani",
+                      "children": {
+                        "1": {
+                          "word": "itapi",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "itoma",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "itoda",
+                      "children": {
+                        "1": {
+                          "word": "itoka",
+                          "children": {
+                            "1": {
+                              "word": "itona",
+                              "children": {
+                                "1": {
+                                  "word": "itota",
+                                  "children": {
+                                    "1": {
+                                      "word": "itoya",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "(ittla)",
+                  "children": {
+                    "4": {
+                      "word": "italo",
+                      "children": {
+                        "1": {
+                          "word": "italy",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "itan)",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "iteya",
+                          "children": {
+                            "1": {
+                              "word": "iteza",
+                              "children": {
+                                "2": {
+                                  "word": "itiya",
+                                  "children": {
+                                    "1": {
+                                      "word": "ituya",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "ithea",
+                              "children": {
+                                "2": {
+                                  "word": "itika",
+                                  "children": {
+                                    "1": {
+                                      "word": "ituka",
+                                      "children": {}
+                                    },
+                                    "2": {
+                                      "word": "ituna",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "itzah",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "itaco",
+                      "children": {
+                        "1": {
+                          "word": "itako",
+                          "children": {
+                            "1": {
+                              "word": "itano",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "itake",
+                          "children": {
+                            "1": {
+                              "word": "itaku",
+                              "children": {
+                                "2": {
+                                  "word": "itame",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "itazu",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "itcat",
+              "children": {
+                "3": {
+                  "word": "itkr",
+                  "children": {
+                    "2": {
+                      "word": "itt)",
+                      "children": {
+                        "1": {
+                          "word": "itte",
+                          "children": {
+                            "1": {
+                              "word": "itto",
+                              "children": {
+                                "1": {
+                                  "word": "itty",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(itharl)",
+          "children": {
+            "5": {
+              "word": "itabag",
+              "children": {
+                "3": {
+                  "word": "itacha",
+                  "children": {
+                    "1": {
+                      "word": "itasha",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "italia",
+                      "children": {
+                        "1": {
+                          "word": "itasia",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "itsrah",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "iteru",
+                  "children": {
+                    "1": {
+                      "word": "itiru",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "itori",
+                      "children": {
+                        "1": {
+                          "word": "ituri",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "itmkr",
+                      "children": {
+                        "3": {
+                          "word": "itte)",
+                          "children": {
+                            "2": {
+                              "word": "ittle",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "itoash",
+                      "children": {
+                        "3": {
+                          "word": "ityann",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "itousa",
+              "children": {
+                "2": {
+                  "word": "itsuha",
+                  "children": {
+                    "1": {
+                      "word": "itsuka",
+                      "children": {
+                        "1": {
+                          "word": "itsuma",
+                          "children": {
+                            "1": {
+                              "word": "itsuna",
+                              "children": {
+                                "1": {
+                                  "word": "itsuwa",
+                                  "children": {
+                                    "1": {
+                                      "word": "itsuya",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "ittou",
+                  "children": {
+                    "4": {
+                      "word": "itzcca",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "~itsuka",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "itte!",
+                  "children": {
+                    "1": {
+                      "word": "itte2",
+                      "children": {
+                        "1": {
+                          "word": "itten",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "itteita",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "itahana",
+          "children": {
+            "1": {
+              "word": "itohana",
+              "children": {}
+            },
+            "2": {
+              "word": "itakama",
+              "children": {
+                "1": {
+                  "word": "itakawa",
+                  "children": {}
+                },
+                "2": {
+                  "word": "itohama",
+                  "children": {
+                    "2": {
+                      "word": "itokana",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "itakaro",
+              "children": {
+                "2": {
+                  "word": "itakura",
+                  "children": {}
+                },
+                "3": {
+                  "word": "itazura",
+                  "children": {
+                    "4": {
+                      "word": "itohari",
+                      "children": {
+                        "1": {
+                          "word": "itoharu",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "itokawa",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ithaca)",
+                  "children": {
+                    "4": {
+                      "word": "itodama",
+                      "children": {
+                        "1": {
+                          "word": "itoyama",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "itogawa",
+                          "children": {
+                            "2": {
+                              "word": "itonaga",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "itzpapa",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "itotani",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ithaqua",
+                  "children": {
+                    "3": {
+                      "word": "itzamna",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "itetaki",
+              "children": {
+                "3": {
+                  "word": "itogari",
+                  "children": {}
+                },
+                "4": {
+                  "word": "itezora",
+                  "children": {
+                    "4": {
+                      "word": "itomaru",
+                      "children": {
+                        "5": {
+                          "word": "itsutaa",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "ittunn",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "itokura",
+                  "children": {
+                    "4": {
+                      "word": "ittwida",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "itouri",
+              "children": {
+                "1": {
+                  "word": "itsuri",
+                  "children": {}
+                },
+                "2": {
+                  "word": "itsuru",
+                  "children": {}
+                },
+                "3": {
+                  "word": "itporl",
+                  "children": {
+                    "3": {
+                      "word": "ittoki",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "itteki",
+                      "children": {
+                        "3": {
+                          "word": "ittosai",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "itte!)",
+                  "children": {
+                    "3": {
+                      "word": "itty62",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "ittitria",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "itsuhara",
+          "children": {
+            "6": {
+              "word": "itt0ryu",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(it",
+      "children": {
+        "1": {
+          "word": "(iti",
+          "children": {
+            "1": {
+              "word": "(ito",
+              "children": {
+                "1": {
+                  "word": "(its",
+                  "children": {
+                    "1": {
+                      "word": "(itu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "it",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "(it's",
+          "children": {
+            "2": {
+              "word": "(ito)",
+              "children": {
+                "1": {
+                  "word": "(itou",
+                  "children": {}
+                },
+                "3": {
+                  "word": "its",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "it!",
+              "children": {
+                "1": {
+                  "word": "it)",
+                  "children": {
+                    "1": {
+                      "word": "it.",
+                      "children": {
+                        "1": {
+                          "word": "it0",
+                          "children": {
+                            "1": {
+                              "word": "it:",
+                              "children": {
+                                "1": {
+                                  "word": "itc",
+                                  "children": {
+                                    "1": {
+                                      "word": "ite",
+                                      "children": {
+                                        "1": {
+                                          "word": "iti",
+                                          "children": {
+                                            "1": {
+                                              "word": "itk",
+                                              "children": {
+                                                "1": {
+                                                  "word": "itm",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "ito",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "itu",
+                                                          "children": {
+                                                            "1": {
+                                                              "word": "itz",
+                                                              "children": {}
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "~ito",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(itchy",
+          "children": {
+            "2": {
+              "word": "itch",
+              "children": {}
+            },
+            "3": {
+              "word": "(item)",
+              "children": {
+                "2": {
+                  "word": "(itou)",
+                  "children": {
+                    "2": {
+                      "word": "(itzy)",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "(itumo",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "(itoko",
+                  "children": {
+                    "2": {
+                      "word": "(ituki",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ithi",
+                  "children": {
+                    "2": {
+                      "word": "itky",
+                      "children": {
+                        "1": {
+                          "word": "itzy",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "itoh",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "@it's",
+              "children": {
+                "1": {
+                  "word": "it's",
+                  "children": {}
+                },
+                "3": {
+                  "word": "it!)",
+                  "children": {
+                    "1": {
+                      "word": "ite)",
+                      "children": {
+                        "1": {
+                          "word": "iti)",
+                          "children": {
+                            "1": {
+                              "word": "itk)",
+                              "children": {
+                                "1": {
+                                  "word": "ito)",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "it-1",
+                      "children": {
+                        "1": {
+                          "word": "it-z",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "it39",
+                          "children": {
+                            "2": {
+                              "word": "ite!",
+                              "children": {
+                                "1": {
+                                  "word": "item",
+                                  "children": {
+                                    "1": {
+                                      "word": "iten",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "itii",
+                                  "children": {
+                                    "1": {
+                                      "word": "itil",
+                                      "children": {
+                                        "1": {
+                                          "word": "itiu",
+                                          "children": {}
+                                        },
+                                        "2": {
+                                          "word": "itoi",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "itk3",
+                                      "children": {
+                                        "1": {
+                                          "word": "itkw",
+                                          "children": {
+                                            "1": {
+                                              "word": "itkz",
+                                              "children": {}
+                                            }
+                                          }
+                                        },
+                                        "2": {
+                                          "word": "ito\"",
+                                          "children": {
+                                            "1": {
+                                              "word": "itoo",
+                                              "children": {
+                                                "1": {
+                                                  "word": "itou",
+                                                  "children": {}
+                                                }
+                                              }
+                                            },
+                                            "2": {
+                                              "word": "itp0",
+                                              "children": {
+                                                "2": {
+                                                  "word": "itsk",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "itsu",
+                                                      "children": {}
+                                                    },
+                                                    "2": {
+                                                      "word": "itun",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "ituu",
+                                                          "children": {}
+                                                        },
+                                                        "2": {
+                                                          "word": "ityu",
+                                                          "children": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(itami)",
+          "children": {
+            "2": {
+              "word": "(itome)",
+              "children": {}
+            },
+            "3": {
+              "word": "(itiba)",
+              "children": {
+                "2": {
+                  "word": "(itigo)",
+                  "children": {
+                    "3": {
+                      "word": "(ituka)",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "(itowc)",
+                  "children": {
+                    "1": {
+                      "word": "(itowo)",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "itomi",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "(itoshi",
+              "children": {
+                "3": {
+                  "word": "(itsuki",
+                  "children": {
+                    "2": {
+                      "word": "itsui",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "itoki",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "itchi",
+                      "children": {
+                        "2": {
+                          "word": "itoji",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "(itsumo",
+                  "children": {
+                    "3": {
+                      "word": "itsme",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "itome",
+                      "children": {
+                        "3": {
+                          "word": "itugi",
+                          "children": {
+                            "1": {
+                              "word": "ituki",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "ithil",
+                      "children": {
+                        "3": {
+                          "word": "itzli",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "itein",
+                  "children": {
+                    "2": {
+                      "word": "item~",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "itimu",
+                      "children": {
+                        "1": {
+                          "word": "itumu",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "itumo",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "itk))",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "itcho",
+              "children": {
+                "1": {
+                  "word": "itchy",
+                  "children": {}
+                },
+                "2": {
+                  "word": "itego",
+                  "children": {
+                    "1": {
+                      "word": "itigo",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "itijo",
+                      "children": {
+                        "1": {
+                          "word": "itino",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "itoko",
+                          "children": {
+                            "1": {
+                              "word": "itoto",
+                              "children": {
+                                "1": {
+                                  "word": "itowo",
+                                  "children": {
+                                    "1": {
+                                      "word": "itoyo",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "2": {
+                                  "word": "itzko",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "word": "itefu",
+                  "children": {
+                    "1": {
+                      "word": "itesu",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "itete",
+                      "children": {
+                        "2": {
+                          "word": "itutu",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "itosu",
+                          "children": {
+                            "1": {
+                              "word": "itoyu",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "itsuu",
+                              "children": {
+                                "2": {
+                                  "word": "ityou",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "itntn",
+                      "children": {
+                        "2": {
+                          "word": "itnum",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "itone",
+                          "children": {
+                            "1": {
+                              "word": "itose",
+                              "children": {}
+                            },
+                            "2": {
+                              "word": "itou2",
+                              "children": {
+                                "2": {
+                                  "word": "itsue",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "itrqv",
+                              "children": {
+                                "3": {
+                                  "word": "its8b",
+                                  "children": {
+                                    "2": {
+                                      "word": "itsuc",
+                                      "children": {}
+                                    },
+                                    "3": {
+                                      "word": "ituk1",
+                                      "children": {
+                                        "3": {
+                                          "word": "ityuy",
+                                          "children": {
+                                            "3": {
+                                              "word": "itzel",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "itoito",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "itoiti",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "i-tsd",
+              "children": {
+                "3": {
+                  "word": "i.t.o",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(itagaki",
+          "children": {
+            "3": {
+              "word": "itanki",
+              "children": {}
+            },
+            "4": {
+              "word": "(italian",
+              "children": {
+                "4": {
+                  "word": "itaike",
+                  "children": {
+                    "3": {
+                      "word": "itamii",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "(ito-am)",
+                  "children": {
+                    "3": {
+                      "word": "(itsnav)",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "itodai",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "-itachi",
+                      "children": {
+                        "1": {
+                          "word": "itachi",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "itanji",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itsuki",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(ithika)",
+              "children": {
+                "2": {
+                  "word": "(itsuka)",
+                  "children": {}
+                },
+                "3": {
+                  "word": "(itsuha)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "itai2)",
+                  "children": {
+                    "3": {
+                      "word": "itsiko",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "ithnan",
+                      "children": {
+                        "1": {
+                          "word": "itinan",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "itak69",
+                  "children": {
+                    "3": {
+                      "word": "itokei",
+                      "children": {
+                        "1": {
+                          "word": "itokoi",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "itukik",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "itofan",
+                      "children": {
+                        "1": {
+                          "word": "itohan",
+                          "children": {
+                            "1": {
+                              "word": "itoman",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "itopad",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "itooku",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "itsuko",
+                          "children": {
+                            "1": {
+                              "word": "itsuku",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itacho",
+                  "children": {
+                    "2": {
+                      "word": "italoo",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "itajou",
+                      "children": {
+                        "3": {
+                          "word": "italic",
+                          "children": {
+                            "3": {
+                              "word": "itame1",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "itoshi",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "itouei",
+                      "children": {
+                        "2": {
+                          "word": "itounk",
+                          "children": {
+                            "3": {
+                              "word": "itsumi",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "it1122",
+              "children": {
+                "3": {
+                  "word": "it1988",
+                  "children": {
+                    "4": {
+                      "word": "itx024",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "iteron",
+                  "children": {
+                    "2": {
+                      "word": "ithwon",
+                      "children": {
+                        "2": {
+                          "word": "itokon",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "iturou",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "itijou",
+                      "children": {
+                        "3": {
+                          "word": "itocoh",
+                          "children": {
+                            "1": {
+                              "word": "itoooh",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "itkedo",
+                          "children": {
+                            "3": {
+                              "word": "itorio",
+                              "children": {}
+                            },
+                            "4": {
+                              "word": "ito-en",
+                              "children": {
+                                "1": {
+                                  "word": "itohen",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "itori)",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "ithiel",
+                      "children": {
+                        "2": {
+                          "word": "itiies",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "ithmid",
+                          "children": {
+                            "4": {
+                              "word": "itkker",
+                              "children": {
+                                "3": {
+                                  "word": "itrneu",
+                                  "children": {
+                                    "2": {
+                                      "word": "itunes",
+                                      "children": {}
+                                    },
+                                    "3": {
+                                      "word": "itsbee",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "4": {
+                                  "word": "itself",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "itochu",
+                          "children": {
+                            "3": {
+                              "word": "itom03",
+                              "children": {
+                                "2": {
+                                  "word": "itommy",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "itsugu",
+                                  "children": {
+                                    "1": {
+                                      "word": "itsumu",
+                                      "children": {}
+                                    },
+                                    "2": {
+                                      "word": "itsuho",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "itrumy",
+                              "children": {
+                                "2": {
+                                  "word": "itsumo",
+                                  "children": {}
+                                },
+                                "3": {
+                                  "word": "itsune",
+                                  "children": {
+                                    "1": {
+                                      "word": "itsuno",
+                                      "children": {
+                                        "2": {
+                                          "word": "itsuse",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "itsuyo",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(itazura)",
+          "children": {
+            "3": {
+              "word": "(itourab)",
+              "children": {}
+            },
+            "4": {
+              "word": "itsuma)",
+              "children": {}
+            },
+            "5": {
+              "word": "(itsuwari",
+              "children": {
+                "3": {
+                  "word": "itsuwan",
+                  "children": {}
+                },
+                "4": {
+                  "word": "itsurin",
+                  "children": {}
+                },
+                "5": {
+                  "word": "itadori",
+                  "children": {
+                    "3": {
+                      "word": "itokuri",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "itouyas",
+                      "children": {
+                        "4": {
+                          "word": "itsurou",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itakoro",
+                  "children": {
+                    "4": {
+                      "word": "italian",
+                      "children": {
+                        "3": {
+                          "word": "itaoka1",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "itofuya",
+                      "children": {
+                        "2": {
+                          "word": "itogusa",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "itajima",
+                  "children": {
+                    "2": {
+                      "word": "itanoma",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "itabasi",
+              "children": {
+                "2": {
+                  "word": "itadaki",
+                  "children": {
+                    "1": {
+                      "word": "itagaki",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "itakami",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "itanase",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "itadaku",
+                  "children": {
+                    "1": {
+                      "word": "itagaku",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "itasato",
+                      "children": {
+                        "4": {
+                          "word": "itozaki",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "itadaita",
+                  "children": {
+                    "4": {
+                      "word": "itzpalt",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "itatoko",
+                      "children": {
+                        "4": {
+                          "word": "itukano",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "iteza13",
+                          "children": {
+                            "4": {
+                              "word": "itokazu",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "itokiri",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "itetuki",
+                      "children": {
+                        "4": {
+                          "word": "itigori",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "itchyro",
+                  "children": {
+                    "2": {
+                      "word": "itohiro",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "itejiro",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "itochan",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "itokena",
+                      "children": {
+                        "3": {
+                          "word": "itowoka",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "itsukia",
+                          "children": {
+                            "3": {
+                              "word": "ittoki)",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "its.rin",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "itegami",
+              "children": {
+                "2": {
+                  "word": "itogaki",
+                  "children": {}
+                },
+                "3": {
+                  "word": "itohamu",
+                  "children": {
+                    "3": {
+                      "word": "itomaki",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "itimahu",
+                  "children": {
+                    "3": {
+                      "word": "itina17",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "itodain",
+                      "children": {
+                        "3": {
+                          "word": "itonako",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "itotong",
+                  "children": {
+                    "2": {
+                      "word": "itototo",
+                      "children": {
+                        "3": {
+                          "word": "itstowg",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "ittengo",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "ittokyu",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "ittetsu",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "itaipava",
+          "children": {
+            "3": {
+              "word": "itoigawa",
+              "children": {}
+            },
+            "4": {
+              "word": "itakatta",
+              "children": {
+                "4": {
+                  "word": "itsukawa",
+                  "children": {}
+                },
+                "5": {
+                  "word": "itsalpha",
+                  "children": {
+                    "4": {
+                      "word": "itsugaya",
+                      "children": {
+                        "2": {
+                          "word": "itsuhana",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "itazura)",
+              "children": {
+                "4": {
+                  "word": "itsumura",
+                  "children": {}
+                },
+                "5": {
+                  "word": "itherael",
+                  "children": {
+                    "5": {
+                      "word": "itsuwari",
+                      "children": {
+                        "1": {
+                          "word": "itsuwaru",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "itoyama4",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "ittekima",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ithorian",
+              "children": {
+                "4": {
+                  "word": "ittousai",
+                  "children": {}
+                },
+                "5": {
+                  "word": "itotokai",
+                  "children": {}
+                },
+                "6": {
+                  "word": "itomaru0",
+                  "children": {
+                    "4": {
+                      "word": "itotouru",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "~itsuwari",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "itatatata",
+          "children": {
+            "4": {
+              "word": "itomaraya",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "ittsanarga",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(itadon)",
+      "children": {
+        "3": {
+          "word": "(itaike)",
+          "children": {
+            "2": {
+              "word": "(itanhe)",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "(itea111)",
+          "children": {
+            "5": {
+              "word": "(iti562)",
+              "children": {
+                "3": {
+                  "word": "(ito577)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "(itpiki)",
+                  "children": {
+                    "2": {
+                      "word": "(itsuki)",
+                      "children": {
+                        "2": {
+                          "word": "(itu-ki)",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "(itsuko)",
+                      "children": {
+                        "3": {
+                          "word": "(ituki4)",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "itachi)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(itudemo",
+              "children": {
+                "5": {
+                  "word": "itaewon",
+                  "children": {
+                    "3": {
+                      "word": "itezono",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itaboon",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "itodome",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(itokake)",
+          "children": {
+            "2": {
+              "word": "(itokayu)",
+              "children": {}
+            },
+            "3": {
+              "word": "(itoma51)",
+              "children": {}
+            },
+            "4": {
+              "word": "(itsu-ka)",
+              "children": {}
+            },
+            "5": {
+              "word": "(itsukii",
+              "children": {
+                "2": {
+                  "word": "itsuki)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "itadaki!",
+                  "children": {
+                    "1": {
+                      "word": "itadaki~",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "itokin0",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "(itt1332)",
+                  "children": {
+                    "7": {
+                      "word": "itonoko",
+                      "children": {
+                        "1": {
+                          "word": "itoyoko",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "italiana)",
+              "children": {
+                "5": {
+                  "word": "italjet",
+                  "children": {
+                    "3": {
+                      "word": "itansen",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "itsdansc",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itaseyo",
+                  "children": {
+                    "4": {
+                      "word": "itsumo)",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "itinose",
+                      "children": {
+                        "5": {
+                          "word": "itoucon",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "itchome",
+                  "children": {
+                    "4": {
+                      "word": "itopoid",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "it-beng",
+              "children": {
+                "3": {
+                  "word": "itsmung",
+                  "children": {}
+                },
+                "5": {
+                  "word": "itachou",
+                  "children": {
+                    "3": {
+                      "word": "itacsum",
+                      "children": {
+                        "4": {
+                          "word": "itaslow",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "itimotu",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "itinogi",
+                      "children": {
+                        "3": {
+                          "word": "itsuomi",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "itspoff",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "itumonoa",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "itsgonna",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(itsukata)",
+          "children": {
+            "1": {
+              "word": "(itsurata)",
+              "children": {}
+            },
+            "4": {
+              "word": "itakatta)",
+              "children": {
+                "6": {
+                  "word": "itsukado",
+                  "children": {
+                    "1": {
+                      "word": "itsukano",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "itsukann",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "itsuk59",
+              "children": {
+                "3": {
+                  "word": "itsutsu",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "itaka875",
+              "children": {
+                "5": {
+                  "word": "itausagi",
+                  "children": {
+                    "5": {
+                      "word": "itsuu88",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "iterator",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itmutut",
+                  "children": {
+                    "4": {
+                      "word": "itsumi2",
+                      "children": {
+                        "1": {
+                          "word": "itsumip",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "itsunko",
+                          "children": {
+                            "3": {
+                              "word": "itsushi",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "itsutoko",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "itosuke",
+                      "children": {
+                        "6": {
+                          "word": "itzcoatl",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "itsboadc",
+                      "children": {
+                        "4": {
+                          "word": "itsroika",
+                          "children": {
+                            "4": {
+                              "word": "itssolar",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "itabashi",
+              "children": {
+                "4": {
+                  "word": "itomagoi",
+                  "children": {}
+                },
+                "5": {
+                  "word": "itachiya",
+                  "children": {
+                    "5": {
+                      "word": "itosiki",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "itosugi",
+                      "children": {
+                        "5": {
+                          "word": "itutooki",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itigoame",
+                  "children": {
+                    "5": {
+                      "word": "itook12",
+                      "children": {
+                        "4": {
+                          "word": "itouben",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "itsrice",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "itokuzu",
+                      "children": {
+                        "1": {
+                          "word": "itosuzu",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "itshuyu",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "itzsubz",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "its2h35",
+                          "children": {
+                            "4": {
+                              "word": "itsmi99",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "itataminn",
+              "children": {
+                "5": {
+                  "word": "itochin",
+                  "children": {}
+                },
+                "6": {
+                  "word": "itch.io",
+                  "children": {
+                    "4": {
+                      "word": "itegumo",
+                      "children": {
+                        "4": {
+                          "word": "itohime",
+                          "children": {
+                            "3": {
+                              "word": "itoriyo",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "itohiki",
+                          "children": {
+                            "2": {
+                              "word": "itoshii",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "itinike",
+                      "children": {
+                        "3": {
+                          "word": "itolife",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "itwasleo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "itgashu2",
+                      "children": {
+                        "5": {
+                          "word": "itzaysel",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "ittenn-h",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "itmr178",
+                  "children": {
+                    "5": {
+                      "word": "ito0003",
+                      "children": {
+                        "3": {
+                          "word": "ito1055",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "itoneyu",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "itoerosi",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "i.takashi",
+          "children": {
+            "4": {
+              "word": "itabasami",
+              "children": {
+                "5": {
+                  "word": "itomachi",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "itokatsu",
+              "children": {
+                "4": {
+                  "word": "itskawer",
+                  "children": {}
+                },
+                "5": {
+                  "word": "itslaghy",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "itetsuki",
+              "children": {
+                "4": {
+                  "word": "itsukaiu",
+                  "children": {
+                    "3": {
+                      "word": "itsukiha",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "ittouhei",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "itktwstn",
+                  "children": {
+                    "5": {
+                      "word": "itsuwami",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "itokurie",
+                      "children": {
+                        "5": {
+                          "word": "itonatsu",
+                          "children": {
+                            "6": {
+                              "word": "itsukage",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "itsukazu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itiha008",
+                  "children": {
+                    "5": {
+                      "word": "itika2ka2",
+                      "children": {
+                        "6": {
+                          "word": "itugaigo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "itoshiro",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "itsalyssa",
+                  "children": {
+                    "6": {
+                      "word": "itskaaate",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "iteranima",
+              "children": {
+                "4": {
+                  "word": "itomamiya",
+                  "children": {}
+                },
+                "6": {
+                  "word": "itetsuku",
+                  "children": {
+                    "4": {
+                      "word": "itsukiru",
+                      "children": {
+                        "3": {
+                          "word": "itsurumu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "5": {
+                      "word": "itouriko",
+                      "children": {
+                        "5": {
+                          "word": "itsuhamu",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "ithuriel",
+                      "children": {
+                        "5": {
+                          "word": "itunerin",
+                          "children": {}
+                        },
+                        "6": {
+                          "word": "itzzazure",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "itsumarin",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "itsbrych",
+                  "children": {
+                    "4": {
+                      "word": "itsuru96",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "itsumade",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "itzsyfan",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "itinerant",
+              "children": {
+                "7": {
+                  "word": "itsaaudraw",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "itetsuita",
+          "children": {
+            "5": {
+              "word": "itsukiasa",
+              "children": {}
+            },
+            "6": {
+              "word": "itouchaba",
+              "children": {}
+            },
+            "7": {
+              "word": "itsariecha",
+              "children": {
+                "7": {
+                  "word": "itsbearvt",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "itoh-taroh",
+              "children": {
+                "7": {
+                  "word": "itsparamin",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(itanism)",
+      "children": {
+        "3": {
+          "word": "itanishi",
+          "children": {}
+        },
+        "4": {
+          "word": "(itashi3)",
+          "children": {
+            "4": {
+              "word": "(itikiii)",
+              "children": {}
+            },
+            "5": {
+              "word": "(itmne26)",
+              "children": {
+                "5": {
+                  "word": "(itoriyo)",
+                  "children": {}
+                },
+                "7": {
+                  "word": "itamishi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(itapa613)",
+          "children": {
+            "5": {
+              "word": "(itiori10)",
+              "children": {
+                "4": {
+                  "word": "(itoraito)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(itobell)",
+              "children": {
+                "5": {
+                  "word": "(itsunky)",
+                  "children": {
+                    "6": {
+                      "word": "(itwasleo)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "itachisan",
+              "children": {
+                "5": {
+                  "word": "itamessy",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "(itariarabu)",
+          "children": {
+            "6": {
+              "word": "(itukitann)",
+              "children": {}
+            },
+            "7": {
+              "word": "(itiha000)",
+              "children": {
+                "4": {
+                  "word": "(itika531)",
+                  "children": {}
+                },
+                "5": {
+                  "word": "(itsuka05)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(itoiwori)",
+                  "children": {}
+                },
+                "8": {
+                  "word": "italia317",
+                  "children": {
+                    "6": {
+                      "word": "itorisako",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "itaizoyo",
+              "children": {
+                "5": {
+                  "word": "itigesou",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "itamochi",
+              "children": {
+                "3": {
+                  "word": "itokichi",
+                  "children": {}
+                },
+                "5": {
+                  "word": "itaslipy",
+                  "children": {
+                    "5": {
+                      "word": "itsvicio",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "ituki321",
+                  "children": {
+                    "2": {
+                      "word": "itukixx1",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "ityhityh",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "itoyoshi",
+              "children": {
+                "5": {
+                  "word": "itsnotok",
+                  "children": {
+                    "5": {
+                      "word": "itsufumi",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itsudemo",
+                  "children": {}
+                },
+                "7": {
+                  "word": "ittangomen",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(itoyokado",
+          "children": {
+            "5": {
+              "word": "itookashi",
+              "children": {}
+            },
+            "6": {
+              "word": "itafukasu",
+              "children": {
+                "5": {
+                  "word": "itsukino",
+                  "children": {}
+                },
+                "6": {
+                  "word": "itokufox",
+                  "children": {
+                    "5": {
+                      "word": "itou-kun",
+                      "children": {
+                        "6": {
+                          "word": "itsokogi",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "itogoner",
+                  "children": {
+                    "5": {
+                      "word": "itokeito",
+                      "children": {
+                        "3": {
+                          "word": "itoshigo",
+                          "children": {
+                            "1": {
+                              "word": "itoshino",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "itslocko",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "(itsudatsu",
+              "children": {
+                "2": {
+                  "word": "(itsudatte",
+                  "children": {}
+                },
+                "5": {
+                  "word": "itsuhito",
+                  "children": {
+                    "2": {
+                      "word": "itsumoto",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "itsutsugo",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "itsukashi",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itsuking",
+                  "children": {
+                    "1": {
+                      "word": "itsukini",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "itsumono",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "itsuneko",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "itadaki31",
+                  "children": {
+                    "7": {
+                      "word": "itirinasi",
+                      "children": {
+                        "7": {
+                          "word": "itosu200",
+                          "children": {
+                            "6": {
+                              "word": "ittoushou",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "8": {
+                  "word": "italyball",
+                  "children": {
+                    "6": {
+                      "word": "itteyoshi",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "ito22oji",
+                      "children": {
+                        "4": {
+                          "word": "ito27110",
+                          "children": {
+                            "5": {
+                              "word": "itoguchi",
+                              "children": {
+                                "4": {
+                                  "word": "itoshiki",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "5": {
+                          "word": "itoichi.",
+                          "children": {
+                            "4": {
+                              "word": "itoshige",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "itumoumai",
+                          "children": {
+                            "5": {
+                              "word": "itunohika",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "itadakiman",
+              "children": {
+                "5": {
+                  "word": "itsushima",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ithilion",
+                  "children": {}
+                },
+                "7": {
+                  "word": "itashanxd",
+                  "children": {
+                    "5": {
+                      "word": "itasphere",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "its-goon",
+                      "children": {
+                        "4": {
+                          "word": "itsumone",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "itsmumei",
+                          "children": {
+                            "4": {
+                              "word": "itsumizu",
+                              "children": {
+                                "4": {
+                                  "word": "itsuzuki",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "7": {
+                          "word": "itsadeal4)",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "ithk0219",
+                      "children": {
+                        "7": {
+                          "word": "itirirenn",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "8": {
+                  "word": "itsumu78",
+                  "children": {
+                    "4": {
+                      "word": "itsutsuki",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "itszenvy",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "ita-ita-san",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "i-tek728",
+          "children": {
+            "7": {
+              "word": "itemlabel",
+              "children": {
+                "5": {
+                  "word": "itsmealvi",
+                  "children": {}
+                },
+                "6": {
+                  "word": "itomeguri",
+                  "children": {
+                    "5": {
+                      "word": "itsmereon",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "itsgerdew",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "itgirl908",
+                  "children": {
+                    "7": {
+                      "word": "itika5337",
+                      "children": {
+                        "5": {
+                          "word": "itokazuuu",
+                          "children": {}
+                        },
+                        "7": {
+                          "word": "ittumozzz",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "ittentoppa",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "ithilnaur",
+              "children": {
+                "5": {
+                  "word": "itsmilkart",
+                  "children": {}
+                },
+                "7": {
+                  "word": "itimoto10",
+                  "children": {
+                    "5": {
+                      "word": "itiya1412",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "itistudio",
+                      "children": {
+                        "7": {
+                          "word": "itousatou",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "itoshatyo",
+                      "children": {
+                        "5": {
+                          "word": "itsudatsu",
+                          "children": {
+                            "2": {
+                              "word": "itsudatte",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "itsushiro",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "6": {
+                          "word": "itou-chan",
+                          "children": {
+                            "5": {
+                              "word": "itsumaden",
+                              "children": {}
+                            },
+                            "7": {
+                              "word": "itswaaves",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "7": {
+                          "word": "itsrchlrt",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "8": {
+                  "word": "itikoroman",
+                  "children": {
+                    "7": {
+                      "word": "itsukarine",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "itowa.haru",
+              "children": {
+                "4": {
+                  "word": "itsyashart",
+                  "children": {}
+                },
+                "7": {
+                  "word": "itsjoaosan",
+                  "children": {}
+                },
+                "8": {
+                  "word": "itsumiruka",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "itsaraofgod",
+          "children": {
+            "7": {
+              "word": "itsmrcrane",
+              "children": {
+                "6": {
+                  "word": "itsshaxart",
+                  "children": {
+                    "5": {
+                      "word": "itsthatvie",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "itterasshai",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "itsnotayaya",
+              "children": {
+                "4": {
+                  "word": "itsnotfazal",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(itazuraguma",
+      "children": {
+        "1": {
+          "word": "itazuraguma",
+          "children": {}
+        },
+        "5": {
+          "word": "itazura1510",
+          "children": {
+            "4": {
+              "word": "itazuracoco",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(itumiyuo)",
+          "children": {
+            "7": {
+              "word": "itachizuka",
+              "children": {
+                "6": {
+                  "word": "itsudzumi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(itkinggg)",
+          "children": {
+            "6": {
+              "word": "(itokanashi)",
+              "children": {
+                "7": {
+                  "word": "(itzk0110)",
+                  "children": {}
+                },
+                "8": {
+                  "word": "(itsumono)",
+                  "children": {
+                    "1": {
+                      "word": "(itsuzono)",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "(itsutsugo)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "(itoyatomo)",
+              "children": {}
+            },
+            "8": {
+              "word": "(itsaraofgod)",
+              "children": {
+                "9": {
+                  "word": "itamidome",
+                  "children": {}
+                },
+                "10": {
+                  "word": "itakeabite",
+                  "children": {
+                    "8": {
+                      "word": "itirizuka0",
+                      "children": {
+                        "8": {
+                          "word": "itou-memo",
+                          "children": {
+                            "5": {
+                              "word": "itumonemu",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "11": {
+                  "word": "itukikameya",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "itadakimasu",
+              "children": {
+                "3": {
+                  "word": "itashimasu",
+                  "children": {}
+                },
+                "7": {
+                  "word": "italia-chan",
+                  "children": {
+                    "7": {
+                      "word": "itanimajere",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "itatigeiina",
+                  "children": {
+                    "8": {
+                      "word": "itouatsuki",
+                      "children": {
+                        "7": {
+                          "word": "itsuyuudan",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "9": {
+                      "word": "itsuka-chan",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "itiruru713",
+                  "children": {
+                    "6": {
+                      "word": "itzremurin",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "itsuwa0120",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "itspurroart",
+              "children": {
+                "9": {
+                  "word": "itterubiumu",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "itzzazureart",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(iths0811)",
+          "children": {
+            "6": {
+              "word": "(itinoe89)",
+              "children": {
+                "5": {
+                  "word": "(itisaki39)",
+                  "children": {}
+                },
+                "6": {
+                  "word": "(itsme948)",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "itijiku11",
+              "children": {
+                "7": {
+                  "word": "itsumo133",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "itachikko",
+              "children": {
+                "3": {
+                  "word": "itamikiko",
+                  "children": {}
+                },
+                "4": {
+                  "word": "itijikuko",
+                  "children": {
+                    "5": {
+                      "word": "itsuki-ko",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "itsuchiyo",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "itamemono",
+                  "children": {
+                    "5": {
+                      "word": "itamichii",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "itsukitoo",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "itsushiki",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "itamiwose",
+                  "children": {
+                    "7": {
+                      "word": "itsubishi",
+                      "children": {
+                        "2": {
+                          "word": "itsukichi",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "itsuki003",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "itchcrotch",
+                  "children": {
+                    "7": {
+                      "word": "itokonoue",
+                      "children": {
+                        "6": {
+                          "word": "itsunojin",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "itinukepi",
+                      "children": {
+                        "7": {
+                          "word": "itomimizu",
+                          "children": {
+                            "5": {
+                              "word": "itumi0605",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "8": {
+                  "word": "itzkatty12",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "itohari9951",
+              "children": {
+                "7": {
+                  "word": "itoscaresme",
+                  "children": {
+                    "8": {
+                      "word": "itspringsp",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "itou-cyako",
+                  "children": {
+                    "5": {
+                      "word": "itsukikaku",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "itowokashi",
+                      "children": {
+                        "8": {
+                          "word": "itsmandymo",
+                          "children": {
+                            "7": {
+                              "word": "itsuhamaart",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "itzjaylock",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "its.lulita",
+                  "children": {
+                    "7": {
+                      "word": "itsmeangge",
+                      "children": {
+                        "5": {
+                          "word": "itsmewahoo",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "8": {
+                      "word": "itsjustfrel",
+                      "children": {
+                        "8": {
+                          "word": "itstheenami",
+                          "children": {
+                            "7": {
+                              "word": "itzmeteoni",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "itogutidayo",
+              "children": {
+                "6": {
+                  "word": "itokirimaru",
+                  "children": {
+                    "8": {
+                      "word": "itomamaikyo",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "itsnotfilia",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "itigomilk",
+          "children": {
+            "6": {
+              "word": "itokon300",
+              "children": {
+                "6": {
+                  "word": "itonicosi",
+                  "children": {
+                    "6": {
+                      "word": "itsbodoke",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "itslopezz",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "itsmefool",
+              "children": {
+                "6": {
+                  "word": "ittemiyoyo",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "ittan-momen",
+              "children": {
+                "10": {
+                  "word": "itzcoatlart3",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "itobatakaigi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(itaizinzu)",
+      "children": {
+        "6": {
+          "word": "(itoningen)",
+          "children": {
+            "6": {
+              "word": "(itosousou)",
+              "children": {
+                "8": {
+                  "word": "itininosub",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "(itsfei017)",
+              "children": {
+                "5": {
+                  "word": "(itsukiovo)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "(itegumi02)",
+          "children": {
+            "7": {
+              "word": "(itouaiyuki)",
+              "children": {}
+            },
+            "8": {
+              "word": "(itokiitoki)",
+              "children": {
+                "7": {
+                  "word": "(itsmrsneko)",
+                  "children": {
+                    "9": {
+                      "word": "itsiiiiiii",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "itachi3413",
+              "children": {
+                "3": {
+                  "word": "itashi3103",
+                  "children": {}
+                },
+                "4": {
+                  "word": "itachiudon",
+                  "children": {}
+                },
+                "6": {
+                  "word": "itoshinooo",
+                  "children": {}
+                },
+                "8": {
+                  "word": "itadakimasu)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(itisarudomo)",
+          "children": {
+            "6": {
+              "word": "(itsnafulol)",
+              "children": {}
+            },
+            "8": {
+              "word": "(itsbabywade)",
+              "children": {
+                "11": {
+                  "word": "itosugijou",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "itariadoitsu",
+              "children": {
+                "8": {
+                  "word": "itsiitsubox",
+                  "children": {}
+                },
+                "9": {
+                  "word": "itsumeinno",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "itadakimasu!",
+              "children": {
+                "7": {
+                  "word": "itssoyisus",
+                  "children": {}
+                },
+                "8": {
+                  "word": "italdesign",
+                  "children": {
+                    "8": {
+                      "word": "itsuki0931",
+                      "children": {
+                        "4": {
+                          "word": "itsuki2525",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "9": {
+                  "word": "italy-cute",
+                  "children": {
+                    "3": {
+                      "word": "italy-love",
+                      "children": {}
+                    },
+                    "8": {
+                      "word": "itsmissing",
+                      "children": {
+                        "6": {
+                          "word": "itsumi1021",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "(itsvogelart)",
+          "children": {
+            "8": {
+              "word": "itasazameart",
+              "children": {
+                "9": {
+                  "word": "itsdoodlez",
+                  "children": {}
+                },
+                "10": {
+                  "word": "itogekijyo",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "itigeki10k",
+              "children": {
+                "8": {
+                  "word": "itokonnyaku",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "ithaqilover",
+              "children": {
+                "6": {
+                  "word": "itoginoxeru",
+                  "children": {}
+                },
+                "8": {
+                  "word": "itsukishima",
+                  "children": {
+                    "8": {
+                      "word": "itzmeblixy",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "itigomiruku",
+                  "children": {
+                    "8": {
+                      "word": "itoyuuichi",
+                      "children": {}
+                    },
+                    "9": {
+                      "word": "itsjustsoup",
+                      "children": {
+                        "8": {
+                          "word": "itsukikanuma",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "11": {
+              "word": "itachi-roxas",
+              "children": {
+                "7": {
+                  "word": "itohiroichi",
+                  "children": {}
+                },
+                "8": {
+                  "word": "itamitohigan",
+                  "children": {}
+                }
+              }
+            },
+            "12": {
+              "word": "itomakirichan",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "it's.b1tter",
+          "children": {
+            "7": {
+              "word": "itosdattist",
+              "children": {
+                "8": {
+                  "word": "itsjustbeek",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "itokenaikei",
+              "children": {
+                "9": {
+                  "word": "itssammydoo",
+                  "children": {}
+                },
+                "10": {
+                  "word": "itsbabypears",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "itousatousan",
+              "children": {
+                "8": {
+                  "word": "itoyasu3401",
+                  "children": {
+                    "9": {
+                      "word": "itsamustikas",
+                      "children": {
+                        "5": {
+                          "word": "itsukushima",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "9": {
+                  "word": "itsdoggybag",
+                  "children": {
+                    "8": {
+                      "word": "itshanaakari",
+                      "children": {
+                        "9": {
+                          "word": "itsuyuri353",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "itazuramogura",
+              "children": {
+                "8": {
+                  "word": "itsunomanika",
+                  "children": {}
+                },
+                "10": {
+                  "word": "itigokuruiza",
+                  "children": {
+                    "10": {
+                      "word": "ittenchiroku",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "itslyssalala",
+          "children": {
+            "7": {
+              "word": "itumoshuraba",
+              "children": {}
+            },
+            "9": {
+              "word": "itsscaredycat",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "itoyokotoraya",
+          "children": {
+            "10": {
+              "word": "itsmrcharcoal",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "(itachi1224)",
+      "children": {
+        "5": {
+          "word": "itachi20481",
+          "children": {}
+        },
+        "8": {
+          "word": "(itislevent)",
+          "children": {
+            "8": {
+              "word": "(itsuki7nami)",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "itashimashita",
+          "children": {}
+        },
+        "10": {
+          "word": "itagakihajime",
+          "children": {
+            "8": {
+              "word": "itsricewine",
+              "children": {}
+            },
+            "9": {
+              "word": "itako-redeye",
+              "children": {
+                "9": {
+                  "word": "ithreeivyi3",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "itgo1999sos",
+              "children": {
+                "9": {
+                  "word": "itokon-7829",
+                  "children": {
+                    "8": {
+                      "word": "itomugi-kun",
+                      "children": {}
+                    },
+                    "9": {
+                      "word": "itsuyoitsuyo",
+                      "children": {}
+                    }
+                  }
+                },
+                "10": {
+                  "word": "itousagi1117",
+                  "children": {}
+                }
+              }
+            },
+            "11": {
+              "word": "itsonlynsfw",
+              "children": {
+                "7": {
+                  "word": "itssuzysooz",
+                  "children": {}
+                },
+                "10": {
+                  "word": "itspichupanda",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "(itijikusakura)",
+          "children": {
+            "8": {
+              "word": "itaiko-sayuri",
+              "children": {}
+            },
+            "9": {
+              "word": "itakinomaturi",
+              "children": {
+                "8": {
+                  "word": "itini-sanshi",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "(itsnotfragile)",
+              "children": {}
+            },
+            "11": {
+              "word": "itome-senpai",
+              "children": {}
+            },
+            "12": {
+              "word": "itsallfeynman",
+              "children": {
+                "9": {
+                  "word": "itsironicmom",
+                  "children": {
+                    "8": {
+                      "word": "itsukaonline",
+                      "children": {}
+                    }
+                  }
+                },
+                "10": {
+                  "word": "itsutsuboshi",
+                  "children": {
+                    "10": {
+                      "word": "itynited0616",
+                      "children": {}
+                    },
+                    "11": {
+                      "word": "ittybittyfuck",
+                      "children": {}
+                    }
+                  }
+                },
+                "11": {
+                  "word": "itzmayonigiri",
+                  "children": {}
+                }
+              }
+            },
+            "13": {
+              "word": "itetobonbonx",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "itigomasimaro",
+          "children": {
+            "10": {
+              "word": "itodragonball",
+              "children": {}
+            },
+            "11": {
+              "word": "ittenfsausntt",
+              "children": {}
+            }
+          }
+        },
+        "14": {
+          "word": "itstoowarmtoday",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "(itigototyoko)",
+      "children": {
+        "8": {
+          "word": "itigo-ichirou",
+          "children": {}
+        },
+        "9": {
+          "word": "(itukadokokade)",
+          "children": {
+            "13": {
+              "word": "itigojam11234",
+              "children": {
+                "8": {
+                  "word": "itigotyann0929",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "(itsricewine)",
+          "children": {
+            "9": {
+              "word": "itoshikiniko",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "itigatu1amanatu",
+          "children": {
+            "12": {
+              "word": "itoyouji0109",
+              "children": {
+                "10": {
+                  "word": "itsukirino720",
+                  "children": {}
+                },
+                "11": {
+                  "word": "itsoraoraoraora",
+                  "children": {}
+                }
+              }
+            },
+            "13": {
+              "word": "itsmeboopeey",
+              "children": {
+                "9": {
+                  "word": "itsumohitoride",
+                  "children": {}
+                },
+                "10": {
+                  "word": "ittybittypixel",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "itadakimanmosu",
+          "children": {
+            "7": {
+              "word": "itsdannifandom",
+              "children": {}
+            },
+            "10": {
+              "word": "its-herminium",
+              "children": {
+                "8": {
+                  "word": "its-lizombie",
+                  "children": {}
+                },
+                "9": {
+                  "word": "itsmissnight",
+                  "children": {}
+                },
+                "10": {
+                  "word": "itsuki050605",
+                  "children": {}
+                }
+              }
+            },
+            "12": {
+              "word": "itou63630291",
+              "children": {
+                "9": {
+                  "word": "itsmintr62621",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "13": {
+          "word": "itadaichaimasu",
+          "children": {
+            "9": {
+              "word": "itscaptainmarty",
+              "children": {}
+            },
+            "11": {
+              "word": "itakurakou1993",
+              "children": {
+                "12": {
+                  "word": "itselfsearcher",
+                  "children": {}
+                }
+              }
+            },
+            "13": {
+              "word": "itsthemanonfire",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "(itigo-daifuku)",
+      "children": {
+        "8": {
+          "word": "(itumoinuinu2)",
+          "children": {}
+        },
+        "10": {
+          "word": "(itijitekinammm)",
+          "children": {
+            "11": {
+              "word": "(itsukiitsuki1)",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "itamikyousuke",
+          "children": {
+            "9": {
+              "word": "itssoikamadudes",
+              "children": {}
+            },
+            "10": {
+              "word": "itumonogocyou",
+              "children": {}
+            }
+          }
+        },
+        "12": {
+          "word": "itstom06331391",
+          "children": {
+            "9": {
+              "word": "itsuki9a232001",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "itouen654321g",
+          "children": {
+            "9": {
+              "word": "itsuki3740775",
+              "children": {}
+            },
+            "10": {
+              "word": "itsunknownanon",
+              "children": {}
+            },
+            "12": {
+              "word": "itsaboutspoons",
+              "children": {}
+            }
+          }
+        },
+        "14": {
+          "word": "itsmeanwaterfall",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "(itsrainyuptown)",
+      "children": {
+        "9": {
+          "word": "(itsreallyrocket)",
+          "children": {}
+        },
+        "12": {
+          "word": "itareritsukuseri",
+          "children": {
+            "11": {
+              "word": "itigodaihukuinu",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "ithinkilikeyou",
+          "children": {}
+        },
+        "14": {
+          "word": "itv09876543212",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "(itudattenemuiyo)",
+      "children": {
+        "13": {
+          "word": "itumademokonaiasu",
+          "children": {}
+        }
+      }
+    },
+    "15": {
+      "word": "(itoshikifujoshi)",
+      "children": {
+        "11": {
+          "word": "(itsuka-itsukaichi)",
+          "children": {}
+        },
+        "12": {
+          "word": "itsukishishihime",
+          "children": {}
+        },
+        "14": {
+          "word": "it-s-owl-o-clock",
+          "children": {}
+        },
+        "15": {
+          "word": "italiano-biscotti",
+          "children": {}
+        }
+      }
+    }
+  }
+}

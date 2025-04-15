@@ -1,0 +1,26 @@
+{
+  "word": "(1ldkplanet)",
+  "children": {
+    "7": {
+      "word": "(1lhap)",
+      "children": {}
+    },
+    "8": {
+      "word": "(1lv745)",
+      "children": {}
+    },
+    "9": {
+      "word": "1layn",
+      "children": {
+        "3": {
+          "word": "1le",
+          "children": {}
+        },
+        "6": {
+          "word": "1llusori",
+          "children": {}
+        }
+      }
+    }
+  }
+}

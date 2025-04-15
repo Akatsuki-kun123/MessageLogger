@@ -1,0 +1,40 @@
+{
+  "word": "(3e",
+  "children": {
+    "1": {
+      "word": "3e",
+      "children": {}
+    },
+    "2": {
+      "word": "3er",
+      "children": {}
+    },
+    "3": {
+      "word": "3eep",
+      "children": {
+        "2": {
+          "word": "3eye",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "3egko",
+      "children": {
+        "3": {
+          "word": "3ene3",
+          "children": {
+            "3": {
+              "word": "3ev95",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "word": "3ek5meietzrlaur",
+      "children": {}
+    }
+  }
+}

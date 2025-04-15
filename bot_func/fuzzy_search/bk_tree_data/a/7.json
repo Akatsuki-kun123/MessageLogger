@@ -1,0 +1,143 @@
+{
+  "word": "(a-7)",
+  "children": {
+    "1": {
+      "word": "(a7)",
+      "children": {}
+    },
+    "2": {
+      "word": "(a7b)",
+      "children": {
+        "1": {
+          "word": "(a7x)",
+          "children": {}
+        },
+        "4": {
+          "word": "a-7",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "a7",
+      "children": {
+        "1": {
+          "word": "a73",
+          "children": {
+            "1": {
+              "word": "a7l",
+              "children": {
+                "1": {
+                  "word": "a7m",
+                  "children": {
+                    "1": {
+                      "word": "a7v",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "a75)",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "a710",
+      "children": {
+        "2": {
+          "word": "a7md",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(a72pgc)",
+      "children": {
+        "4": {
+          "word": "(a7encl)",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(a7069721)",
+      "children": {
+        "8": {
+          "word": "a7m3-j",
+          "children": {
+            "3": {
+              "word": "a7mber",
+              "children": {}
+            },
+            "4": {
+              "word": "a7size",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "a7700816",
+      "children": {
+        "6": {
+          "word": "a7ozumi",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "(a715042007)",
+      "children": {
+        "6": {
+          "word": "(a752170096)",
+          "children": {}
+        },
+        "7": {
+          "word": "(a72392239)",
+          "children": {}
+        },
+        "10": {
+          "word": "a72939ei",
+          "children": {
+            "6": {
+              "word": "a7sbmsht",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "a710673405",
+      "children": {
+        "4": {
+          "word": "a717677104",
+          "children": {}
+        },
+        "7": {
+          "word": "a73398190",
+          "children": {
+            "6": {
+              "word": "a7medzer0",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "a7702182001",
+      "children": {}
+    },
+    "15": {
+      "word": "a7blygwyprzp9lr",
+      "children": {}
+    }
+  }
+}

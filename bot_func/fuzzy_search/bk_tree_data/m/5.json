@@ -1,0 +1,99 @@
+{
+  "word": "(m52ta)",
+  "children": {
+    "2": {
+      "word": "(m5to)",
+      "children": {}
+    },
+    "3": {
+      "word": "(m5632)",
+      "children": {}
+    },
+    "4": {
+      "word": "(m55523)",
+      "children": {
+        "5": {
+          "word": "m52",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "m5",
+      "children": {
+        "1": {
+          "word": "m50",
+          "children": {
+            "1": {
+              "word": "m55",
+              "children": {
+                "1": {
+                  "word": "m56",
+                  "children": {
+                    "1": {
+                      "word": "m57",
+                      "children": {
+                        "1": {
+                          "word": "m59",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "m500",
+          "children": {
+            "1": {
+              "word": "m510",
+              "children": {
+                "1": {
+                  "word": "m590",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "m516",
+              "children": {
+                "1": {
+                  "word": "m586",
+                  "children": {}
+                },
+                "2": {
+                  "word": "m551",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "m567fe",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "m-5",
+      "children": {
+        "1": {
+          "word": "m-55",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "m58-on-the-way",
+      "children": {}
+    },
+    "12": {
+      "word": "(m5m0w21s4b3bfg5)",
+      "children": {}
+    }
+  }
+}

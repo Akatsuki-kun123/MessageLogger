@@ -1,0 +1,57 @@
+{
+  "word": "(p90)",
+  "children": {
+    "2": {
+      "word": "p90",
+      "children": {}
+    },
+    "3": {
+      "word": "p9",
+      "children": {
+        "1": {
+          "word": "p95",
+          "children": {
+            "1": {
+              "word": "p99",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "p914",
+          "children": {
+            "1": {
+              "word": "p917",
+              "children": {}
+            },
+            "2": {
+              "word": "p99s",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(p9999q)",
+      "children": {
+        "5": {
+          "word": "p9v9o",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "p997tt",
+      "children": {}
+    },
+    "6": {
+      "word": "p981877",
+      "children": {}
+    },
+    "14": {
+      "word": "p91k7ccbk4heiho",
+      "children": {}
+    }
+  }
+}

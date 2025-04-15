@@ -1,0 +1,31 @@
+{
+  "word": "(1f980)",
+  "children": {
+    "4": {
+      "word": "1fd)",
+      "children": {
+        "2": {
+          "word": "1fun)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "1f",
+      "children": {
+        "2": {
+          "word": "1fab",
+          "children": {}
+        },
+        "3": {
+          "word": "1f364",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "1fukafuka1",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "word": "(q100)",
+  "children": {
+    "3": {
+      "word": "q-100",
+      "children": {
+        "2": {
+          "word": "q10u",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "q1",
+      "children": {
+        "1": {
+          "word": "q11",
+          "children": {
+            "1": {
+              "word": "q12",
+              "children": {
+                "1": {
+                  "word": "q1w",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "q1110",
+          "children": {
+            "3": {
+              "word": "q1224",
+              "children": {
+                "3": {
+                  "word": "q1uhl",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "q18607",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(q12lamb)",
+      "children": {
+        "6": {
+          "word": "q1draw",
+          "children": {}
+        },
+        "7": {
+          "word": "q1modi",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "q1chini3",
+      "children": {
+        "6": {
+          "word": "q1w2e3r4",
+          "children": {}
+        }
+      }
+    },
+    "9": {
+      "word": "(q1323562521)",
+      "children": {
+        "9": {
+          "word": "(q1668423773)",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "q1398458488",
+      "children": {}
+    }
+  }
+}

@@ -1,0 +1,673 @@
+{
+  "word": "(iyaden)",
+  "children": {
+    "2": {
+      "word": "(iyapan)",
+      "children": {
+        "2": {
+          "word": "(iyarin)",
+          "children": {}
+        },
+        "3": {
+          "word": "(iykien)",
+          "children": {}
+        },
+        "4": {
+          "word": "iyaden",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "(iyuse)",
+      "children": {}
+    },
+    "4": {
+      "word": "(iyako30)",
+      "children": {
+        "4": {
+          "word": "(iyo)",
+          "children": {
+            "1": {
+              "word": "(iyoo)",
+              "children": {}
+            },
+            "2": {
+              "word": "(iyoka)",
+              "children": {
+                "1": {
+                  "word": "(iyowa)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(iyasare",
+          "children": {
+            "4": {
+              "word": "(iywsrh)",
+              "children": {}
+            },
+            "5": {
+              "word": "(iyoaiyo)",
+              "children": {
+                "5": {
+                  "word": "iyahon",
+                  "children": {}
+                },
+                "6": {
+                  "word": "iyahonn",
+                  "children": {
+                    "3": {
+                      "word": "iyakun",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "(iyuiyun)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "iyabe",
+          "children": {
+            "2": {
+              "word": "iyada",
+              "children": {
+                "2": {
+                  "word": "iyan",
+                  "children": {}
+                },
+                "3": {
+                  "word": "iyanez",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "iyadaa",
+              "children": {
+                "3": {
+                  "word": "iyarin",
+                  "children": {}
+                },
+                "4": {
+                  "word": "iyoten",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(iyashinbo)",
+      "children": {
+        "5": {
+          "word": "iyashi",
+          "children": {}
+        },
+        "6": {
+          "word": "(iyokanya)",
+          "children": {}
+        },
+        "7": {
+          "word": "(iyko",
+          "children": {
+            "3": {
+              "word": "iyayo",
+              "children": {
+                "2": {
+                  "word": "iyono",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "(iyotaro",
+              "children": {
+                "5": {
+                  "word": "iyagi",
+                  "children": {
+                    "1": {
+                      "word": "iyami",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "iyasu",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "iyakujo",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "iyaiku",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(iyoka-t)",
+              "children": {
+                "5": {
+                  "word": "iyamato",
+                  "children": {
+                    "4": {
+                      "word": "iyosan",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "iyakika",
+                  "children": {}
+                },
+                "7": {
+                  "word": "iyusei",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(iyomooon)",
+              "children": {
+                "5": {
+                  "word": "iyomine",
+                  "children": {}
+                },
+                "7": {
+                  "word": "iyamaid",
+                  "children": {}
+                },
+                "8": {
+                  "word": "iyasare",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "iya-chen",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "iya",
+          "children": {
+            "1": {
+              "word": "iya!",
+              "children": {
+                "1": {
+                  "word": "iya?",
+                  "children": {
+                    "1": {
+                      "word": "iyar",
+                      "children": {
+                        "1": {
+                          "word": "iyau",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "iyama",
+              "children": {
+                "1": {
+                  "word": "iyamy",
+                  "children": {
+                    "2": {
+                      "word": "iyawa",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "iyona",
+                  "children": {}
+                },
+                "3": {
+                  "word": "iyu)",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "iyocan",
+              "children": {
+                "1": {
+                  "word": "iyokan",
+                  "children": {}
+                },
+                "3": {
+                  "word": "iyose",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "iyakage",
+              "children": {
+                "3": {
+                  "word": "iyapapa",
+                  "children": {
+                    "4": {
+                      "word": "iyozane",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "iyoku)",
+                  "children": {
+                    "4": {
+                      "word": "iyomani",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "iyutani",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "iyomon",
+                  "children": {
+                    "3": {
+                      "word": "iyou8)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "iyoda",
+          "children": {
+            "3": {
+              "word": "iyodori",
+              "children": {
+                "5": {
+                  "word": "iyume",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "6": {
+      "word": "(iyagatteru",
+      "children": {
+        "4": {
+          "word": "iyasareru",
+          "children": {}
+        },
+        "6": {
+          "word": "iyashite",
+          "children": {
+            "1": {
+              "word": "iyashite)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "iyuru",
+          "children": {}
+        },
+        "8": {
+          "word": "(iyoiyo27)",
+          "children": {
+            "7": {
+              "word": "iyanhoho",
+              "children": {
+                "4": {
+                  "word": "iygoo",
+                  "children": {
+                    "3": {
+                      "word": "iyoha",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "iynyta",
+                  "children": {
+                    "3": {
+                      "word": "iyoka",
+                      "children": {
+                        "1": {
+                          "word": "iyowa",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "iyori",
+                      "children": {
+                        "2": {
+                          "word": "iyou",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "iyokawa",
+                  "children": {
+                    "2": {
+                      "word": "iyomasa",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "iyyr",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "8": {
+              "word": "iyashibi",
+              "children": {
+                "1": {
+                  "word": "iyashiki",
+                  "children": {}
+                },
+                "2": {
+                  "word": "iyashima",
+                  "children": {
+                    "3": {
+                      "word": "iyashinbo",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "iyexie",
+                  "children": {
+                    "3": {
+                      "word": "iysure",
+                      "children": {
+                        "2": {
+                          "word": "iyuri",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "iyzlime",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "iymrith",
+                      "children": {
+                        "5": {
+                          "word": "iyuha4",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "iyu",
+                  "children": {
+                    "2": {
+                      "word": "iyuka",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "iy",
+          "children": {
+            "1": {
+              "word": "iyo",
+              "children": {
+                "1": {
+                  "word": "iyp",
+                  "children": {
+                    "1": {
+                      "word": "iyy",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "word": "iyoi",
+              "children": {
+                "3": {
+                  "word": "i~ya",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "iyoko",
+              "children": {
+                "1": {
+                  "word": "iyozo",
+                  "children": {
+                    "2": {
+                      "word": "iyuko",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "iyoo2",
+                  "children": {
+                    "2": {
+                      "word": "iyoui",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "iyuki",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "iyros",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "iyo039",
+              "children": {
+                "2": {
+                  "word": "iyo231",
+                  "children": {}
+                },
+                "3": {
+                  "word": "iyohgg",
+                  "children": {
+                    "3": {
+                      "word": "iyojic",
+                      "children": {
+                        "3": {
+                          "word": "iyouqi",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "iyo-san",
+              "children": {
+                "4": {
+                  "word": "iyofika",
+                  "children": {
+                    "2": {
+                      "word": "iyojima",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "iyeonnim",
+              "children": {
+                "6": {
+                  "word": "iyumekai",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(iyotanntann)",
+      "children": {
+        "8": {
+          "word": "iykawasan",
+          "children": {
+            "6": {
+              "word": "iyokanxxx",
+              "children": {
+                "5": {
+                  "word": "iyona147",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "iyagatteru",
+          "children": {
+            "6": {
+              "word": "iyashitai",
+              "children": {}
+            },
+            "8": {
+              "word": "iynnilla",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "iyashi-bu",
+          "children": {
+            "3": {
+              "word": "iyashikei",
+              "children": {}
+            },
+            "7": {
+              "word": "iyewon135",
+              "children": {
+                "6": {
+                  "word": "iyokokko",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "i:yukke",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "iyanayokan",
+      "children": {
+        "6": {
+          "word": "iyasaretai.",
+          "children": {
+            "9": {
+              "word": "iyunnaiyun",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "iyasarenaide",
+          "children": {
+            "9": {
+              "word": "iyokamioto",
+              "children": {}
+            },
+            "10": {
+              "word": "iyukickss",
+              "children": {}
+            }
+          }
+        },
+        "8": {
+          "word": "iyokan-zeri",
+          "children": {
+            "8": {
+              "word": "iyttriumi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(iyo31192031)",
+      "children": {
+        "9": {
+          "word": "iyotsuki11",
+          "children": {}
+        },
+        "11": {
+          "word": "iyayo-iyayo",
+          "children": {
+            "10": {
+              "word": "iyelendecker",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "10": {
+      "word": "iyaricaptions",
+      "children": {
+        "8": {
+          "word": "iyomichi143",
+          "children": {}
+        },
+        "9": {
+          "word": "iyokanpopopm",
+          "children": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2785 @@
+{
+  "word": "\"ourei",
+  "children": {
+    "1": {
+      "word": "ourei",
+      "children": {}
+    },
+    "2": {
+      "word": "(ourai",
+      "children": {
+        "1": {
+          "word": "ourai",
+          "children": {}
+        },
+        "2": {
+          "word": "ouri",
+          "children": {}
+        },
+        "3": {
+          "word": "oukei",
+          "children": {
+            "1": {
+              "word": "ousei",
+              "children": {
+                "1": {
+                  "word": "outei",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "ouren",
+              "children": {
+                "1": {
+                  "word": "ourey",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(ouchi",
+      "children": {
+        "1": {
+          "word": "ouchi",
+          "children": {}
+        },
+        "2": {
+          "word": "(ougi",
+          "children": {
+            "1": {
+              "word": "(oui",
+              "children": {}
+            },
+            "2": {
+              "word": "ouhi",
+              "children": {}
+            },
+            "3": {
+              "word": "oushi",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(ouke",
+          "children": {
+            "1": {
+              "word": "(oume",
+              "children": {}
+            },
+            "2": {
+              "word": "(our",
+              "children": {
+                "1": {
+                  "word": "(ouro",
+                  "children": {}
+                },
+                "2": {
+                  "word": "(outer",
+                  "children": {}
+                },
+                "3": {
+                  "word": "ouki",
+                  "children": {}
+                }
+              }
+            },
+            "3": {
+              "word": "oubi",
+              "children": {
+                "1": {
+                  "word": "oufi",
+                  "children": {
+                    "1": {
+                      "word": "ougi",
+                      "children": {
+                        "1": {
+                          "word": "oui",
+                          "children": {
+                            "1": {
+                              "word": "ouji",
+                              "children": {
+                                "1": {
+                                  "word": "oumi",
+                                  "children": {
+                                    "1": {
+                                      "word": "ouni",
+                                      "children": {
+                                        "1": {
+                                          "word": "ouzi",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "~ouji",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "ougai",
+              "children": {
+                "1": {
+                  "word": "oumai",
+                  "children": {}
+                },
+                "2": {
+                  "word": "ousui",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "ou'er",
+          "children": {
+            "1": {
+              "word": "ouer",
+              "children": {
+                "1": {
+                  "word": "outer",
+                  "children": {}
+                }
+              }
+            },
+            "2": {
+              "word": "ouef",
+              "children": {
+                "1": {
+                  "word": "ouen",
+                  "children": {
+                    "1": {
+                      "word": "oueo",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "ouge",
+                  "children": {
+                    "1": {
+                      "word": "ougen",
+                      "children": {
+                        "2": {
+                          "word": "ouke",
+                          "children": {
+                            "1": {
+                              "word": "oume",
+                              "children": {
+                                "1": {
+                                  "word": "oune",
+                                  "children": {
+                                    "1": {
+                                      "word": "ouse",
+                                      "children": {
+                                        "1": {
+                                          "word": "oute",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "ouken",
+                      "children": {
+                        "1": {
+                          "word": "ounen",
+                          "children": {
+                            "1": {
+                              "word": "ousen",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "our",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "oura",
+              "children": {
+                "1": {
+                  "word": "ourah",
+                  "children": {
+                    "1": {
+                      "word": "ouran",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "ourka",
+                      "children": {
+                        "2": {
+                          "word": "ourn",
+                          "children": {
+                            "1": {
+                              "word": "ouro",
+                              "children": {
+                                "1": {
+                                  "word": "ours",
+                                  "children": {
+                                    "1": {
+                                      "word": "ouru",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "ourie",
+                  "children": {
+                    "1": {
+                      "word": "ourin",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "oursk",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "ououren",
+          "children": {}
+        }
+      }
+    },
+    "4": {
+      "word": "(ou)",
+      "children": {
+        "1": {
+          "word": "(ouf)",
+          "children": {
+            "1": {
+              "word": "(ouo)",
+              "children": {}
+            },
+            "2": {
+              "word": "(out",
+              "children": {
+                "2": {
+                  "word": "ou)",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "word": "(oufu)",
+          "children": {
+            "1": {
+              "word": "(ouju)",
+              "children": {}
+            },
+            "2": {
+              "word": "(ouji)",
+              "children": {
+                "2": {
+                  "word": "(ouka)",
+                  "children": {
+                    "1": {
+                      "word": "(outa)",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "(ouun)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "word": "(ouga",
+              "children": {
+                "1": {
+                  "word": "(ouka",
+                  "children": {
+                    "1": {
+                      "word": "(ouma",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "(outo",
+                  "children": {}
+                },
+                "3": {
+                  "word": "ou9)",
+                  "children": {
+                    "1": {
+                      "word": "ouo)",
+                      "children": {
+                        "1": {
+                          "word": "out)",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "ouf",
+                      "children": {
+                        "1": {
+                          "word": "ouu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "word": "-out",
+              "children": {
+                "1": {
+                  "word": "out",
+                  "children": {}
+                },
+                "2": {
+                  "word": "ou",
+                  "children": {
+                    "1": {
+                      "word": "oua",
+                      "children": {
+                        "1": {
+                          "word": "ouc",
+                          "children": {
+                            "1": {
+                              "word": "oud",
+                              "children": {
+                                "1": {
+                                  "word": "ouk",
+                                  "children": {
+                                    "1": {
+                                      "word": "oum",
+                                      "children": {
+                                        "1": {
+                                          "word": "oun",
+                                          "children": {
+                                            "1": {
+                                              "word": "ouo",
+                                              "children": {
+                                                "1": {
+                                                  "word": "ous",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "oux",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "ouz",
+                                                          "children": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "word": "(ou35i)",
+          "children": {
+            "2": {
+              "word": "(ouchi)",
+              "children": {}
+            },
+            "3": {
+              "word": "(ouoex)",
+              "children": {
+                "2": {
+                  "word": "(outeq)",
+                  "children": {}
+                },
+                "4": {
+                  "word": "ouji)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "(oudan",
+              "children": {
+                "1": {
+                  "word": "(oudon",
+                  "children": {}
+                },
+                "2": {
+                  "word": "(ougon",
+                  "children": {}
+                },
+                "3": {
+                  "word": "(oujou",
+                  "children": {
+                    "4": {
+                      "word": "ouka)",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ou3g",
+                  "children": {
+                    "3": {
+                      "word": "oujo)",
+                      "children": {
+                        "2": {
+                          "word": "ouo2)",
+                          "children": {
+                            "2": {
+                              "word": "out!)",
+                              "children": {
+                                "1": {
+                                  "word": "out1)",
+                                  "children": {
+                                    "1": {
+                                      "word": "outs)",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "ouba",
+              "children": {
+                "1": {
+                  "word": "oubu",
+                  "children": {
+                    "2": {
+                      "word": "ouda",
+                      "children": {
+                        "1": {
+                          "word": "ouga",
+                          "children": {
+                            "1": {
+                              "word": "ouja",
+                              "children": {
+                                "1": {
+                                  "word": "ouka",
+                                  "children": {
+                                    "1": {
+                                      "word": "ouma",
+                                      "children": {
+                                        "1": {
+                                          "word": "ouna",
+                                          "children": {
+                                            "1": {
+                                              "word": "ousa",
+                                              "children": {
+                                                "1": {
+                                                  "word": "outa",
+                                                  "children": {
+                                                    "1": {
+                                                      "word": "ouya",
+                                                      "children": {
+                                                        "1": {
+                                                          "word": "ouza",
+                                                          "children": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "oudo",
+                  "children": {
+                    "1": {
+                      "word": "oujo",
+                      "children": {
+                        "1": {
+                          "word": "ouko",
+                          "children": {
+                            "1": {
+                              "word": "oumo",
+                              "children": {
+                                "1": {
+                                  "word": "ouno",
+                                  "children": {
+                                    "1": {
+                                      "word": "outo",
+                                      "children": {
+                                        "1": {
+                                          "word": "ouzo",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "oufu",
+                      "children": {
+                        "1": {
+                          "word": "ouju",
+                          "children": {
+                            "1": {
+                              "word": "oulu",
+                              "children": {
+                                "1": {
+                                  "word": "oumu",
+                                  "children": {
+                                    "1": {
+                                      "word": "ouou",
+                                      "children": {
+                                        "1": {
+                                          "word": "ousu",
+                                          "children": {
+                                            "1": {
+                                              "word": "ouwu",
+                                              "children": {
+                                                "1": {
+                                                  "word": "ouyu",
+                                                  "children": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "ouo9",
+                          "children": {
+                            "1": {
+                              "word": "ouob",
+                              "children": {
+                                "1": {
+                                  "word": "ouon",
+                                  "children": {
+                                    "1": {
+                                      "word": "ouov",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "out!",
+                              "children": {
+                                "1": {
+                                  "word": "out?",
+                                  "children": {
+                                    "1": {
+                                      "word": "outb",
+                                      "children": {
+                                        "1": {
+                                          "word": "outs",
+                                          "children": {
+                                            "1": {
+                                              "word": "out~",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(oursin)",
+          "children": {
+            "4": {
+              "word": "ouchi)",
+              "children": {
+                "2": {
+                  "word": "ougai)",
+                  "children": {}
+                },
+                "3": {
+                  "word": "outin",
+                  "children": {
+                    "1": {
+                      "word": "ouyin",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "5": {
+              "word": "ou2no",
+              "children": {
+                "3": {
+                  "word": "oudia",
+                  "children": {
+                    "1": {
+                      "word": "oujia",
+                      "children": {
+                        "1": {
+                          "word": "ouoia",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "2": {
+                      "word": "oudon",
+                      "children": {
+                        "3": {
+                          "word": "ouija",
+                          "children": {
+                            "3": {
+                              "word": "ouji:",
+                              "children": {
+                                "2": {
+                                  "word": "outie",
+                                  "children": {
+                                    "1": {
+                                      "word": "outis",
+                                      "children": {
+                                        "2": {
+                                          "word": "ouxie",
+                                          "children": {}
+                                        }
+                                      }
+                                    },
+                                    "2": {
+                                      "word": "ouvil",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "ouesu",
+                      "children": {
+                        "2": {
+                          "word": "oups!",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "ougon",
+                          "children": {
+                            "1": {
+                              "word": "ouhon",
+                              "children": {
+                                "1": {
+                                  "word": "outon",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "oukan",
+                              "children": {
+                                "1": {
+                                  "word": "oukun",
+                                  "children": {
+                                    "2": {
+                                      "word": "oulan",
+                                      "children": {
+                                        "1": {
+                                          "word": "outan",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "ou331",
+              "children": {
+                "2": {
+                  "word": "ou3lt",
+                  "children": {}
+                },
+                "3": {
+                  "word": "ouame",
+                  "children": {
+                    "2": {
+                      "word": "oumae",
+                      "children": {
+                        "2": {
+                          "word": "ounce",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "oubou",
+                      "children": {
+                        "1": {
+                          "word": "oudou",
+                          "children": {
+                            "1": {
+                              "word": "oujou",
+                              "children": {
+                                "1": {
+                                  "word": "outou",
+                                  "children": {
+                                    "1": {
+                                      "word": "ouzou",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "2": {
+                          "word": "ouchu",
+                          "children": {
+                            "2": {
+                              "word": "oukyu",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "oucha",
+                          "children": {
+                            "2": {
+                              "word": "oumua",
+                              "children": {
+                                "2": {
+                                  "word": "outta",
+                                  "children": {
+                                    "1": {
+                                      "word": "ouuta",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "ougyo",
+                              "children": {
+                                "1": {
+                                  "word": "ouzyo",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "oumuo",
+                                  "children": {
+                                    "2": {
+                                      "word": "outro",
+                                      "children": {}
+                                    }
+                                  }
+                                },
+                                "3": {
+                                  "word": "ounwm",
+                                  "children": {
+                                    "3": {
+                                      "word": "ouo77",
+                                      "children": {
+                                        "3": {
+                                          "word": "out!!",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "oualid",
+          "children": {
+            "3": {
+              "word": "ouarmy",
+              "children": {
+                "3": {
+                  "word": "ougami",
+                  "children": {
+                    "1": {
+                      "word": "oukami",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "ounari",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ousaki",
+                  "children": {
+                    "1": {
+                      "word": "outaki",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "oushio",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "outfit",
+                      "children": {
+                        "2": {
+                          "word": "outlet",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ourlin)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "oubori",
+              "children": {
+                "1": {
+                  "word": "oumori",
+                  "children": {
+                    "1": {
+                      "word": "outori",
+                      "children": {}
+                    }
+                  }
+                },
+                "3": {
+                  "word": "ousuki",
+                  "children": {
+                    "1": {
+                      "word": "ousumi",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "ouunji",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "outers",
+                      "children": {
+                        "1": {
+                          "word": "outerv",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "oudkee",
+                  "children": {
+                    "3": {
+                      "word": "oummer",
+                      "children": {
+                        "2": {
+                          "word": "ousder",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "outset",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "ourhou",
+                      "children": {
+                        "1": {
+                          "word": "ouryou",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "ouriku",
+                          "children": {
+                            "2": {
+                              "word": "ouryuu",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "ourudo",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "outrun",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "ousemei",
+          "children": {
+            "2": {
+              "word": "ousenzi",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(ou955)",
+      "children": {
+        "3": {
+          "word": "(oucha)",
+          "children": {
+            "3": {
+              "word": "(oumlr)",
+              "children": {
+                "3": {
+                  "word": "(ouoq2)",
+                  "children": {
+                    "3": {
+                      "word": "(outis)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "word": "(ouhime)",
+          "children": {
+            "2": {
+              "word": "(ouname)",
+              "children": {}
+            },
+            "4": {
+              "word": "(ousama",
+              "children": {
+                "5": {
+                  "word": "ouhou)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(oumura",
+              "children": {
+                "4": {
+                  "word": "(outlaw",
+                  "children": {}
+                },
+                "5": {
+                  "word": "oubou)",
+                  "children": {
+                    "3": {
+                      "word": "oudan)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(outcore)",
+          "children": {
+            "3": {
+              "word": "(outrage)",
+              "children": {}
+            },
+            "5": {
+              "word": "outage",
+              "children": {
+                "2": {
+                  "word": "outaro",
+                  "children": {}
+                },
+                "3": {
+                  "word": "outbox",
+                  "children": {
+                    "3": {
+                      "word": "outoma",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "outfit)",
+                  "children": {
+                    "5": {
+                      "word": "ouzora",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "oudonn",
+              "children": {
+                "2": {
+                  "word": "ouloon",
+                  "children": {}
+                },
+                "3": {
+                  "word": "oukoku",
+                  "children": {
+                    "1": {
+                      "word": "ouzoku",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "oumohu",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "oumoto",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "oulton",
+                      "children": {
+                        "3": {
+                          "word": "outing",
+                          "children": {
+                            "3": {
+                              "word": "outman",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "ououno",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ougase",
+                  "children": {
+                    "3": {
+                      "word": "ouguro",
+                      "children": {
+                        "3": {
+                          "word": "ouhara",
+                          "children": {
+                            "4": {
+                              "word": "ousuke",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "oukaoh",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "ouhira",
+                      "children": {
+                        "2": {
+                          "word": "oujiro",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "oujuo1",
+                          "children": {
+                            "2": {
+                              "word": "ououou",
+                              "children": {}
+                            },
+                            "3": {
+                              "word": "ououto",
+                              "children": {
+                                "4": {
+                                  "word": "oushou",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "4": {
+                              "word": "outlaw",
+                              "children": {
+                                "2": {
+                                  "word": "outway",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ouetsu",
+              "children": {
+                "3": {
+                  "word": "ougazu",
+                  "children": {
+                    "2": {
+                      "word": "ouhaku",
+                      "children": {
+                        "2": {
+                          "word": "oukabu",
+                          "children": {
+                            "1": {
+                              "word": "oukayu",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "word": "oukyuu",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "ousssx",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "oughta",
+                  "children": {
+                    "2": {
+                      "word": "ougiya",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "ougino",
+                      "children": {
+                        "2": {
+                          "word": "ouhina",
+                          "children": {
+                            "2": {
+                              "word": "ouhito",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "ouhana",
+                          "children": {
+                            "3": {
+                              "word": "oujima",
+                              "children": {
+                                "2": {
+                                  "word": "oumiwa",
+                                  "children": {
+                                    "1": {
+                                      "word": "oumiya",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "ouhama",
+                          "children": {
+                            "1": {
+                              "word": "oukama",
+                              "children": {
+                                "1": {
+                                  "word": "ousama",
+                                  "children": {
+                                    "1": {
+                                      "word": "ouyama",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "word": "oukawa",
+                              "children": {
+                                "1": {
+                                  "word": "ousawa",
+                                  "children": {}
+                                },
+                                "2": {
+                                  "word": "oumaga",
+                                  "children": {
+                                    "2": {
+                                      "word": "ousaka",
+                                      "children": {
+                                        "1": {
+                                          "word": "ouzaka",
+                                          "children": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "ouzuka",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "word": "oujano",
+                      "children": {
+                        "1": {
+                          "word": "oumano",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "oukamo",
+                          "children": {
+                            "3": {
+                              "word": "ousang",
+                              "children": {
+                                "1": {
+                                  "word": "ouyang",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "ouvido",
+                          "children": {
+                            "2": {
+                              "word": "ouvins",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "oukkmn",
+                          "children": {
+                            "4": {
+                              "word": "oung69",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "o-u",
+          "children": {
+            "1": {
+              "word": "o.u",
+              "children": {}
+            },
+            "5": {
+              "word": "ougushi",
+              "children": {
+                "4": {
+                  "word": "ouru109",
+                  "children": {
+                    "3": {
+                      "word": "ouruman",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "outsuki",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oujirou",
+                  "children": {
+                    "2": {
+                      "word": "outarou",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "ouritsu",
+                      "children": {}
+                    },
+                    "4": {
+                      "word": "ouryoku",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "ouzouin",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "oubaiin",
+              "children": {
+                "3": {
+                  "word": "ouboken",
+                  "children": {}
+                },
+                "4": {
+                  "word": "ouhachi",
+                  "children": {
+                    "1": {
+                      "word": "ouhashi",
+                      "children": {}
+                    },
+                    "2": {
+                      "word": "ouyashi",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "oushima",
+                      "children": {
+                        "1": {
+                          "word": "oushiza",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "oushiro",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "oustin'",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "outfits",
+                          "children": {
+                            "3": {
+                              "word": "outline",
+                              "children": {
+                                "2": {
+                                  "word": "outside",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "ouelmes",
+                  "children": {
+                    "4": {
+                      "word": "ounenne",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "oumichi",
+                      "children": {
+                        "2": {
+                          "word": "oumiomi",
+                          "children": {
+                            "3": {
+                              "word": "ounishi",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "oumiewe",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "ourobot",
+                          "children": {
+                            "4": {
+                              "word": "oursong",
+                              "children": {}
+                            },
+                            "5": {
+                              "word": "outcore",
+                              "children": {
+                                "3": {
+                                  "word": "outrage",
+                                  "children": {}
+                                },
+                                "4": {
+                                  "word": "outenta",
+                                  "children": {
+                                    "4": {
+                                      "word": "outseal",
+                                      "children": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "ou-yoroi",
+          "children": {
+            "5": {
+              "word": "ougariki",
+              "children": {
+                "6": {
+                  "word": "ouyouhen",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "oururi33",
+              "children": {
+                "4": {
+                  "word": "outering",
+                  "children": {}
+                },
+                "5": {
+                  "word": "outbreak",
+                  "children": {
+                    "5": {
+                      "word": "outrider",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "ourakutei",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(ou-sama",
+      "children": {
+        "1": {
+          "word": "ou-sama",
+          "children": {}
+        },
+        "2": {
+          "word": "(ousama)",
+          "children": {
+            "3": {
+              "word": "oussama",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "ousama)",
+          "children": {}
+        },
+        "4": {
+          "word": "(ouhkami)",
+          "children": {
+            "6": {
+              "word": "(ouiocha",
+              "children": {}
+            },
+            "7": {
+              "word": "outsuba",
+              "children": {
+                "1": {
+                  "word": "outsuka",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "(oughta)",
+          "children": {
+            "4": {
+              "word": "(outtake)",
+              "children": {
+                "4": {
+                  "word": "(ouzoku)",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "(ourlast)",
+              "children": {
+                "6": {
+                  "word": "(outdoor",
+                  "children": {
+                    "6": {
+                      "word": "ouensan",
+                      "children": {
+                        "3": {
+                          "word": "oukadan",
+                          "children": {}
+                        },
+                        "4": {
+                          "word": "oukabae",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "ougasaki",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "ou-popo",
+              "children": {
+                "4": {
+                  "word": "ouosoul",
+                  "children": {
+                    "4": {
+                      "word": "outsubo",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oujamon",
+                  "children": {
+                    "5": {
+                      "word": "outback",
+                      "children": {
+                        "3": {
+                          "word": "outcast",
+                          "children": {
+                            "1": {
+                              "word": "outkast",
+                              "children": {
+                                "1": {
+                                  "word": "outlast",
+                                  "children": {}
+                                }
+                              }
+                            },
+                            "3": {
+                              "word": "outland",
+                              "children": {
+                                "2": {
+                                  "word": "outlaws",
+                                  "children": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "word": "ouxiang",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ouneagua",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(ougonsui",
+          "children": {
+            "4": {
+              "word": "oubonou",
+              "children": {}
+            },
+            "5": {
+              "word": "(oushitsu",
+              "children": {
+                "6": {
+                  "word": "(outgoing",
+                  "children": {
+                    "5": {
+                      "word": "ougin03",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "oudondk",
+                  "children": {
+                    "4": {
+                      "word": "oukoku)",
+                      "children": {
+                        "1": {
+                          "word": "oukoku-",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "outousai~",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "word": "(outtune)",
+              "children": {
+                "4": {
+                  "word": "outause",
+                  "children": {
+                    "4": {
+                      "word": "outing)",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oukyuu)",
+                  "children": {
+                    "5": {
+                      "word": "outsuchi",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "outotmem",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "outo555",
+                  "children": {
+                    "4": {
+                      "word": "outpost",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "ouuxuuo",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "ouendan",
+                  "children": {
+                    "5": {
+                      "word": "ougibro",
+                      "children": {
+                        "4": {
+                          "word": "ouowoyo",
+                          "children": {}
+                        },
+                        "5": {
+                          "word": "oumayuu",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ouaau21",
+              "children": {
+                "4": {
+                  "word": "ouka-63",
+                  "children": {
+                    "2": {
+                      "word": "ouka753",
+                      "children": {}
+                    },
+                    "5": {
+                      "word": "ourjaune",
+                      "children": {
+                        "5": {
+                          "word": "outburn",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oumi560",
+                  "children": {
+                    "5": {
+                      "word": "outdoor",
+                      "children": {
+                        "2": {
+                          "word": "outlook",
+                          "children": {}
+                        },
+                        "3": {
+                          "word": "outwork",
+                          "children": {}
+                        }
+                      }
+                    },
+                    "6": {
+                      "word": "ouryumon",
+                      "children": {
+                        "6": {
+                          "word": "outariga",
+                          "children": {
+                            "5": {
+                              "word": "outlawed",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "ours0505",
+                  "children": {
+                    "5": {
+                      "word": "outsider",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "oushinan",
+                      "children": {
+                        "6": {
+                          "word": "outbeach",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "ouchi040",
+          "children": {
+            "4": {
+              "word": "oushitsu",
+              "children": {}
+            },
+            "5": {
+              "word": "ougiikun",
+              "children": {
+                "5": {
+                  "word": "outaishi",
+                  "children": {
+                    "4": {
+                      "word": "outlined",
+                      "children": {
+                        "1": {
+                          "word": "outlines",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "word": "outhouse",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "oudonium",
+              "children": {
+                "4": {
+                  "word": "ougonten",
+                  "children": {
+                    "4": {
+                      "word": "outenkun",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oukkurun",
+                  "children": {
+                    "5": {
+                      "word": "ounoruto",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "oumadoki",
+                      "children": {
+                        "5": {
+                          "word": "ouran396",
+                          "children": {
+                            "4": {
+                              "word": "ourindou",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "7": {
+                      "word": "ouroridae",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "ouiblert",
+                  "children": {
+                    "6": {
+                      "word": "oujiouji",
+                      "children": {
+                        "5": {
+                          "word": "outworld",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "ouroboreia",
+          "children": {
+            "6": {
+              "word": "ouryuuken",
+              "children": {}
+            },
+            "7": {
+              "word": "outrider)",
+              "children": {
+                "4": {
+                  "word": "outrunner",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "outenninn",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "(ou1jian2)",
+      "children": {
+        "4": {
+          "word": "(ouendan)",
+          "children": {
+            "3": {
+              "word": "(ouxiyan)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(outsider)",
+          "children": {
+            "1": {
+              "word": "(outsidey)",
+              "children": {}
+            },
+            "6": {
+              "word": "ouendan)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(oufupuu)",
+          "children": {
+            "4": {
+              "word": "(ouguu29)",
+              "children": {}
+            },
+            "5": {
+              "word": "(out1948)",
+              "children": {
+                "4": {
+                  "word": "(outou01)",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "(oukadayo",
+              "children": {
+                "7": {
+                  "word": "(ourboy83)",
+                  "children": {
+                    "8": {
+                      "word": "ouji-kun",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ouendan!",
+              "children": {
+                "4": {
+                  "word": "ounijang",
+                  "children": {
+                    "4": {
+                      "word": "ounyansu",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oujisama",
+                  "children": {
+                    "6": {
+                      "word": "outlands",
+                      "children": {}
+                    }
+                  }
+                },
+                "6": {
+                  "word": "ougiam01",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "oujitachi",
+              "children": {
+                "6": {
+                  "word": "oumaigang",
+                  "children": {
+                    "6": {
+                      "word": "ouriannya",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "ouchface",
+          "children": {
+            "4": {
+              "word": "oumifate1",
+              "children": {}
+            },
+            "5": {
+              "word": "ougigata",
+              "children": {
+                "3": {
+                  "word": "oumihara",
+                  "children": {
+                    "4": {
+                      "word": "outogawa",
+                      "children": {}
+                    }
+                  }
+                },
+                "4": {
+                  "word": "ougimachi",
+                  "children": {
+                    "6": {
+                      "word": "ouyaaaaa",
+                      "children": {}
+                    }
+                  }
+                },
+                "5": {
+                  "word": "oushimaru",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ouen-dan",
+              "children": {
+                "5": {
+                  "word": "outmaway",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ourhandsh",
+                  "children": {
+                    "4": {
+                      "word": "outlander",
+                      "children": {}
+                    }
+                  }
+                },
+                "7": {
+                  "word": "ougimaneki",
+                  "children": {
+                    "5": {
+                      "word": "oukiyayoi",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "ouramatsu",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "outfitter",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "ourobunny",
+              "children": {
+                "7": {
+                  "word": "outdoors)",
+                  "children": {
+                    "5": {
+                      "word": "outsiders",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "outpizza8",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "ouichirou",
+          "children": {
+            "5": {
+              "word": "oukasuru",
+              "children": {
+                "6": {
+                  "word": "ouroboros",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "ouroukaku",
+              "children": {
+                "7": {
+                  "word": "outdoors",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "oukokumin",
+              "children": {
+                "4": {
+                  "word": "outofmind",
+                  "children": {}
+                },
+                "5": {
+                  "word": "oukuyuu:",
+                  "children": {}
+                },
+                "7": {
+                  "word": "outerrace",
+                  "children": {
+                    "6": {
+                      "word": "outfoxies",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "outrider's",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "oukoku-hen",
+          "children": {
+            "8": {
+              "word": "ouncemilia",
+              "children": {
+                "6": {
+                  "word": "outremarine",
+                  "children": {}
+                },
+                "8": {
+                  "word": "outrageous",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "8": {
+      "word": "(ouahloup)",
+      "children": {
+        "5": {
+          "word": "(oukasoft)",
+          "children": {
+            "4": {
+              "word": "(oukaxbom)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(oubuayaru)",
+          "children": {
+            "5": {
+              "word": "(oukakaka)",
+              "children": {}
+            },
+            "6": {
+              "word": "(ouha2256)",
+              "children": {
+                "5": {
+                  "word": "(ouka-san)",
+                  "children": {
+                    "4": {
+                      "word": "(ouka0178)",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "word": "(ouroboros)",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "(ouji-sama",
+          "children": {
+            "6": {
+              "word": "oumitsunu",
+              "children": {}
+            },
+            "7": {
+              "word": "ourinoyume",
+              "children": {}
+            },
+            "8": {
+              "word": "(oumagadoki",
+              "children": {
+                "7": {
+                  "word": "ouoaooono",
+                  "children": {}
+                },
+                "8": {
+                  "word": "(outtypeex)",
+                  "children": {}
+                },
+                "9": {
+                  "word": "(outerplane)",
+                  "children": {
+                    "8": {
+                      "word": "outhaleart",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "(outerheaven",
+          "children": {
+            "6": {
+              "word": "outchearts",
+              "children": {}
+            },
+            "8": {
+              "word": "oubachiago",
+              "children": {
+                "6": {
+                  "word": "ouchihitme",
+                  "children": {}
+                },
+                "7": {
+                  "word": "outlawlaw",
+                  "children": {}
+                }
+              }
+            },
+            "9": {
+              "word": "oudontaou",
+              "children": {
+                "5": {
+                  "word": "oujo-sama",
+                  "children": {}
+                },
+                "6": {
+                  "word": "ouhi-sama",
+                  "children": {
+                    "1": {
+                      "word": "ouji-sama",
+                      "children": {}
+                    },
+                    "7": {
+                      "word": "oumagatsu",
+                      "children": {
+                        "7": {
+                          "word": "ouranosmon",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "word": "ouohanakii",
+                  "children": {
+                    "7": {
+                      "word": "ourobockle",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "ouka4angel",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "oukaopnnz",
+              "children": {
+                "7": {
+                  "word": "oumagadoki",
+                  "children": {
+                    "1": {
+                      "word": "oumagatoki",
+                      "children": {}
+                    }
+                  }
+                },
+                "8": {
+                  "word": "ounozaihou",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "ouccaration",
+          "children": {
+            "7": {
+              "word": "oudourakudo",
+              "children": {
+                "8": {
+                  "word": "ourisansan",
+                  "children": {}
+                }
+              }
+            },
+            "8": {
+              "word": "oujo-tachi",
+              "children": {
+                "8": {
+                  "word": "outerplane",
+                  "children": {
+                    "6": {
+                      "word": "outlanders",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "oueeeeeeee",
+              "children": {
+                "7": {
+                  "word": "out-side09",
+                  "children": {
+                    "8": {
+                      "word": "outerpocket",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(oud580500)",
+      "children": {
+        "6": {
+          "word": "(ouhann990)",
+          "children": {}
+        },
+        "8": {
+          "word": "(oudourakudo",
+          "children": {
+            "9": {
+              "word": "ouji-sama)",
+              "children": {}
+            },
+            "10": {
+              "word": "ougi115115",
+              "children": {}
+            }
+          }
+        },
+        "9": {
+          "word": "(outstanding",
+          "children": {
+            "7": {
+              "word": "(outsunaruse)",
+              "children": {}
+            },
+            "8": {
+              "word": "ouosaymomo",
+              "children": {}
+            },
+            "9": {
+              "word": "oukafafafa",
+              "children": {
+                "4": {
+                  "word": "oukasakura",
+                  "children": {}
+                },
+                "5": {
+                  "word": "oumigahara",
+                  "children": {
+                    "5": {
+                      "word": "ouzisamafe",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "10": {
+              "word": "oululululu",
+              "children": {
+                "8": {
+                  "word": "oumonsasuo",
+                  "children": {
+                    "6": {
+                      "word": "ouoonoouo03",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "word": "oubaisameko",
+          "children": {
+            "7": {
+              "word": "oumaga-doki",
+              "children": {}
+            },
+            "8": {
+              "word": "ougi-modoki",
+              "children": {
+                "8": {
+                  "word": "outinokaden",
+                  "children": {
+                    "8": {
+                      "word": "ouyanggouzi",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            },
+            "9": {
+              "word": "oujuchegang",
+              "children": {
+                "7": {
+                  "word": "outstanding",
+                  "children": {}
+                },
+                "9": {
+                  "word": "outlandidol",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "oufuoujifuji",
+          "children": {
+            "9": {
+              "word": "oujikuroneko",
+              "children": {
+                "8": {
+                  "word": "ousamasuteki",
+                  "children": {
+                    "5": {
+                      "word": "ousesakuraki",
+                      "children": {}
+                    }
+                  }
+                },
+                "9": {
+                  "word": "oukasirayami",
+                  "children": {}
+                },
+                "10": {
+                  "word": "outsideasasi",
+                  "children": {}
+                }
+              }
+            },
+            "10": {
+              "word": "ouppakarndee",
+              "children": {
+                "9": {
+                  "word": "ouroborotter",
+                  "children": {
+                    "8": {
+                      "word": "outstretched",
+                      "children": {}
+                    }
+                  }
+                },
+                "10": {
+                  "word": "ourishimasu~",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "outragedslime",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "(oukakumaku)",
+      "children": {
+        "7": {
+          "word": "(ousamandnd)",
+          "children": {}
+        },
+        "8": {
+          "word": "oukikattaga",
+          "children": {}
+        },
+        "9": {
+          "word": "ouououououou",
+          "children": {
+            "6": {
+              "word": "ousanshouou",
+              "children": {}
+            },
+            "9": {
+              "word": "ouseluna0117",
+              "children": {}
+            },
+            "10": {
+              "word": "ousaka-chiyo",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "ougipanda07",
+          "children": {
+            "9": {
+              "word": "outpatient15",
+              "children": {}
+            },
+            "10": {
+              "word": "outeqsfhknvx",
+              "children": {
+                "9": {
+                  "word": "outoftime131",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "word": "ouou10267778",
+          "children": {
+            "10": {
+              "word": "out-of-frame",
+              "children": {
+                "8": {
+                  "word": "outofthehold",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "word": "(ougai0613782)",
+      "children": {
+        "9": {
+          "word": "(oumanopanta)",
+          "children": {
+            "9": {
+              "word": "(ourhappiness2)",
+              "children": {}
+            }
+          }
+        },
+        "10": {
+          "word": "(ouo44424295)",
+          "children": {
+            "10": {
+              "word": "(outtttkill07)",
+              "children": {}
+            }
+          }
+        },
+        "11": {
+          "word": "ousawakanata",
+          "children": {}
+        },
+        "12": {
+          "word": "outwardgalaxy",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "(oudonmachine3)",
+      "children": {
+        "6": {
+          "word": "(oudonoishiize)",
+          "children": {}
+        },
+        "12": {
+          "word": "ouoxz0t881876",
+          "children": {
+            "11": {
+              "word": "ouroboros-chan",
+              "children": {}
+            }
+          }
+        },
+        "13": {
+          "word": "outerheaven0846",
+          "children": {}
+        }
+      }
+    },
+    "13": {
+      "word": "(outlawquadrant)",
+      "children": {
+        "11": {
+          "word": "outstandingartz",
+          "children": {}
+        },
+        "13": {
+          "word": "outsidershadows",
+          "children": {}
+        },
+        "14": {
+          "word": "ouragan90416059",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "(ouaughikepdvrsf)",
+      "children": {
+        "11": {
+          "word": "(outofcheeserror)",
+          "children": {}
+        },
+        "13": {
+          "word": "(ouranoss2kanata)",
+          "children": {
+            "13": {
+              "word": "(oushinan-114514)",
+              "children": {}
+            }
+          }
+        },
+        "15": {
+          "word": "oulzduwugtfsgbh",
+          "children": {
+            "14": {
+              "word": "ouzhouxiaobailian",
+              "children": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

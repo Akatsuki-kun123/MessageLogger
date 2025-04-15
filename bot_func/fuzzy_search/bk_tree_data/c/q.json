@@ -1,0 +1,90 @@
+{
+  "word": "(cq",
+  "children": {
+    "1": {
+      "word": "cq",
+      "children": {}
+    },
+    "2": {
+      "word": "cq7",
+      "children": {
+        "1": {
+          "word": "cqb",
+          "children": {
+            "1": {
+              "word": "cqc",
+              "children": {
+                "1": {
+                  "word": "cqv",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "c.q.",
+      "children": {
+        "3": {
+          "word": "cq33",
+          "children": {
+            "2": {
+              "word": "cqb)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "c~qiqi",
+      "children": {}
+    },
+    "6": {
+      "word": "c.quart",
+      "children": {
+        "5": {
+          "word": "cqworks",
+          "children": {}
+        },
+        "6": {
+          "word": "cqffins",
+          "children": {}
+        }
+      }
+    },
+    "7": {
+      "word": "c-quatre",
+      "children": {
+        "4": {
+          "word": "cqtlatte",
+          "children": {}
+        },
+        "6": {
+          "word": "cqingwei",
+          "children": {
+            "6": {
+              "word": "cqqz0707",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "cqxmocha",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "cqqqqdaze",
+      "children": {
+        "6": {
+          "word": "cquntnire",
+          "children": {}
+        }
+      }
+    }
+  }
+}

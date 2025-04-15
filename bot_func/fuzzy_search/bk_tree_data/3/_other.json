@@ -1,0 +1,71 @@
+{
+  "word": "#3",
+  "children": {
+    "1": {
+      "word": "(3",
+      "children": {
+        "1": {
+          "word": "3",
+          "children": {
+            "1": {
+              "word": ":3",
+              "children": {
+                "1": {
+                  "word": ";3",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "'3'",
+      "children": {
+        "2": {
+          "word": "(3)",
+          "children": {
+            "1": {
+              "word": "3)",
+              "children": {}
+            },
+            "2": {
+              "word": "3!",
+              "children": {
+                "1": {
+                  "word": "3:",
+                  "children": {
+                    "1": {
+                      "word": "3;",
+                      "children": {
+                        "1": {
+                          "word": "3~",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "word": "=3=",
+                  "children": {
+                    "2": {
+                      "word": ">3<",
+                      "children": {
+                        "2": {
+                          "word": "^3^",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

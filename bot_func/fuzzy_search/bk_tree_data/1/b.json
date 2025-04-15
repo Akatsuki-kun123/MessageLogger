@@ -1,0 +1,76 @@
+{
+  "word": "(1bit)",
+  "children": {
+    "4": {
+      "word": "1b",
+      "children": {
+        "1": {
+          "word": "1bl",
+          "children": {}
+        },
+        "2": {
+          "word": "1boy",
+          "children": {}
+        },
+        "3": {
+          "word": "1ball",
+          "children": {
+            "3": {
+              "word": "1blgs",
+              "children": {
+                "3": {
+                  "word": "1brad",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "5": {
+      "word": "(1bitheart)",
+      "children": {
+        "8": {
+          "word": "1-bard",
+          "children": {
+            "5": {
+              "word": "1bell1",
+              "children": {
+                "4": {
+                  "word": "1boshi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "word": "1b0mp3",
+          "children": {}
+        },
+        "10": {
+          "word": "1-byou",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "1bitheart",
+      "children": {}
+    },
+    "8": {
+      "word": "1beatheart",
+      "children": {
+        "6": {
+          "word": "1beombeom",
+          "children": {}
+        },
+        "8": {
+          "word": "1birikame3",
+          "children": {}
+        }
+      }
+    }
+  }
+}

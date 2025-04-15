@@ -1,0 +1,35 @@
+{
+  "word": "(9ens2000)",
+  "children": {
+    "7": {
+      "word": "9e)",
+      "children": {
+        "2": {
+          "word": "9en9",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "9e",
+      "children": {
+        "1": {
+          "word": "9ea",
+          "children": {}
+        },
+        "2": {
+          "word": "9eep",
+          "children": {}
+        },
+        "4": {
+          "word": "9eras9",
+          "children": {}
+        },
+        "5": {
+          "word": "9eujang",
+          "children": {}
+        }
+      }
+    }
+  }
+}

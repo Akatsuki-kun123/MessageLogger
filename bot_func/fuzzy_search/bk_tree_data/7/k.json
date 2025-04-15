@@ -1,0 +1,84 @@
+{
+  "word": "(7k-down)",
+  "children": {
+    "4": {
+      "word": "(7kijin)",
+      "children": {}
+    },
+    "5": {
+      "word": "(7kah)",
+      "children": {
+        "2": {
+          "word": "(7kama)",
+          "children": {
+            "2": {
+              "word": "(7kari)",
+              "children": {}
+            },
+            "3": {
+              "word": "(7kanu",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(7kita)",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(7kanoma36)",
+      "children": {
+        "8": {
+          "word": "7kin",
+          "children": {
+            "2": {
+              "word": "7ko",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "7-kaime",
+      "children": {
+        "4": {
+          "word": "7ka",
+          "children": {
+            "1": {
+              "word": "7ki",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "7k",
+          "children": {
+            "2": {
+              "word": "7kus",
+              "children": {}
+            },
+            "3": {
+              "word": "7kusa",
+              "children": {}
+            },
+            "4": {
+              "word": "7kussa",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "7kiseki7",
+          "children": {}
+        }
+      }
+    },
+    "12": {
+      "word": "7kaharu-mianohi",
+      "children": {}
+    }
+  }
+}

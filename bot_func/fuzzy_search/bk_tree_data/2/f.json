@@ -1,0 +1,49 @@
+{
+  "word": "(2f)",
+  "children": {
+    "2": {
+      "word": "2f",
+      "children": {
+        "1": {
+          "word": "2fc",
+          "children": {
+            "1": {
+              "word": "2fu",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "2f1t0",
+      "children": {
+        "3": {
+          "word": "2fort",
+          "children": {
+            "3": {
+              "word": "2fw16",
+              "children": {}
+            }
+          }
+        },
+        "4": {
+          "word": "2fuwa)",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "2found",
+      "children": {}
+    },
+    "6": {
+      "word": "2funma2",
+      "children": {}
+    },
+    "8": {
+      "word": "(2fmelontea)",
+      "children": {}
+    }
+  }
+}

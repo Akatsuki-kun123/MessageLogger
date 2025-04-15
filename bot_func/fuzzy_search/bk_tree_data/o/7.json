@@ -1,0 +1,58 @@
+{
+  "word": "(o7",
+  "children": {
+    "1": {
+      "word": "o7",
+      "children": {}
+    },
+    "2": {
+      "word": "o7)",
+      "children": {
+        "1": {
+          "word": "o72",
+          "children": {
+            "1": {
+              "word": "o77",
+              "children": {}
+            }
+          }
+        },
+        "2": {
+          "word": "o7o7",
+          "children": {}
+        }
+      }
+    },
+    "3": {
+      "word": "o724",
+      "children": {
+        "1": {
+          "word": "o7o4",
+          "children": {}
+        },
+        "2": {
+          "word": "o77o",
+          "children": {
+            "2": {
+              "word": "o7o3",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(o70at)",
+      "children": {}
+    },
+    "5": {
+      "word": "o7dsaw",
+      "children": {
+        "4": {
+          "word": "o7maro",
+          "children": {}
+        }
+      }
+    }
+  }
+}

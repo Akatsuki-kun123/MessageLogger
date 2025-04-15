@@ -1,0 +1,523 @@
+{
+  "word": "(tc)",
+  "children": {
+    "1": {
+      "word": "(tcg)",
+      "children": {
+        "2": {
+          "word": "(tcv",
+          "children": {
+            "2": {
+              "word": "tc)",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "2": {
+      "word": "(tcbn",
+      "children": {
+        "2": {
+          "word": "tcb",
+          "children": {
+            "1": {
+              "word": "tcn",
+              "children": {}
+            }
+          }
+        },
+        "3": {
+          "word": "(tcez)",
+          "children": {
+            "3": {
+              "word": "tcg)",
+              "children": {
+                "1": {
+                  "word": "tcl)",
+                  "children": {}
+                }
+              }
+            },
+            "4": {
+              "word": "tc",
+              "children": {
+                "1": {
+                  "word": "tcg",
+                  "children": {
+                    "1": {
+                      "word": "tch",
+                      "children": {
+                        "1": {
+                          "word": "tcm",
+                          "children": {
+                            "1": {
+                              "word": "tcs",
+                              "children": {
+                                "1": {
+                                  "word": "tct",
+                                  "children": {
+                                    "1": {
+                                      "word": "tcu",
+                                      "children": {
+                                        "1": {
+                                          "word": "tcv",
+                                          "children": {
+                                            "1": {
+                                              "word": "tcw",
+                                              "children": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "word": "(tcwth)",
+      "children": {
+        "4": {
+          "word": "tcat",
+          "children": {
+            "2": {
+              "word": "tcha",
+              "children": {
+                "1": {
+                  "word": "tchi",
+                  "children": {
+                    "1": {
+                      "word": "tchr",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "word": "tc55",
+          "children": {
+            "2": {
+              "word": "tcbn",
+              "children": {
+                "1": {
+                  "word": "tcbs",
+                  "children": {
+                    "2": {
+                      "word": "tcun",
+                      "children": {}
+                    }
+                  }
+                },
+                "2": {
+                  "word": "tccc",
+                  "children": {
+                    "2": {
+                      "word": "tcgf",
+                      "children": {
+                        "1": {
+                          "word": "tcgv",
+                          "children": {}
+                        },
+                        "2": {
+                          "word": "tckd",
+                          "children": {
+                            "2": {
+                              "word": "tcmk",
+                              "children": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "word": "t.c",
+          "children": {
+            "1": {
+              "word": "t.c.",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "word": "(tc0658)",
+      "children": {
+        "4": {
+          "word": "(tc1995)",
+          "children": {
+            "4": {
+              "word": "(tcyakn)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "tc531",
+          "children": {}
+        },
+        "6": {
+          "word": "tc-96",
+          "children": {
+            "3": {
+              "word": "tc829",
+              "children": {
+                "3": {
+                  "word": "tcade",
+                  "children": {
+                    "2": {
+                      "word": "tcatt",
+                      "children": {}
+                    },
+                    "3": {
+                      "word": "tchai",
+                      "children": {
+                        "2": {
+                          "word": "tchuu",
+                          "children": {
+                            "3": {
+                              "word": "tcuas",
+                              "children": {}
+                            }
+                          }
+                        },
+                        "3": {
+                          "word": "tcong",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "word": "t-cms",
+          "children": {}
+        }
+      }
+    },
+    "5": {
+      "word": "(tc000ri)",
+      "children": {
+        "5": {
+          "word": "(tcs1992)",
+          "children": {}
+        },
+        "7": {
+          "word": "tcell0",
+          "children": {
+            "3": {
+              "word": "tcryla",
+              "children": {}
+            },
+            "4": {
+              "word": "tcl-mo",
+              "children": {
+                "4": {
+                  "word": "tconne",
+                  "children": {
+                    "3": {
+                      "word": "tcouch",
+                      "children": {
+                        "4": {
+                          "word": "tctntm",
+                          "children": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "t-chuu",
+          "children": {}
+        }
+      }
+    },
+    "6": {
+      "word": "(tccv5287)",
+      "children": {
+        "3": {
+          "word": "(tcra8287)",
+          "children": {
+            "4": {
+              "word": "(tcsv2827)",
+              "children": {}
+            }
+          }
+        },
+        "5": {
+          "word": "(tcdg2585)",
+          "children": {
+            "5": {
+              "word": "(tcjp4784)",
+              "children": {}
+            },
+            "6": {
+              "word": "(tcypy007)",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "(tcrp0423)",
+          "children": {}
+        },
+        "7": {
+          "word": "tccartt",
+          "children": {
+            "4": {
+              "word": "tccchan",
+              "children": {
+                "4": {
+                  "word": "tcchief",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "tcg3318",
+              "children": {
+                "5": {
+                  "word": "tcovach",
+                  "children": {
+                    "5": {
+                      "word": "tcy1230",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "tcarnos",
+          "children": {
+            "3": {
+              "word": "tcherno",
+              "children": {}
+            },
+            "4": {
+              "word": "tcbunny",
+              "children": {
+                "4": {
+                  "word": "tchinso",
+                  "children": {}
+                },
+                "5": {
+                  "word": "tchaiko",
+                  "children": {}
+                }
+              }
+            },
+            "5": {
+              "word": "tchamba",
+              "children": {
+                "4": {
+                  "word": "tchikin",
+                  "children": {}
+                },
+                "5": {
+                  "word": "tcoffee",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "7": {
+      "word": "t'challa",
+      "children": {
+        "5": {
+          "word": "t-c-haru",
+          "children": {
+            "5": {
+              "word": "tchairss",
+              "children": {}
+            },
+            "6": {
+              "word": "tchan320",
+              "children": {
+                "3": {
+                  "word": "tchanmil",
+                  "children": {}
+                }
+              }
+            },
+            "7": {
+              "word": "tcsalmon",
+              "children": {}
+            }
+          }
+        },
+        "6": {
+          "word": "tchenart",
+          "children": {
+            "5": {
+              "word": "tchv8582",
+              "children": {
+                "6": {
+                  "word": "tctyraln",
+                  "children": {}
+                }
+              }
+            },
+            "6": {
+              "word": "tcuafter",
+              "children": {}
+            }
+          }
+        },
+        "7": {
+          "word": "tcho-tcho",
+          "children": {
+            "7": {
+              "word": "tcjn5344",
+              "children": {
+                "5": {
+                  "word": "tcnp5525",
+                  "children": {}
+                },
+                "6": {
+                  "word": "tcwf8525",
+                  "children": {
+                    "4": {
+                      "word": "tcwg8287",
+                      "children": {}
+                    },
+                    "6": {
+                      "word": "tcylpfzx",
+                      "children": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "word": "tckk7448)",
+          "children": {}
+        }
+      }
+    },
+    "8": {
+      "word": "(tcoreabyss)",
+      "children": {
+        "9": {
+          "word": "tchubarom",
+          "children": {}
+        },
+        "10": {
+          "word": "tcatworld",
+          "children": {
+            "7": {
+              "word": "tccf41335",
+              "children": {
+                "6": {
+                  "word": "tcsui0307",
+                  "children": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "9": {
+      "word": "(tcw10310301)",
+      "children": {
+        "11": {
+          "word": "tcapmiagig",
+          "children": {
+            "7": {
+              "word": "tchernobog",
+              "children": {
+                "8": {
+                  "word": "tcnhayashi",
+                  "children": {}
+                }
+              }
+            }
+          }
+        },
+        "12": {
+          "word": "t.cylinder",
+          "children": {}
+        }
+      }
+    },
+    "10": {
+      "word": "tc123456789",
+      "children": {
+        "9": {
+          "word": "tchaikovsky",
+          "children": {}
+        }
+      }
+    },
+    "11": {
+      "word": "tcdynamite12",
+      "children": {
+        "10": {
+          "word": "tchaikoskaya",
+          "children": {
+            "5": {
+              "word": "tchaikovsmin",
+              "children": {}
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "word": "tchallichammi",
+      "children": {
+        "7": {
+          "word": "tchautchauerin",
+          "children": {}
+        }
+      }
+    },
+    "14": {
+      "word": "tcav97hj2o25991",
+      "children": {
+        "13": {
+          "word": "tcdrawadventure",
+          "children": {}
+        }
+      }
+    }
+  }
+}
